@@ -1,0 +1,3139 @@
+{
+ "id": "L12",
+ "no": 12,
+ "grade": 6,
+ "semester": 2,
+ "title": "We Made a Class Album",
+ "emoji": "📸",
+ "rationale": "일상생활에서 과거에 한 일을 확인하고 누가 한 일인지 묻고 답하는 상황은 자주 일어난다. 과거에 한 일에 관해 묻고 답하는 말과 다른 사람이 과거에 한 일을 묘사하는 표현을 익혀 실생활의 경험을 나타내게 하고, 과거 경험을 영어로 표현해 보며 영어 사용에 흥미와 자신감을 얻게 한다.",
+ "topics": "학교생활 관련(학교 활동, 교우 관계), 사회생활 관련(지역 행사), 일반교양 관련(문학)",
+ "functions": [
+  {
+   "ko": "과거에 한 일 묻고 답하기",
+   "examples": [
+    "Did you paint the wall?",
+    "Yes, I did. / No, I didn't."
+   ]
+  },
+  {
+   "ko": "다른 사람이 과거에 한 일 묘사하기",
+   "examples": [
+    "Hana won the quiz."
+   ]
+  }
+ ],
+ "forms": [
+  "Hana won the car race.",
+  "We studied together and played together."
+ ],
+ "newWords": [
+  {
+   "en": "boy",
+   "ko": "소년, 남자아이"
+  },
+  {
+   "en": "forget",
+   "ko": "잊다"
+  },
+  {
+   "en": "quiz",
+   "ko": "퀴즈, 퀴즈 대회"
+  },
+  {
+   "en": "street",
+   "ko": "거리"
+  },
+  {
+   "en": "wall",
+   "ko": "벽"
+  },
+  {
+   "en": "wish",
+   "ko": "바라다, (행운을) 빌다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "cleaned the street",
+   "ko": "거리를 청소했다",
+   "emoji": "🧹"
+  },
+  {
+   "en": "won the quiz",
+   "ko": "퀴즈 대회에서 우승했다",
+   "emoji": "🏆"
+  },
+  {
+   "en": "painted the wall",
+   "ko": "벽화를 그렸다",
+   "emoji": "🎨"
+  },
+  {
+   "en": "wrote a book",
+   "ko": "책을 썼다",
+   "emoji": "✍️"
+  },
+  {
+   "en": "made a class album",
+   "ko": "학급 사진첩을 만들었다",
+   "emoji": "📒"
+  },
+  {
+   "en": "took pictures",
+   "ko": "사진을 찍었다",
+   "emoji": "📷"
+  }
+ ],
+ "characters": [
+  "우주",
+  "Amy",
+  "Tom",
+  "하나",
+  "Linh",
+  "Mohan",
+  "Taylor",
+  "Jones 선생님",
+  "나리",
+  "Jesse",
+  "셸 실버스타인"
+ ],
+ "goals": {
+  "understand": [
+   "과거에 한 일을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "다른 사람이 과거에 한 일을 묘사하는 말을 듣고 이해할 수 있다.",
+   "과거에 한 일에 관한 글을 읽고 이해할 수 있다.",
+   "과거에 한 일을 묻고 답하며 다른 사람이 과거에 한 일을 묘사하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "과거에 한 일에 관한 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "과거에 한 일을 묻고 답하는 말을 할 수 있다.",
+   "다른 사람이 과거에 한 일을 묘사하는 말을 할 수 있다.",
+   "과거에 한 일을 묻고 답하는 문장, 다른 사람이 과거에 한 일을 묘사하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 과거에 한 일을 나타내는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-06",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "과거에 한 일 묻고 답하기",
+   "objectives": [
+    "과거에 한 일을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 1’을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 163~165쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Motivation / Get Ready",
+     "desc": "올해 있었던 학교 행사 이야기하기, 지난 주말에 한 일 말하기",
+     "min": 3
+    },
+    {
+     "phase": "도입",
+     "step": "Let's Learn / Words / Word Chant",
+     "desc": "단원 학습 목표 확인, 과거에 한 일 어구 붙임딱지 붙이고 찬트 하기",
+     "min": 4
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "학급 사진첩을 만들며 지구의 날 사진(벽화, 거리 청소)과 영화 축제 사진을 고르는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Mark / Practice 1",
+     "desc": "대화를 듣고 과거에 한 일이면 ○, 아니면 ╳ 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "과거에 한 일 골라 이동하기: ‘Did you ...?’라고 묻고 ○·╳ 영역을 골라 이동한 뒤 교사의 대답으로 살아남기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 과거에 한 행동이면 ○, 아니면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Did you paint the wall?",
+    "Yes, I did.",
+    "No, I didn't."
+   ],
+   "tip": "‘Did you + 동사 원래 모양?’으로 묻고, ‘Yes, I did. / No, I didn't.’로 답해요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 과거에 한 일을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cleaned the street",
+       "거리를 청소했다"
+      ],
+      [
+       "won the quiz",
+       "퀴즈 대회에서 우승했다"
+      ],
+      [
+       "painted the wall",
+       "벽화를 그렸다"
+      ],
+      [
+       "wrote a book",
+       "책을 썼다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "made a class album",
+       "학급 사진첩을 만들었다"
+      ],
+      [
+       "took pictures",
+       "사진을 찍었다"
+      ],
+      [
+       "street",
+       "거리"
+      ],
+      [
+       "wall",
+       "벽"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🏆",
+     "choices": [
+      "took pictures",
+      "won the quiz",
+      "wrote a book"
+     ],
+     "answer": 1,
+     "explain": "우승컵(🏆)은 퀴즈 대회에서 우승했다(won the quiz)는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "📷",
+     "choices": [
+      "took pictures",
+      "painted the wall",
+      "cleaned the street"
+     ],
+     "answer": 0,
+     "explain": "카메라(📷)로 사진을 찍었다는 took pictures예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Did you paint the wall?",
+     "choices": [
+      "너는 벽화를 그릴 거니?",
+      "너는 벽을 좋아하니?",
+      "너는 벽화를 그렸니?"
+     ],
+     "answer": 2,
+     "explain": "‘Did you ...?’는 과거에 한 일을 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Yes, I did.",
+     "choices": [
+      "아니, 안 그랬어.",
+      "응, 그럴 거야.",
+      "응, 그랬어."
+     ],
+     "answer": 2,
+     "explain": "‘Yes, I did.’는 ‘응, 그랬어(했어).’라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Did you take pictures?",
+     "choices": [
+      "너는 사진을 찍었니?",
+      "너는 사진을 좋아하니?",
+      "너는 사진을 찍을 거니?"
+     ],
+     "answer": 0,
+     "explain": "take pictures는 ‘사진을 찍다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 우주와 함께 벽화를 그렸어요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Tom, did you paint the wall?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I did. I painted the wall with Uju.",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "그렸으니까 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Linh은 벽화를 그리지 않고 거리를 청소했어요. Linh의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Linh, did you paint the wall, too?"
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. But I cleaned the street.",
+      "Yes, I did. I painted the wall.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "그리지 않았으니 ‘No, I didn't.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ you take pictures?",
+     "ko": "너는 사진을 찍었니?",
+     "choices": [
+      "Did",
+      "Do",
+      "Are"
+     ],
+     "answer": 0,
+     "explain": "과거에 한 일을 물을 때는 Did를 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 학급 사진첩을 만들었니?",
+     "answer": "Did you make a class album?",
+     "distractors": [
+      "made",
+      "Do"
+     ],
+     "explain": "Did you 다음에는 동사 원래 모양(make)을 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you clean the street?",
+     "ko": "너는 거리를 청소했니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did you ___ the quiz?",
+     "ko": "너는 퀴즈 대회에서 우승했니?",
+     "choices": [
+      "won",
+      "wins",
+      "win"
+     ],
+     "answer": 2,
+     "explain": "Did 다음에는 동사 원래 모양 win을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ the wall with Uju.",
+     "ko": "나는 우주와 함께 벽화를 그렸어.",
+     "choices": [
+      "paint",
+      "painted",
+      "painting"
+     ],
+     "answer": 1,
+     "explain": "과거에 한 일은 painted처럼 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나는 거리를 청소했어요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mohan",
+       "text": "Did you clean the street?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I did. I cleaned the street.",
+      "Yes, I am."
+     ],
+     "answer": 1,
+     "explain": "청소했으니 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan은 퀴즈 대회에서 우승하지 못했어요. Mohan의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Did you win the quiz?"
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did.",
+      "No, I'm not.",
+      "No, I didn't."
+     ],
+     "answer": 2,
+     "explain": "하지 않은 일은 ‘No, I didn't.’로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 사진을 찍었어.",
+     "answer": "I took pictures.",
+     "distractors": [
+      "take",
+      "did"
+     ],
+     "explain": "take(찍다)의 과거형은 took이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Did you guys make a short movie?",
+     "answer": "Did you guys make a short movie?",
+     "distractors": [
+      "made",
+      "Do"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, Jacob이 한 일을 고르세요.",
+     "audio": "Jacob, did you win the quiz? Yes, I did.",
+     "choices": [
+      "퀴즈 대회 우승",
+      "책 쓰기",
+      "사진 찍기"
+     ],
+     "answer": 0,
+     "explain": "Jacob은 ‘Yes, I did.’ — 퀴즈 대회에서 우승했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘take’의 과거형은?",
+     "choices": [
+      "took",
+      "taked",
+      "takes"
+     ],
+     "answer": 0,
+     "explain": "take → took (사진을 찍었다: took pictures)"
+    },
+    {
+     "type": "match",
+     "prompt": "동사와 과거형을 짝지어 보세요.",
+     "pairs": [
+      [
+       "win",
+       "won"
+      ],
+      [
+       "write",
+       "wrote"
+      ],
+      [
+       "make",
+       "made"
+      ],
+      [
+       "take",
+       "took"
+      ],
+      [
+       "clean",
+       "cleaned"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Yes, I did. I won the quiz.",
+     "ko": "응, 그랬어. 나는 퀴즈 대회에서 우승했어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Did you write a book? No, I didn't.",
+     "answer": "Did you write a book? No, I didn't.",
+     "distractors": [
+      "wrote",
+      "do"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 학급 사진첩을 만들었어!",
+     "answer": "We made a class album!",
+     "distractors": [
+      "make",
+      "did"
+     ],
+     "explain": "make(만들다)의 과거형은 made예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 책을 썼니?",
+     "answers": [
+      "Did you write a book?"
+     ],
+     "hint": "Did you w____ a book?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 퀴즈 대회에서 우승했어요.",
+     "answers": [
+      "I won the quiz."
+     ],
+     "hint": "I w__ the quiz."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Class Album Day\nTom: Did you paint the wall, Linh?\nLinh: No, I didn't. I cleaned the street.\nTom: Did you make a short movie, Amy?\nAmy: Yes, I did. Hana and I made it.",
+     "question": "Linh이 한 일은?",
+     "choices": [
+      "벽화 그리기",
+      "거리 청소",
+      "영화 만들기"
+     ],
+     "answer": 1,
+     "explain": "Linh은 ‘I cleaned the street.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Class Album Day\nTom: Did you paint the wall, Linh?\nLinh: No, I didn't. I cleaned the street.\nTom: Did you make a short movie, Amy?\nAmy: Yes, I did. Hana and I made it.",
+     "question": "짧은 영화를 만든 사람은?",
+     "choices": [
+      "Amy와 하나",
+      "Tom과 Linh",
+      "Linh과 Amy"
+     ],
+     "answer": 0,
+     "explain": "‘Hana and I made it.’ — Amy와 하나가 만들었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지호는 방을 청소했어요. 지호의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Did you clean your room, Jiho?"
+      },
+      {
+       "who": "지호",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I do. Look!",
+      "Yes, I did. Look!"
+     ],
+     "answer": 2,
+     "explain": "과거에 한 일을 물었으니 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did you ___ a short movie?",
+     "ko": "너희가 짧은 영화를 만들었니?",
+     "choices": [
+      "made",
+      "make",
+      "making"
+     ],
+     "answer": 1,
+     "explain": "Did 다음에는 동사 원래 모양(make)을 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Did you ...?’ 질문에 대한 대답으로 알맞은 짝은?",
+     "choices": [
+      "Yes, I did. / No, I didn't.",
+      "Yes, I do. / No, I don't.",
+      "Yes, I am. / No, I'm not."
+     ],
+     "answer": 0,
+     "explain": "Did로 물으면 did로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you make a short movie? Yes, we did.",
+     "ko": "너희가 짧은 영화를 만들었니? 응, 우리가 만들었어."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "과거에 한 일 묻고 답하기 / 다른 사람이 과거에 한 일 묘사하기",
+   "objectives": [
+    "과거에 한 일을 묻고 답하는 말을 할 수 있다.",
+    "다른 사람이 과거에 한 일을 묘사하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 166~167쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Listen and Mark 그림으로 복습, 교실 뒤 작품을 보며 누가 만들었는지 묻고 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "도서관에서 독서 퀴즈 대회 포스터를 보고, 작년 우승자가 하나였다고 말하는 Mohan의 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "사진·거리 청소에 관한 실생활 동영상 보기, 짝과 과거에 한 일을 묻고 다른 사람이 한 일 묘사하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "과거에 한 일 알아맞히기: 상대 팀원이 한 일을 추측해 ‘S3, did you ...?’라고 묻고 맞히면 점수 얻기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Did you win the quiz last year?",
+    "No, I didn't. Hana won the quiz.",
+    "My brother cleaned the street."
+   ],
+   "tip": "과거형은 대부분 -ed를 붙이지만(cleaned, painted) win → won, write → wrote, make → made, take → took처럼 모양이 바뀌는 말도 있어요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 과거에 한 일을 묻고 답하는 말을 할 수 있는가? 다른 사람이 과거에 한 일을 묘사하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Hana won the quiz.",
+       "하나가 퀴즈 대회에서 우승했어."
+      ],
+      [
+       "He wrote many books.",
+       "그는 많은 책을 썼어."
+      ],
+      [
+       "My brother cleaned the street.",
+       "우리 형이 거리를 청소했어."
+      ],
+      [
+       "Mike painted the wall.",
+       "Mike가 벽화를 그렸어."
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "quiz",
+       "퀴즈"
+      ],
+      [
+       "boy",
+       "소년"
+      ],
+      [
+       "last year",
+       "작년"
+      ],
+      [
+       "Good luck.",
+       "행운을 빌어."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Hana won the quiz.",
+     "choices": [
+      "하나가 퀴즈를 냈어.",
+      "하나가 퀴즈 대회에 갈 거야.",
+      "하나가 퀴즈 대회에서 우승했어."
+     ],
+     "answer": 2,
+     "explain": "won은 win(이기다, 우승하다)의 과거형이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Did he write the book? Yes, he did.",
+     "choices": [
+      "그가 그 책을 읽었다.",
+      "그는 그 책을 쓰지 않았다.",
+      "그가 그 책을 썼다."
+     ],
+     "answer": 2,
+     "explain": "‘Yes, he did.’ — 그가 썼어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan은 작년에 우승하지 못했고, 하나가 우승했어요. Mohan의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Did you win the quiz last year?"
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. Hana won the quiz.",
+      "Yes, I did. I won the quiz.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "‘No, I didn't.’ 뒤에 누가 했는지 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그 작가가 책을 썼어요. Mohan의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Did he write the book?"
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, he didn't.",
+      "Yes, he did. He wrote many great books.",
+      "Yes, I did."
+     ],
+     "answer": 1,
+     "explain": "he에 대해 물었으니 ‘Yes, he did.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jones 선생님이 사진을 찍으셨어요. 선생님의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Taylor",
+       "text": "Did you take these pictures?"
+      },
+      {
+       "who": "Mr. Jones",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did. I'll make a class album.",
+      "No, I didn't.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "직접 찍었으니 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다른 사람이 과거에 한 일을 말하는 문장은?",
+     "choices": [
+      "Jenny won the quiz.",
+      "Did you win the quiz?",
+      "I'm going to win the quiz."
+     ],
+     "answer": 0,
+     "explain": "‘사람 + 과거형 동사’로 다른 사람이 한 일을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Jisu ___ the quiz.",
+     "ko": "지수가 퀴즈 대회에서 우승했어.",
+     "choices": [
+      "win",
+      "wins",
+      "won"
+     ],
+     "answer": 2,
+     "explain": "win의 과거형은 won이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My brother ___ the street.",
+     "ko": "우리 형이 거리를 청소했어.",
+     "choices": [
+      "clean",
+      "cleaned",
+      "cleans"
+     ],
+     "answer": 1,
+     "explain": "clean의 과거형은 cleaned예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Mike가 벽화를 그렸어.",
+     "answer": "Mike painted the wall.",
+     "distractors": [
+      "paint",
+      "did"
+     ],
+     "explain": "paint의 과거형은 painted예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "No, I didn't. My brother cleaned the street.",
+     "ko": "아니, 안 그랬어. 우리 형이 거리를 청소했어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Jesse가 아니라 Jesse의 형이 거리를 청소했어요. Jesse의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Nari",
+       "text": "Hi, Jesse. Did you clean the street?"
+      },
+      {
+       "who": "Jesse",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did.",
+      "No, I didn't. My brother cleaned it.",
+      "No, I don't. I like the street."
+     ],
+     "answer": 1,
+     "explain": "하지 않았으니 ‘No, I didn't.’ 뒤에 한 사람을 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "학급 사진첩은 Julie가 만들었어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Did you make a class album?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did. I made a class album.",
+      "No, I didn't. Julie took pictures.",
+      "No, I didn't. Julie made a class album."
+     ],
+     "answer": 2,
+     "explain": "Julie가 만들었으니 ‘Julie made a class album.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "지나가 독서 퀴즈 대회에서 우승했어.",
+     "answer": "Jina won the book quiz.",
+     "distractors": [
+      "win",
+      "did"
+     ],
+     "explain": "‘우승했다’는 won이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He wrote many great books.",
+     "answer": "He wrote many great books.",
+     "distractors": [
+      "write",
+      "book."
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 사진을 찍은 사람을 고르세요.",
+     "audio": "Did you take pictures? No, I didn't. My brother took pictures.",
+     "choices": [
+      "대답한 사람의 형(남동생)",
+      "질문한 사람",
+      "대답한 사람"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘My brother took pictures.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did he ___ the book?",
+     "ko": "그가 그 책을 썼니?",
+     "choices": [
+      "write",
+      "wrote",
+      "writes"
+     ],
+     "answer": 0,
+     "explain": "Did 다음에는 동사 원래 모양 write를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Good luck, Mohan.’은 어떤 마음으로 하는 말인가요?",
+     "choices": [
+      "사과하는 마음",
+      "행운을 빌어 주는 마음",
+      "길을 묻는 마음"
+     ],
+     "answer": 1,
+     "explain": "Good luck은 ‘행운을 빌어’라는 뜻이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Mina가 사진을 찍었어요.",
+     "answers": [
+      "Mina took pictures."
+     ],
+     "hint": "Mina t___ pictures."
+    },
+    {
+     "type": "match",
+     "prompt": "질문과 알맞은 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Did you paint the wall?",
+       "No, I didn't. Mike painted the wall."
+      ],
+      [
+       "Did you write a book?",
+       "Yes, I did. I wrote a book."
+      ],
+      [
+       "Did he write Matilda?",
+       "Yes, he did."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you win the quiz last year? No, I didn't.",
+     "ko": "너는 작년에 퀴즈 대회에서 우승했니? 아니, 안 그랬어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "dialog",
+     "prompt": "이 로봇은 민우가 아니라 Sora가 만들었어요. 민우의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Did you make this robot, Minu?"
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. Sora made it.",
+      "Yes, I did. Sora made it.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "‘No, I didn't.’ 뒤에 만든 사람을 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B가 이 이야기를 직접 썼어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you write this story?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I do. I write it.",
+      "Yes, I did. I wrote it for our class."
+     ],
+     "answer": 2,
+     "explain": "write의 과거형은 wrote예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Kate가 퀴즈 대회에서 우승했어.",
+     "answer": "Kate won the quiz.",
+     "distractors": [
+      "win",
+      "wins"
+     ],
+     "explain": "won = 우승했다"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀가 벽화를 그렸어요.",
+     "answers": [
+      "She painted the wall."
+     ],
+     "hint": "She p______ the wall."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리 언니가 학급 사진첩을 만들었어요.",
+     "answers": [
+      "My sister made a class album."
+     ],
+     "hint": "My sister m___ a class album."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "School Festival\nJun: Did you win the quiz, Ella?\nElla: No, I didn't. Ben won the quiz.\nJun: Wow! Did Ben paint the wall, too?\nElla: No. Mia and I painted the wall.",
+     "question": "벽화를 그린 사람은?",
+     "choices": [
+      "Ben",
+      "Mia와 Ella",
+      "Jun"
+     ],
+     "answer": 1,
+     "explain": "Ella가 ‘Mia and I painted the wall.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "School Festival\nJun: Did you win the quiz, Ella?\nElla: No, I didn't. Ben won the quiz.\nJun: Wow! Did Ben paint the wall, too?\nElla: No. Mia and I painted the wall.",
+     "question": "퀴즈 대회 우승자는?",
+     "choices": [
+      "Ben",
+      "Ella",
+      "Mia"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Ben won the quiz.’라고 나와 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Andersen wrote this book.",
+     "answer": "Andersen wrote this book.",
+     "distractors": [
+      "write",
+      "these"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did she write many books? — Yes, ___ did.",
+     "ko": "그녀가 많은 책을 썼니? — 응, 그랬어.",
+     "choices": [
+      "he",
+      "they",
+      "she"
+     ],
+     "answer": 2,
+     "explain": "she에 대해 물었으니 she로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hana won the quiz last year. You can win the quiz this year!",
+     "ko": "하나가 작년에 퀴즈 대회에서 우승했어. 너는 올해 우승할 수 있어!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "과거에 한 일을 묻고 답하는 문장, 다른 사람이 과거에 한 일을 묘사하는 문장 읽고 쓰기",
+   "objectives": [
+    "과거에 한 일을 묻고 답하는 문장, 다른 사람이 과거에 한 일을 묘사하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "‘Play 3’를 하며 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 168~169쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Fun Talk 2의 Mohan이 되어 답하기, 벽화 그리는 아이 사진으로 ‘She painted the wall.’ 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "말풍선 문장 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림 보고 알맞은 말 골라 대화 완성하기, 어구와 문장 읽고 쓰기(190쪽)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "원판 놀이: 종이 집게가 멈춘 그림의 ○·╳에 맞게 과거에 한 일을 묻고 답하며 칸 색칠하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 읽고 한 일 고르기, 알맞은 과거형 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Did you clean the street?",
+    "Yes, I did.",
+    "No, I didn't. He painted the wall."
+   ],
+   "tip": "다른 사람이 한 일을 말할 때 남자는 He, 여자는 She로 시작해요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 과거에 한 일을 묻고 답하는 문장과 묘사하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "빈칸에 알맞은 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "___ the street",
+       "cleaned"
+      ],
+      [
+       "___ the quiz",
+       "won"
+      ],
+      [
+       "___ a book",
+       "wrote"
+      ],
+      [
+       "___ pictures",
+       "took"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "painted",
+       "그렸다"
+      ],
+      [
+       "made",
+       "만들었다"
+      ],
+      [
+       "wrote",
+       "썼다"
+      ],
+      [
+       "took",
+       "찍었다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장을 고르세요.",
+     "emoji": "🎨",
+     "choices": [
+      "He wrote a book.",
+      "He made a class album.",
+      "He painted the wall."
+     ],
+     "answer": 2,
+     "explain": "🎨 벽에 그림을 그렸으니 painted the wall이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장을 고르세요.",
+     "emoji": "📒",
+     "choices": [
+      "She made a class album.",
+      "She took pictures.",
+      "She won the quiz."
+     ],
+     "answer": 0,
+     "explain": "📒 사진첩을 만들었으니 made a class album이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did you clean the street? — Yes, I ___.",
+     "ko": "거리를 청소했니? — 응, 그랬어.",
+     "choices": [
+      "do",
+      "did",
+      "didn't"
+     ],
+     "answer": 1,
+     "explain": "Did로 물으면 did로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He ___ a book.",
+     "ko": "그는 책을 썼어.",
+     "choices": [
+      "wrote",
+      "write",
+      "writes"
+     ],
+     "answer": 0,
+     "explain": "write의 과거형은 wrote예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He cleaned the street.",
+     "choices": [
+      "그는 거리를 청소했어.",
+      "그는 거리를 청소할 거야.",
+      "그녀는 거리를 청소했어."
+     ],
+     "answer": 0,
+     "explain": "He는 ‘그’, cleaned는 ‘청소했다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 이 사진들을 찍었어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Did you take these pictures?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I do.",
+      "Yes, I did."
+     ],
+     "answer": 2,
+     "explain": "찍었으니 ‘Yes, I did.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "벽화는 다른 남자아이가 그렸어요. 빈칸에 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Did you paint the wall?"
+      },
+      {
+       "who": "B",
+       "text": "No, I didn't."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I painted the wall.",
+      "He painted the wall.",
+      "He took pictures."
+     ],
+     "answer": 1,
+     "explain": "다른 사람이 한 일은 ‘He + 과거형’으로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀가 책을 썼어.",
+     "answer": "She wrote a book.",
+     "distractors": [
+      "write",
+      "He"
+     ],
+     "explain": "She(그녀) + wrote(썼다)"
+    },
+    {
+     "type": "mc",
+     "prompt": "‘didn't’는 무엇을 줄인 말인가요?",
+     "choices": [
+      "do not",
+      "did not",
+      "does not"
+     ],
+     "answer": 1,
+     "explain": "글에 didn't = did not라고 나와 있어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you clean the street? Yes, I did.",
+     "ko": "너는 거리를 청소했니? 응, 그랬어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "벽화를 그렸다",
+     "answers": [
+      "painted the wall"
+     ],
+     "hint": "p______ the wall"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "사진을 찍었다",
+     "answers": [
+      "took pictures"
+     ],
+     "hint": "t___ pictures"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 이 사진들을 찍었니?",
+     "answer": "Did you take these pictures?",
+     "distractors": [
+      "took",
+      "this"
+     ],
+     "explain": "these pictures = 이 사진들"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 안 그랬어. 미나가 사진을 찍었어.",
+     "answer": "No, I didn't. Mina took pictures.",
+     "distractors": [
+      "take",
+      "did."
+     ],
+     "explain": "다른 사람이 한 일을 덧붙여 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did you ___ the quiz? — Yes, I did. I won the quiz.",
+     "ko": "퀴즈 대회에서 우승했니? — 응. 내가 우승했어.",
+     "choices": [
+      "won",
+      "wins",
+      "win"
+     ],
+     "answer": 2,
+     "explain": "Did 다음에는 win을 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "종이 집게가 ‘우승컵 그림 ○’에 멈췄어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you win the quiz?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did. I won the quiz.",
+      "No, I didn't.",
+      "Yes, I did. I took pictures."
+     ],
+     "answer": 0,
+     "explain": "○이니까 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 사진첩을 만든 사람을 고르세요.",
+     "audio": "Did you make a class album? No, I didn't. She made a class album.",
+     "choices": [
+      "그녀",
+      "질문한 사람",
+      "대답한 사람"
+     ],
+     "answer": 0,
+     "explain": "‘She made a class album.’ — 그녀가 만들었어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "대문자와 문장 부호를 바르게 쓴 문장은?",
+     "choices": [
+      "did you paint the wall?",
+      "Did you paint the wall?",
+      "Did you paint the wall."
+     ],
+     "answer": 1,
+     "explain": "첫 글자는 대문자, 질문 끝에는 물음표를 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam's Notebook\nMon: cleaned the street\nWed: won the quiz\nFri: took pictures",
+     "question": "Sam이 수요일에 한 일은?",
+     "choices": [
+      "퀴즈 대회 우승",
+      "거리 청소",
+      "사진 찍기"
+     ],
+     "answer": 0,
+     "explain": "Wed(수요일): won the quiz"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "No, I didn't. He took pictures.",
+     "ko": "아니, 안 그랬어. 그가 사진을 찍었어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀는 퀴즈 대회에서 우승했어요.",
+     "answers": [
+      "She won the quiz."
+     ],
+     "hint": "She w__ the quiz."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 학급 사진첩을 만들었니?",
+     "answers": [
+      "Did you make a class album?"
+     ],
+     "hint": "Did you m___ a class album?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 그랬어. 나는 책을 썼어.",
+     "answer": "Yes, I did. I wrote a book.",
+     "distractors": [
+      "write",
+      "do."
+     ],
+     "explain": "Yes, I did. 뒤에 한 일을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Did you clean the room? No, I didn't. Sam cleaned the room.",
+     "answer": "Did you clean the room? No, I didn't. Sam cleaned the room.",
+     "distractors": [
+      "clean.",
+      "do"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Who Did It?\nThe wall is beautiful. Did Jun paint it? No, he didn't. Ara painted the wall. Jun took pictures of it.",
+     "question": "Jun이 한 일은?",
+     "choices": [
+      "벽화 그리기",
+      "거리 청소",
+      "사진 찍기"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘Jun took pictures of it.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Who Did It?\nThe wall is beautiful. Did Jun paint it? No, he didn't. Ara painted the wall. Jun took pictures of it.",
+     "question": "벽화를 그린 사람은?",
+     "choices": [
+      "Jun",
+      "Ara",
+      "Ara와 Jun"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘Ara painted the wall.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "종이 집게가 ╳에 멈췄고, 그림 속 여자아이가 사진첩을 만들었어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you make a class album?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. She made a class album.",
+      "Yes, I did.",
+      "No, I didn't. He made a class album."
+     ],
+     "answer": 0,
+     "explain": "╳이니까 ‘No, I didn't.’ 뒤에 그림 속 사람(She)이 한 일을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Mike ___ pictures.",
+     "ko": "Mike가 사진을 찍었어.",
+     "choices": [
+      "take",
+      "takes",
+      "took"
+     ],
+     "answer": 2,
+     "explain": "take의 과거형은 took이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스러운 것은?",
+     "choices": [
+      "A: Did you write a book? — B: Yes, I do.",
+      "A: Did you win the quiz? — B: No, I'm not.",
+      "A: Did you paint the wall? — B: Yes, I did."
+     ],
+     "answer": 2,
+     "explain": "Did로 물으면 did로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you paint the wall? No, I didn't. He painted the wall.",
+     "ko": "너는 벽화를 그렸니? 아니, 안 그랬어. 그가 벽화를 그렸어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "읽기",
+   "icon": "book",
+   "studyPoint": "과거에 한 일에 관한 글 읽고 이해하기",
+   "objectives": [
+    "과거에 한 일에 관한 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 170~171쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Play 3 그림으로 묻고 답하기, 최근 학급 행사에서 있었던 일 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "지난 단원에서 가장 인상 깊었던 장면 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "등장인물들이 올해 한 일(자동차 경주 우승, 새집 만들기, 공원 청소, 사진 찍기)과 감사 인사를 담은 글 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 알맞은 단어 골라 문장 완성하기, 글 읽고 문장 완성하기(190쪽)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "글을 읽고 물음에 답하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Hana won the car race.",
+    "We studied together and played together.",
+    "We can't forget the beautiful times."
+   ],
+   "tip": "글을 읽으며 ‘누가 – 무엇을 했는지’ 짝지어 보면 내용을 쉽게 이해할 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 과거에 한 일에 관한 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "forget",
+       "잊다"
+      ],
+      [
+       "wish",
+       "바라다, 빌다"
+      ],
+      [
+       "together",
+       "함께"
+      ],
+      [
+       "beautiful",
+       "아름다운"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘We can't forget the beautiful times.’의 뜻은?",
+     "choices": [
+      "우리는 아름다운 시간을 잊을 수 없어요.",
+      "우리는 아름다운 시간을 잊었어요.",
+      "우리는 아름다운 시간을 기억하지 못해요."
+     ],
+     "answer": 0,
+     "explain": "can't forget = 잊을 수 없다"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We studied together and played together.",
+     "choices": [
+      "우리는 함께 공부할 거예요.",
+      "우리는 함께 공부하고 함께 놀았어요.",
+      "우리는 따로 공부하고 놀았어요."
+     ],
+     "answer": 1,
+     "explain": "studied(공부했다), played(놀았다), together(함께)"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Special Year\nJisu won the singing contest. Ben made this nice robot. Ara and Leo cleaned the beach on Earth Day. Our teacher took many fun pictures. We studied together and played together. We can't forget this year. Thank you, everyone!",
+     "question": "Ben이 만든 것은?",
+     "choices": [
+      "로봇",
+      "새집",
+      "사진첩"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Ben made this nice robot.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Special Year\nJisu won the singing contest. Ben made this nice robot. Ara and Leo cleaned the beach on Earth Day. Our teacher took many fun pictures. We studied together and played together. We can't forget this year. Thank you, everyone!",
+     "question": "지구의 날에 해변을 청소한 사람은?",
+     "choices": [
+      "Ara와 Leo",
+      "Jisu와 Ben",
+      "선생님"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Ara and Leo cleaned the beach on Earth Day.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Special Year\nJisu won the singing contest. Ben made this nice robot. Ara and Leo cleaned the beach on Earth Day. Our teacher took many fun pictures. We studied together and played together. We can't forget this year. Thank you, everyone!",
+     "question": "선생님이 한 일은?",
+     "choices": [
+      "로봇을 만들었다.",
+      "대회에서 우승했다.",
+      "재미있는 사진을 많이 찍었다."
+     ],
+     "answer": 2,
+     "explain": "글에 ‘Our teacher took many fun pictures.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello, friends! This year, I wrote a short story. My friend Mina painted pictures for my story. We made a little book together. I can't forget that time.",
+     "question": "Mina가 한 일은?",
+     "choices": [
+      "짧은 이야기를 썼다.",
+      "이야기에 들어갈 그림을 그렸다.",
+      "사진을 찍었다."
+     ],
+     "answer": 1,
+     "explain": "글에 ‘My friend Mina painted pictures for my story.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We ___ together and played together.",
+     "ko": "우리는 함께 공부하고 함께 놀았어요.",
+     "choices": [
+      "study",
+      "studied",
+      "studies"
+     ],
+     "answer": 1,
+     "explain": "study의 과거형은 studied예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben이 그 로봇을 동생을 위해 만들었어요. Ben의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you make this nice robot, Ben?"
+      },
+      {
+       "who": "Ben",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I do.",
+      "Yes, I did. I made it for my brother."
+     ],
+     "answer": 2,
+     "explain": "만들었으니 ‘Yes, I did.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘We wish good luck to you all.’은 어떤 마음을 전하는 말인가요?",
+     "choices": [
+      "모두에게 행운을 빌어 주는 마음",
+      "미안한 마음",
+      "화난 마음"
+     ],
+     "answer": 0,
+     "explain": "wish good luck = 행운을 빌다"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Thank you, ___.",
+     "ko": "고마워요, 선생님들.",
+     "choices": [
+      "teachers",
+      "teacher's",
+      "teach"
+     ],
+     "answer": 0,
+     "explain": "여러 선생님은 teachers예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We can't forget the beautiful times.",
+     "ko": "우리는 아름다운 시간을 잊을 수 없어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Ms. Han,\nThank you for this year. You took pictures of us every month. We made a class album with them. We can't forget the beautiful times. We wish good luck to you!\nFrom Class 6-2",
+     "question": "Ms. Han이 매달 한 일은?",
+     "choices": [
+      "학급 사진첩 만들기",
+      "학생들의 사진 찍기",
+      "편지 쓰기"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘You took pictures of us every month.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Ms. Han,\nThank you for this year. You took pictures of us every month. We made a class album with them. We can't forget the beautiful times. We wish good luck to you!\nFrom Class 6-2",
+     "question": "학생들이 사진으로 만든 것은?",
+     "choices": [
+      "학급 사진첩",
+      "학급 신문",
+      "그림책"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘We made a class album with them.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at this picture. Mohan and Tom took it at the school festival. Hana won the car race there. We were very happy.",
+     "question": "자동차 경주에서 우승한 사람은?",
+     "choices": [
+      "Mohan",
+      "Tom",
+      "하나"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘Hana won the car race there.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주는 지구 축제에서 공원을 청소했어요. 우주의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Uju, did you clean the park at the Earth Festival?"
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I did. I cleaned the park.",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "청소했으니 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 함께 놀았어.",
+     "answer": "We played together.",
+     "distractors": [
+      "play",
+      "to"
+     ],
+     "explain": "play의 과거형은 played예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Amy made this nice birdhouse.",
+     "answer": "Amy made this nice birdhouse.",
+     "distractors": [
+      "make",
+      "these"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She ___ a nice birdhouse.",
+     "ko": "그녀는 멋진 새집을 만들었어.",
+     "choices": [
+      "made",
+      "make",
+      "makes"
+     ],
+     "answer": 0,
+     "explain": "make의 과거형은 made예요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장이 되도록 짝지어 보세요.",
+     "pairs": [
+      [
+       "Hana won",
+       "the car race."
+      ],
+      [
+       "Amy made",
+       "a nice birdhouse."
+      ],
+      [
+       "Mohan and Tom took",
+       "great pictures."
+      ],
+      [
+       "Uju cleaned",
+       "the park."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 과거에 한 일을 나타내는 문장이 아닌 것은?",
+     "choices": [
+      "We played together.",
+      "She made a birdhouse.",
+      "We play together every day."
+     ],
+     "answer": 2,
+     "explain": "play는 지금 하는 일, played가 과거에 한 일이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Thank you, friends. Thank you, teachers.",
+     "ko": "고마워, 친구들아. 고마워요, 선생님들."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Best Memories\nIn April, we went to the science festival. Jun won the robot race there. In June, we painted a wall at our school. It looks great! In December, Yuna and I wrote a class newspaper. We can't forget this year!",
+     "question": "6월에 한 일은?",
+     "choices": [
+      "로봇 경주",
+      "학급 신문 쓰기",
+      "학교 벽화 그리기"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘In June, we painted a wall at our school.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Best Memories\nIn April, we went to the science festival. Jun won the robot race there. In June, we painted a wall at our school. It looks great! In December, Yuna and I wrote a class newspaper. We can't forget this year!",
+     "question": "로봇 경주에서 우승한 사람은?",
+     "choices": [
+      "Jun",
+      "Yuna",
+      "글쓴이"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Jun won the robot race there.’라고 나와 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 함께 공부했어요.",
+     "answers": [
+      "We studied together."
+     ],
+     "hint": "We s______ together."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Amy가 새집을 만들었어요.",
+     "answers": [
+      "Amy made a birdhouse.",
+      "Amy made a nice birdhouse."
+     ],
+     "hint": "Amy m___ a birdhouse."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 모두에게 행운을 빌어요.",
+     "answer": "We wish good luck to you all.",
+     "distractors": [
+      "wishes",
+      "for"
+     ],
+     "explain": "wish good luck to ~ = ~에게 행운을 빌다"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Mohan and Tom took these great pictures.",
+     "answer": "Mohan and Tom took these great pictures.",
+     "distractors": [
+      "take",
+      "this"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "새집은 하나가 아니라 Amy가 만들었어요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Hana, did you make a nice birdhouse?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did. Amy made it.",
+      "No, I didn't. Amy made it.",
+      "No, I don't."
+     ],
+     "answer": 1,
+     "explain": "‘No, I didn't.’ 뒤에 만든 사람을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Uju ___ the park at the Earth Festival.",
+     "ko": "우주는 지구 축제에서 공원을 청소했어요.",
+     "choices": [
+      "cleaned",
+      "clean",
+      "cleans"
+     ],
+     "answer": 0,
+     "explain": "clean의 과거형은 cleaned예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 글의 제목으로 알맞은 것은?\n‘Hana won the car race. Amy made a birdhouse. We studied together and played together.’",
+     "choices": [
+      "Our Beautiful Year",
+      "My Weekend Plans",
+      "Healthy Habits"
+     ],
+     "answer": 0,
+     "explain": "올해 함께 한 일을 돌아보는 글이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We studied together and played together. Thank you, friends!",
+     "ko": "우리는 함께 공부하고 함께 놀았어. 고마워, 친구들아!"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "쓰기",
+   "icon": "pencil",
+   "studyPoint": "과거에 한 일을 나타내는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 과거에 한 일을 나타내는 글을 쓸 수 있다.",
+    "과거에 한 일을 나타내는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 172~173쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Let's Read 글 읽기, 함께 노는·공부하는 사진 보고 ‘We played〔studied〕 together.’ 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림 보고 과거에 한 일 어구 완성하기, 알맞은 단어와 어구로 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "올해 우리 반에서 있었던 일로 생각 그물(내가 한 일, 친구가 한 일, 함께 한 일)을 만들고 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 모둠 친구들과 돌아가며 바꿔 읽기",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림을 보고 글 완성하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "We did great things this year.",
+    "I won the quiz.",
+    "We cleaned the park together."
+   ],
+   "tip": "‘내가 한 일(I ...) → 친구가 한 일(이름 ...) → 함께 한 일(We ... together)’ 순서로 써 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 과거에 한 일을 나타내는 글을 쓸 수 있는가? 글을 모둠원과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어울리는 말끼리 짝지어 보세요.",
+     "pairs": [
+      [
+       "painted",
+       "the wall"
+      ],
+      [
+       "took",
+       "pictures"
+      ],
+      [
+       "won",
+       "the quiz"
+      ],
+      [
+       "wrote",
+       "a book"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장을 고르세요.",
+     "emoji": "🧹",
+     "choices": [
+      "We took pictures together.",
+      "We wrote a book together.",
+      "We cleaned the street together."
+     ],
+     "answer": 2,
+     "explain": "🧹 함께 거리를 청소했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We cleaned the street ___.",
+     "ko": "우리는 함께 거리를 청소했어요.",
+     "choices": [
+      "too",
+      "together",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "‘함께’는 together예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ a class album.",
+     "ko": "나는 학급 사진첩을 만들었어요.",
+     "choices": [
+      "make",
+      "made",
+      "making"
+     ],
+     "answer": 1,
+     "explain": "make의 과거형은 made예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We did great things this year.",
+     "choices": [
+      "우리는 올해 멋진 일들을 할 거예요.",
+      "우리는 작년에 멋진 일들을 했어요.",
+      "우리는 올해 멋진 일들을 했어요."
+     ],
+     "answer": 2,
+     "explain": "did는 do(하다)의 과거형이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We did great things this year.\n1. I won the quiz.\n2. Hajun painted the wall.\n3. We cleaned the park together.",
+     "question": "하준이가 한 일은?",
+     "choices": [
+      "벽화 그리기",
+      "퀴즈 대회 우승",
+      "공원 청소"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Hajun painted the wall.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We did great things this year.\n1. I won the quiz.\n2. Hajun painted the wall.\n3. We cleaned the park together.",
+     "question": "우리가 함께 한 일은?",
+     "choices": [
+      "공원 청소",
+      "벽화 그리기",
+      "퀴즈 대회 우승"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘We cleaned the park together.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나는 독서 퀴즈 대회에서 우승했어요. 나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Friend",
+       "text": "What did you do this year?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to win the book quiz.",
+      "I won the book quiz.",
+      "I have no idea."
+     ],
+     "answer": 1,
+     "explain": "과거에 한 일은 과거형(won)으로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 거리를 청소했어요.",
+     "answer": "I cleaned the street.",
+     "distractors": [
+      "clean",
+      "did"
+     ],
+     "explain": "clean의 과거형은 cleaned예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘내가 한 일 – 친구가 한 일 – 함께 한 일’ 중 ‘함께 한 일’을 쓴 문장은?",
+     "choices": [
+      "We made a class album together.",
+      "I won the quiz.",
+      "Taewoo painted the wall."
+     ],
+     "answer": 0,
+     "explain": "We ... together가 함께 한 일이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "생각 그물의 칸과 알맞은 문장을 짝지어 보세요.",
+     "pairs": [
+      [
+       "내가 한 일",
+       "I won the car race."
+      ],
+      [
+       "친구가 한 일",
+       "Taewoo made a class album."
+      ],
+      [
+       "함께 한 일",
+       "We played together."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I won the car race.",
+     "ko": "나는 자동차 경주에서 우승했어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책을 썼다",
+     "answers": [
+      "wrote a book"
+     ],
+     "hint": "w____ a book"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "학급 사진첩을 만들었다",
+     "answers": [
+      "made a class album"
+     ],
+     "hint": "m___ a class album"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "태우는 학급 사진첩을 만들었어요.",
+     "answer": "Taewoo made a class album.",
+     "distractors": [
+      "make",
+      "took"
+     ],
+     "explain": "made a class album = 학급 사진첩을 만들었다"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "수지가 사진을 찍었어요.",
+     "answer": "Suji took pictures.",
+     "distractors": [
+      "take",
+      "made"
+     ],
+     "explain": "took pictures = 사진을 찍었다"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Jisu ___ the book quiz.",
+     "ko": "지수는 독서 퀴즈 대회에서 우승했어요.",
+     "choices": [
+      "win",
+      "wins",
+      "won"
+     ],
+     "answer": 2,
+     "explain": "win의 과거형은 won이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Taeho cleaned the street. Jisu won the book quiz. Mark and David made a class album.",
+     "question": "학급 사진첩을 만든 사람은?",
+     "choices": [
+      "태호",
+      "Mark와 David",
+      "지수"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘Mark and David made a class album.’라고 나와 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I painted the wall with my friends.",
+     "answer": "I painted the wall with my friends.",
+     "distractors": [
+      "paint",
+      "friend."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 벽화를 그리지 않았고 하준이가 그렸어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you paint the wall this year?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. Hajun painted the wall.",
+      "Yes, I did. Hajun painted the wall.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "‘No, I didn't.’ 뒤에 그린 사람을 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "올해 우리 반에서 있었던 일을 쓴 글에 어울리지 않는 문장은?",
+     "choices": [
+      "I won the quiz.",
+      "We cleaned the park together.",
+      "I'm going to visit Busan."
+     ],
+     "answer": 2,
+     "explain": "올해 한 일은 과거형으로 써요. ‘I'm going to ...’는 앞으로의 계획이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We studied together and played together.",
+     "ko": "우리는 함께 공부하고 함께 놀았어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 함께 공원을 청소했어요.",
+     "answers": [
+      "We cleaned the park together."
+     ],
+     "hint": "We c______ the park together."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 퀴즈 대회에서 우승했어요.",
+     "answers": [
+      "I won the quiz."
+     ],
+     "hint": "I w__ the quiz."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "하준이는 벽화를 그렸어요.",
+     "answer": "Hajun painted the wall.",
+     "distractors": [
+      "paint",
+      "took"
+     ],
+     "explain": "painted the wall = 벽화를 그렸다"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We can't forget the beautiful times.",
+     "answer": "We can't forget the beautiful times.",
+     "distractors": [
+      "forgot",
+      "time."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We did great things this year.\n1. I wrote a short book.\n2. Dami took pictures for our class album.\n3. We painted the wall together.",
+     "question": "다미가 한 일은?",
+     "choices": [
+      "짧은 책 쓰기",
+      "혼자 벽화 그리기",
+      "학급 사진첩에 들어갈 사진 찍기"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘Dami took pictures for our class album.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We did great things this year.\n1. I wrote a short book.\n2. Dami took pictures for our class album.\n3. We painted the wall together.",
+     "question": "이 글에서 ‘함께 한 일’로 알맞은 것은?",
+     "choices": [
+      "모두 함께 벽화를 그린 일",
+      "글쓴이가 짧은 책을 쓴 일",
+      "다미가 사진을 찍은 일"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘We painted the wall together.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나는 올해 짧은 책을 썼어요. 나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Friend",
+       "text": "Did you write a book this year?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I did. I wrote a short book.",
+      "Yes, I do. I write books."
+     ],
+     "answer": 1,
+     "explain": "썼으니 ‘Yes, I did.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We ___ together.",
+     "ko": "우리는 함께 공부했어요.",
+     "choices": [
+      "studied",
+      "study",
+      "studying"
+     ],
+     "answer": 0,
+     "explain": "study의 과거형은 studied예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 과거형이 바르지 않은 것은?",
+     "choices": [
+      "win – winned",
+      "take – took",
+      "write – wrote"
+     ],
+     "answer": 0,
+     "explain": "win의 과거형은 won이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We did great things this year. We can't forget them!",
+     "ko": "우리는 올해 멋진 일들을 했어요. 우리는 그것들을 잊을 수 없어요!"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 174~175쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "Ready to Write 문장 읽고 공중에 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "‘We Wish Good Luck to You All’ 노래 부르기: 노래를 들으며 빈칸에 알맞은 과거형 쓰기, 함께 부른 뒤 후렴구 노랫말 바꿔 부르기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 알맞은 그림 고르기, 과거에 한 일 묻고 답하거나 묘사하기, 글 읽고 물음에 답하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 돌아보기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Did you win the car race?",
+    "No, I didn't. I painted the wall at the Earth Festival.",
+    "We wish good luck to you all."
+   ],
+   "tip": "한 해를 돌아보며 친구들에게 ‘Thank you, friends. Good luck!’이라고 인사해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 결과물을 친구들과 공유하는가?",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, Amy가 한 일에 알맞은 그림을 고르세요.",
+     "audio": "Amy, did you take pictures? Yes, I did.",
+     "choices": [
+      "🏆",
+      "🎨",
+      "📷"
+     ],
+     "answer": 2,
+     "explain": "Amy는 사진을 찍었어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 학급 사진첩을 만든 사람을 고르세요.",
+     "audio": "Mohan, did you make a class album? No, I didn't. Hana made a class album.",
+     "choices": [
+      "Mohan",
+      "하나",
+      "Mohan과 하나"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘Hana made a class album.’라고 나와 있어요."
+    },
+    {
+     "type": "match",
+     "prompt": "지금 하는 말과 과거에 한 일을 짝지어 보세요.",
+     "pairs": [
+      [
+       "clean the street",
+       "cleaned the street"
+      ],
+      [
+       "win the quiz",
+       "won the quiz"
+      ],
+      [
+       "paint the wall",
+       "painted the wall"
+      ],
+      [
+       "write a book",
+       "wrote a book"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 자동차 경주에서 우승했어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you win the car race?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't.",
+      "Yes, I did. I won the car race.",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "우승했으니 ‘Yes, I did.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 공원을 청소하지 않고 벽화를 그렸어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you clean the park at the Earth Festival?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I did. I cleaned the park.",
+      "No, I don't.",
+      "No, I didn't. I painted the wall."
+     ],
+     "answer": 2,
+     "explain": "‘No, I didn't.’ 뒤에 실제로 한 일을 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This year, Mina won the book quiz. Jun made a nice birdhouse. They are my best friends!",
+     "question": "새집을 만든 사람은?",
+     "choices": [
+      "Jun",
+      "Mina",
+      "글쓴이"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Jun made a nice birdhouse.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This year, Mina won the book quiz. Jun made a nice birdhouse. They are my best friends!",
+     "question": "Mina가 한 일은?",
+     "choices": [
+      "독서 퀴즈 대회 우승",
+      "새집 만들기",
+      "사진 찍기"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Mina won the book quiz.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Did you ___ my birthday cake?",
+     "ko": "네가 내 생일 케이크를 만들었니?",
+     "choices": [
+      "made",
+      "make",
+      "making"
+     ],
+     "answer": 1,
+     "explain": "Did 다음에는 make를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Hana and Amy made your birthday cake!’의 뜻은?",
+     "choices": [
+      "하나와 Amy가 네 생일 케이크를 만들었어!",
+      "하나와 Amy가 네 생일 케이크를 먹었어!",
+      "하나와 Amy가 네 생일 케이크를 만들 거야!"
+     ],
+     "answer": 0,
+     "explain": "made는 make(만들다)의 과거형이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 그랬어. 그 축제는 아주 재미있었어.",
+     "answer": "Yes, I did. The festival was very fun.",
+     "distractors": [
+      "is",
+      "do."
+     ],
+     "explain": "was는 is의 과거형이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Did you ...?’에 대한 대답이 아닌 것은?",
+     "choices": [
+      "Yes, I did.",
+      "No, I didn't.",
+      "Yes, I do."
+     ],
+     "answer": 2,
+     "explain": "Did로 물으면 did로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you make a class album? Yes, I did.",
+     "ko": "너는 학급 사진첩을 만들었니? 응, 그랬어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대답한 사람이 한 일에 알맞은 그림을 고르세요.",
+     "audio": "Did you clean the street? Yes, I did.",
+     "choices": [
+      "📷",
+      "🧹",
+      "🏆"
+     ],
+     "answer": 1,
+     "explain": "거리를 청소했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "퀴즈 대회에서는 Kate가 우승했어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Did you win the quiz?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. Kate won the quiz.",
+      "Yes, I did. I won the quiz.",
+      "No, I didn't. Kate took pictures."
+     ],
+     "answer": 0,
+     "explain": "Kate가 우승했다고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 예술 축제에 갔니?",
+     "answer": "Did you go to the art festival?",
+     "distractors": [
+      "went",
+      "Do"
+     ],
+     "explain": "Did you 다음에는 go를 써요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "퀴즈 대회에서 우승했다",
+     "answers": [
+      "won the quiz"
+     ],
+     "hint": "w__ the quiz"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "응, 그랬어요.",
+     "answers": [
+      "Yes, I did."
+     ],
+     "hint": "Yes, I d__."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Did you make a nice birdhouse?\nB: No, I didn't. Amy made a nice birdhouse.",
+     "question": "새집을 만든 사람은?",
+     "choices": [
+      "B",
+      "A",
+      "Amy"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘Amy made a nice birdhouse.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "No, I ___. Amy made it.",
+     "ko": "아니, 안 그랬어. Amy가 그것을 만들었어.",
+     "choices": [
+      "don't",
+      "did",
+      "didn't"
+     ],
+     "answer": 2,
+     "explain": "하지 않았을 때는 ‘No, I didn't.’예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We wish good luck to you all.",
+     "answer": "We wish good luck to you all.",
+     "distractors": [
+      "wishes",
+      "for"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "졸업하는 날 친구들에게 하기 알맞은 말은?",
+     "choices": [
+      "Thank you, friends. Good luck!",
+      "How often do you exercise?",
+      "I have no idea."
+     ],
+     "answer": 0,
+     "explain": "고마움을 전하고 행운을 빌어 줘요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hana and Amy made your birthday cake!",
+     "ko": "하나와 Amy가 네 생일 케이크를 만들었어!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 사진을 찍었니?",
+     "answers": [
+      "Did you take pictures?"
+     ],
+     "hint": "Did you t___ pictures?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Amy가 멋진 새집을 만들었어요.",
+     "answers": [
+      "Amy made a nice birdhouse."
+     ],
+     "hint": "Amy m___ a nice birdhouse."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 안 그랬어. 나는 지구 축제에서 벽화를 그렸어.",
+     "answer": "No, I didn't. I painted the wall at the Earth Festival.",
+     "distractors": [
+      "paint",
+      "did."
+     ],
+     "explain": "하지 않은 일과 실제로 한 일을 함께 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Did you go to the Art and Fun Festival?",
+     "answer": "Did you go to the Art and Fun Festival?",
+     "distractors": [
+      "went",
+      "Do"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Friends,\nWe did many things together this year. Do you remember the Earth Festival? Uju cleaned the park, and I painted the wall. Hana won the car race in class. We can't forget these times. Good luck to you all!\nFrom Tom",
+     "question": "Tom이 지구 축제에서 한 일은?",
+     "choices": [
+      "공원 청소",
+      "벽화 그리기",
+      "자동차 경주 우승"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘Uju cleaned the park, and I painted the wall.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Friends,\nWe did many things together this year. Do you remember the Earth Festival? Uju cleaned the park, and I painted the wall. Hana won the car race in class. We can't forget these times. Good luck to you all!\nFrom Tom",
+     "question": "Tom이 이 편지를 쓴 까닭으로 알맞은 것은?",
+     "choices": [
+      "함께한 시간을 떠올리며 행운을 빌어 주려고",
+      "생일 파티에 초대하려고",
+      "잘못을 사과하려고"
+     ],
+     "answer": 0,
+     "explain": "함께한 일을 떠올리고 ‘Good luck to you all!’이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "쿠키는 친구가 만들었어요. 아들의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Did you make these cookies?"
+      },
+      {
+       "who": "Son",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I didn't. My friend made them.",
+      "Yes, I did. My friend made them.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "‘No, I didn't.’ 뒤에 만든 사람을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She ___ many great books.",
+     "ko": "그녀는 훌륭한 책을 많이 썼어.",
+     "choices": [
+      "write",
+      "writing",
+      "wrote"
+     ],
+     "answer": 2,
+     "explain": "write의 과거형은 wrote예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 과거에 한 일을 묻는 질문은?",
+     "choices": [
+      "Do you clean the street?",
+      "Did you clean the street?",
+      "Are you going to clean the street?"
+     ],
+     "answer": 1,
+     "explain": "Did you ...?로 과거에 한 일을 물어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Did you win the car race? Yes, I did. I won the car race.",
+     "ko": "너는 자동차 경주에서 우승했니? 응, 그랬어. 나는 자동차 경주에서 우승했어."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "아이들이 학급 사진첩에 넣을 사진을 고르며, 지구의 날 행사에서 누가 벽화를 그리고 누가 거리를 청소했는지, 누가 영화를 만들었는지 이야기해요.",
+   "lines": [
+    {
+     "who": "우주",
+     "text": "Let's make a class album."
+    },
+    {
+     "who": "하나",
+     "text": "Tom, did you paint the wall?"
+    },
+    {
+     "who": "Tom",
+     "text": "Yes, I did. I painted the wall with Uju."
+    },
+    {
+     "who": "Amy",
+     "text": "Linh, did you paint the wall, too?"
+    },
+    {
+     "who": "Linh",
+     "text": "No, I didn't. But I cleaned the street."
+    },
+    {
+     "who": "Tom",
+     "text": "Yeah! We made a class album!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "도서관에서 독서 퀴즈 대회 포스터를 본 Tom과 Linh이 《마틸다》를 읽는 Mohan과 이야기해요. 작년 우승자는 하나였어요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Did he write the book?"
+    },
+    {
+     "who": "Mohan",
+     "text": "Yes, he did. He wrote many great books."
+    },
+    {
+     "who": "Tom",
+     "text": "Did you win the quiz last year?"
+    },
+    {
+     "who": "Mohan",
+     "text": "No, I didn't. Hana won the quiz."
+    },
+    {
+     "who": "Linh",
+     "text": "You can win the quiz this year!"
+    },
+    {
+     "who": "Tom",
+     "text": "Good luck, Mohan."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Taylor가 Jones 선생님께 사진을 찍으셨는지 묻고, 나리가 Jesse에게 거리를 청소했는지 물어요.",
+   "lines": [
+    {
+     "who": "Taylor",
+     "text": "Did you take these pictures?"
+    },
+    {
+     "who": "Jones 선생님",
+     "text": "Yes, I did. I'll make a class album."
+    },
+    {
+     "who": "나리",
+     "text": "Hi, Jesse. Did you clean the street?"
+    },
+    {
+     "who": "Jesse",
+     "text": "No, I didn't. My brother cleaned the street."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Beautiful Times (등장인물들이 올해 한 일)",
+  "passage": "Looking at the class album, the writer remembers this year. Hana was the winner of the car race, Amy built a nice birdhouse, Uju cleaned up the park at the Earth Festival, and Mohan and Tom took great photos. The class studied and played together, and they will always remember these times. The writer thanks friends and teachers and wishes everyone good luck.",
+  "summaryKo": "학급 사진첩을 보며 친구들이 올해 한 일을 떠올리고, 친구들과 선생님께 감사와 행운을 비는 글이에요."
+ },
+ "writing": {
+  "frame": [
+   "We did great things this year.",
+   "1. I ____.",
+   "2. (친구 이름) ____.",
+   "3. We ____ together."
+  ],
+  "model": "We did great things this year. 1. I wrote a short book. 2. Dami took pictures for our class album. 3. We painted the wall together."
+ },
+ "project": "‘We Wish Good Luck to You All’ 노래 부르기: 뉴질랜드 민요 곡조의 노래를 들으며 빈칸에 알맞은 과거형(painted, studied, played, made)을 쓰고 함께 부른 뒤, 후렴구 노랫말을 과거에 한 일로 바꿔 부른다.",
+ "special": {
+  "no": 12,
+  "kind": "Into the Art",
+  "title": "《아낌없이 주는 나무》 작가의 이야기",
+  "summaryKo": "책에 들어갈 그림을 그리던 작가 셸 실버스타인에게 아들이 쿠키를 가져와요. 아빠가 쿠키를 직접 만들었는지 묻자 아들은 친구가 만들었다고 답해요. 아들은 아빠의 책을 늘 읽는다며 아빠처럼 훌륭한 작가가 되고 싶다고 말해요.",
+  "facts": [
+   "《아낌없이 주는 나무(The Giving Tree)》는 미국 작가 셸 실버스타인이 쓰고 그린 그림책으로, 사과나무가 한 소년에게 모든 것을 내어 주는 이야기예요.",
+   "셸 실버스타인은 20대에 한국과 일본에서 군인으로 일하며 틈틈이 만화를 그렸고, 이것이 인기를 얻어 작가가 되었어요.",
+   "《어디로 갔을까, 나의 한쪽은》, 《다락방의 불빛》 등 어른과 아이 모두를 위한 따뜻한 작품을 많이 남겼어요.",
+   "그는 글과 그림뿐 아니라 가수, 작곡가로도 활동했어요."
+  ],
+  "expressions": [
+   "Did you make these cookies? — No, I didn't. My friend made the cookies.",
+   "Did you read my books? — Yes, I did.",
+   "I want to be a good writer like you.",
+   "You can do it."
+  ],
+  "exercises": []
+ }
+}

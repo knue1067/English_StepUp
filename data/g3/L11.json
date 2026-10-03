@@ -1,0 +1,2249 @@
+{
+ "id": "L11",
+ "no": 11,
+ "grade": 3,
+ "semester": 2,
+ "title": "He's My Dad",
+ "emoji": "👨‍👩‍👧",
+ "rationale": "가족은 학생이 속한 가장 기본적이고 친밀한 인간관계이다. 가족을 소재로 누구인지 묻고 답하는 말과 인물을 묘사하는 말을 익혀 가족을 소개하며, 가족의 소중함을 되새기고 다양한 가족의 형태를 이해하는 태도를 갖게 하고자 한다.",
+ "topics": "개인 생활 관련(오락), 가정생활 관련(음식, 가정 일상), 사회생활 관련(지역 행사), 문화 관련(세계 문화의 의식주), 일반교양 관련(심미적 심성)",
+ "functions": [
+  {
+   "ko": "누구인지 묻고 답하기",
+   "examples": [
+    "Who's he?",
+    "He's my dad.",
+    "Who's she?",
+    "She's my sister."
+   ]
+  },
+  {
+   "ko": "인물 묘사하기",
+   "examples": [
+    "He's tall.",
+    "She's pretty."
+   ]
+  }
+ ],
+ "forms": [
+  "Who's he / she? – He's / She's my ....",
+  "He's tall. / She's pretty."
+ ],
+ "phonics": {
+  "focus": "m /m/",
+  "words": [
+   "mom",
+   "monkey",
+   "many"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "brother",
+   "ko": "남자 형제 (형, 오빠, 남동생)"
+  },
+  {
+   "en": "for",
+   "ko": "~을 위한"
+  },
+  {
+   "en": "grandfather",
+   "ko": "할아버지"
+  },
+  {
+   "en": "grandmother",
+   "ko": "할머니"
+  },
+  {
+   "en": "he",
+   "ko": "그 (남자)"
+  },
+  {
+   "en": "mom",
+   "ko": "엄마"
+  },
+  {
+   "en": "pretty",
+   "ko": "예쁜"
+  },
+  {
+   "en": "she",
+   "ko": "그녀 (여자)"
+  },
+  {
+   "en": "sister",
+   "ko": "여자 형제 (언니, 누나, 여동생)"
+  },
+  {
+   "en": "who",
+   "ko": "누구"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "brother",
+   "ko": "남자 형제",
+   "emoji": "👦"
+  },
+  {
+   "en": "dad",
+   "ko": "아빠",
+   "emoji": "👨"
+  },
+  {
+   "en": "grandfather",
+   "ko": "할아버지",
+   "emoji": "👴"
+  },
+  {
+   "en": "grandmother",
+   "ko": "할머니",
+   "emoji": "👵"
+  },
+  {
+   "en": "mom",
+   "ko": "엄마",
+   "emoji": "👩"
+  },
+  {
+   "en": "sister",
+   "ko": "여자 형제",
+   "emoji": "👧"
+  }
+ ],
+ "characters": [
+  "Kate",
+  "준오",
+  "준오 아빠",
+  "Juna(준오 여동생)",
+  "Eric",
+  "Momo",
+  "보라",
+  "Hoa",
+  "Hoa 할머니",
+  "민우",
+  "Alice",
+  "하나",
+  "Paul",
+  "Bob(시골 쥐)",
+  "Mike(도시 쥐)",
+  "형님 쥐",
+  "고양이"
+ ],
+ "goals": {
+  "understand": [
+   "누구인지 묻고 답하는 말과 인물을 묘사하는 말을 듣고 이해할 수 있다.",
+   "가족을 나타내는 단어(brother, dad, grandfather, grandmother, mom, sister)를 읽고 그 의미를 이해할 수 있다.",
+   "소리 /m/과 철자 ‘m’의 관계를 이해하며 ‘m’으로 시작하는 단어를 소리 내어 읽을 수 있다.",
+   "자기 주변의 사람에게 관심을 갖고 다른 사람의 생각과 의견을 존중하며 이해하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "누구인지 묻고 답하는 말과 인물을 묘사하는 말을 할 수 있다.",
+   "가족을 나타내는 단어(brother, dad, grandfather, grandmother, mom, sister)를 보고 쓸 수 있다.",
+   "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "누구인지 묻고 답하기",
+   "objectives": [
+    "누구인지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘가족 그림 카드를 돌리며 누구인지 묻고 답하기’를 통해 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 108~109쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready / Let's Learn",
+     "desc": "여러 형태의 가족사진을 보며 ‘Who's he/she?’로 가족 구성원 추측하기, 가족 안에 어떤 사람이 있는지 이야기하기, 단원 목표 확인과 My Study 계획",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "가족 장기 자랑 무대의 준오 아빠(마리오네트)와 여동생 Juna가 누구인지 묻고 답하는 만화 영화 보고 관계를 우리말로 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 가족 구성원 이어 보기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "찬트에 맞춰 가족 그림 카드를 돌리다 멈추면, 선생님과 같은 카드를 가진 학생이 ‘He's my grandfather.’처럼 답하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "가족사진 속 인물을 가리키며 묻고 답하기, 듣고 그림과 일치하는지 ○× 표시하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Who's he?",
+    "He's my dad.",
+    "Who's she?",
+    "She's my sister."
+   ],
+   "tip": "남자는 he, 여자는 she로 가리켜요. 아빠·할아버지·형제는 he, 엄마·할머니·자매는 she예요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 누구인지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "dad",
+       "👨"
+      ],
+      [
+       "mom",
+       "👩"
+      ],
+      [
+       "grandfather",
+       "👴"
+      ],
+      [
+       "grandmother",
+       "👵"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "brother",
+       "남자 형제 (형, 오빠, 남동생)"
+      ],
+      [
+       "sister",
+       "여자 형제 (언니, 누나, 여동생)"
+      ],
+      [
+       "he",
+       "그 (남자)"
+      ],
+      [
+       "she",
+       "그녀 (여자)"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 사람에게 알맞은 단어를 고르세요.",
+     "emoji": "👵",
+     "choices": [
+      "grandfather",
+      "grandmother",
+      "mom",
+      "sister"
+     ],
+     "answer": 1,
+     "explain": "할머니는 grandmother예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Who's he?",
+     "choices": [
+      "그녀는 누구니?",
+      "그는 우리 아빠야.",
+      "그는 누구니?"
+     ],
+     "answer": 2,
+     "explain": "Who's he?는 남자를 가리키며 ‘그는 누구니?’ 하고 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She's my sister.",
+     "choices": [
+      "그녀는 우리 엄마야.",
+      "그는 내 남동생이야.",
+      "그녀는 내 여동생이야."
+     ],
+     "answer": 2,
+     "explain": "sister는 여자 형제(언니, 누나, 여동생)예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "여자를 가리키며 누구인지 물을 때 알맞은 말은?",
+     "emoji": "👩",
+     "choices": [
+      "Who's she?",
+      "Who's he?",
+      "What's this?"
+     ],
+     "answer": 0,
+     "explain": "여자에게는 she를 써서 ‘Who's she?’라고 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "사진 속 남자는 준오의 아빠예요(👨). 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Who's he?"
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my mom.",
+      "He's my dad.",
+      "He's my brother."
+     ],
+     "answer": 1,
+     "explain": "아빠니까 ‘He's my dad.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "바이올린을 든 여자아이는 준오의 여동생이에요(👧). Eric의 질문으로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "?"
+      },
+      {
+       "who": "준오",
+       "text": "She's my sister, Juna."
+      }
+     ],
+     "choices": [
+      "Who's he?",
+      "How are you?",
+      "Who's she?"
+     ],
+     "answer": 2,
+     "explain": "여자아이가 누구인지 물을 때는 ‘Who's she?’라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___'s my mom.",
+     "ko": "그녀는 우리 엄마야.",
+     "choices": [
+      "He",
+      "She",
+      "It"
+     ],
+     "answer": 1,
+     "explain": "여자는 she로 가리켜요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He's my ___.",
+     "ko": "그는 우리 할아버지야.",
+     "choices": [
+      "grandfather",
+      "grandmother",
+      "brother"
+     ],
+     "answer": 0,
+     "explain": "할아버지는 grandfather예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 누구니?",
+     "answer": "Who's she?",
+     "distractors": [
+      "he?",
+      "my"
+     ],
+     "explain": "‘그녀는 누구니?’는 ‘Who's she?’예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's he? He's my dad.",
+     "ko": "그는 누구니? 그는 우리 아빠야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "할머니 사진이에요(👵). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who's she?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my grandfather.",
+      "She's my sister.",
+      "She's my grandmother."
+     ],
+     "answer": 2,
+     "explain": "할머니니까 ‘She's my grandmother.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "사진 속 남자아이는 준오의 남동생이에요(👦). A의 질문으로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "준오",
+       "text": "He's my brother."
+      }
+     ],
+     "choices": [
+      "Juno, who's he?",
+      "Juno, who's she?",
+      "Juno, how are you?"
+     ],
+     "answer": 0,
+     "explain": "남자아이가 누구인지 물을 때는 he를 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Who's ___?",
+     "ko": "그녀는 누구니?",
+     "choices": [
+      "he",
+      "she",
+      "it"
+     ],
+     "answer": 1,
+     "explain": "여자에 대해 물을 때는 she를 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 내 남동생이야.",
+     "answer": "He's my brother.",
+     "distractors": [
+      "She's",
+      "sister."
+     ],
+     "explain": "남자 형제는 brother예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She's my mom.",
+     "answer": "She's my mom.",
+     "distractors": [
+      "He's",
+      "dad."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘He's my grandfather.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그녀는 우리 할머니야.",
+      "그는 우리 할아버지야.",
+      "그는 우리 아빠야."
+     ],
+     "answer": 1,
+     "explain": "grandfather는 할아버지예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 누구에 대한 대화인지 고르세요.",
+     "audio": "Who's she? She's my grandmother.",
+     "choices": [
+      "👴",
+      "👩",
+      "👧",
+      "👵"
+     ],
+     "answer": 3,
+     "explain": "grandmother는 할머니예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "he와 she를 바르게 쓴 것은?",
+     "choices": [
+      "아빠 – he, 엄마 – she",
+      "아빠 – she, 엄마 – he",
+      "할머니 – he, 할아버지 – she"
+     ],
+     "answer": 0,
+     "explain": "남자는 he, 여자는 she로 가리켜요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my family. He's my dad. She's my mom. She's my sister, Juna.",
+     "question": "Juna는 누구인가요?",
+     "choices": [
+      "엄마",
+      "아빠",
+      "할머니",
+      "여동생"
+     ],
+     "answer": 3,
+     "explain": "‘She's my sister, Juna.’라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's she? She's my sister.",
+     "ko": "그녀는 누구니? 그녀는 내 여동생이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "엄마",
+     "answers": [
+      "mom"
+     ],
+     "hint": "m _ m"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아빠",
+     "answers": [
+      "dad"
+     ],
+     "hint": "d _ d"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Who's he? He's my grandfather.",
+     "answer": "Who's he? He's my grandfather.",
+     "distractors": [
+      "she?",
+      "brother."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕, 나는 피노키오야.",
+     "answer": "Hello, I'm Pinocchio.",
+     "distractors": [
+      "you",
+      "He's"
+     ],
+     "explain": "자기를 소개할 때는 I'm ~.이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오 옆의 여자아이는 준오의 여동생 Juna예요(👧). 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Who's she?"
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my brother, Juna.",
+      "She's my mom, Juna.",
+      "She's my sister, Juna."
+     ],
+     "answer": 2,
+     "explain": "여동생이니까 ‘She's my sister.’라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look! Who's he? He's my dad. He can dance. Who's she? She's my sister. She can sing.",
+     "question": "여동생이 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "춤추기",
+      "수영하기",
+      "노래하기"
+     ],
+     "answer": 2,
+     "explain": "‘She's my sister. She can sing.’이라고 했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ she?",
+     "ko": "그녀는 누구니?",
+     "choices": [
+      "What's",
+      "Who's",
+      "It's"
+     ],
+     "answer": 1,
+     "explain": "누구인지 물을 때는 Who's를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 she로 가리키는 사람은?",
+     "choices": [
+      "아빠",
+      "남동생",
+      "할아버지",
+      "할머니"
+     ],
+     "answer": 3,
+     "explain": "she는 여자를 가리켜요. 할머니는 여자예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: Who's he? Hoa: He's my brother. Kate: Who's she? Hoa: She's my mom.",
+     "question": "Kate가 처음 물어본 사람은 Hoa의 누구인가요?",
+     "choices": [
+      "남자 형제",
+      "엄마",
+      "아빠"
+     ],
+     "answer": 0,
+     "explain": "처음 질문 ‘Who's he?’에 ‘He's my brother.’라고 답했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She's my grandmother. He's my grandfather.",
+     "ko": "그녀는 우리 할머니야. 그는 우리 할아버지야."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "누구인지 묻고 답하기 / 인물 묘사하기",
+   "objectives": [
+    "누구인지 묻고 답하는 말을 할 수 있다.",
+    "인물을 묘사하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Who's He?’ 노래와 ‘말판 놀이를 하며 가족 소개하고 묘사하기’를 통해 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 110~111쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "1차시 찬트로 복습하기, 키 큰 아빠와 예쁜 여자아이 사진을 보며 ‘He's tall. / She's pretty.’ 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Hoa의 집에 놀러 가 할머니께 꽃을 드리고, 사진 속 키 큰 아빠가 누구인지 묻는 만화 영화 보고 이해하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 가족 그림에 내 얼굴을 그리고 짝과 가족 구성원에 대해 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘Who's He?’ 노래를 부르고 dad를 brother로, mom을 sister로 바꾸어 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "말판 놀이: 말이 놓인 칸의 인물을 ‘Who's he/she?’로 묻고 ‘He's my dad. He's tall.’처럼 소개하고 묘사하기 (수준별: 선생님과 같은 가족 소개하기 / 가족 카드 바꾸기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "Hoa의 가족사진으로 표현 복습, 상황에 알맞은 대화하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Wow, he's very tall. Who's he?",
+    "He's my dad.",
+    "She's pretty.",
+    "This is for you."
+   ],
+   "tip": "사람을 묘사할 때는 상대방이 기분 좋은 말을 골라요. He's tall. / She's pretty.처럼 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 누구인지 묻고 답하는 말을 할 수 있는가? 인물을 묘사하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "tall",
+       "키가 큰"
+      ],
+      [
+       "pretty",
+       "예쁜"
+      ],
+      [
+       "for",
+       "~을 위한"
+      ],
+      [
+       "who",
+       "누구"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He's tall.",
+     "choices": [
+      "그는 키가 커.",
+      "그는 예뻐.",
+      "그녀는 키가 커."
+     ],
+     "answer": 0,
+     "explain": "He's tall.은 ‘그는 키가 커.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She's pretty.",
+     "choices": [
+      "그녀는 키가 커.",
+      "그는 예뻐.",
+      "그녀는 예뻐."
+     ],
+     "answer": 2,
+     "explain": "pretty는 ‘예쁜’이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "키가 큰 아빠를 묘사하는 말로 알맞은 것은?",
+     "emoji": "👨",
+     "choices": [
+      "He's tall.",
+      "She's tall.",
+      "He's small."
+     ],
+     "answer": 0,
+     "explain": "아빠는 남자니까 he, 키가 크니까 tall을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's ___.",
+     "ko": "그녀는 예뻐.",
+     "choices": [
+      "tall",
+      "big",
+      "pretty"
+     ],
+     "answer": 2,
+     "explain": "‘예쁜’은 pretty예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___'s very tall.",
+     "ko": "그는 아주 키가 커.",
+     "choices": [
+      "She",
+      "He",
+      "Who"
+     ],
+     "answer": 1,
+     "explain": "남자는 he로 가리켜요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "사진 속 키 큰 남자는 Hoa의 아빠예요. Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Wow, he's very tall. Who's he?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my mom.",
+      "He's my brother.",
+      "He's my dad."
+     ],
+     "answer": 2,
+     "explain": "아빠니까 ‘He's my dad.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "집 앞에 계신 분은 Hoa의 할머니예요(👵). Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Who's she?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my grandmother.",
+      "He's my grandfather.",
+      "She's my sister."
+     ],
+     "answer": 0,
+     "explain": "할머니니까 ‘She's my grandmother.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 아주 키가 커.",
+     "answer": "He's very tall.",
+     "distractors": [
+      "She's",
+      "pretty."
+     ],
+     "explain": "very는 ‘아주’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "This is for you.",
+     "choices": [
+      "이것은 너를 위한 거야.",
+      "이것은 무엇이니?",
+      "고마워."
+     ],
+     "answer": 0,
+     "explain": "for you는 ‘너를 위한’이에요. 선물을 줄 때 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "꽃다발을 선물 받은 할머니가 할 말로 알맞은 것은?",
+     "emoji": "💐",
+     "choices": [
+      "I'm sorry.",
+      "Thank you.",
+      "Who's she?"
+     ],
+     "answer": 1,
+     "explain": "선물을 받으면 ‘Thank you.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's he? He's my dad. He's tall.",
+     "ko": "그는 누구니? 그는 우리 아빠야. 그는 키가 커."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Paul의 형은 키가 아주 커요. 하나의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Who's he?"
+      },
+      {
+       "who": "Paul",
+       "text": "He's my brother."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, she's very tall.",
+      "Wow, it's very small.",
+      "Wow, he's very tall."
+     ],
+     "answer": 2,
+     "explain": "남자이고 키가 크니까 ‘He's very tall.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B의 여동생은 아주 예뻐요(👧). A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "She's my sister."
+      }
+     ],
+     "choices": [
+      "She's pretty. Who's she?",
+      "He's tall. Who's he?",
+      "She's pretty. Who's he?"
+     ],
+     "answer": 0,
+     "explain": "여자아이니까 she를 써서 묘사하고 물어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Who's ___? He's my grandfather.",
+     "ko": "그는 누구니? 그는 우리 할아버지야.",
+     "choices": [
+      "she",
+      "he",
+      "it"
+     ],
+     "answer": 1,
+     "explain": "할아버지는 남자니까 he를 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 우리 엄마야. 그녀는 예뻐.",
+     "answer": "She's my mom. She's pretty.",
+     "distractors": [
+      "He's",
+      "tall."
+     ],
+     "explain": "엄마는 she로 가리키고, 예쁘다는 pretty예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Thank you, Grandma.",
+     "answer": "Thank you, Grandma.",
+     "distractors": [
+      "Hi,",
+      "mom."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘This is for you.’는 언제 하는 말인가요?",
+     "choices": [
+      "선물을 줄 때",
+      "누구인지 물을 때",
+      "사과할 때"
+     ],
+     "answer": 0,
+     "explain": "‘이것은 너를 위한 거야.’라는 뜻으로 선물을 줄 때 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 누구에 대한 말인지 고르세요.",
+     "audio": "Who's he? He's my brother. He's tall.",
+     "choices": [
+      "예쁜 여자 형제",
+      "키가 큰 아빠",
+      "키가 큰 남자 형제"
+     ],
+     "answer": 2,
+     "explain": "brother는 남자 형제, tall은 키가 큰이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my family. He's my grandfather. He's tall. She's my mom. She's pretty.",
+     "question": "키가 큰 사람은 누구인가요?",
+     "choices": [
+      "엄마",
+      "아빠",
+      "여동생",
+      "할아버지"
+     ],
+     "answer": 3,
+     "explain": "‘He's my grandfather. He's tall.’이라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 자연스러운 대화는?",
+     "choices": [
+      "A: Who's he? B: She's my mom.",
+      "A: Who's she? B: She's my sister.",
+      "A: Who's she? B: Yes, it is."
+     ],
+     "answer": 1,
+     "explain": "Who's she?에는 She's my ~.로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Thank you, Grandma. It's good.",
+     "ko": "고맙습니다, 할머니. 맛있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "할머니",
+     "answers": [
+      "grandmother"
+     ],
+     "hint": "g r a n d m _ _ _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "여자 형제 (언니, 누나, 여동생)",
+     "answers": [
+      "sister"
+     ],
+     "hint": "s _ s t e r"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, he's very tall. Who's he?",
+     "answer": "Wow, he's very tall. Who's he?",
+     "distractors": [
+      "she's",
+      "pretty."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 우리 할아버지야. 그는 키가 커.",
+     "answer": "He's my grandfather. He's tall.",
+     "distractors": [
+      "She's",
+      "pretty."
+     ],
+     "explain": "할아버지는 he로 가리키고, 키가 크다는 tall이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A는 B의 엄마가 예쁘다고 말하고 싶어요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who's she?"
+      },
+      {
+       "who": "B",
+       "text": "She's my mom."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, he's tall.",
+      "She's my sister.",
+      "Wow, she's pretty."
+     ],
+     "answer": 2,
+     "explain": "엄마는 she로 가리키고, 예쁘다는 pretty예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Mina. This is my family photo. He's my dad. He's very tall. She's my sister. She's pretty.",
+     "question": "Mina의 아빠는 어떤가요?",
+     "choices": [
+      "아주 예뻐요.",
+      "아주 키가 커요.",
+      "아주 작아요."
+     ],
+     "answer": 1,
+     "explain": "‘He's my dad. He's very tall.’이라고 했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's ___ pretty.",
+     "ko": "그녀는 아주 예뻐.",
+     "choices": [
+      "too",
+      "very",
+      "my"
+     ],
+     "answer": 1,
+     "explain": "‘아주’는 very예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Who's she?’에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "She's my mom.",
+      "She's my sister.",
+      "He's my brother."
+     ],
+     "answer": 2,
+     "explain": "Who's she?는 여자에 대해 묻는 말이라 He's로 답하지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: This is for you, Grandma. Grandma: Thank you. Kate: Who's he? Hoa: He's my dad.",
+     "question": "Kate가 할머니께 한 말의 뜻은 무엇인가요?",
+     "choices": [
+      "할머니는 누구세요?",
+      "이것은 할머니를 위한 거예요.",
+      "고맙습니다."
+     ],
+     "answer": 1,
+     "explain": "‘This is for you.’는 선물을 드리는 말이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "He's my brother. He's very tall.",
+     "ko": "그는 내 형이야. 그는 아주 키가 커."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "가족을 나타내는 단어 읽고 쓰기 / 알파벳 ‘m’으로 시작하는 단어 소리 내어 읽기",
+   "objectives": [
+    "단어(brother, dad, grandfather, grandmother, mom, sister)를 읽고 그 의미를 이해하며, 보고 쓸 수 있다.",
+    "/m/ 소리를 식별하고, 소리 /m/과 철자 ‘m’의 관계를 이해하며 ‘m’으로 시작하는 단어를 소리 내어 읽을 수 있다.",
+    "‘가상 가족을 만들고 소개하기’의 협력 과업으로 단어를 읽고 쓰며, 누구인지 묻고 답하는 말과 인물을 묘사하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 112~113쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Play 2 말판 그림으로 묻고 답하기, 가족 그림 속 여자아이가 되어 답하며 M-O-M, B-R-O-T-H-E-R 철자 확인하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "단어 읽고 뜻 추측하기, 부엌·거실·정원의 가족을 보며 예시 대화 따라 말하고 짝과 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Mark / Choose and Write",
+     "desc": "풍선 속 단어와 가족 구성원이 일치하면 ○, 아니면 × 하기, 그림에 알맞은 단어를 골라 써서 가족 관계도 완성하기, 스스로 다지기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "/m/ 소리와 철자 m의 관계 익히기(mom, monkey, many), 첫소리가 다른 단어 고르기, m으로 시작하는 그림에 ○표",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 캐릭터 한 명을 골라 가상 가족을 정하고, 각자 가족 구성원을 그려 액자에 붙이고 단어를 써서 반 친구들에게 소개하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "단어 읽기, Mm 카드로 m으로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "brother",
+    "dad",
+    "grandfather",
+    "grandmother",
+    "mom",
+    "sister",
+    "mom, monkey, many"
+   ],
+   "tip": "/m/은 입술을 다물고 코로 ‘음—’ 소리를 내요. n(/n/)과 헷갈리지 않게 입술을 꼭 붙여요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가, 포트폴리오(가족 그림) — 단어를 읽고 의미를 이해하며 보고 쓸 수 있는가? /m/ 소리를 식별하고 m으로 시작하는 단어를 소리 내어 읽을 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "brother",
+       "남자 형제"
+      ],
+      [
+       "dad",
+       "아빠"
+      ],
+      [
+       "grandfather",
+       "할아버지"
+      ],
+      [
+       "grandmother",
+       "할머니"
+      ],
+      [
+       "mom",
+       "엄마"
+      ],
+      [
+       "sister",
+       "여자 형제"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "mom",
+       "👩"
+      ],
+      [
+       "dad",
+       "👨"
+      ],
+      [
+       "sister",
+       "👧"
+      ],
+      [
+       "brother",
+       "👦"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "👧",
+     "choices": [
+      "brother",
+      "mom",
+      "dad",
+      "sister"
+     ],
+     "answer": 3,
+     "explain": "여자아이(여자 형제)는 sister예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 첫소리가 /m/인 단어는?",
+     "choices": [
+      "dad",
+      "sister",
+      "brother",
+      "mom"
+     ],
+     "answer": 3,
+     "explain": "mom은 m(/m/)으로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "monkey",
+     "choices": [
+      "🦁",
+      "🐘",
+      "🐦",
+      "🐒"
+     ],
+     "answer": 3,
+     "explain": "monkey는 원숭이예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 첫소리에 해당하는 글자를 고르세요.",
+     "audio": "many",
+     "choices": [
+      "n",
+      "w",
+      "b",
+      "m"
+     ],
+     "answer": 3,
+     "explain": "many는 /m/ 소리로 시작해요. 글자는 m이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "brother",
+     "choices": [
+      "brother",
+      "sister",
+      "grandfather"
+     ],
+     "answer": 0,
+     "explain": "brother는 남자 형제예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's my ___.",
+     "ko": "그녀는 우리 엄마야.",
+     "choices": [
+      "dad",
+      "mom",
+      "brother"
+     ],
+     "answer": 1,
+     "explain": "엄마는 mom이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘grandfather’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "할머니",
+      "아빠",
+      "남자 형제",
+      "할아버지"
+     ],
+     "answer": 3,
+     "explain": "grandfather는 할아버지예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 첫 글자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "mom",
+       "m"
+      ],
+      [
+       "dad",
+       "d"
+      ],
+      [
+       "sister",
+       "s"
+      ],
+      [
+       "brother",
+       "b"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "엄마의 엄마를 나타내는 단어는?",
+     "choices": [
+      "sister",
+      "mom",
+      "grandfather",
+      "grandmother"
+     ],
+     "answer": 3,
+     "explain": "엄마의 엄마는 할머니(grandmother)예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "mom, monkey, many",
+     "ko": "엄마, 원숭이, 많은"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "부엌에 있는 여자는 여자아이의 엄마예요(👩). G의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Who's she?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my dad.",
+      "She's my sister.",
+      "She's my mom."
+     ],
+     "answer": 2,
+     "explain": "엄마니까 ‘She's my mom.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "거실에 있는 남자아이는 여자아이의 남동생이에요(👦). G의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Who's he?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my brother.",
+      "She's my sister.",
+      "He's my dad."
+     ],
+     "answer": 0,
+     "explain": "남동생이니까 ‘He's my brother.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "첫소리가 다른 하나를 고르세요.",
+     "choices": [
+      "mom",
+      "many",
+      "monkey",
+      "nine"
+     ],
+     "answer": 3,
+     "explain": "mom, many, monkey는 /m/으로, nine은 /n/으로 시작해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "___om",
+     "ko": "엄마",
+     "choices": [
+      "n",
+      "d",
+      "m"
+     ],
+     "answer": 2,
+     "explain": "엄마는 mom이에요. 첫 글자는 m이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "남자 형제 (형, 오빠, 남동생)",
+     "answers": [
+      "brother"
+     ],
+     "hint": "b r _ t h e r"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Who's he? He's my dad.",
+     "answer": "Who's he? He's my dad.",
+     "distractors": [
+      "she?",
+      "mom."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 우리 할머니야.",
+     "answer": "She's my grandmother.",
+     "distractors": [
+      "He's",
+      "grandfather."
+     ],
+     "explain": "할머니는 grandmother예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "할아버지가 든 풍선에 쓰인 단어로 알맞은 것은?",
+     "emoji": "👴🎈",
+     "choices": [
+      "grandmother",
+      "grandfather",
+      "brother"
+     ],
+     "answer": 1,
+     "explain": "할아버지는 grandfather예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "mom",
+     "choices": [
+      "👨",
+      "👵",
+      "👦",
+      "👩"
+     ],
+     "answer": 3,
+     "explain": "mom은 엄마예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's she? She's my mom.",
+     "ko": "그녀는 누구니? 그녀는 우리 엄마야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "할아버지",
+     "answers": [
+      "grandfather"
+     ],
+     "hint": "g r a n d f _ _ _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "여자 형제 (필요 없는 글자 하나를 빼요: s i s t h e r)",
+     "answers": [
+      "sister"
+     ],
+     "hint": "s _ s _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "원숭이 (m으로 시작해요)",
+     "answers": [
+      "monkey"
+     ],
+     "hint": "m _ n k e y"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My family has many people. My grandfather, my grandmother, my mom, my dad, and my brother.",
+     "question": "글에 나오지 않는 가족은 누구인가요?",
+     "choices": [
+      "할아버지",
+      "엄마",
+      "남자 형제",
+      "여자 형제 (sister)"
+     ],
+     "answer": 3,
+     "explain": "글에 sister는 나오지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: I have the mom. Jun: I have the dad. Sora: I have the sister.",
+     "question": "아빠 그림을 가진 친구는 누구인가요?",
+     "choices": [
+      "Jun",
+      "Mina",
+      "Sora"
+     ],
+     "answer": 0,
+     "explain": "Jun이 ‘I have the dad.’라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 누구니? 그는 우리 할아버지야.",
+     "answer": "Who's he? He's my grandfather.",
+     "distractors": [
+      "she?",
+      "grandmother."
+     ],
+     "explain": "남자에 대해 묻고 답할 때는 he를 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She's my sister. She's pretty.",
+     "answer": "She's my sister. She's pretty.",
+     "distractors": [
+      "He's",
+      "mom."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 단어와 같은 소리로 시작하는 단어는?",
+     "emoji": "🐒",
+     "choices": [
+      "nine",
+      "dog",
+      "sister",
+      "many"
+     ],
+     "answer": 3,
+     "explain": "monkey와 many는 둘 다 /m/ 소리로 시작해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "S1이 그린 사람은 할아버지예요(👴). S1의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "S",
+       "text": "Who's he?"
+      },
+      {
+       "who": "S1",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my grandmother.",
+      "He's my brother.",
+      "He's my grandfather."
+     ],
+     "answer": 2,
+     "explain": "할아버지니까 ‘He's my grandfather.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Many monkeys! Look, mom!",
+     "ko": "원숭이가 많아요! 보세요, 엄마!"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·정리",
+   "icon": "book",
+   "studyPoint": "‘시골 쥐와 도시 쥐’ 역할극을 하며 배운 표현 활용하기 / ‘My Work’로 배운 내용을 확인하고 정리하기",
+   "objectives": [
+    "‘Story Time’에서 ‘시골 쥐와 도시 쥐’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 114~115쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "가족 단어를 읽고 손가락으로 공중에 써 보기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "원작 소개와 이야기 추측하기(mom, brother 말풍선), 만화 영화를 보며 줄거리 이해하기, HOW ABOUT YOU?(내가 시골 쥐라면 고양이를 보고 어떻게 할까?), 모둠별 역할극하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 알맞은 그림에 연결하기, 누구인지 묻고 묘사하는 대화하기, 그림과 단어가 맞지 않는 가족 찾아 바르게 쓰기, 가족 단어 두 개를 고르고 이유 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 성취도 점검과 ‘정리해요’ 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "She's pretty. Who's she?",
+    "She's my mom.",
+    "Who's he? – He's my brother.",
+    "That's okay. Here."
+   ],
+   "tip": "이야기 속 쥐가 되어 Who's he/she?로 묻고, He's/She's my ~.로 가족을 소개해 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(역할극 참여), My Work 자기 평가, 단원평가(지필) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 단원 내용을 정리할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bob comes to Mike's house. Mike says, \"Hi, Bob. Come in.\"",
+     "question": "Mike의 집에 놀러 온 쥐의 이름은 무엇인가요?",
+     "choices": [
+      "Bob",
+      "Mike",
+      "Juna"
+     ],
+     "answer": 0,
+     "explain": "Bob이 Mike의 집에 왔어요(comes to Mike's house)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bob sees a photo. \"She's pretty. Who's she?\" Mike says, \"She's my mom.\"",
+     "question": "사진 속 쥐는 Mike의 누구인가요?",
+     "choices": [
+      "여동생",
+      "엄마",
+      "할머니"
+     ],
+     "answer": 1,
+     "explain": "Mike가 ‘She's my mom.’이라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cheese",
+       "치즈"
+      ],
+      [
+       "cat",
+       "고양이"
+      ],
+      [
+       "mom",
+       "엄마"
+      ],
+      [
+       "brother",
+       "남자 형제"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "큰 쥐는 Mike의 형이에요. Mike의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bob",
+       "text": "Who's he?"
+      },
+      {
+       "who": "Mike",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my mom.",
+      "He's my dad.",
+      "He's my brother."
+     ],
+     "answer": 2,
+     "explain": "형(남자 형제)이니까 ‘He's my brother.’라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I like cheese, too.",
+     "choices": [
+      "나도 치즈를 좋아해.",
+      "나는 치즈를 싫어해.",
+      "이것은 치즈야."
+     ],
+     "answer": 0,
+     "explain": "too는 ‘~도’라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "갑자기 고양이가 나타나서 Bob이 깜짝 놀랐어요. Bob의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "고양이",
+       "text": "I like cheese, too."
+      },
+      {
+       "who": "Bob",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Thank you.",
+      "Great!",
+      "Oh, no!"
+     ],
+     "answer": 2,
+     "explain": "깜짝 놀라거나 걱정될 때 ‘Oh, no!’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "고양이에게 치즈를 건네주며 할 말로 알맞은 것은?",
+     "emoji": "🧀",
+     "choices": [
+      "Oh, no!",
+      "Here.",
+      "Who's he?"
+     ],
+     "answer": 1,
+     "explain": "물건을 건네줄 때 ‘Here.’(여기 있어.)라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ in.",
+     "ko": "들어와.",
+     "choices": [
+      "Come",
+      "Sit",
+      "Stand"
+     ],
+     "answer": 0,
+     "explain": "‘들어와.’는 Come in.이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Bob은 점프할 수 있어요. Bob의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "고양이",
+       "text": "Can you jump?"
+      },
+      {
+       "who": "Bob",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't.",
+      "Yes, it is.",
+      "Yes, I can."
+     ],
+     "answer": 2,
+     "explain": "할 수 있으니까 ‘Yes, I can.’이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "That's okay.",
+     "choices": [
+      "괜찮아.",
+      "미안해.",
+      "고마워."
+     ],
+     "answer": 0,
+     "explain": "That's okay.는 ‘괜찮아.’예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "음, 나는 치즈를 좋아해.",
+     "answer": "Umm, I like cheese.",
+     "distractors": [
+      "too.",
+      "don't"
+     ],
+     "explain": "‘나는 ~을 좋아해.’는 I like ~.예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hi, Bob. Come in.",
+     "ko": "안녕, Bob. 들어와."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 누구에 대한 말인지 고르세요.",
+     "audio": "Who's she? She's my sister. She's very pretty.",
+     "choices": [
+      "키가 큰 여동생",
+      "아주 예쁜 여동생",
+      "아주 예쁜 엄마"
+     ],
+     "answer": 1,
+     "explain": "sister는 여자 형제, very pretty는 아주 예쁜이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 누구에 대한 말인지 고르세요.",
+     "audio": "Wow, he's very tall. Who's he? He's my dad.",
+     "choices": [
+      "키가 큰 남동생",
+      "키가 아주 큰 아빠",
+      "예쁜 엄마"
+     ],
+     "answer": 1,
+     "explain": "dad는 아빠, very tall은 키가 아주 큰이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B의 엄마는 아주 예뻐요(👩). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "She's pretty. Who's she?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's my mom.",
+      "He's my dad.",
+      "She's my grandmother."
+     ],
+     "answer": 0,
+     "explain": "엄마니까 ‘She's my mom.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림 속 사람은 B의 할아버지예요(👴). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who's he?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my grandfather.",
+      "She's my grandmother.",
+      "He's my brother."
+     ],
+     "answer": 0,
+     "explain": "할아버지니까 ‘He's my grandfather.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "남자아이 그림에 알맞은 단어는?",
+     "emoji": "👦",
+     "choices": [
+      "sister",
+      "brother",
+      "mom"
+     ],
+     "answer": 1,
+     "explain": "남자 형제는 brother예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Who's ___? She's my mom.",
+     "ko": "그녀는 누구니? 그녀는 우리 엄마야.",
+     "choices": [
+      "he",
+      "it",
+      "she"
+     ],
+     "answer": 2,
+     "explain": "엄마는 여자니까 she를 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 내 여동생이야.",
+     "answer": "She's my sister.",
+     "distractors": [
+      "He's",
+      "brother."
+     ],
+     "explain": "여자 형제는 sister예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 /m/ 소리로 시작하지 않는 단어는?",
+     "choices": [
+      "mom",
+      "monkey",
+      "many",
+      "dad"
+     ],
+     "answer": 3,
+     "explain": "dad는 /d/ 소리로 시작해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mike's brother likes cheese. Then a cat comes! The cat likes cheese, too. Mike's brother says, \"That's okay. Here.\"",
+     "question": "형님 쥐는 고양이에게 무엇을 주었나요?",
+     "choices": [
+      "피자",
+      "바나나",
+      "주스",
+      "치즈"
+     ],
+     "answer": 3,
+     "explain": "고양이도 치즈를 좋아해서(likes cheese, too) 치즈를 주었어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "That's okay. Here.",
+     "ko": "괜찮아. 여기 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 누구니?",
+     "answers": [
+      "Who's he?",
+      "Who is he?"
+     ],
+     "hint": "Who's __?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 우리 아빠야.",
+     "answers": [
+      "He's my dad.",
+      "He is my dad."
+     ],
+     "hint": "He's my ___."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The cat asks Bob, \"Can you jump?\" Bob says, \"Yes, I can.\" Bob jumps on the cat. They play together.",
+     "question": "이야기의 끝에서 일어난 일은 무엇인가요?",
+     "choices": [
+      "고양이가 쥐를 쫓아요.",
+      "모두 함께 신나게 놀아요.",
+      "Bob이 집으로 가요."
+     ],
+     "answer": 1,
+     "explain": "Bob도 고양이 등에 올라타 함께 놀아요(They play together)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bob: She's pretty. Who's she? Mike: She's my mom. Bob: Who's he? Mike: He's my brother.",
+     "question": "Mike가 소개한 가족이 아닌 사람은 누구인가요?",
+     "choices": [
+      "아빠",
+      "엄마",
+      "형(남자 형제)"
+     ],
+     "answer": 0,
+     "explain": "Mike는 엄마(mom)와 형(brother)을 소개했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 예뻐. 그녀는 누구니?",
+     "answer": "She's pretty. Who's she?",
+     "distractors": [
+      "he?",
+      "tall."
+     ],
+     "explain": "먼저 묘사하고 Who's she?로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He's my brother. He's very tall.",
+     "answer": "He's my brother. He's very tall.",
+     "distractors": [
+      "She's",
+      "pretty."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "A가 B의 할머니께 꽃을 드려요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who's she?"
+      },
+      {
+       "who": "B",
+       "text": "She's my grandmother."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Who's he?",
+      "This is for you.",
+      "Oh, no!"
+     ],
+     "answer": 1,
+     "explain": "선물을 드릴 때는 ‘This is for you.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림과 단어가 바르게 연결되지 않은 것은?",
+     "choices": [
+      "👩 – mom",
+      "👨 – dad",
+      "👴 – grandfather",
+      "👧 – brother"
+     ],
+     "answer": 3,
+     "explain": "👧는 여자아이니까 sister예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He's my ___. He's tall.",
+     "ko": "그는 우리 아빠야. 그는 키가 커.",
+     "choices": [
+      "dad",
+      "mom",
+      "sister"
+     ],
+     "answer": 0,
+     "explain": "아빠는 dad예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's he? He's my dad. He's very tall.",
+     "ko": "그는 누구니? 그는 우리 아빠야. 그는 아주 키가 커."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "가족 장기 자랑 무대에서 준오의 아빠와 여동생이 누구인지 친구들이 물어봐요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Who's he?"
+    },
+    {
+     "who": "준오",
+     "text": "He's my dad."
+    },
+    {
+     "who": "Eric",
+     "text": "Who's she?"
+    },
+    {
+     "who": "준오",
+     "text": "She's my sister, Juna."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "Hoa의 집에 놀러 간 친구들이 할머니께 꽃을 드리고, 사진 속 키 큰 아빠에 대해 물어요.",
+   "lines": [
+    {
+     "who": "보라",
+     "text": "Who's she?"
+    },
+    {
+     "who": "Hoa",
+     "text": "She's my grandmother."
+    },
+    {
+     "who": "Kate",
+     "text": "This is for you."
+    },
+    {
+     "who": "Kate",
+     "text": "Wow, he's very tall. Who's he?"
+    },
+    {
+     "who": "Hoa",
+     "text": "He's my dad."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 Paul에게 영상 속 남자가 누구인지 물어요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Who's he?"
+    },
+    {
+     "who": "Paul",
+     "text": "He's my brother."
+    },
+    {
+     "who": "하나",
+     "text": "Wow, he's very tall."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "시골 쥐 Bob이 도시 쥐 Mike의 집에서 가족사진과 형을 보며 누구인지 물어요.",
+   "lines": [
+    {
+     "who": "Bob",
+     "text": "She's pretty. Who's she?"
+    },
+    {
+     "who": "Mike",
+     "text": "She's my mom."
+    },
+    {
+     "who": "Bob",
+     "text": "Who's he?"
+    },
+    {
+     "who": "Mike",
+     "text": "He's my brother."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "The Country Mouse and the Town Mouse (시골 쥐와 도시 쥐)",
+  "passage": "Bob, a country mouse, visits his friend Mike in town. Bob points at a photo and asks who she is. Mike says she is his mom. Then Bob meets Mike's big brother, who loves cheese. Suddenly a cat appears and wants cheese, too! Mike's brother just shares the cheese. After lunch, the cat lets the mice ride on its back, and they all play happily.",
+  "summaryKo": "도시 쥐 Mike의 집에 놀러 간 Bob이 가족을 소개받고, 나타난 고양이와 치즈를 나누어 먹은 뒤 다 함께 신나게 놀아요."
+ },
+ "writing": {
+  "frame": [
+   "Who's he / she?",
+   "He's / She's my ____.",
+   "He's tall. / She's pretty."
+  ],
+  "model": "Who's she? She's my grandmother. She's pretty."
+ },
+ "project": "Work Together ‘가상 가족을 만들고 소개하기’: 모둠별로 캐릭터 한 명을 골라 그 가족 구성원을 정하고, 각자 한 명씩 그려 액자 틀에 붙인 뒤 단어를 써서 완성하고, 반 친구들과 ‘Who's she? – She's my mom.’처럼 묻고 답한다."
+}

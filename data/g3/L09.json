@@ -1,0 +1,2289 @@
+{
+ "id": "L09",
+ "no": 9,
+ "grade": 3,
+ "semester": 2,
+ "title": "Wow, It's Big!",
+ "emoji": "🐘",
+ "rationale": "동물과 식물은 초등학생에게 매우 친숙한 소재이다. 동물과 식물의 크기를 묘사하는 말과 어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말을 익혀 흥미를 유발하고, 동물과 식물을 사랑하는 마음을 갖도록 하고자 한다.",
+ "topics": "개인 생활 관련(오락), 일반교양 관련(동식물), 디지털·인공 지능 관련(디지털 기술의 활용)",
+ "functions": [
+  {
+   "ko": "동물과 식물을 묘사하기",
+   "examples": [
+    "It's big.",
+    "It's small.",
+    "It's tall."
+   ]
+  },
+  {
+   "ko": "어떤 동물이나 식물인지 확인하는 질문하고 답하기",
+   "examples": [
+    "Is it a bird?",
+    "Yes, it is.",
+    "No, it isn't."
+   ]
+  }
+ ],
+ "forms": [
+  "It's + big / small / tall.",
+  "Is it a(n) ...? – Yes, it is. / No, it isn't."
+ ],
+ "phonics": {
+  "focus": "l /l/",
+  "words": [
+   "lion",
+   "like",
+   "look"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "big",
+   "ko": "큰"
+  },
+  {
+   "en": "bird",
+   "ko": "새"
+  },
+  {
+   "en": "cheese",
+   "ko": "치즈 (Say cheese! 사진 찍을 때 하는 말)"
+  },
+  {
+   "en": "elephant",
+   "ko": "코끼리"
+  },
+  {
+   "en": "say",
+   "ko": "말하다"
+  },
+  {
+   "en": "small",
+   "ko": "작은"
+  },
+  {
+   "en": "tall",
+   "ko": "키가 큰, 높은"
+  },
+  {
+   "en": "too",
+   "ko": "~도 또한"
+  },
+  {
+   "en": "tree",
+   "ko": "나무"
+  },
+  {
+   "en": "very",
+   "ko": "매우, 아주"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "big",
+   "ko": "큰",
+   "emoji": "🐘"
+  },
+  {
+   "en": "small",
+   "ko": "작은",
+   "emoji": "🐜"
+  },
+  {
+   "en": "tall",
+   "ko": "키가 큰",
+   "emoji": "🦒"
+  },
+  {
+   "en": "bird",
+   "ko": "새",
+   "emoji": "🐦"
+  },
+  {
+   "en": "lion",
+   "ko": "사자",
+   "emoji": "🦁"
+  },
+  {
+   "en": "tree",
+   "ko": "나무",
+   "emoji": "🌳"
+  },
+  {
+   "en": "elephant",
+   "ko": "코끼리",
+   "emoji": "🐘"
+  },
+  {
+   "en": "flower",
+   "ko": "꽃",
+   "emoji": "🌸"
+  },
+  {
+   "en": "monkey",
+   "ko": "원숭이",
+   "emoji": "🐒"
+  }
+ ],
+ "characters": [
+  "Kate",
+  "보라",
+  "Momo",
+  "Hoa",
+  "Eric",
+  "준오",
+  "Sam",
+  "Alice",
+  "민우",
+  "하나",
+  "Danny",
+  "아기 곰",
+  "엄마 곰",
+  "아빠 곰",
+  "골딜록스"
+ ],
+ "goals": {
+  "understand": [
+   "동물과 식물을 묘사하는 말과 어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말을 듣고 이해할 수 있다.",
+   "동물·식물을 묘사하는 단어(big, small, tall)와 동물·식물을 나타내는 단어(bird, lion, tree)를 읽고 그 의미를 이해할 수 있다.",
+   "소리 /l/과 철자 ‘l’의 관계를 이해하며 ‘l’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+   "동물과 식물을 사랑하고 아끼는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "동물과 식물을 묘사하는 말과 어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말을 할 수 있다.",
+   "동물·식물을 묘사하는 단어(big, small, tall)와 동물·식물을 나타내는 단어(bird, lion, tree)를 보고 쓸 수 있다.",
+   "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "동물과 식물을 묘사하기",
+   "objectives": [
+    "동물과 식물을 묘사하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘묘사하는 말을 귓속말로 전달하고 그림 그리기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 90~91쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready / Let's Learn",
+     "desc": "큰 고양이와 키 큰 나무 사진 보며 크기 말하기, 집·학교 근처 동식물의 크기 이야기하기, 단원 목표 확인과 My Study 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "야외 식물원에서 큰 꽃과 키 큰 나무를 보는 만화 영화 보고 알맞은 그림에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 코끼리·사자·새·꽃·나무 짚어 보기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "선생님이 보여 준 카드를 묘사하는 말(It's an elephant. It's big.)을 모둠원에게 귓속말로 전달하고 마지막 학생이 그림 그리기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "사진을 보며 big, tall로 묘사하기, 듣고 그림과 일치하는지 ○× 표시하기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "It's big.",
+    "It's small.",
+    "It's tall.",
+    "Wow, it's very tall."
+   ],
+   "tip": "전체 크기가 클 때는 big, 키나 높이가 클 때는 tall을 써요. very를 붙이면 ‘아주’라는 뜻이 돼요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 동물과 식물을 묘사하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "elephant",
+       "코끼리"
+      ],
+      [
+       "lion",
+       "사자"
+      ],
+      [
+       "bird",
+       "새"
+      ],
+      [
+       "tree",
+       "나무"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "big",
+       "큰"
+      ],
+      [
+       "small",
+       "작은"
+      ],
+      [
+       "tall",
+       "키가 큰"
+      ],
+      [
+       "flower",
+       "꽃"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림의 동물은 영어로 무엇일까요?",
+     "emoji": "🐘",
+     "choices": [
+      "lion",
+      "elephant",
+      "bird",
+      "tree"
+     ],
+     "answer": 1,
+     "explain": "코끼리는 elephant예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘나무’를 영어로 하면?",
+     "emoji": "🌳",
+     "choices": [
+      "flower",
+      "tree",
+      "bird",
+      "lion"
+     ],
+     "answer": 1,
+     "explain": "나무는 tree예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's big.",
+     "choices": [
+      "그것은 작아.",
+      "그것은 키가 커.",
+      "그것은 커."
+     ],
+     "answer": 2,
+     "explain": "big은 ‘큰’이라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's small.",
+     "choices": [
+      "커요.",
+      "키가 커요.",
+      "작아요."
+     ],
+     "answer": 2,
+     "explain": "small은 ‘작은’이라는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "키가 아주 큰 나무를 보고 할 말로 알맞은 것은?",
+     "emoji": "🌳",
+     "choices": [
+      "It's tall.",
+      "It's small.",
+      "It's a lion."
+     ],
+     "answer": 0,
+     "explain": "키나 높이가 클 때는 tall을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___.",
+     "ko": "그것은 작아.",
+     "choices": [
+      "big",
+      "tall",
+      "small"
+     ],
+     "answer": 2,
+     "explain": "‘작은’은 small이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate와 보라가 아주 큰 코끼리를 보고 있어요. 보라의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Look at the elephant."
+      },
+      {
+       "who": "보라",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's big.",
+      "It's a bird.",
+      "Oh, it's small."
+     ],
+     "answer": 0,
+     "explain": "큰 코끼리를 보고 ‘Oh, it's big.’이라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 키가 커.",
+     "answer": "It's tall.",
+     "distractors": [
+      "small.",
+      "a"
+     ],
+     "explain": "키가 클 때는 ‘It's tall.’이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's a lion.",
+     "choices": [
+      "🐘",
+      "🐦",
+      "🌳",
+      "🦁"
+     ],
+     "answer": 3,
+     "explain": "lion은 사자예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look at the lion. It's big.",
+     "ko": "사자를 봐. 그것은 커."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Eric은 큰 나무를 가리키고 있어요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "What's that?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's a bird.",
+      "It's a tree.",
+      "Thank you."
+     ],
+     "answer": 1,
+     "explain": "‘What's that?’(저것은 무엇이니?)에는 ‘It's a tree.’처럼 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ tall.",
+     "ko": "그것은 매우 키가 커.",
+     "choices": [
+      "a",
+      "small",
+      "very"
+     ],
+     "answer": 2,
+     "explain": "very는 ‘매우’라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's very big, ___.",
+     "ko": "그것은 매우 크기도 해.",
+     "choices": [
+      "too",
+      "very",
+      "small"
+     ],
+     "answer": 0,
+     "explain": "too는 ‘~도 또한’이라는 뜻이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "꽃을 봐.",
+     "answer": "Look at the flower.",
+     "distractors": [
+      "tree.",
+      "is"
+     ],
+     "explain": "‘~을 봐’는 ‘Look at ~.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 코끼리야. 그것은 커.",
+     "answer": "It's an elephant. It's big.",
+     "distractors": [
+      "a",
+      "small."
+     ],
+     "explain": "elephant 앞에는 an을 써요. 크다는 big이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's a bird. It's small.",
+     "answer": "It's a bird. It's small.",
+     "distractors": [
+      "big.",
+      "an"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "작은 새를 보고 할 말로 알맞은 것은?",
+     "emoji": "🐦",
+     "choices": [
+      "It's a bird. It's small.",
+      "It's a bird. It's tall.",
+      "It's a lion. It's small."
+     ],
+     "answer": 0,
+     "explain": "새는 bird, 작다는 small이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "높은 나무를 보고 있어요. B의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Look at the tree."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's very small.",
+      "Bye.",
+      "Wow, it's very tall."
+     ],
+     "answer": 2,
+     "explain": "높은 나무는 ‘It's very tall.’이라고 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇에 대한 말인지 고르세요.",
+     "audio": "Look at the flower. It's small.",
+     "choices": [
+      "큰 꽃",
+      "키 큰 나무",
+      "작은 새",
+      "작은 꽃"
+     ],
+     "answer": 3,
+     "explain": "flower는 꽃, small은 작은이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's a lion. It's big.",
+     "ko": "그것은 사자야. 그것은 커."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "키가 큰",
+     "answers": [
+      "tall"
+     ],
+     "hint": "t _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "큰",
+     "answers": [
+      "big"
+     ],
+     "hint": "b _ g"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look at the elephant. It's very big.",
+     "answer": "Look at the elephant. It's very big.",
+     "distractors": [
+      "small.",
+      "a"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "(사진 찍을 때) 치즈 하세요!",
+     "answer": "Say cheese!",
+     "distractors": [
+      "Look",
+      "tree"
+     ],
+     "explain": "사진을 찍을 때 ‘Say cheese!’라고 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina and Tom see animals. Mina says, \"Look at the lion. It's big.\" Tom says, \"Look at the bird. It's very small.\"",
+     "question": "Tom이 본 동물은 어떤가요?",
+     "choices": [
+      "큰 사자",
+      "키 큰 나무",
+      "작은 사자",
+      "아주 작은 새"
+     ],
+     "answer": 3,
+     "explain": "Tom은 ‘Look at the bird. It's very small.’이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나무는 키도 크고 굵기도 커요. 준오의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Look at the tree."
+      },
+      {
+       "who": "Hoa",
+       "text": "Wow, it's very tall."
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's very small, too.",
+      "It's very big, too.",
+      "It's a bird."
+     ],
+     "answer": 1,
+     "explain": "too를 써서 ‘크기도 해’라고 덧붙여요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Look ___ the bird.",
+     "ko": "새를 봐.",
+     "choices": [
+      "in",
+      "up",
+      "at"
+     ],
+     "answer": 2,
+     "explain": "‘~을 봐’는 Look at ~이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "코끼리를 소개하는 말로 알맞은 것은?",
+     "emoji": "🐘",
+     "choices": [
+      "It's an elephant.",
+      "It's a elephant.",
+      "It's elephant."
+     ],
+     "answer": 0,
+     "explain": "elephant처럼 a, e, i, o, u 소리로 시작하는 말 앞에는 an을 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at my picture. It's a flower. It's very tall. Wow! I like it.",
+     "question": "그림 속 꽃은 어떤가요?",
+     "choices": [
+      "아주 키가 커요.",
+      "아주 작아요.",
+      "새가 많아요."
+     ],
+     "answer": 0,
+     "explain": "‘It's very tall.’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look at the flower. It's very small.",
+     "ko": "꽃을 봐. 그것은 아주 작아."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "동물과 식물을 묘사하기 / 어떤 동물이나 식물인지 확인하는 질문하고 답하기",
+   "objectives": [
+    "동물과 식물을 묘사하는 말을 할 수 있다.",
+    "어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Look! It's Tall’ 노래와 ‘동물을 묘사하여 확인하고 그림 색칠하기’를 통해 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 92~93쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "큰 코끼리·작은 원숭이 사진 묘사하기, 티베탄 마스티프 사진 일부를 보며 ‘Is it a lion?’ 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "빛의 전시장 밀림 전시관에서 사자·원숭이·코끼리를 보며 확인하고 묘사하는 만화 영화 보고 이해하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 그림 속 동식물을 색칠하고 짝과 확인·묘사하는 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘Look! It's Tall’ 노래를 부르며 모둠별로 맡은 낱말이 나오면 손뼉 치기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "짝이 묘사한 동물을 추측하여 Is it a(n) ...?으로 묻고, 맞히면 자기 색으로 색칠하기 (수준별: 반쪽 카드 찾기 / 같은 크기 동물 모으기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "마모셋원숭이 사진으로 확인·묘사하는 말 복습, 상황에 알맞은 대화하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Is it a bird?",
+    "Yes, it is.",
+    "No, it isn't. It's a monkey.",
+    "It's very small."
+   ],
+   "tip": "Is it a(n) ...?으로 물으면 맞을 때 Yes, it is., 아닐 때 No, it isn't.로 답해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 동물과 식물을 묘사하는 말을 할 수 있는가? 어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "동물 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "monkey",
+       "원숭이"
+      ],
+      [
+       "cat",
+       "고양이"
+      ],
+      [
+       "dog",
+       "개"
+      ],
+      [
+       "lion",
+       "사자"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Is it a bird?",
+     "choices": [
+      "그것은 사자니?",
+      "그것은 새니?",
+      "그것은 새야."
+     ],
+     "answer": 1,
+     "explain": "Is it ~?은 ‘그것은 ~이니?’ 하고 확인하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Yes, it is.",
+     "choices": [
+      "아니, 그렇지 않아.",
+      "그것은 커.",
+      "응, 맞아."
+     ],
+     "answer": 2,
+     "explain": "Yes, it is.는 ‘응, 맞아.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림 속 동물은 사자예요(🦁). 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Is it a lion?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, it isn't.",
+      "Yes, it is.",
+      "It's small."
+     ],
+     "answer": 1,
+     "explain": "사자가 맞으니까 ‘Yes, it is.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나뭇가지에 매달린 동물은 원숭이예요(🐒). 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Is it a bird?"
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "No, it isn't. It's a lion.",
+      "No, it isn't. It's a monkey."
+     ],
+     "answer": 2,
+     "explain": "새가 아니라 원숭이니까 ‘No, it isn't. It's a monkey.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘원숭이’를 영어로 하면?",
+     "emoji": "🐒",
+     "choices": [
+      "lion",
+      "bird",
+      "elephant",
+      "monkey"
+     ],
+     "answer": 3,
+     "explain": "원숭이는 monkey예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Is ___ a dog?",
+     "ko": "그것은 개니?",
+     "choices": [
+      "it",
+      "I",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "‘그것은 ~이니?’는 Is it ~?이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, it ___.",
+     "ko": "응, 맞아.",
+     "choices": [
+      "is",
+      "isn't",
+      "it"
+     ],
+     "answer": 0,
+     "explain": "‘응, 맞아.’는 Yes, it is.예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 새니?",
+     "answer": "Is it a bird?",
+     "distractors": [
+      "It's",
+      "an"
+     ],
+     "explain": "‘그것은 새니?’는 ‘Is it a bird?’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Is it a tree?’에 대한 대답으로 알맞은 것은?",
+     "choices": [
+      "Yes, I do.",
+      "Yes, it is.",
+      "I'm fine."
+     ],
+     "answer": 1,
+     "explain": "Is it ~?으로 물으면 Yes, it is. / No, it isn't.로 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇인지 묻는 동물을 고르세요.",
+     "audio": "Is it an elephant?",
+     "choices": [
+      "🦁",
+      "🐒",
+      "🐦",
+      "🐘"
+     ],
+     "answer": 3,
+     "explain": "elephant는 코끼리예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Is it a bird?",
+     "ko": "그것은 새니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "그림 속 동물은 고양이예요(🐱). Danny의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Is it a lion?"
+      },
+      {
+       "who": "Danny",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, it isn't.",
+      "Yes, it is.",
+      "It's tall."
+     ],
+     "answer": 0,
+     "explain": "사자가 아니라 고양이니까 ‘No, it isn't.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림 속 동물은 고양이예요(🐱). 하나가 다시 물어볼 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Is it a dog?"
+      },
+      {
+       "who": "Danny",
+       "text": "No, it isn't."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Is it a dog?",
+      "Yes, it is.",
+      "Is it a cat?"
+     ],
+     "answer": 2,
+     "explain": "고양이인지 확인하려면 ‘Is it a cat?’이라고 물어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 그것은 새야.",
+     "answer": "No, it isn't. It's a bird.",
+     "distractors": [
+      "is.",
+      "monkey."
+     ],
+     "explain": "아니라고 답한 뒤 ‘It's a bird.’라고 무엇인지 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Is it a monkey? Yes, it is.",
+     "answer": "Is it a monkey? Yes, it is.",
+     "distractors": [
+      "isn't.",
+      "an"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Is it ___ elephant?",
+     "ko": "그것은 코끼리니?",
+     "choices": [
+      "a",
+      "an",
+      "it"
+     ],
+     "answer": 1,
+     "explain": "elephant 앞에는 an을 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 자연스러운 대화는?",
+     "choices": [
+      "A: Is it a bird? B: Yes, I do.",
+      "A: Is it a cat? B: I'm fine.",
+      "A: Is it a tree? B: Yes, it is."
+     ],
+     "answer": 2,
+     "explain": "Is it ~?에는 Yes, it is. 또는 No, it isn't.로 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇에 대한 말인지 고르세요.",
+     "audio": "Look! It's a lion. Oh, it's big.",
+     "choices": [
+      "작은 사자",
+      "큰 코끼리",
+      "작은 원숭이",
+      "큰 사자"
+     ],
+     "answer": 3,
+     "explain": "lion은 사자, big은 큰이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "작은 동물은 원숭이가 맞아요(🐒). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "It's very small. Is it a monkey?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, it isn't.",
+      "Yes, it is. It's a monkey.",
+      "Thank you."
+     ],
+     "answer": 1,
+     "explain": "원숭이가 맞으니까 ‘Yes, it is.’라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look! It's big. Is it a dog? No, it isn't. It's a lion.",
+     "question": "그림 속 동물은 무엇인가요?",
+     "choices": [
+      "개",
+      "원숭이",
+      "새",
+      "사자"
+     ],
+     "answer": 3,
+     "explain": "‘No, it isn't. It's a lion.’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Yes, it is. It's very big.",
+     "ko": "응, 맞아. 그것은 아주 커."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "새",
+     "answers": [
+      "bird"
+     ],
+     "hint": "b _ _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "작은",
+     "answers": [
+      "small"
+     ],
+     "hint": "s m _ _ l"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What's that? Is it an elephant?",
+     "answer": "What's that? Is it an elephant?",
+     "distractors": [
+      "a",
+      "bird?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 커. 그것은 사자니?",
+     "answer": "It's big. Is it a lion?",
+     "distractors": [
+      "small.",
+      "an"
+     ],
+     "explain": "먼저 크기를 말하고, Is it ~?으로 확인해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "작은 동물은 고양이예요(🐱). A의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Look! It's small."
+      },
+      {
+       "who": "B",
+       "text": "Is it a bird?"
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "No, it isn't. It's a lion.",
+      "No, it isn't. It's a cat."
+     ],
+     "answer": 2,
+     "explain": "새가 아니라 고양이니까 ‘No, it isn't. It's a cat.’이라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno and Kate see a big animal. Juno asks, \"Is it a lion?\" Kate says, \"No, it isn't. It's an elephant.\"",
+     "question": "두 아이가 본 동물은 무엇인가요?",
+     "choices": [
+      "큰 사자",
+      "작은 코끼리",
+      "작은 원숭이",
+      "큰 코끼리"
+     ],
+     "answer": 3,
+     "explain": "큰 동물(big animal)이고, Kate가 ‘It's an elephant.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: It's small. It's in a tree. Tom: Is it a monkey? Mina: No, it isn't. Tom: Is it a bird? Mina: Yes, it is!",
+     "question": "Mina가 생각한 동물은 무엇인가요?",
+     "choices": [
+      "새",
+      "원숭이",
+      "사자",
+      "코끼리"
+     ],
+     "answer": 0,
+     "explain": "‘Is it a bird?’에 ‘Yes, it is!’라고 답했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "No, it ___. It's a dog.",
+     "ko": "아니, 그렇지 않아. 그것은 개야.",
+     "choices": [
+      "is",
+      "isn't",
+      "it"
+     ],
+     "answer": 1,
+     "explain": "‘아니, 그렇지 않아.’는 No, it isn't.예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "꽃을 보고 ‘Is it a tree?’라고 물었어요. 알맞은 대답은?",
+     "emoji": "🌸",
+     "choices": [
+      "No, it isn't. It's a flower.",
+      "No, I don't. It's a flower.",
+      "Yes, it is. It's a flower."
+     ],
+     "answer": 0,
+     "explain": "Is it ~?에 아니라고 할 때는 ‘No, it isn't.’라고 하고, 무엇인지 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look at the monkey. It's very small.",
+     "ko": "원숭이를 봐. 그것은 아주 작아."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "동물·식물을 묘사하는 단어와 동물·식물을 나타내는 단어 읽고 쓰기 / 알파벳 ‘l’로 시작하는 단어 소리 내어 읽기",
+   "objectives": [
+    "단어(big, bird, lion, small, tall, tree)를 읽고 그 의미를 이해하며, 보고 쓸 수 있다.",
+    "/l/ 소리를 식별하고, 소리 /l/과 철자 ‘l’의 관계를 이해하며 ‘l’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+    "‘모빌 그림 사전 만들기’의 협력 과업으로 단어를 읽고 쓰며, 어떤 동물이나 식물인지 확인하는 질문을 하고 답하는 말과 묘사하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 94~95쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "원숭이 그림으로 지난 시간 표현 복습, 사자 그림을 보며 L-I-O-N 철자 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "단어 읽고 뜻 추측하기, 예시 대화 따라 말하고 교사가 가리키는 단어로 짝과 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read, Follow and Match / Choose and Write",
+     "desc": "길을 따라 단어를 읽고 알맞은 그림에 연결하기, 그림에 알맞은 단어 골라 쓰기, 스스로 다지기(단어 찾아 쓰기·내 물건 크기 단어 쓰기)",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "/l/ 소리와 철자 l의 관계 익히기(lion, like, look), 첫소리가 다른 단어 고르기, l로 시작하는 그림에 ○표",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "짝과 동식물 단어와 묘사 단어를 골라 원에 쓰고 그림을 그려 모빌 그림 사전 만들고, 친구들과 확인·묘사하는 대화하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "단어 읽기, Ll 카드로 l로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "big",
+    "bird",
+    "lion",
+    "small",
+    "tall",
+    "tree",
+    "lion, like, look"
+   ],
+   "tip": "/l/은 혀끝을 윗니 뒤 잇몸에 댔다가 떼며 내는 소리예요. lion, like, look을 소리 내어 읽어 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가, 포트폴리오(모빌 그림 사전) — 단어를 읽고 의미를 이해하며 보고 쓸 수 있는가? /l/ 소리를 식별하고 l로 시작하는 단어를 소리 내어 읽을 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bird",
+       "🐦"
+      ],
+      [
+       "lion",
+       "🦁"
+      ],
+      [
+       "tree",
+       "🌳"
+      ],
+      [
+       "elephant",
+       "🐘"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "big",
+       "큰"
+      ],
+      [
+       "small",
+       "작은"
+      ],
+      [
+       "tall",
+       "키가 큰"
+      ],
+      [
+       "bird",
+       "새"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🦁",
+     "choices": [
+      "like",
+      "look",
+      "bird",
+      "lion"
+     ],
+     "answer": 3,
+     "explain": "사자는 lion이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 ‘새’를 뜻하는 단어는?",
+     "emoji": "🐦",
+     "choices": [
+      "big",
+      "bird",
+      "tree",
+      "ball"
+     ],
+     "answer": 1,
+     "explain": "bird는 새예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "lion",
+     "choices": [
+      "🐘",
+      "🐦",
+      "🌳",
+      "🦁"
+     ],
+     "answer": 3,
+     "explain": "lion은 사자예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 첫소리에 해당하는 글자를 고르세요.",
+     "audio": "look",
+     "choices": [
+      "r",
+      "l",
+      "t",
+      "b"
+     ],
+     "answer": 1,
+     "explain": "look은 /l/ 소리로 시작해요. 글자는 l이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 첫소리가 /l/인 단어는?",
+     "choices": [
+      "robot",
+      "tree",
+      "lion",
+      "bird"
+     ],
+     "answer": 2,
+     "explain": "lion은 l(/l/)로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "tall",
+     "choices": [
+      "ball",
+      "small",
+      "tall"
+     ],
+     "answer": 2,
+     "explain": "tall은 ‘키가 큰’이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's a ___.",
+     "ko": "그것은 나무야.",
+     "choices": [
+      "bird",
+      "tree",
+      "lion"
+     ],
+     "answer": 1,
+     "explain": "나무는 tree예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 첫 글자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "lion",
+       "l"
+      ],
+      [
+       "bird",
+       "b"
+      ],
+      [
+       "tree",
+       "t"
+      ],
+      [
+       "small",
+       "s"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "키가 큰 나무를 나타내는 말은?",
+     "emoji": "🌳",
+     "choices": [
+      "tall tree",
+      "small bird",
+      "big lion"
+     ],
+     "answer": 0,
+     "explain": "tall은 키가 큰, tree는 나무예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "lion, like, look",
+     "ko": "사자, 좋아하다, 보다"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "그림은 높은 나무예요(🌳). G의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Is it a tree?"
+      },
+      {
+       "who": "B",
+       "text": "Yes, it is."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, it's small.",
+      "Wow, it's tall.",
+      "No, it isn't."
+     ],
+     "answer": 1,
+     "explain": "키 큰 나무니까 ‘Wow, it's tall.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림은 사자예요(🦁). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Is it a cat?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "No, it isn't. It's a bird.",
+      "No, it isn't. It's a lion."
+     ],
+     "answer": 2,
+     "explain": "고양이가 아니라 사자니까 ‘No, it isn't. It's a lion.’이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "첫소리가 다른 하나를 고르세요.",
+     "choices": [
+      "lion",
+      "look",
+      "like",
+      "small"
+     ],
+     "answer": 3,
+     "explain": "lion, look, like는 /l/로 시작하고 small은 /s/로 시작해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "___ook",
+     "ko": "보다 (그림을 ‘봐!’ 할 때 쓰는 말)",
+     "choices": [
+      "l",
+      "b",
+      "t"
+     ],
+     "answer": 0,
+     "explain": "‘보다’는 look이에요. 첫 글자는 l이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "사자",
+     "answers": [
+      "lion"
+     ],
+     "hint": "_ i o n"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's a bird. Wow, it's small.",
+     "answer": "It's a bird. Wow, it's small.",
+     "distractors": [
+      "big.",
+      "tree."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 사자니?",
+     "answer": "Is it a lion?",
+     "distractors": [
+      "bird?",
+      "It's"
+     ],
+     "explain": "‘그것은 ~이니?’는 Is it a ~?예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "단어 ‘tall’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "작은",
+      "큰",
+      "새",
+      "키가 큰"
+     ],
+     "answer": 3,
+     "explain": "tall은 ‘키가 큰, 높은’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "small",
+     "choices": [
+      "tall",
+      "small",
+      "ball"
+     ],
+     "answer": 1,
+     "explain": "small은 ‘작은’이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Is it a tree? Yes, it is. It's tall.",
+     "ko": "그것은 나무니? 응, 맞아. 그것은 키가 커."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "키가 큰",
+     "answers": [
+      "tall"
+     ],
+     "hint": "t _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "보다 (‘나무를 봐.’ 할 때 쓰는 말)",
+     "answers": [
+      "look"
+     ],
+     "hint": "l _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "좋아하다 (‘나는 그것이 좋아.’ 할 때 쓰는 말)",
+     "answers": [
+      "like"
+     ],
+     "hint": "l _ k e"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is our picture dictionary. A big lion, a small bird, and a tall tree.",
+     "question": "작은 것은 무엇인가요?",
+     "choices": [
+      "새",
+      "사자",
+      "나무"
+     ],
+     "answer": 0,
+     "explain": "‘a small bird’라고 했어요. small은 작은이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 사자야. 그것은 작아.",
+     "answer": "It's a lion. It's small.",
+     "distractors": [
+      "big.",
+      "an"
+     ],
+     "explain": "‘It's a lion.’ 다음에 ‘It's small.’이라고 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look at the lion.",
+     "answer": "Look at the lion.",
+     "distractors": [
+      "like",
+      "bird."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 단어와 같은 소리로 시작하는 단어는?",
+     "emoji": "🦁",
+     "choices": [
+      "tall",
+      "robot",
+      "bird",
+      "look"
+     ],
+     "answer": 3,
+     "explain": "lion과 look은 둘 다 /l/ 소리로 시작해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "모빌 속 새 그림이 아주 커요. S의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "S",
+       "text": "Is it a bird?"
+      },
+      {
+       "who": "S1",
+       "text": "Yes, it is."
+      },
+      {
+       "who": "S",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, it's small.",
+      "It's a tree.",
+      "Wow, it's big."
+     ],
+     "answer": 2,
+     "explain": "새가 크니까 ‘Wow, it's big.’이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ the tree.",
+     "ko": "나는 그 나무가 좋아.",
+     "choices": [
+      "look",
+      "lion",
+      "like"
+     ],
+     "answer": 2,
+     "explain": "‘좋아하다’는 like예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like the tall tree.",
+     "ko": "나는 그 키 큰 나무가 좋아."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·정리",
+   "icon": "book",
+   "studyPoint": "‘골딜록스와 곰 세 마리’ 역할극을 하며 배운 표현 활용하기 / ‘My Work’로 배운 내용을 확인하고 정리하기",
+   "objectives": [
+    "‘Story Time’에서 ‘골딜록스와 곰 세 마리’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 96~97쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "키 큰 나무 사진을 보고 떠오르는 단어(tall, tree)를 찾아 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "원작 소개와 이야기 추측하기, 만화 영화를 보며 줄거리 이해하기, HOW ABOUT YOU?(부엌 발자국은 누구의 것일까?), 모둠별 역할극하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 순서대로 번호 쓰기, 동물을 확인하고 묘사하는 대화하기, 인형 뽑기 그림에 알맞은 단어 쓰기, 커지고 싶은지 작아지고 싶은지 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 성취도 점검과 ‘정리해요’ 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Is it a lion?",
+    "No, it isn't. It's very small.",
+    "Is it a bird?",
+    "I'm sorry."
+   ],
+   "tip": "이야기 속 인물이 되어 Is it a ...?와 It's small. 같은 말을 실감 나게 말해 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(역할극 참여), My Work 자기 평가, 단원평가(지필) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 단원 내용을 정리할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Baby Bear says, \"I like chicken.\" But the chicken is gone! Mama Bear says, \"Oh, no!\"",
+     "question": "무엇이 없어졌나요?",
+     "choices": [
+      "치킨",
+      "피자",
+      "주스",
+      "바나나"
+     ],
+     "answer": 0,
+     "explain": "아기 곰은 치킨을 좋아하는데, 치킨이 없어졌어요(gone)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mama Bear sees a footprint. \"Is it a lion?\" Papa Bear says, \"No, it isn't. It's very small.\"",
+     "question": "발자국은 어떤가요?",
+     "choices": [
+      "아주 커요.",
+      "키가 커요.",
+      "아주 작아요."
+     ],
+     "answer": 2,
+     "explain": "아빠 곰이 ‘It's very small.’이라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "chicken",
+       "치킨"
+      ],
+      [
+       "small",
+       "작은"
+      ],
+      [
+       "bird",
+       "새"
+      ],
+      [
+       "door",
+       "문"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마 곰이 문을 열어 달라고 해요. 아기 곰의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "엄마 곰",
+       "text": "Open the door."
+      },
+      {
+       "who": "아기 곰",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's big.",
+      "Okay.",
+      "Is it a bird?"
+     ],
+     "answer": 1,
+     "explain": "부탁에 ‘Okay.’(알았어요.)라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm sorry.",
+     "choices": [
+      "미안해.",
+      "고마워.",
+      "안녕."
+     ],
+     "answer": 0,
+     "explain": "I'm sorry.는 ‘미안해.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "작은 새 발자국을 보고 있어요. 엄마 곰이 할 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "아기 곰",
+       "text": "What's this?"
+      },
+      {
+       "who": "엄마 곰",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm sorry.",
+      "Thank you.",
+      "Is it a bird?"
+     ],
+     "answer": 2,
+     "explain": "새 발자국인지 확인하려면 ‘Is it a bird?’라고 물어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "치킨을 먹어 보니 맛있어요. 할 말로 알맞은 것은?",
+     "choices": [
+      "It's good.",
+      "It's tall.",
+      "It's small."
+     ],
+     "answer": 0,
+     "explain": "good은 ‘좋은, 맛있는’이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My ___!",
+     "ko": "내 치킨!",
+     "choices": [
+      "cheese",
+      "chicken",
+      "tree"
+     ],
+     "answer": 1,
+     "explain": "치킨은 chicken이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's very small.",
+     "choices": [
+      "아주 커.",
+      "아주 작아.",
+      "아주 키가 커."
+     ],
+     "answer": 1,
+     "explain": "very small은 ‘아주 작은’이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "영어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Is it a bird?",
+       "그것은 새니?"
+      ],
+      [
+       "Yes, it is.",
+       "응, 맞아."
+      ],
+      [
+       "No, it isn't.",
+       "아니, 그렇지 않아."
+      ],
+      [
+       "I'm sorry.",
+       "미안해."
+      ]
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 치킨을 좋아해.",
+     "answer": "I like chicken.",
+     "distractors": [
+      "cheese.",
+      "It's"
+     ],
+     "explain": "‘나는 ~을 좋아해.’는 I like ~.예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm sorry. It's good.",
+     "ko": "미안해. 그거 맛있어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at the footprint. It's big. Is it a cat? No, it isn't. It's a lion!",
+     "question": "발자국의 주인은 누구인가요?",
+     "choices": [
+      "고양이",
+      "새",
+      "원숭이",
+      "사자"
+     ],
+     "answer": 3,
+     "explain": "‘No, it isn't. It's a lion!’이라고 했어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇에 대한 대화인지 고르세요.",
+     "audio": "Is it a tree? Yes, it is. It's very tall.",
+     "choices": [
+      "작은 꽃",
+      "큰 사자",
+      "작은 새",
+      "키 큰 나무"
+     ],
+     "answer": 3,
+     "explain": "tree는 나무, very tall은 아주 키가 큰이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "작은 새를 보고 있어요. G의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Look at the bird."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's tall.",
+      "It's small.",
+      "No, it isn't."
+     ],
+     "answer": 1,
+     "explain": "작은 새니까 ‘It's small.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "고양이가 아주 커요. B의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Is it a lion?"
+      },
+      {
+       "who": "G",
+       "text": "No, it isn't. It's a cat."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, it's very small.",
+      "Yes, it is.",
+      "Wow, it's very big."
+     ],
+     "answer": 2,
+     "explain": "아주 큰 고양이니까 ‘Wow, it's very big.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 코끼리니?",
+     "answer": "Is it an elephant?",
+     "distractors": [
+      "a",
+      "lion?"
+     ],
+     "explain": "elephant 앞에는 an을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's very ___.",
+     "ko": "그것은 아주 키가 커.",
+     "choices": [
+      "tall",
+      "small",
+      "big"
+     ],
+     "answer": 0,
+     "explain": "‘키가 큰’은 tall이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 /l/ 소리로 시작하는 단어는?",
+     "choices": [
+      "bird",
+      "tree",
+      "small",
+      "look"
+     ],
+     "answer": 3,
+     "explain": "look은 l(/l/)로 시작해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Open the door.",
+     "answer": "Open the door.",
+     "distractors": [
+      "close",
+      "Okay."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 보고 알맞은 두 단어를 고르세요. (작은 새)",
+     "emoji": "🐦",
+     "choices": [
+      "small, bird",
+      "big, lion",
+      "tall, tree"
+     ],
+     "answer": 0,
+     "explain": "작은 새는 small bird예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! Is it a bird?",
+     "ko": "봐! 그것은 새니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "작은 (철자를 바르게 배열해요: l a s m l)",
+     "answers": [
+      "small"
+     ],
+     "hint": "s _ _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "새 (철자를 바르게 배열해요: r i d b)",
+     "answers": [
+      "bird"
+     ],
+     "hint": "b _ _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아니, 그렇지 않아.",
+     "answers": [
+      "No, it isn't.",
+      "No, it is not."
+     ],
+     "hint": "No, it ____."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The bears find Goldilocks. She has the chicken. Baby Bear says, \"My chicken!\" Goldilocks says, \"I'm sorry. It's good.\"",
+     "question": "골딜록스가 아기 곰에게 한 말은 무엇인가요?",
+     "choices": [
+      "고마워. 맛있어.",
+      "안녕. 반가워.",
+      "문을 열어.",
+      "미안해. 맛있어."
+     ],
+     "answer": 3,
+     "explain": "골딜록스는 ‘I'm sorry. It's good.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my picture. It's a monkey. It's very big. I like it!",
+     "question": "그림 속 원숭이는 어떤가요?",
+     "choices": [
+      "아주 커요.",
+      "아주 작아요.",
+      "키가 커요."
+     ],
+     "answer": 0,
+     "explain": "‘It's very big.’이라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Is it a lion? No, it isn't. It's a cat.",
+     "answer": "Is it a lion? No, it isn't. It's a cat.",
+     "distractors": [
+      "bird.",
+      "is"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "음. 응, 맞아.",
+     "answer": "Hmm. Yes, it is.",
+     "distractors": [
+      "isn't.",
+      "No,"
+     ],
+     "explain": "‘응, 맞아.’는 ‘Yes, it is.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "코끼리가 아주 작아요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What's that?"
+      },
+      {
+       "who": "B",
+       "text": "It's an elephant."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's very small.",
+      "Oh, it's very tall.",
+      "Is it a tree?"
+     ],
+     "answer": 0,
+     "explain": "작은 코끼리니까 ‘Oh, it's very small.’이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ it a bird?",
+     "ko": "그것은 새니?",
+     "choices": [
+      "It's",
+      "Look",
+      "Is"
+     ],
+     "answer": 2,
+     "explain": "‘그것은 ~이니?’는 Is it ~?으로 물어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! Is it a lion? No, it isn't. It's very small.",
+     "ko": "봐! 그것은 사자니? 아니, 그렇지 않아. 그것은 아주 작아."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "아이들이 야외 식물원에서 큰 꽃과 아주 키 큰 나무를 보며 이야기해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Look at the flower."
+    },
+    {
+     "who": "보라",
+     "text": "Oh, it's big."
+    },
+    {
+     "who": "Hoa",
+     "text": "What's that?"
+    },
+    {
+     "who": "Eric",
+     "text": "It's a tree."
+    },
+    {
+     "who": "Hoa",
+     "text": "Wow, it's very tall."
+    },
+    {
+     "who": "준오",
+     "text": "It's very big, too."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "빛의 전시장 밀림 전시관에서 사자, 원숭이, 코끼리를 보며 무엇인지 확인해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Look! It's a lion."
+    },
+    {
+     "who": "Sam",
+     "text": "Oh, it's big."
+    },
+    {
+     "who": "보라",
+     "text": "Is it a bird?"
+    },
+    {
+     "who": "준오",
+     "text": "No, it isn't. It's a monkey."
+    },
+    {
+     "who": "보라",
+     "text": "Is it an elephant?"
+    },
+    {
+     "who": "Kate",
+     "text": "Yes, it is."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 영상 속 동물이 무엇인지 Danny에게 물어봐요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Is it a lion?"
+    },
+    {
+     "who": "Danny",
+     "text": "No, it isn't."
+    },
+    {
+     "who": "하나",
+     "text": "Is it a dog?"
+    },
+    {
+     "who": "Danny",
+     "text": "Yes, it is."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "곰 가족이 사라진 치킨과 작은 발자국을 발견해요.",
+   "lines": [
+    {
+     "who": "엄마 곰",
+     "text": "Look! Is it a lion?"
+    },
+    {
+     "who": "아빠 곰",
+     "text": "No, it isn't. It's very small."
+    },
+    {
+     "who": "엄마 곰",
+     "text": "Is it a bird?"
+    },
+    {
+     "who": "골딜록스",
+     "text": "I'm sorry."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Goldilocks and the Three Bears (골딜록스와 곰 세 마리)",
+  "passage": "Baby Bear wants chicken, but the chicken is gone. Mama Bear sees a footprint on the floor. Is it a lion? No, it isn't. It's very small. Baby Bear opens the door. Now they see tiny bird prints. Then the bears find a girl, Goldilocks. She is eating the chicken! She says sorry, and she says the chicken is good.",
+  "summaryKo": "치킨이 사라지자 곰 가족이 작은 발자국을 따라가 치킨을 먹고 있는 골딜록스를 찾아내요."
+ },
+ "writing": {
+  "frame": [
+   "It's a(n) ____.",
+   "It's ____."
+  ],
+  "model": "It's a lion. It's big."
+ },
+ "project": "Work Together ‘모빌 그림 사전 만들기’: 짝과 동식물 단어(bird, lion, tree)와 묘사 단어(big, small, tall)를 골라 원에 쓰고 그림을 그려 모빌을 만든 뒤, 친구들과 ‘Is it a bird? – Yes, it is. Wow, it's big.’처럼 대화한다."
+}

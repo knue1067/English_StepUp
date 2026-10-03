@@ -1,0 +1,3254 @@
+{
+ "id": "L03",
+ "no": 3,
+ "grade": 6,
+ "semester": 1,
+ "title": "When Is Your Birthday?",
+ "emoji": "🎂",
+ "rationale": "일상생활에서 생일과 같은 특별한 날이나 행사 날짜를 묻고 답하고, 다가올 일에 대한 기대를 표현하는 상황을 자주 겪는다. 날짜를 묻고 답하는 말과 희망·기대를 표현하는 말을 익혀 실생활에 활용하게 하고, 환경 기념일을 알리는 글을 읽고 쓰며 환경에 대한 감수성을 기르고자 한다.",
+ "topics": "개인생활 관련(생일), 학교생활 관련(학교 활동), 생태전환 관련(자연환경과 생태 윤리)",
+ "functions": [
+  {
+   "ko": "날짜 묻고 답하기",
+   "examples": [
+    "When is your birthday?",
+    "It's on May 7th."
+   ]
+  },
+  {
+   "ko": "희망, 기대 표현하기",
+   "examples": [
+    "I can't wait!"
+   ]
+  }
+ ],
+ "forms": [
+  "It's on November 6th.",
+  "We can save water."
+ ],
+ "newWords": [
+  {
+   "en": "campaign",
+   "ko": "캠페인, (사회) 운동"
+  },
+  {
+   "en": "earth",
+   "ko": "지구"
+  },
+  {
+   "en": "off",
+   "ko": "(전기·물 등이) 꺼진 (turn off 끄다)"
+  },
+  {
+   "en": "paper",
+   "ko": "종이"
+  },
+  {
+   "en": "poster",
+   "ko": "포스터"
+  },
+  {
+   "en": "save",
+   "ko": "아끼다, 지키다, 구하다"
+  },
+  {
+   "en": "shirt",
+   "ko": "셔츠"
+  },
+  {
+   "en": "turn",
+   "ko": "돌리다 (turn off 끄다, 잠그다)"
+  },
+  {
+   "en": "twenty-one",
+   "ko": "21, 스물하나"
+  },
+  {
+   "en": "twenty-three",
+   "ko": "23, 스물셋"
+  },
+  {
+   "en": "twenty-two",
+   "ko": "22, 스물둘"
+  },
+  {
+   "en": "when",
+   "ko": "언제"
+  },
+  {
+   "en": "world",
+   "ko": "세계"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "January",
+   "ko": "1월",
+   "emoji": "⛄"
+  },
+  {
+   "en": "February",
+   "ko": "2월",
+   "emoji": ""
+  },
+  {
+   "en": "March",
+   "ko": "3월",
+   "emoji": ""
+  },
+  {
+   "en": "April",
+   "ko": "4월",
+   "emoji": "🌷"
+  },
+  {
+   "en": "May",
+   "ko": "5월",
+   "emoji": ""
+  },
+  {
+   "en": "June",
+   "ko": "6월",
+   "emoji": ""
+  },
+  {
+   "en": "July",
+   "ko": "7월",
+   "emoji": ""
+  },
+  {
+   "en": "August",
+   "ko": "8월",
+   "emoji": "☀️"
+  },
+  {
+   "en": "September",
+   "ko": "9월",
+   "emoji": ""
+  },
+  {
+   "en": "October",
+   "ko": "10월",
+   "emoji": "🍁"
+  },
+  {
+   "en": "November",
+   "ko": "11월",
+   "emoji": ""
+  },
+  {
+   "en": "December",
+   "ko": "12월",
+   "emoji": "🎄"
+  }
+ ],
+ "characters": [
+  "Amy",
+  "하나",
+  "Tom",
+  "우주",
+  "Linh",
+  "Mohan",
+  "민우",
+  "Taylor",
+  "Olivia",
+  "Olivia 엄마",
+  "보보",
+  "코코"
+ ],
+ "goals": {
+  "understand": [
+   "날짜를 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "희망, 기대를 표현하는 말을 듣고 이해할 수 있다.",
+   "환경 기념일을 알리는 글을 읽고 이해할 수 있다.",
+   "날짜를 묻고 답하며 희망, 기대를 표현하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "환경 기념일을 알리는 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "날짜를 묻고 답하는 말을 할 수 있다.",
+   "희망, 기대를 표현하는 말을 할 수 있다.",
+   "날짜를 묻고 답하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 환경 기념일을 알리는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-06",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "날짜 묻고 답하기",
+   "objectives": [
+    "날짜를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 35~37쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "학생들의 생일 묻기, 가장 기다리는 특별한 날 이야기하기, 열두 달 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "Amy와 하나가 학급 생일 판을 보며 생일을 묻고 답하는 만화 영화 보고 Tom의 생일 고르기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "케이크에 쓰인 날짜를 보며 대화를 듣고 순서대로 번호 쓰기, 1~12월 생일 묻고 답하기 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 말한 생일 날짜를 교과서에서 먼저 찾아 자기 색으로 칠하기 (짝)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "날짜 카드를 보고 생일 답하기, 듣고 ○╳ 문제 풀기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "When is your birthday?",
+    "It's on May 7th.",
+    "It's on April 21st."
+   ],
+   "tip": "날짜는 '달 이름 + 서수'로 말해요. 1일 1st, 2일 2nd, 3일 3rd, 그 밖에는 대부분 th를 붙여요(21st, 22nd, 23rd도 기억!).",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 날짜를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "달 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "January",
+       "1월"
+      ],
+      [
+       "February",
+       "2월"
+      ],
+      [
+       "March",
+       "3월"
+      ],
+      [
+       "April",
+       "4월"
+      ],
+      [
+       "May",
+       "5월"
+      ],
+      [
+       "June",
+       "6월"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "달 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "July",
+       "7월"
+      ],
+      [
+       "August",
+       "8월"
+      ],
+      [
+       "September",
+       "9월"
+      ],
+      [
+       "October",
+       "10월"
+      ],
+      [
+       "November",
+       "11월"
+      ],
+      [
+       "December",
+       "12월"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'when'의 뜻은?",
+     "choices": [
+      "어디에",
+      "언제",
+      "왜",
+      "무엇"
+     ],
+     "answer": 1,
+     "explain": "when은 '언제'예요. When is your birthday? = 네 생일은 언제니?"
+    },
+    {
+     "type": "mc",
+     "prompt": "'21st'를 바르게 읽은 것은?",
+     "emoji": "📅",
+     "choices": [
+      "twentieth",
+      "twenty-third",
+      "twenty-first",
+      "twenty-one"
+     ],
+     "answer": 2,
+     "explain": "21st는 twenty-first(스물한 번째)예요. 날짜는 서수로 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "When is your birthday?",
+     "choices": [
+      "너는 몇 학년이니?",
+      "네 생일은 언제니?",
+      "네 생일 파티는 어디야?"
+     ],
+     "answer": 1,
+     "explain": "When은 '언제'예요. 생일 날짜를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날짜를 고르세요.",
+     "audio": "It's on May 7th.",
+     "choices": [
+      "3월 7일",
+      "5월 7일",
+      "5월 17일"
+     ],
+     "answer": 1,
+     "explain": "May는 5월, 7th는 7일이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 생일은 5월 7일이에요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "When is your birthday?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on May 7th.",
+      "I'm in the sixth grade.",
+      "It's in the park."
+     ],
+     "answer": 0,
+     "explain": "날짜를 물으면 'It's on 달 날짜.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Amy의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "?"
+      },
+      {
+       "who": "Tom",
+       "text": "It's on April 21st."
+      }
+     ],
+     "choices": [
+      "Tom, when is your birthday?",
+      "Tom, how are you?",
+      "Tom, what season do you like?"
+     ],
+     "answer": 0,
+     "explain": "날짜로 답했으니 'When is your birthday?'가 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ is your birthday?",
+     "ko": "네 생일은 언제니?",
+     "choices": [
+      "When",
+      "What",
+      "Where"
+     ],
+     "answer": 0,
+     "explain": "'언제'는 When이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "네 생일은 언제니?",
+     "answer": "When is your birthday?",
+     "distractors": [
+      "What",
+      "are"
+     ],
+     "explain": "생일을 물을 때는 'When is your birthday?'라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's on July 4th.",
+     "answer": "It's on July 4th.",
+     "distractors": [
+      "in",
+      "June"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is your birthday?",
+     "ko": "네 생일은 언제니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 순서대로 바르게 놓인 것은?",
+     "choices": [
+      "April - March - May",
+      "May - June - April",
+      "July - June - August",
+      "March - April - May"
+     ],
+     "answer": 3,
+     "explain": "3월(March), 4월(April), 5월(May) 순서예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'2월 3일'을 바르게 쓴 것은?",
+     "choices": [
+      "Febuary 3rd",
+      "February 3st",
+      "February 3th",
+      "February 3rd"
+     ],
+     "answer": 3,
+     "explain": "2월은 February, 3일은 3rd예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 생일이 언제인지 고르세요.",
+     "audio": "When is your birthday? — It's on November 1st.",
+     "choices": [
+      "11월 21일",
+      "10월 1일",
+      "11월 1일"
+     ],
+     "answer": 2,
+     "explain": "November는 11월, 1st는 1일이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ June 21st.",
+     "ko": "6월 21일이야.",
+     "choices": [
+      "at",
+      "in",
+      "on"
+     ],
+     "answer": 2,
+     "explain": "날짜 앞에는 on을 써요. It's on June 21st."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My birthday is ___ May.",
+     "ko": "내 생일은 5월에 있어.",
+     "choices": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 1,
+     "explain": "달(month)만 말할 때는 in을 써요. in May."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy의 생일도 5월 7일이에요. Amy의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Hana! Is your birthday in May?"
+      },
+      {
+       "who": "하나",
+       "text": "Yes, it is."
+      },
+      {
+       "who": "Amy",
+       "text": "When is your birthday?"
+      },
+      {
+       "who": "하나",
+       "text": "It's on May 7th."
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Really? My birthday is on May 7th, too.",
+      "Bye, Hana.",
+      "My birthday is in May, too? No."
+     ],
+     "answer": 0,
+     "explain": "생일이 같으면 'My birthday is on May 7th, too.'라고 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "My birthday is next week. We have a field trip on that day."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "When is your birthday?",
+      "Let's have your birthday party there!",
+      "I'm sorry."
+     ],
+     "answer": 1,
+     "explain": "현장 체험 학습 날이 생일이니 그곳에서 생일 파티를 하자고 제안해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 생일은 4월 21일이야.",
+     "answer": "My birthday is on April 21st.",
+     "distractors": [
+      "in",
+      "21th."
+     ],
+     "explain": "My birthday is on 달 날짜."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is your birthday? It's on February 3rd.",
+     "answer": "When is your birthday? It's on February 3rd.",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's on April 21st.",
+     "ko": "4월 21일이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "1월",
+     "answers": [
+      "January"
+     ],
+     "hint": "J _ _ u _ r y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Linh, 네 생일은 언제니?",
+     "answers": [
+      "Linh, when is your birthday?",
+      "When is your birthday, Linh?"
+     ],
+     "hint": "Linh, _____ is your birthday?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "7월 7일이야.",
+     "answers": [
+      "It's on July 7th.",
+      "It is on July 7th.",
+      "It's on July 7."
+     ],
+     "hint": "It's on ____ ___."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Tom, when is your birthday? It's on April 21st.",
+     "answer": "Tom, when is your birthday? It's on April 21st.",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 생일은 12월 4일이야. 네 생일은 언제니?",
+     "answer": "My birthday is on December 4th. When is your birthday?",
+     "distractors": [
+      "in",
+      "What"
+     ],
+     "explain": "자기 생일을 말하고 상대방에게 되물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sue의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "Look! Your birthday is in October."
+      },
+      {
+       "who": "Sue",
+       "text": "Yes. It's on October 21st."
+      },
+      {
+       "who": "Ben",
+       "text": "Really? That's tomorrow!"
+      },
+      {
+       "who": "Sue",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes! Let's have a party.",
+      "When is your birthday?",
+      "No, it's in March."
+     ],
+     "answer": 0,
+     "explain": "내일이 생일이라는 말에 '응! 파티하자.'가 자연스러워요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Class Birthday Board\nJanuary: Uju (1st)\nApril: Tom (21st)\nMay: Hana (7th), Amy (7th)\nAugust: Luna (21st)",
+     "question": "생일이 같은 두 사람은?",
+     "choices": [
+      "Uju와 Tom",
+      "Tom과 Luna",
+      "Hana와 Amy"
+     ],
+     "answer": 2,
+     "explain": "Hana와 Amy는 둘 다 5월 7일이 생일이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: When is your birthday, Jun?\nJun: It's on September 3rd.\nMina: Wow, my birthday is in September, too. It's on September 23rd.",
+     "question": "Mina의 생일은?",
+     "choices": [
+      "9월 3일",
+      "10월 23일",
+      "9월 23일"
+     ],
+     "answer": 2,
+     "explain": "Mina는 'It's on September 23rd.'라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'twenty-second'를 숫자 표시로 바르게 쓴 것은?",
+     "choices": [
+      "22nd",
+      "20nd",
+      "22st",
+      "22th"
+     ],
+     "answer": 0,
+     "explain": "22 → 22nd. 2로 끝나는 서수는 nd를 붙여요(12는 12th)."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My birthday is on May 7th, too.",
+     "ko": "내 생일도 5월 7일이야."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "날짜 묻고 답하기 / 희망, 기대 표현하기",
+   "objectives": [
+    "날짜를 묻고 답하는 말을 할 수 있다.",
+    "희망, 기대를 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 38~39쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "교사의 생일을 묻고 답하며 복습하기, 학사 일정을 보며 행사 날짜 묻고 'I can't wait!' 듣기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Linh과 Tom이 지구의 날 포스터를 만들며 Green Earth Festival을 이야기하고, 우주가 참가 신청서에 이름을 쓰는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "운동회·학교 장터 날짜를 묻고 답하는 동영상으로 표현 익히기, 가장 기대되는 학교 행사 날짜를 짝과 묻고 답하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "행사 그림 카드와 날짜 카드를 들고 행사 날짜를 묻고 답하며 'I can't wait!'을 덧붙이고, 날짜 순서대로 빨리 줄 서기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "When is Earth Day?",
+    "It's on April 22nd.",
+    "I can't wait!"
+   ],
+   "tip": "다가오는 날이 무척 기다려질 때 'I can't wait!(너무 기대돼!)'이라고 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 날짜를 묻고 답하는 말을 할 수 있는가? 희망, 기대를 표현하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "행사 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Earth Day",
+       "지구의 날"
+      ],
+      [
+       "Sports Day",
+       "운동회"
+      ],
+      [
+       "field trip",
+       "현장 체험 학습"
+      ],
+      [
+       "club festival",
+       "동아리 축제"
+      ],
+      [
+       "school market",
+       "학교 장터"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "earth",
+       "지구"
+      ],
+      [
+       "poster",
+       "포스터"
+      ],
+      [
+       "shirt",
+       "셔츠"
+      ],
+      [
+       "campaign",
+       "캠페인"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'I can't wait!'의 뜻은?",
+     "choices": [
+      "잘했어!",
+      "너무 기대돼!",
+      "기다릴 수 있어.",
+      "걱정하지 마."
+     ],
+     "answer": 1,
+     "explain": "I can't wait!은 '빨리 그날이 왔으면 좋겠다, 너무 기대된다'는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "When is Earth Day?",
+     "choices": [
+      "지구의 날에 무엇을 하니?",
+      "운동회는 언제니?",
+      "지구의 날은 언제니?"
+     ],
+     "answer": 2,
+     "explain": "When is ...?는 날짜를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날짜를 고르세요.",
+     "audio": "It's on April 22nd.",
+     "choices": [
+      "4월 2일",
+      "4월 22일",
+      "8월 22일"
+     ],
+     "answer": 1,
+     "explain": "April은 4월, 22nd는 22일이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지구의 날은 4월 22일이에요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "When is Earth Day?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's a poster.",
+      "It's on April 22nd.",
+      "I can't wait!"
+     ],
+     "answer": 1,
+     "explain": "날짜를 물었으니 날짜로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주는 축제가 아주 기대돼요. 우주의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "Uju! Please write your name here."
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay. When is it?",
+      "Okay. I'm sorry.",
+      "Okay. I can't wait!"
+     ],
+     "answer": 2,
+     "explain": "축제가 기대될 때 'I can't wait!'이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can't ___!",
+     "ko": "너무 기대돼!",
+     "choices": [
+      "wait",
+      "wear",
+      "write"
+     ],
+     "answer": 0,
+     "explain": "기대를 나타내는 말은 I can't wait!이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We'll have a Green Earth ___.",
+     "ko": "우리는 초록 지구 축제를 열 거야.",
+     "choices": [
+      "Day",
+      "poster",
+      "Festival"
+     ],
+     "answer": 2,
+     "explain": "축제 = festival."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "지구의 날은 언제니?",
+     "answer": "When is Earth Day?",
+     "distractors": [
+      "What",
+      "on"
+     ],
+     "explain": "When is + 행사 이름?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I can't wait!",
+     "answer": "I can't wait!",
+     "distractors": [
+      "can",
+      "wear!"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can't wait!",
+     "ko": "너무 기대돼!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 기대하는 마음을 나타내는 말은?",
+     "choices": [
+      "Sorry, but I can't.",
+      "That's too bad.",
+      "Thank you.",
+      "I can't wait for the festival!"
+     ],
+     "answer": 3,
+     "explain": "I can't wait!은 무척 기대될 때 쓰는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 학교 장터 날짜를 고르세요.",
+     "audio": "When is the school market? — It's on April 7th.",
+     "choices": [
+      "8월 7일",
+      "4월 7일",
+      "4월 17일"
+     ],
+     "answer": 1,
+     "explain": "April 7th = 4월 7일."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We'll ___ green shirts.",
+     "ko": "우리는 초록색 셔츠를 입을 거야.",
+     "choices": [
+      "turn",
+      "save",
+      "wear"
+     ],
+     "answer": 2,
+     "explain": "옷을 입다 = wear."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is the club ___?",
+     "ko": "동아리 축제는 언제니?",
+     "choices": [
+      "festival",
+      "market",
+      "trip"
+     ],
+     "answer": 0,
+     "explain": "동아리 축제 = club festival."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Linh의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mohan",
+       "text": "What will you do at the festival?"
+      },
+      {
+       "who": "Linh",
+       "text": "We'll wear green shirts and join some campaigns."
+      },
+      {
+       "who": "우주",
+       "text": "Sounds good. Can I join you?"
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sure.",
+      "That's too bad.",
+      "It's on April 22nd."
+     ],
+     "answer": 0,
+     "explain": "같이 해도 되는지 물었으니 'Sure.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "민우의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "When is Sports Day?"
+      },
+      {
+       "who": "Taylor",
+       "text": "It's on May 3rd. It's next week!"
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's too bad.",
+      "Wow! I can't wait!",
+      "I'm in the sixth grade."
+     ],
+     "answer": 1,
+     "explain": "운동회가 기대될 때 'I can't wait!'이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "현장 체험 학습은 언제니?",
+     "answer": "When is the field trip?",
+     "distractors": [
+      "What",
+      "on"
+     ],
+     "explain": "When is the field trip?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "2월 21일이야. 너무 기대돼!",
+     "answer": "It's on February 21st. I can't wait!",
+     "distractors": [
+      "in",
+      "21th."
+     ],
+     "explain": "날짜를 말한 뒤 I can't wait!을 붙여요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We'll clean the park, too.",
+     "answer": "We'll clean the park, too.",
+     "distractors": [
+      "parks",
+      "on"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is Sports Day? It's on May 3rd.",
+     "ko": "운동회는 언제니? 5월 3일이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "5월 3일이야. 너무 기대돼!",
+     "answers": [
+      "It's on May 3rd. I can't wait!",
+      "It is on May 3rd. I can't wait!"
+     ],
+     "hint": "It's on May ___. I can't ____!"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "운동회는 언제니?",
+     "answers": [
+      "When is Sports Day?",
+      "When is the sports day?"
+     ],
+     "hint": "When is ______ Day?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "6월 22일이야.",
+     "answers": [
+      "It's on June 22nd.",
+      "It is on June 22nd.",
+      "It's on June 22."
+     ],
+     "hint": "It's on ____ ____."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is the club festival? It's on March 22nd. I can't wait!",
+     "answer": "When is the club festival? It's on March 22nd. I can't wait!",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "학교 장터는 언제니?",
+     "answer": "When is the school market?",
+     "distractors": [
+      "What",
+      "on"
+     ],
+     "explain": "학교 장터 = the school market."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Olivia의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Olivia",
+       "text": "Yeah! The school market is in April."
+      },
+      {
+       "who": "Mom",
+       "text": "Really? When is the school market?"
+      },
+      {
+       "who": "Olivia",
+       "text": "It's on April 7th."
+      },
+      {
+       "who": "Mom",
+       "text": "Oh, it's tomorrow!"
+      },
+      {
+       "who": "Olivia",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "When is it?",
+      "That's too bad.",
+      "Yes! I can't wait, Mom!"
+     ],
+     "answer": 2,
+     "explain": "장터가 내일이라 무척 기대되는 상황이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Let's go to the festival together, Mohan."
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      },
+      {
+       "who": "Tom",
+       "text": "That's too bad."
+      }
+     ],
+     "choices": [
+      "It's on April 22nd.",
+      "Sorry, but I can't. I have a science project.",
+      "Sure. I can't wait!"
+     ],
+     "answer": 1,
+     "explain": "Tom이 '안됐다'고 했으니 Mohan은 함께 갈 수 없다고 말했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Earth Day is on April 22nd. We'll have a Green Earth Festival. We'll wear green shirts. We'll join some campaigns and clean the park.",
+     "question": "축제에서 할 일로 글에 나오지 않은 것은?",
+     "choices": [
+      "초록색 셔츠 입기",
+      "공원 청소하기",
+      "나무 심기"
+     ],
+     "answer": 2,
+     "explain": "나무 심기는 나오지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "School Events\nField trip: April 21st\nSports Day: May 2nd\nClub festival: September 6th",
+     "question": "'When is the club festival?'에 알맞은 대답은?",
+     "choices": [
+      "It's on April 21st.",
+      "It's on September 6th.",
+      "It's on May 2nd."
+     ],
+     "answer": 1,
+     "explain": "표에서 동아리 축제(Club festival)는 9월 6일이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is the field trip? It's on May 6th. I can't wait!",
+     "ko": "현장 체험 학습은 언제니? 5월 6일이야. 너무 기대돼!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "날짜를 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "날짜를 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 날짜를 묻고 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 40~41쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화하기, 열두 달 이름을 말하고 April의 철자 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "현장 체험 학습 날짜를 묻고 답하는 말풍선을 읽고 빈 말풍선에 알맞은 문장을 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 날짜 어구를 골라 대화 완성하기, 달 이름과 날짜 문장 읽고 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "행사 날짜를 조사해 행사 달력을 완성하고, 주사위를 굴려 나온 행사 날짜를 묻고 답하며 문장 완성하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 읽고 동아리 축제 날짜 고르기, 그림에 맞는 날짜 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "When is the field trip?",
+    "It's on May 30th.",
+    "It's on November 25th."
+   ],
+   "tip": "달 이름의 첫 글자는 항상 대문자로 써요. (May, July, September)",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 날짜를 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "숫자 표시와 읽는 말을 짝지어 보세요.",
+     "pairs": [
+      [
+       "1st",
+       "first"
+      ],
+      [
+       "2nd",
+       "second"
+      ],
+      [
+       "3rd",
+       "third"
+      ],
+      [
+       "21st",
+       "twenty-first"
+      ],
+      [
+       "22nd",
+       "twenty-second"
+      ],
+      [
+       "30th",
+       "thirtieth"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "February",
+      "Febrary",
+      "Febuary",
+      "Feburary"
+     ],
+     "answer": 0,
+     "explain": "2월 = F-e-b-r-u-a-r-y."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "September",
+      "Septamber",
+      "Septembur",
+      "Setpember"
+     ],
+     "answer": 0,
+     "explain": "9월 = S-e-p-t-e-m-b-e-r."
+    },
+    {
+     "type": "mc",
+     "prompt": "달 이름을 쓸 때 바른 것은?",
+     "choices": [
+      "모두 소문자로 쓴다.",
+      "첫 글자를 항상 대문자로 쓴다.",
+      "모두 대문자로 쓴다."
+     ],
+     "answer": 1,
+     "explain": "May, July처럼 달 이름의 첫 글자는 항상 대문자예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is the ___ trip?",
+     "ko": "현장 체험 학습은 언제니?",
+     "choices": [
+      "sports",
+      "school",
+      "field"
+     ],
+     "answer": 2,
+     "explain": "현장 체험 학습 = field trip."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's on May ___.",
+     "ko": "5월 30일이야.",
+     "choices": [
+      "13th",
+      "30th",
+      "3rd"
+     ],
+     "answer": 1,
+     "explain": "30일 = 30th."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날짜를 고르세요.",
+     "audio": "It's on November 25th.",
+     "choices": [
+      "11월 25일",
+      "12월 25일",
+      "11월 5일"
+     ],
+     "answer": 0,
+     "explain": "November = 11월, 25th = 25일."
+    },
+    {
+     "type": "dialog",
+     "prompt": "두 번째 남자아이는 7월 21일이라고 답해요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "When is the field trip?"
+      },
+      {
+       "who": "Boy 1",
+       "text": "It's on May 30th."
+      },
+      {
+       "who": "Boy 2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "When is the field trip?",
+      "It's July.",
+      "It's on July 21st."
+     ],
+     "answer": 2,
+     "explain": "질문에 'It's on 달 날짜.' 형태로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "5월 30일이야.",
+     "answer": "It's on May 30th.",
+     "distractors": [
+      "in",
+      "30st."
+     ],
+     "explain": "날짜 앞에는 on을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "현장 체험 학습은 언제니?",
+     "answer": "When is the field trip?",
+     "distractors": [
+      "What",
+      "in"
+     ],
+     "explain": "When is the field trip?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's on March 2nd.",
+     "answer": "It's on March 2nd.",
+     "distractors": [
+      "in",
+      "May"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is the field trip? It's on May 30th.",
+     "ko": "현장 체험 학습은 언제니? 5월 30일이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is ___ birthday?",
+     "ko": "네 생일은 언제니?",
+     "choices": [
+      "your",
+      "my",
+      "you"
+     ],
+     "answer": 0,
+     "explain": "'너의'는 your예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's on January ___.",
+     "ko": "1월 21일이야.",
+     "choices": [
+      "21nd",
+      "21th",
+      "21st"
+     ],
+     "answer": 2,
+     "explain": "21 → 21st. 1로 끝나면 st를 붙여요(11은 11th)."
+    },
+    {
+     "type": "mc",
+     "prompt": "'10월 10일'을 바르게 쓴 것은?",
+     "choices": [
+      "October 10th",
+      "Octover 10th",
+      "October 10st",
+      "Octobor 10th"
+     ],
+     "answer": 0,
+     "explain": "10월 = October, 10일 = 10th."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: When is the club festival?\nB: It's on September 21st.",
+     "question": "동아리 축제는 언제인가요?",
+     "choices": [
+      "9월 12일",
+      "9월 21일",
+      "8월 21일"
+     ],
+     "answer": 1,
+     "explain": "September 21st = 9월 21일."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: When is Sports Day?\nB: It's on ___.",
+     "question": "달력에 운동회가 7월 6일로 표시되어 있어요. 빈칸에 알맞은 것은?",
+     "choices": [
+      "March 6th",
+      "July 6th",
+      "June 7th"
+     ],
+     "answer": 1,
+     "explain": "7월 = July, 6일 = 6th."
+    },
+    {
+     "type": "dialog",
+     "prompt": "운동회는 5월 3일이에요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "When is Sports Day?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on May 3rd.",
+      "It's in May 3rd.",
+      "It's May 3rd day."
+     ],
+     "answer": 0,
+     "explain": "날짜를 말할 때는 It's on 달 날짜.로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "10월 10일이야.",
+     "answer": "It's on October 10th.",
+     "distractors": [
+      "in",
+      "10st."
+     ],
+     "explain": "October 10th = 10월 10일."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "동아리 축제는 언제니?",
+     "answer": "When is the club festival?",
+     "distractors": [
+      "What",
+      "on"
+     ],
+     "explain": "동아리 축제 = the club festival."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is your birthday? It's on January 21st.",
+     "answer": "When is your birthday? It's on January 21st.",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's on January 21st. I can't wait!",
+     "ko": "1월 21일이야. 너무 기대돼!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "4월",
+     "answers": [
+      "April"
+     ],
+     "hint": "A _ r _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "8월",
+     "answers": [
+      "August"
+     ],
+     "hint": "A _ g _ s t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "12월",
+     "answers": [
+      "December"
+     ],
+     "hint": "D _ c _ m b _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "3월 21일이야.",
+     "answers": [
+      "It's on March 21st.",
+      "It is on March 21st.",
+      "It's on March 21."
+     ],
+     "hint": "It's on _____ ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "학교 장터는 언제니? 9월 2일이야.",
+     "answer": "When is the school market? It's on September 2nd.",
+     "distractors": [
+      "What",
+      "in"
+     ],
+     "explain": "When is ...? 다음 It's on 달 날짜."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is the school market? It's on May 6th. I can't wait!",
+     "answer": "When is the school market? It's on May 6th. I can't wait!",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Event Calendar\nMarch 2nd: School starts\nApril 22nd: Earth Day\nMay 6th: School market\nOctober 10th: Club festival",
+     "question": "'It's on May 6th.'는 어떤 질문에 대한 대답인가요?",
+     "choices": [
+      "When is the school market?",
+      "When is Earth Day?",
+      "When is the club festival?"
+     ],
+     "answer": 0,
+     "explain": "달력에서 5월 6일은 학교 장터(School market)예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia: When is your birthday, Leo?\nLeo: It's on June 2nd.\nMia: My birthday is on June 22nd.\nLeo: Wow, our birthdays are in the same month!",
+     "question": "대화의 내용과 맞는 것은?",
+     "choices": [
+      "두 사람의 생일은 같은 날이다.",
+      "Leo의 생일은 6월 22일이다.",
+      "두 사람의 생일은 모두 6월이다."
+     ],
+     "answer": 2,
+     "explain": "Leo는 6월 2일, Mia는 6월 22일로 둘 다 6월이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "날짜를 바르게 쓴 문장은?",
+     "choices": [
+      "It's on August 3th.",
+      "It's on august 3rd.",
+      "It's in August 3rd.",
+      "It's on August 3rd."
+     ],
+     "answer": 3,
+     "explain": "달 이름은 대문자로 시작하고, 날짜 앞에는 on, 3은 3rd예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is your birthday? It's on October 22nd.",
+     "ko": "네 생일은 언제니? 10월 22일이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "환경 기념일을 알리는 글 읽고 이해하기",
+   "objectives": [
+    "환경 기념일을 알리는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 42~43쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장을 듣고 그림 가리키기, 지구의 날(April 22nd)과 다른 환경 기념일 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "알고 있는 환경 기념일과 그 날짜 쓰기 (예: 식목일 4월 5일)",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "세계 물의 날과 세계 종이 없는 날을 소개하며 지구를 지키자는 글을 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 기념일·날짜·우리가 할 일 표 완성하기, 지구의 날 글 읽고 그림 고르고 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "세계 물의 날 글을 읽고 날짜와 할 일 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "World Water Day is on March 22nd.",
+    "Let's turn off the water.",
+    "We can save water.",
+    "Let's reuse paper. We can save trees."
+   ],
+   "tip": "글에서 '언제(날짜)'와 '무엇을 하자(Let's ...)'를 찾아 표시하며 읽어 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 환경 기념일을 알리는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "save",
+       "아끼다, 지키다"
+      ],
+      [
+       "world",
+       "세계"
+      ],
+      [
+       "paper",
+       "종이"
+      ],
+      [
+       "turn off",
+       "끄다, 잠그다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "환경 기념일과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "World Water Day",
+       "세계 물의 날"
+      ],
+      [
+       "Earth Day",
+       "지구의 날"
+      ],
+      [
+       "World Paper Free Day",
+       "세계 종이 없는 날"
+      ],
+      [
+       "Blue Sky Day",
+       "푸른 하늘의 날"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에서 아이가 수도꼭지를 잠그고 있어요. 알맞은 말은?",
+     "emoji": "🚰",
+     "choices": [
+      "Let's clean the parks.",
+      "Let's turn off the water.",
+      "Let's wear green shirts.",
+      "Let's reuse paper."
+     ],
+     "answer": 1,
+     "explain": "물을 잠그다 = turn off the water."
+    },
+    {
+     "type": "mc",
+     "prompt": "'reuse paper'의 뜻은?",
+     "choices": [
+      "종이를 버리다",
+      "종이를 접다",
+      "종이를 다시 쓰다",
+      "종이를 사다"
+     ],
+     "answer": 2,
+     "explain": "reuse는 '다시 쓰다(재사용하다)'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We can save water.",
+     "choices": [
+      "우리는 나무를 지킬 수 있어요.",
+      "우리는 물을 마실 수 있어요.",
+      "우리는 물을 아낄 수 있어요."
+     ],
+     "answer": 2,
+     "explain": "save water = 물을 아끼다."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 세계 물의 날이 언제인지 고르세요.",
+     "audio": "World Water Day is on March 22nd.",
+     "choices": [
+      "4월 22일",
+      "3월 22일",
+      "11월 6일"
+     ],
+     "answer": 1,
+     "explain": "March 22nd = 3월 22일."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Love Our Earth\nThe Earth is our home. Let's save it!\nWorld Water Day is on March 22nd.\nLet's turn off the water. We can save water.\nWorld Paper Free Day is on November 6th.\nLet's reuse paper. We can save trees.",
+     "question": "세계 물의 날은 언제인가요?",
+     "choices": [
+      "4월 22일",
+      "11월 6일",
+      "3월 22일"
+     ],
+     "answer": 2,
+     "explain": "'World Water Day is on March 22nd.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Love Our Earth\nThe Earth is our home. Let's save it!\nWorld Water Day is on March 22nd.\nLet's turn off the water. We can save water.\nWorld Paper Free Day is on November 6th.\nLet's reuse paper. We can save trees.",
+     "question": "세계 종이 없는 날에 하자고 한 일은?",
+     "choices": [
+      "공원 청소하기",
+      "물 잠그기",
+      "종이 재사용하기"
+     ],
+     "answer": 2,
+     "explain": "'Let's reuse paper.'라고 했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's turn ___ the water.",
+     "ko": "물을 잠가요.",
+     "choices": [
+      "in",
+      "on",
+      "off"
+     ],
+     "answer": 2,
+     "explain": "끄다, 잠그다 = turn off."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 나무를 지킬 수 있어요.",
+     "answer": "We can save trees.",
+     "distractors": [
+      "water.",
+      "saves"
+     ],
+     "explain": "save trees = 나무를 지키다(보호하다)."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's reuse paper.",
+     "answer": "Let's reuse paper.",
+     "distractors": [
+      "save",
+      "papers."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The Earth is our home.",
+     "ko": "지구는 우리의 집이에요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Love Our Earth\nThe Earth is our home. Let's save it!\nWorld Water Day is on March 22nd.\nLet's turn off the water. We can save water.\nWorld Paper Free Day is on November 6th.\nLet's reuse paper. We can save trees.",
+     "question": "이 글을 쓴 목적으로 알맞은 것은?",
+     "choices": [
+      "현장 체험 학습 날짜를 알려 주려고",
+      "생일 파티에 초대하려고",
+      "환경 기념일을 알리고 지구를 지키자고 하려고"
+     ],
+     "answer": 2,
+     "explain": "환경 기념일과 우리가 할 일을 소개하고 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Love Our Earth\nThe Earth is our home. Let's save it!\nWorld Water Day is on March 22nd.\nLet's turn off the water. We can save water.\nWorld Paper Free Day is on November 6th.\nLet's reuse paper. We can save trees.",
+     "question": "종이를 다시 쓰면 무엇을 지킬 수 있다고 했나요?",
+     "choices": [
+      "물",
+      "하늘",
+      "나무"
+     ],
+     "answer": 2,
+     "explain": "'Let's reuse paper. We can save trees.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "When is Earth Day?\nIt's on April 22nd.\nLet's clean the parks.\nWe can save the Earth.",
+     "question": "지구의 날에 하자고 한 일은?",
+     "choices": [
+      "공원 청소하기",
+      "물 잠그기",
+      "종이 재사용하기"
+     ],
+     "answer": 0,
+     "explain": "'Let's clean the parks.'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'We have many days for the Earth.'의 뜻은?",
+     "choices": [
+      "지구에는 많은 날씨가 있어요.",
+      "지구를 위한 날들이 많이 있어요.",
+      "우리는 지구에서 많은 날을 보내요."
+     ],
+     "answer": 1,
+     "explain": "days for the Earth = 지구를 위한 날들."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is World Paper Free Day? It's on November ___.",
+     "ko": "세계 종이 없는 날은 언제인가요? 11월 6일이에요.",
+     "choices": [
+      "16th",
+      "6th",
+      "6st"
+     ],
+     "answer": 1,
+     "explain": "6일 = 6th."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's ___ the Earth.",
+     "ko": "지구를 지켜요.",
+     "choices": [
+      "turn",
+      "save",
+      "wear"
+     ],
+     "answer": 1,
+     "explain": "지키다 = save."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "When is World Water Day?"
+      },
+      {
+       "who": "Student",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on March 22nd.",
+      "Let's save water.",
+      "It's on April 22nd."
+     ],
+     "answer": 0,
+     "explain": "세계 물의 날은 3월 22일이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "물을 잠가요. 우리는 물을 아낄 수 있어요.",
+     "answer": "Let's turn off the water. We can save water.",
+     "distractors": [
+      "on",
+      "trees."
+     ],
+     "explain": "turn off the water → save water."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you find more days for the Earth?",
+     "answer": "Can you find more days for the Earth?",
+     "distractors": [
+      "day",
+      "on"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's turn off the water. We can save water.",
+     "ko": "물을 잠가요. 우리는 물을 아낄 수 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Days for the Earth\nWorld Bee Day is on May 20th. Bees help flowers grow. Let's plant flowers for bees.\nBlue Sky Day is on September 7th. Let's walk to school. We can save clear skies.",
+     "question": "세계 벌의 날은 언제인가요?",
+     "choices": [
+      "5월 2일",
+      "9월 7일",
+      "5월 20일"
+     ],
+     "answer": 2,
+     "explain": "'World Bee Day is on May 20th.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Days for the Earth\nWorld Bee Day is on May 20th. Bees help flowers grow. Let's plant flowers for bees.\nBlue Sky Day is on September 7th. Let's walk to school. We can save clear skies.",
+     "question": "푸른 하늘의 날에 하자고 한 일은?",
+     "choices": [
+      "물 잠그기",
+      "꽃 심기",
+      "걸어서 등교하기"
+     ],
+     "answer": 2,
+     "explain": "'Let's walk to school.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "When is World Water Day?\nIt's on March 22nd.\nLet's reuse water.\nWe can save water.",
+     "question": "물을 아끼기 위해 우리가 할 일은?",
+     "choices": [
+      "공원 청소하기",
+      "종이 재사용하기",
+      "물 재사용하기"
+     ],
+     "answer": 2,
+     "explain": "'Let's reuse water.' 물을 다시 쓰자고 했어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "지구",
+     "answers": [
+      "Earth",
+      "earth",
+      "the Earth"
+     ],
+     "hint": "E _ _ t h"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "종이",
+     "answers": [
+      "paper"
+     ],
+     "hint": "p _ _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 벌을 지킬 수 있어요.",
+     "answers": [
+      "We can save bees.",
+      "We can save the bees."
+     ],
+     "hint": "We can ____ bees."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "세계 벌의 날은 5월 20일이에요.",
+     "answer": "World Bee Day is on May 20th.",
+     "distractors": [
+      "in",
+      "March"
+     ],
+     "explain": "기념일 이름 + is on + 날짜."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "World Paper Free Day is on November 6th. Let's reuse paper.",
+     "answer": "World Paper Free Day is on November 6th. Let's reuse paper.",
+     "distractors": [
+      "in",
+      "save"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Min의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Min",
+       "text": "Let's turn off the TV and clean the parks."
+      },
+      {
+       "who": "Ella",
+       "text": "Why?"
+      },
+      {
+       "who": "Min",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can't find the park.",
+      "Because it's my birthday.",
+      "Because it's Earth Day. We can save the Earth."
+     ],
+     "answer": 2,
+     "explain": "지구의 날에 지구를 지키기 위한 일이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's reuse paper. We can save trees.",
+     "ko": "종이를 재사용해요. 우리는 나무를 지킬 수 있어요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "환경 기념일을 알리는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 환경 기념일을 알리는 글을 쓸 수 있다.",
+    "환경 기념일을 알리는 글을 발표하며 배운 표현을 활용할 수 있다."
+   ],
+   "pages": "교과서 44~45쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "환경 기념일 글을 모둠별로 번갈아 읽기, 지구의 날 포스터를 보고 'Let's save the Earth.' 읽고 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "열두 달 이름의 빠진 철자 완성하기(Words), 세계 물의 날·지구의 날 날짜 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "알리고 싶은 환경 기념일의 이름·날짜·할 일을 정하고, 지구의 날 예시문을 참고하여 글을 쓰고 그림 그리기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "친구의 글을 함께 읽고 질문에 답하기, 그림을 보고 글의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "When is Earth Day?",
+    "It's on April 22nd.",
+    "Let's turn off the TV and clean the parks.",
+    "We can save the Earth."
+   ],
+   "tip": "글은 'When is 기념일? → It's on 날짜. → Let's 할 일. → We can save 지킬 것.' 순서로 써 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 환경 기념일을 알리는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "'Ja _ uar _'의 빈칸에 들어갈 철자는? (1월)",
+     "choices": [
+      "m, y",
+      "m, i",
+      "n, y",
+      "n, i"
+     ],
+     "answer": 2,
+     "explain": "January = J-a-n-u-a-r-y."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Au _ us _'의 빈칸에 들어갈 철자는? (8월)",
+     "choices": [
+      "g, t",
+      "g, d",
+      "q, t",
+      "j, t"
+     ],
+     "answer": 0,
+     "explain": "August = A-u-g-u-s-t."
+    },
+    {
+     "type": "mc",
+     "prompt": "'No _ em _ er'의 빈칸에 들어갈 철자는? (11월)",
+     "choices": [
+      "f, b",
+      "v, b",
+      "b, v",
+      "v, p"
+     ],
+     "answer": 1,
+     "explain": "November = N-o-v-e-m-b-e-r."
+    },
+    {
+     "type": "mc",
+     "prompt": "'O _ to _ er'의 빈칸에 들어갈 철자는? (10월)",
+     "choices": [
+      "c, p",
+      "c, b",
+      "k, p",
+      "k, b"
+     ],
+     "answer": 1,
+     "explain": "October = O-c-t-o-b-e-r."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is ___ Day?",
+     "ko": "지구의 날은 언제인가요?",
+     "choices": [
+      "Sports",
+      "Earth",
+      "Water"
+     ],
+     "answer": 1,
+     "explain": "지구의 날 = Earth Day."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ April 22nd.",
+     "ko": "4월 22일이에요.",
+     "choices": [
+      "in",
+      "on",
+      "at"
+     ],
+     "answer": 1,
+     "explain": "날짜 앞에는 on."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's save our ___.",
+     "ko": "우리의 지구를 지켜요.",
+     "choices": [
+      "water",
+      "paper",
+      "Earth"
+     ],
+     "answer": 2,
+     "explain": "지구를 지키다 = save the Earth."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Let's clean the parks.",
+     "choices": [
+      "공원에 가요.",
+      "공원에서 놀아요.",
+      "공원을 청소해요."
+     ],
+     "answer": 2,
+     "explain": "clean the parks = 공원을 청소하다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Writer",
+       "text": "When is Earth Day?"
+      },
+      {
+       "who": "Reader",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on March 22nd.",
+      "Let's clean the parks.",
+      "It's on April 22nd."
+     ],
+     "answer": 2,
+     "explain": "지구의 날은 4월 22일이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "공원을 청소해요.",
+     "answer": "Let's clean the parks.",
+     "distractors": [
+      "cleans",
+      "park."
+     ],
+     "explain": "'~하자'는 Let's + 동사."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's turn off the TV and clean the parks.",
+     "answer": "Let's turn off the TV and clean the parks.",
+     "distractors": [
+      "on",
+      "save"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is Earth Day? It's on April 22nd.",
+     "ko": "지구의 날은 언제인가요? 4월 22일이에요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "환경 기념일을 알리는 글의 순서로 알맞은 것은?",
+     "choices": [
+      "우리가 할 일 → 생일 → 날짜",
+      "지킬 수 있는 것 → 학년 → 이름",
+      "기념일 이름과 날짜 → 우리가 할 일 → 지킬 수 있는 것"
+     ],
+     "answer": 2,
+     "explain": "When is ...? It's on .... Let's .... We can save .... 순서예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "When is ⓐ ___?\nIt's on September 7th.\nLet's walk to school.\nWe can save clear skies.",
+     "question": "ⓐ에 알맞은 기념일은?",
+     "choices": [
+      "Blue Sky Day",
+      "World Water Day",
+      "Earth Day"
+     ],
+     "answer": 0,
+     "explain": "9월 7일, 맑은 하늘을 지키는 날은 푸른 하늘의 날(Blue Sky Day)이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "When is World Paper Free Day?\nIt's on ⓐ ___.\nLet's use our cups.\nWe can save trees.",
+     "question": "세계 종이 없는 날은 11월 6일이에요. ⓐ에 알맞은 것은?",
+     "choices": [
+      "December 6th",
+      "November 6th",
+      "November 16th"
+     ],
+     "answer": 1,
+     "explain": "11월 6일 = November 6th."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's ___ to school.",
+     "ko": "걸어서 등교해요.",
+     "choices": [
+      "walk",
+      "turn",
+      "wear"
+     ],
+     "answer": 0,
+     "explain": "걸어가다 = walk."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We can save clear ___.",
+     "ko": "우리는 맑은 하늘을 지킬 수 있어요.",
+     "choices": [
+      "skies",
+      "water",
+      "trees"
+     ],
+     "answer": 0,
+     "explain": "맑은 하늘 = clear skies."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jun의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mina",
+       "text": "This is my poster. When is Blue Sky Day? It's on September 7th. Let's walk to school."
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can't find my poster.",
+      "Good job! We can save clear skies.",
+      "It's my birthday."
+     ],
+     "answer": 1,
+     "explain": "친구의 포스터를 칭찬하고 내용에 맞게 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리의 컵을 사용해요.",
+     "answer": "Let's use our cups.",
+     "distractors": [
+      "uses",
+      "paper."
+     ],
+     "explain": "use our cups = 우리의 컵을 사용하다."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "푸른 하늘의 날은 언제인가요?",
+     "answer": "When is Blue Sky Day?",
+     "distractors": [
+      "What",
+      "on"
+     ],
+     "explain": "When is + 기념일 이름?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's on September 7th. Let's walk to school.",
+     "answer": "It's on September 7th. Let's walk to school.",
+     "distractors": [
+      "in",
+      "turn"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's walk to school. We can save clear skies.",
+     "ko": "걸어서 등교해요. 우리는 맑은 하늘을 지킬 수 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "9월",
+     "answers": [
+      "September"
+     ],
+     "hint": "S _ p t _ m b _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "11월 6일이에요.",
+     "answers": [
+      "It's on November 6th.",
+      "It is on November 6th.",
+      "It's on November 6."
+     ],
+     "hint": "It's on ________ ___."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "물을 잠가요.",
+     "answers": [
+      "Let's turn off the water."
+     ],
+     "hint": "Let's turn ___ the water."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 지구를 지킬 수 있어요.",
+     "answers": [
+      "We can save the Earth.",
+      "We can save the earth."
+     ],
+     "hint": "We can ____ the Earth."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "세계 물의 날은 언제인가요? 3월 22일이에요.",
+     "answer": "When is World Water Day? It's on March 22nd.",
+     "distractors": [
+      "What",
+      "in"
+     ],
+     "explain": "When is ...? It's on ...."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is World Paper Free Day? It's on November 6th.",
+     "answer": "When is World Paper Free Day? It's on November 6th.",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "When is World Environment Day?\nIt's on June 5th.\nLet's pick up trash.\nWe can save the Earth.",
+     "question": "글의 내용과 맞지 않는 것은?",
+     "choices": [
+      "세계 환경의 날은 5월 6일이다.",
+      "지구를 지킬 수 있다고 했다.",
+      "쓰레기를 줍자고 했다."
+     ],
+     "answer": 0,
+     "explain": "June 5th는 6월 5일이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sora의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "What day did you write about?"
+      },
+      {
+       "who": "Sora",
+       "text": "World Water Day."
+      },
+      {
+       "who": "Teacher",
+       "text": "When is it?"
+      },
+      {
+       "who": "Sora",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's World Water Day.",
+      "It's on March 22nd.",
+      "Let's save water."
+     ],
+     "answer": 1,
+     "explain": "날짜를 물었으니 날짜로 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 말로 알맞은 것은? 'Let's reuse paper. We can save ___.'",
+     "choices": [
+      "trees",
+      "clear skies",
+      "water"
+     ],
+     "answer": 0,
+     "explain": "종이를 다시 쓰면 나무를 지킬 수 있어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is Blue Sky Day? It's on September 7th. Let's walk to school.",
+     "ko": "푸른 하늘의 날은 언제인가요? 9월 7일이에요. 걸어서 등교해요."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 46~47쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Ready to Write 문장(When is World Water Day? It's on March 22nd.)을 읽고 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "시 'Happy Earth Day'를 읽고 기념일 이름과 날짜에 밑줄 긋기, 모둠의 환경 기념일을 만들어 표시된 어구를 바꿔 시를 쓰고 낭송하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 행사와 날짜 연결하기, 날짜를 묻고 답하며 기대 표현하기, 세계 물의 날 글 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "When is Earth Day?",
+    "It's on April 22nd.",
+    "So let's help our Earth!",
+    "Every day is Earth Day."
+   ],
+   "tip": "우리 모둠만의 환경 기념일을 만들 때 이름, 날짜, 우리가 할 일을 꼭 넣어 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 환경 기념일 시를 쓰고 낭송할 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "뜻과 달 이름을 짝지어 보세요.",
+     "pairs": [
+      [
+       "3월",
+       "March"
+      ],
+      [
+       "6월",
+       "June"
+      ],
+      [
+       "9월",
+       "September"
+      ],
+      [
+       "12월",
+       "December"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "when",
+       "언제"
+      ],
+      [
+       "turn",
+       "돌리다"
+      ],
+      [
+       "save",
+       "아끼다, 지키다"
+      ],
+      [
+       "world",
+       "세계"
+      ],
+      [
+       "twenty-one",
+       "21"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'5월 3일'을 바르게 말한 것은?",
+     "emoji": "📅",
+     "choices": [
+      "March 3rd",
+      "May 13th",
+      "May 3rd",
+      "May 3th"
+     ],
+     "answer": 2,
+     "explain": "5월 = May, 3일 = 3rd."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 운동회 날짜를 고르세요.",
+     "audio": "When is Sports Day? — It's on May 3rd.",
+     "choices": [
+      "5월 3일",
+      "5월 13일",
+      "3월 5일"
+     ],
+     "answer": 0,
+     "explain": "May 3rd = 5월 3일."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 학교 장터 날짜를 고르세요.",
+     "audio": "When is the school market? — It's on September 22nd. I can't wait!",
+     "choices": [
+      "10월 22일",
+      "9월 22일",
+      "9월 2일"
+     ],
+     "answer": 1,
+     "explain": "September 22nd = 9월 22일."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이의 생일은 8월 23일이에요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "When is your birthday?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's in the park.",
+      "I like August.",
+      "It's on August 23rd. I can't wait!"
+     ],
+     "answer": 2,
+     "explain": "생일 날짜를 말하고 기대를 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "It's on October 21st. I can't wait!"
+      }
+     ],
+     "choices": [
+      "How do you spell your name?",
+      "What season do you like?",
+      "When is the field trip?"
+     ],
+     "answer": 2,
+     "explain": "날짜로 답했으니 'When is ...?' 질문이 와야 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is ___ Day?",
+     "ko": "지구의 날은 언제니?",
+     "choices": [
+      "Sports",
+      "Earth",
+      "World"
+     ],
+     "answer": 1,
+     "explain": "지구의 날 = Earth Day."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's on April ___.",
+     "ko": "4월 22일이야.",
+     "choices": [
+      "22st",
+      "22th",
+      "22nd"
+     ],
+     "answer": 2,
+     "explain": "22 → 22nd."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너무 기대돼!",
+     "answer": "I can't wait!",
+     "distractors": [
+      "can",
+      "wear!"
+     ],
+     "explain": "기대를 나타내는 말이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is the field trip? It's on October 21st.",
+     "answer": "When is the field trip? It's on October 21st.",
+     "distractors": [
+      "What",
+      "in"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is Earth Day? It's on April 22nd. I can't wait!",
+     "ko": "지구의 날은 언제니? 4월 22일이야. 너무 기대돼!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Happy Earth Day\nThe Earth is our home. So let's save our Earth!\nWe can save water and clean the parks.\nWhen is Earth Day? It's on April 22nd.\nEvery day is Earth Day.",
+     "question": "이 시에 나오는 환경 기념일과 날짜는?",
+     "choices": [
+      "지구의 날, 4월 22일",
+      "세계 물의 날, 3월 22일",
+      "지구의 날, 3월 22일"
+     ],
+     "answer": 0,
+     "explain": "'When is Earth Day? It's on April 22nd.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We can turn off the water.\nLet's use our cups and save water.\nHelp our Earth.\nWhen is World Water Day?\nⓐ ___",
+     "question": "ⓐ에 알맞은 문장은?",
+     "choices": [
+      "It's on April 22nd.",
+      "It's on November 6th.",
+      "It's on March 22nd."
+     ],
+     "answer": 2,
+     "explain": "세계 물의 날은 3월 22일이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Every day is Earth Day.'의 뜻은?",
+     "choices": [
+      "매일매일이 지구의 날이에요.",
+      "매일 지구를 그려요.",
+      "지구의 날은 하루뿐이에요."
+     ],
+     "answer": 0,
+     "explain": "every day = 매일, 하루하루."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "When is your ___? It's on June 2nd.",
+     "ko": "네 생일은 언제니? 6월 2일이야.",
+     "choices": [
+      "birthday",
+      "grade",
+      "season"
+     ],
+     "answer": 0,
+     "explain": "생일 = birthday."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jin의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "When is the club festival?"
+      },
+      {
+       "who": "Jin",
+       "text": "It's on August 22nd."
+      },
+      {
+       "who": "Mom",
+       "text": "Oh, that's next week!"
+      },
+      {
+       "who": "Jin",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes! I can't wait!",
+      "No, it's in August.",
+      "That's too bad."
+     ],
+     "answer": 0,
+     "explain": "축제가 다음 주라서 기대되는 상황이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "When is Parents' Day in Korea?"
+      },
+      {
+       "who": "Student",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on May 8th.",
+      "It's on May 18th.",
+      "It's in March."
+     ],
+     "answer": 0,
+     "explain": "한국의 어버이날은 5월 8일이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "현장 체험 학습은 10월 21일이야.",
+     "answer": "The field trip is on October 21st.",
+     "distractors": [
+      "in",
+      "When"
+     ],
+     "explain": "행사 이름 + is on + 날짜."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 생일은 8월 23일이야. 너무 기대돼!",
+     "answer": "My birthday is on August 23rd. I can't wait!",
+     "distractors": [
+      "in",
+      "23th."
+     ],
+     "explain": "날짜를 말하고 기대를 표현해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "So let's help our Earth! Happy Earth Day!",
+     "answer": "So let's help our Earth! Happy Earth Day!",
+     "distractors": [
+      "save",
+      "on"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Every day is Earth Day. Happy Earth Day!",
+     "ko": "매일매일이 지구의 날이에요. 지구의 날을 축하해요!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "6월",
+     "answers": [
+      "June"
+     ],
+     "hint": "J _ n e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "10월",
+     "answers": [
+      "October"
+     ],
+     "hint": "O c _ o _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "동아리 축제는 언제니?",
+     "answers": [
+      "When is the club festival?"
+     ],
+     "hint": "_____ is the club ________?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "9월 22일이야. 너무 기대돼!",
+     "answers": [
+      "It's on September 22nd. I can't wait!",
+      "It is on September 22nd. I can't wait!"
+     ],
+     "hint": "It's on _________ ____. I can't ____!"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "세계 종이 없는 날은 언제니? 11월 6일이야.",
+     "answer": "When is World Paper Free Day? It's on November 6th.",
+     "distractors": [
+      "What",
+      "in"
+     ],
+     "explain": "When is ...? It's on ...."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "When is Mother's Day? It's on the second Sunday in May.",
+     "answer": "When is Mother's Day? It's on the second Sunday in May.",
+     "distractors": [
+      "third",
+      "Monday"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia's Calendar\nMay 5th: Children's Day\nMay 8th: Parents' Day\nMay 15th: Teachers' Day\nMay 21st: My birthday!",
+     "question": "'When is your birthday, Mia?'에 대한 Mia의 대답은?",
+     "choices": [
+      "It's on May 8th.",
+      "It's on May 15th.",
+      "It's on May 21st."
+     ],
+     "answer": 2,
+     "explain": "달력에 'May 21st: My birthday!'라고 쓰여 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our group made a special day. It's \"No Plastic Day.\" It's on July 3rd. Let's use our cups and bags. We can save the sea animals.",
+     "question": "이 모둠이 만든 기념일에 할 일은?",
+     "choices": [
+      "물 잠그기",
+      "걸어서 등교하기",
+      "컵과 가방을 가져와 쓰기"
+     ],
+     "answer": 2,
+     "explain": "'Let's use our cups and bags.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "보보의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "I'm making a card for Mom."
+      },
+      {
+       "who": "Bobo",
+       "text": "For Mother's Day? When is Mother's Day?"
+      },
+      {
+       "who": "Boy",
+       "text": "It's on the second Sunday in May."
+      },
+      {
+       "who": "Bobo",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "When is your birthday?",
+      "I can't find my card.",
+      "We have Parents' Day in Korea. It's on May 8th."
+     ],
+     "answer": 2,
+     "explain": "보보가 한국의 어버이날을 소개하는 말이 자연스러워요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "When is your birthday? It's on December 4th. I can't wait!",
+     "ko": "네 생일은 언제니? 12월 4일이야. 너무 기대돼!"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "Amy와 하나가 교실 뒤 학급 생일 판을 보며 서로의 생일과 Tom의 생일을 묻고 답해요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "When is your birthday?"
+    },
+    {
+     "who": "하나",
+     "text": "It's on May 7th."
+    },
+    {
+     "who": "Amy",
+     "text": "Really? My birthday is on May 7th, too."
+    },
+    {
+     "who": "Amy",
+     "text": "Tom, when is your birthday?"
+    },
+    {
+     "who": "Tom",
+     "text": "My birthday? It's on April 21st."
+    },
+    {
+     "who": "Tom",
+     "text": "We have a field trip on that day."
+    },
+    {
+     "who": "하나",
+     "text": "Let's have Tom's birthday party there!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "지구의 날 포스터를 만드는 Linh과 Tom에게 우주가 지구의 날이 언제인지 묻고, 축제 참가 신청서에 이름을 써요.",
+   "lines": [
+    {
+     "who": "우주",
+     "text": "When is Earth Day?"
+    },
+    {
+     "who": "Tom",
+     "text": "It's on April 22nd."
+    },
+    {
+     "who": "Linh",
+     "text": "It's tomorrow. We'll have a Green Earth Festival."
+    },
+    {
+     "who": "Linh",
+     "text": "We'll wear green shirts and join some campaigns."
+    },
+    {
+     "who": "Linh",
+     "text": "Uju! Please write your name here."
+    },
+    {
+     "who": "우주",
+     "text": "Okay. I can't wait!"
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 Taylor에게 운동회 날짜를 묻고, Olivia가 엄마에게 학교 장터 날짜를 알려 줘요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "When is Sports Day?"
+    },
+    {
+     "who": "Taylor",
+     "text": "It's on May 3rd."
+    },
+    {
+     "who": "Olivia 엄마",
+     "text": "When is the school market?"
+    },
+    {
+     "who": "Olivia",
+     "text": "It's on April 7th."
+    },
+    {
+     "who": "Olivia 엄마",
+     "text": "Oh, it's tomorrow!"
+    },
+    {
+     "who": "Olivia",
+     "text": "I can't wait!"
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "지구를 위한 날들 (환경 기념일을 알리는 글)",
+  "passage": "Our Earth is our home, so we should take care of it. There are special days for the Earth. On March 22nd, it is World Water Day. On that day, we can turn off the water and save it. November 6th is World Paper Free Day. If we use paper again, we can save trees. The writer asks us to find more days like these.",
+  "summaryKo": "세계 물의 날(3월 22일)과 세계 종이 없는 날(11월 6일)을 소개하며, 물을 잠그고 종이를 다시 써서 지구를 지키자고 알리는 글이에요."
+ },
+ "writing": {
+  "frame": [
+   "When is ____?",
+   "It's on ____.",
+   "Let's ____.",
+   "We can save ____."
+  ],
+  "model": "When is World Bee Day? It's on May 20th. Let's plant flowers. We can save bees."
+ },
+ "project": "모둠별로 시 'Happy Earth Day'를 읽고 환경 기념일의 이름과 날짜를 찾은 뒤, 우리 모둠만의 환경 기념일을 만들어 날짜와 할 일을 정하고 색깔로 표시된 어구를 바꿔 시를 써서 낭송한다.",
+ "special": {
+  "no": 3,
+  "kind": "Into the World",
+  "title": "세계 여러 나라의 어버이날 이야기",
+  "summaryKo": "외국 남자아이가 어머니날을 위해 엄마께 드릴 카드를 만들고 있어요. 보보는 그 나라의 어머니날이 5월 둘째 일요일이라는 것을 알게 되고, 한국에는 5월 8일 어버이날이 있다고 알려 줘요. 남자아이는 엄마께 꽃과 카드를 드리며 사랑한다고 말해요.",
+  "facts": [
+   "우리나라는 5월 8일을 어머니날로 정했다가 1973년부터 어버이날로 바꾸어, 부모님께 카네이션을 드리며 감사 인사를 해요.",
+   "미국은 어머니날(5월 둘째 일요일)과 아버지날(6월 셋째 일요일)이 따로 있어요. 어머니날에는 가족이 아침을 준비하거나 집안일을 대신해요.",
+   "일본도 어머니날(5월 둘째 일요일)과 아버지날(6월 셋째 일요일)을 따로 기념해요. 어머니날에는 붉은 카네이션을 드려요.",
+   "중국도 어머니날과 아버지날을 따로 기념하며, 원추리꽃을 드리기도 해요."
+  ],
+  "expressions": [
+   "When is Mother's Day? — It's on the second Sunday in May.",
+   "When is Parents' Day? — It's on May 8th.",
+   "Happy Mother's Day! I love you, Mom."
+  ],
+  "exercises": []
+ }
+}

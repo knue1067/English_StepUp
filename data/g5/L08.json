@@ -1,0 +1,3335 @@
+{
+  "id": "L08",
+  "no": 8,
+  "semester": 2,
+  "title": "What Would You Like?",
+  "emoji": "🍽️",
+  "rationale": "가족이나 친구와 음식을 주문하고 다른 나라 음식을 주문하는 상황은 일상에서 자주 경험하는 일이다. 이 단원에서는 음식을 주문하는 말과 음식을 권하고 답하는 말을 익혀 실생활에서 자연스럽게 활용하게 하고, 음식을 소개하는 글을 읽고 음식 주문과 재료를 나타내는 문장을 쓰는 능력을 기른다.",
+  "topics": "개인생활 관련 (쇼핑, 영양, 관심사), 사회생활 관련 (면대면 대화), 문화 관련 (세계 문화의 의식주)",
+  "functions": [
+    {
+      "ko": "음식 주문하기",
+      "examples": [
+        "What would you like?",
+        "I'd like a fruit salad."
+      ]
+    },
+    {
+      "ko": "음식 권하고 답하기",
+      "examples": [
+        "Do you want some more?",
+        "Yes, please.",
+        "No, thanks."
+      ]
+    }
+  ],
+  "forms": [
+    "I'd like a beef steak.",
+    "It has fruit and ice in it."
+  ],
+  "newWords": [
+    {
+      "en": "all",
+      "ko": "모두, 전부"
+    },
+    {
+      "en": "beef",
+      "ko": "소고기"
+    },
+    {
+      "en": "cake",
+      "ko": "케이크"
+    },
+    {
+      "en": "chip",
+      "ko": "감자튀김, 감자칩"
+    },
+    {
+      "en": "choose",
+      "ko": "고르다, 선택하다"
+    },
+    {
+      "en": "feel",
+      "ko": "느끼다"
+    },
+    {
+      "en": "fish",
+      "ko": "생선, 물고기"
+    },
+    {
+      "en": "fruit",
+      "ko": "과일"
+    },
+    {
+      "en": "meat",
+      "ko": "고기"
+    },
+    {
+      "en": "or",
+      "ko": "또는, 아니면"
+    },
+    {
+      "en": "sandwich",
+      "ko": "샌드위치"
+    },
+    {
+      "en": "sell",
+      "ko": "팔다"
+    },
+    {
+      "en": "spaghetti",
+      "ko": "스파게티"
+    },
+    {
+      "en": "steak",
+      "ko": "스테이크"
+    },
+    {
+      "en": "tasty",
+      "ko": "맛있는"
+    },
+    {
+      "en": "would",
+      "ko": "~하고 싶다 (would like: ~을 원하다)"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "fruit salad",
+      "ko": "과일샐러드",
+      "emoji": "🥗"
+    },
+    {
+      "en": "beef steak",
+      "ko": "비프스테이크",
+      "emoji": "🥩"
+    },
+    {
+      "en": "carrot cake",
+      "ko": "당근케이크",
+      "emoji": "🍰"
+    },
+    {
+      "en": "cheese pizza",
+      "ko": "치즈피자",
+      "emoji": "🍕"
+    },
+    {
+      "en": "orange juice",
+      "ko": "오렌지주스",
+      "emoji": "🧃"
+    },
+    {
+      "en": "tomato spaghetti",
+      "ko": "토마토스파게티",
+      "emoji": "🍝"
+    }
+  ],
+  "characters": [
+    "Linh",
+    "Tom",
+    "우주",
+    "Amy",
+    "Jesse",
+    "나리",
+    "Olivia",
+    "Bobo",
+    "Coco"
+  ],
+  "goals": {
+    "understand": [
+      "음식을 주문하는 말을 듣고 이해할 수 있다.",
+      "음식을 권하고 답하는 말을 듣고 이해할 수 있다.",
+      "음식을 소개하는 글을 읽고 이해할 수 있다.",
+      "음식을 주문하고 음식을 권하며 답하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "음식을 소개하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "음식을 주문하는 말을 할 수 있다.",
+      "음식을 권하고 답하는 말을 할 수 있다.",
+      "음식을 주문하는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 좋아하는 음식을 소개하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-04",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "음식 주문하기",
+      "objectives": [
+        "음식을 주문하는 말을 듣고 이해하며 말할 수 있다.",
+        "'Play 1'으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 107~109쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "음식점에서 주문하는 사진으로 동기 유발, 가족과 외식하면 먹고 싶은 음식 말하기, 붙임딱지로 음식 이름 익히기와 Word Chant",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "세계 음식 축제에서 Linh과 Tom이 음식을 주문하고 우주의 김치전을 맛보는 만화 영화 이해하기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Match / Practice 1",
+          "desc": "대화를 듣고 친구들이 주문한 음식 연결하기, 주요 표현 따라 말하기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "선생님이 말한 음식 카드를 가진 학생이 따라 말하며 자리 바꾸기 (전체)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "듣고 그림과 일치하면 ○, 아니면 × 하기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What would you like?",
+        "I'd like a fruit salad.",
+        "I'd like a beef steak, please."
+      ],
+      "tip": "음식을 주문할 때는 I'd like 뒤에 음식 이름을 말하고, 끝에 please를 붙이면 더 공손해요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 음식을 주문하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (수행평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "음식 이름과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "fruit salad",
+              "과일샐러드"
+            ],
+            [
+              "beef steak",
+              "비프스테이크"
+            ],
+            [
+              "carrot cake",
+              "당근케이크"
+            ],
+            [
+              "cheese pizza",
+              "치즈피자"
+            ],
+            [
+              "orange juice",
+              "오렌지주스"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "그림과 음식 이름을 짝지어 보세요.",
+          "pairs": [
+            [
+              "🍝",
+              "tomato spaghetti"
+            ],
+            [
+              "🧃",
+              "orange juice"
+            ],
+            [
+              "🍕",
+              "cheese pizza"
+            ],
+            [
+              "🥩",
+              "beef steak"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "그림에 알맞은 음식은?",
+          "emoji": "🥕🍰",
+          "choices": [
+            "carrot cake",
+            "fruit salad",
+            "cheese pizza",
+            "orange juice"
+          ],
+          "answer": 0,
+          "explain": "당근(carrot)으로 만든 케이크(cake)는 carrot cake예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'과일샐러드'를 영어로 하면?",
+          "emoji": "🥗",
+          "choices": [
+            "beef steak",
+            "tomato spaghetti",
+            "carrot cake",
+            "fruit salad"
+          ],
+          "answer": 3,
+          "explain": "과일은 fruit, 샐러드는 salad예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 음식의 그림을 고르세요.",
+          "audio": "I'd like a cheese pizza.",
+          "choices": [
+            "🍝",
+            "🍕",
+            "🥩",
+            "🧃"
+          ],
+          "answer": 1,
+          "explain": "cheese pizza는 치즈피자예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 음식을 고르세요.",
+          "audio": "What would you like? I'd like an orange juice.",
+          "choices": [
+            "오렌지주스",
+            "당근케이크",
+            "토마토스파게티",
+            "과일샐러드"
+          ],
+          "answer": 0,
+          "explain": "I'd like an orange juice. = 오렌지주스를 주문할게요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "점원",
+              "text": "Hi, what would you like?"
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, please.",
+            "It's spicy, but I like it.",
+            "I'd like a fruit salad.",
+            "You're welcome."
+          ],
+          "answer": 2,
+          "explain": "'무엇을 주문하시겠어요?'라고 물으면 I'd like ~.로 원하는 음식을 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "Kimchijeon? Can I try some?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's kimchijeon.",
+            "Sure. Help yourself.",
+            "I'd like a beef steak.",
+            "Here's your fruit salad."
+          ],
+          "answer": 1,
+          "explain": "'좀 먹어 봐도 돼?'라고 물었으니 '물론이지. 마음껏 먹어.(Sure. Help yourself.)'가 알맞아요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like a beef ___.",
+          "ko": "비프스테이크를 주문할게요.",
+          "choices": [
+            "steak",
+            "cake",
+            "juice"
+          ],
+          "answer": 0,
+          "explain": "비프스테이크는 beef steak예요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "무엇을 주문하시겠어요?",
+          "answer": "What would you like?",
+          "distractors": [
+            "do",
+            "want"
+          ],
+          "explain": "음식을 주문받을 때는 What would you like?라고 물어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like tomato spaghetti.",
+          "answer": "I'd like tomato spaghetti.",
+          "distractors": [
+            "a",
+            "cake"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'd like a beef steak, please.",
+          "ko": "비프스테이크를 주문할게요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "한국인 점원",
+              "text": "Hello, what would you like?"
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Here's your kimchijeon.",
+            "I'd like kimchijeon, please.",
+            "It's kimchijeon.",
+            "Can I try some?"
+          ],
+          "answer": 1,
+          "explain": "주문을 받는 말에는 I'd like ~, please.로 원하는 음식을 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Linh",
+              "text": "What's that?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's kimchijeon. It's delicious!",
+            "I'd like kimchijeon.",
+            "Help yourself.",
+            "No, thanks."
+          ],
+          "answer": 0,
+          "explain": "'그게 뭐야?'라고 물으면 It's ~.로 무엇인지 알려 줘요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 과일샐러드와 오렌지주스를 주문할게요.",
+          "answer": "I'd like a fruit salad and an orange juice.",
+          "distractors": [
+            "want",
+            "cake"
+          ],
+          "explain": "두 가지 음식은 and로 이어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "여기 비프스테이크 나왔습니다.",
+          "answer": "Here's your beef steak.",
+          "distractors": [
+            "you",
+            "are"
+          ],
+          "explain": "음식을 건넬 때는 Here's your ~.라고 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, what would you like?",
+          "answer": "Hi, what would you like?",
+          "distractors": [
+            "do",
+            "want"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like a cheese ___, please.",
+          "ko": "치즈피자 주세요.",
+          "choices": [
+            "salad",
+            "juice",
+            "pizza"
+          ],
+          "answer": 2,
+          "explain": "치즈피자는 cheese pizza예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like ___ orange juice, please.",
+          "ko": "오렌지주스 주세요.",
+          "choices": [
+            "a",
+            "an",
+            "two"
+          ],
+          "answer": 1,
+          "explain": "orange처럼 모음 소리로 시작하면 an을 써요. 교과서에서도 an orange juice라고 했어요."
+        },
+        {
+          "type": "match",
+          "prompt": "묻는 말이나 건네는 말에 알맞은 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Here's your fruit salad.",
+              "Thank you."
+            ],
+            [
+              "What's that?",
+              "It's kimchijeon."
+            ],
+            [
+              "Can I try some?",
+              "Sure."
+            ],
+            [
+              "What would you like?",
+              "I'd like a cheese pizza, please."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 음식을 모두 고르세요.",
+          "audio": "Hello, what would you like? I'd like tomato spaghetti and an orange juice.",
+          "choices": [
+            "토마토스파게티와 당근케이크",
+            "치즈피자와 오렌지주스",
+            "과일샐러드와 오렌지주스",
+            "토마토스파게티와 오렌지주스"
+          ],
+          "answer": 3,
+          "explain": "tomato spaghetti and an orange juice = 토마토스파게티와 오렌지주스."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'd like a fruit salad and carrot cake.",
+          "ko": "과일샐러드와 당근케이크를 주문할게요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "치즈피자와 오렌지주스를 주문할게요.",
+          "answers": [
+            "I'd like a cheese pizza and an orange juice.",
+            "I would like a cheese pizza and an orange juice.",
+            "I'd like a cheese pizza and an orange juice, please."
+          ],
+          "hint": "I'd like a ____ ____ and an ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "안녕하세요, 무엇을 주문하시겠어요?",
+          "answers": [
+            "Hello, what would you like?",
+            "Hi, what would you like?"
+          ],
+          "hint": "Hello, what ____ you ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "여기 과일샐러드 나왔습니다.",
+          "answers": [
+            "Here's your fruit salad.",
+            "Here is your fruit salad."
+          ],
+          "hint": "Here's your ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Kimchijeon? Can I try some?",
+          "answer": "Kimchijeon? Can I try some?",
+          "distractors": [
+            "Is",
+            "any"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Oh, it's spicy, but I like it.",
+          "answer": "Oh, it's spicy, but I like it.",
+          "distractors": [
+            "and",
+            "love"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "토마토스파게티 하나와 치즈피자 하나 주세요.",
+          "answer": "One tomato spaghetti and one cheese pizza, please.",
+          "distractors": [
+            "two",
+            "a"
+          ],
+          "explain": "여러 음식을 한꺼번에 주문할 때 One ~ and one ~, please.라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 비프스테이크와 당근케이크를 주문할게요.",
+          "answer": "I'd like a beef steak and carrot cake.",
+          "distractors": [
+            "an",
+            "want"
+          ],
+          "explain": "I'd like 뒤에 음식 두 가지를 and로 이어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "점원",
+              "text": "Hi, what would you like?"
+            },
+            {
+              "who": "Mohan",
+              "text": "I'd like a cheese pizza."
+            },
+            {
+              "who": "점원",
+              "text": "?"
+            },
+            {
+              "who": "Mohan",
+              "text": "Thank you."
+            }
+          ],
+          "choices": [
+            "What's that?",
+            "Do you want some more?",
+            "I'd like it, too.",
+            "Here's your cheese pizza."
+          ],
+          "answer": 3,
+          "explain": "Mohan이 'Thank you.'라고 했으니 점원이 피자를 건네는 말이 알맞아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Waiter: Welcome! What would you like?\nLinh: I'd like tomato spaghetti, please.\nMohan: I'd like a cheese pizza and an orange juice.\nWaiter: Okay. Here you are.",
+          "question": "Mohan이 주문한 것을 모두 고르면?",
+          "choices": [
+            "토마토스파게티",
+            "치즈피자와 오렌지주스",
+            "치즈피자와 당근케이크",
+            "오렌지주스만"
+          ],
+          "answer": 1,
+          "explain": "Mohan은 'a cheese pizza and an orange juice'를 주문했어요. 토마토스파게티는 Linh이 주문했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello. I'd like tomato spaghetti and a fruit salad, please.",
+          "ko": "안녕하세요. 토마토스파게티와 과일샐러드를 주문할게요."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "음식 주문하기, 음식 권하고 답하기",
+      "objectives": [
+        "음식을 주문하는 말을 할 수 있다.",
+        "음식을 권하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "'Play 2'를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 110~111쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Listen and Match 그림으로 복습, 피자를 권하는 사진 보고 할 말 추측하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "Amy네 가족이 카페에서 주문하고, 당근을 싫어하던 Amy가 당근케이크를 더 먹는 만화 영화 이해하기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "Jesse 가족의 주문, 나리와 Olivia의 피자 권하기 동영상 보고 표현 익히기, 짝과 주문하고 권하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "음식을 주문하고 'Do you want some more?'에 사다리 결과(○/×)에 따라 답하기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "그림 상황에 맞게 짝과 대화하기, 자기 평가, 복습 계획 세우기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Do you want some more?",
+        "Yes, please.",
+        "No, thanks.",
+        "I'd like an orange juice."
+      ],
+      "tip": "더 먹고 싶으면 'Yes, please.', 괜찮으면 'No, thanks.'라고 공손하게 답해요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가 — 음식을 주문하는 말을 할 수 있는가? 음식을 권하고 답하는 말을 듣고 이해하며 말할 수 있는가? (수행평가)",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "남동생",
+              "text": "Do you want some more?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'd like carrot cake.",
+            "Here you are.",
+            "You're welcome.",
+            "Yes, please."
+          ],
+          "answer": 3,
+          "explain": "당근케이크가 맛있어서 더 먹고 싶은 Amy는 'Yes, please.'라고 답했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "B는 더 마시고 싶지 않아요. 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "A",
+              "text": "What would you like?"
+            },
+            {
+              "who": "B",
+              "text": "I'd like an orange juice."
+            },
+            {
+              "who": "A",
+              "text": "Do you want some more?"
+            },
+            {
+              "who": "B",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, I'd like it.",
+            "No, thanks.",
+            "Here you are.",
+            "Thank you, too."
+          ],
+          "answer": 1,
+          "explain": "더 먹고 싶지 않을 때는 'No, thanks.'라고 정중하게 거절해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "점원",
+              "text": "Welcome! What would you like?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Do you want some more?",
+            "It's tasty!",
+            "I'd like an orange juice.",
+            "Is that all?"
+          ],
+          "answer": 2,
+          "explain": "점원이 주문을 받으니 I'd like ~.로 주문해요. Amy는 오렌지주스를 주문했어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "더 먹을래?",
+          "answer": "Do you want some more?",
+          "distractors": [
+            "would",
+            "like"
+          ],
+          "explain": "음식을 더 권할 때는 Do you want some more?라고 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "토마토스파게티를 주문할게요.",
+          "answer": "I'd like tomato spaghetti, please.",
+          "distractors": [
+            "a",
+            "want"
+          ],
+          "explain": "I'd like 뒤에 음식 이름을 쓰고, 공손하게 please를 붙일 수 있어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Do you want some more?",
+          "choices": [
+            "더 먹을래?",
+            "무엇을 주문하시겠어요?",
+            "여기 있어요.",
+            "맛있니?"
+          ],
+          "answer": 0,
+          "explain": "some more는 '조금 더'라는 뜻이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 것을 고르세요.",
+          "audio": "Three orange juices and one carrot cake, please.",
+          "choices": [
+            "오렌지주스 한 잔과 당근케이크 세 개",
+            "오렌지주스 세 잔과 당근케이크 하나",
+            "당근케이크 두 개",
+            "오렌지주스 두 잔"
+          ],
+          "answer": 1,
+          "explain": "three orange juices = 오렌지주스 세 잔, one carrot cake = 당근케이크 하나."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like carrot cake.",
+          "answer": "I'd like carrot cake.",
+          "distractors": [
+            "a",
+            "juice"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Do you want some ___?",
+          "ko": "더 먹을래?",
+          "choices": [
+            "much",
+            "more",
+            "many"
+          ],
+          "answer": 1,
+          "explain": "'조금 더'는 some more예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Do you want some more?",
+          "ko": "더 먹을래?"
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "No, thanks.",
+          "ko": "아니, 괜찮아."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "B는 배가 불러요. 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "A",
+              "text": "Do you want some more pizza?"
+            },
+            {
+              "who": "B",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, please.",
+            "Here you are.",
+            "No, thanks. I'm full.",
+            "I'd like pizza."
+          ],
+          "answer": 2,
+          "explain": "배가 불러 더 먹고 싶지 않을 때는 'No, thanks.'로 정중하게 거절해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "아빠",
+              "text": "Is that all?"
+            },
+            {
+              "who": "남동생",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I want an orange juice, too.",
+            "Here you are.",
+            "It's tasty!",
+            "I don't like carrots."
+          ],
+          "answer": 0,
+          "explain": "'그게 다니?'라고 물었을 때 남동생은 오렌지주스도 원한다고 말했어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "케이크 더 먹을래?",
+          "answer": "Do you want some more cake?",
+          "distractors": [
+            "would",
+            "many"
+          ],
+          "explain": "Do you want some more 뒤에 음식 이름을 붙일 수 있어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "응, 줘. 정말 맛있어!",
+          "answer": "Yes, please. It's so good!",
+          "distractors": [
+            "No",
+            "bad"
+          ],
+          "explain": "더 먹고 싶으면 Yes, please.라고 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Carrots are good for you. Try this.",
+          "answer": "Carrots are good for you. Try this.",
+          "distractors": [
+            "bad",
+            "that"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Do you want some more ___?",
+          "ko": "주스 더 마실래?",
+          "choices": [
+            "much",
+            "juice",
+            "many"
+          ],
+          "answer": 1,
+          "explain": "more 뒤에 권하는 음식(juice)을 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, please. It's tasty!",
+          "ko": "응, 줘. 맛있어!",
+          "choices": [
+            "No",
+            "Here",
+            "Yes"
+          ],
+          "answer": 2,
+          "explain": "더 먹고 싶을 때는 Yes, please.예요."
+        },
+        {
+          "type": "match",
+          "prompt": "말과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "It's tasty!",
+              "맛있어!"
+            ],
+            [
+              "Is that all?",
+              "그게 다니?"
+            ],
+            [
+              "Try this.",
+              "이거 먹어 봐."
+            ],
+            [
+              "Here you are.",
+              "여기 있어."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 대답하는 말의 뜻을 고르세요.",
+          "audio": "Do you want some more? No, thanks.",
+          "choices": [
+            "응, 더 줘.",
+            "아니, 괜찮아.",
+            "여기 있어.",
+            "맛있어."
+          ],
+          "answer": 1,
+          "explain": "No, thanks. = 아니, 괜찮아."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Do you want some more pizza?",
+          "ko": "피자 더 먹을래?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "더 먹을래, Amy?",
+          "answers": [
+            "Do you want some more, Amy?",
+            "Amy, do you want some more?"
+          ],
+          "hint": "Do you want some ____, Amy?"
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "오렌지주스 세 잔 주세요.",
+          "answers": [
+            "Three orange juices, please."
+          ],
+          "hint": "Three orange ____, please."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "그게 다니?",
+          "answers": [
+            "Is that all?"
+          ],
+          "hint": "Is that ____?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Wow, it's nice and cool!",
+          "answer": "Wow, it's nice and cool!",
+          "distractors": [
+            "hot",
+            "is"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I don't like carrots, but this is so good!",
+          "answer": "I don't like carrots, but this is so good!",
+          "distractors": [
+            "love",
+            "bad"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "스파게티 더 먹을래? 응, 줘.",
+          "answer": "Do you want some more spaghetti? Yes, please.",
+          "distractors": [
+            "No",
+            "would"
+          ],
+          "explain": "권하는 말 Do you want some more ~?와 대답 Yes, please.를 이어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "이 치즈피자 맛있다!",
+          "answer": "This cheese pizza is tasty!",
+          "distractors": [
+            "are",
+            "spicy"
+          ],
+          "explain": "'맛있는'은 tasty예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "점원",
+              "text": "Welcome! What would you like?"
+            },
+            {
+              "who": "Tom",
+              "text": "I'd like a fruit salad."
+            },
+            {
+              "who": "점원",
+              "text": "Is that all?"
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Here's your fruit salad.",
+            "You're welcome.",
+            "Do you want some more?",
+            "No. I'd like an orange juice, too."
+          ],
+          "answer": 3,
+          "explain": "'그게 다예요?'라는 물음에 더 주문할 것을 말해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Olivia: This cheese pizza is tasty!\nNari: Do you want some more?\nOlivia: No, thanks. I want some fruit salad.\nNari: Okay. Here you are.",
+          "question": "Olivia가 더 먹고 싶어 한 것은?",
+          "choices": [
+            "과일샐러드",
+            "치즈피자",
+            "오렌지주스",
+            "당근케이크"
+          ],
+          "answer": 0,
+          "explain": "Olivia는 피자는 'No, thanks.'라고 하고 과일샐러드를 원했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Carrots are good for you. Do you want some more?",
+          "ko": "당근은 몸에 좋아. 더 먹을래?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Talk",
+      "studyPoint": "음식 주문하는 문장 읽고 쓰기",
+      "objectives": [
+        "음식을 주문하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "'Play 3'로 음식을 주문하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 112~113쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "그림 카드로 주문하고 권하는 말 복습, 오렌지주스 사진 보고 'I'd like an orange juice.' 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "음식점 말풍선 문장 읽고 빈 말풍선에 알맞은 주문 문장 골라 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림 보고 알맞은 어구 골라 주문 문장 완성하기, 어구와 문장 읽고 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "주문하고 싶은 음식 3가지로 문장을 완성하고, 짝이 고른 음식을 먼저 찾는 살아남기 놀이 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "문장에 맞는 그림, 그림에 맞는 어구 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What would you like?",
+        "I'd like a cheese pizza.",
+        "I'd like carrot cake."
+      ],
+      "tip": "I'd는 I would를 줄인 말이에요. 쓸 때 어포스트로피(')를 빠뜨리지 마세요!",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가 — 음식을 주문하는 문장을 읽고 의미를 이해하며 쓸 수 있는가? 강세, 리듬, 억양에 맞게 소리 내어 읽을 수 있는가? (포트폴리오 평가)",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like a fruit ___.",
+          "ko": "과일샐러드를 주문할게요.",
+          "choices": [
+            "salad",
+            "steak",
+            "spaghetti"
+          ],
+          "answer": 0,
+          "explain": "과일샐러드는 fruit salad예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like ___ cake.",
+          "ko": "당근케이크를 주문할게요.",
+          "choices": [
+            "carrot",
+            "cheese",
+            "tomato"
+          ],
+          "answer": 0,
+          "explain": "당근은 carrot이에요. carrot cake = 당근케이크."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What ___ you like?",
+          "ko": "무엇을 주문하시겠어요?",
+          "choices": [
+            "do",
+            "are",
+            "would"
+          ],
+          "answer": 2,
+          "explain": "주문을 받을 때는 What would you like?라고 해요. 'What do you like?'는 '무엇을 좋아하니?'라는 다른 뜻이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 치즈피자를 주문할게요.",
+          "answer": "I'd like a cheese pizza.",
+          "distractors": [
+            "an",
+            "salad"
+          ],
+          "explain": "I'd like 뒤에 a cheese pizza를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 오렌지주스를 주문할게요.",
+          "answer": "I'd like an orange juice.",
+          "distractors": [
+            "a",
+            "cake"
+          ],
+          "explain": "orange는 모음 소리로 시작해서 an orange juice라고 해요."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "비프스테이크를 주문할게요.",
+          "answers": [
+            "I'd like a beef steak.",
+            "I would like a beef steak.",
+            "I'd like a beef steak, please."
+          ],
+          "hint": "I'd like a ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "토마토스파게티를 주문할게요.",
+          "answers": [
+            "I'd like tomato spaghetti.",
+            "I would like tomato spaghetti.",
+            "I'd like tomato spaghetti, please."
+          ],
+          "hint": "I'd like ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "무엇을 주문하시겠어요?",
+          "answers": [
+            "What would you like?"
+          ],
+          "hint": "What ____ you like?"
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "Id like carrot cake.",
+            "I'd like carrot cake",
+            "I'd like carrot cake.",
+            "i'd like carrot cake."
+          ],
+          "answer": 2,
+          "explain": "I'd는 I would를 줄인 말이라 어포스트로피(')를 꼭 써요. 첫 글자는 대문자, 끝에는 마침표를 찍어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'I'd like a cheese pizza.'의 뜻으로 알맞은 것은?",
+          "choices": [
+            "치즈피자를 주문할게요.",
+            "치즈피자를 좋아하지 않아요.",
+            "치즈피자를 팔아요.",
+            "치즈피자를 더 먹을래요."
+          ],
+          "answer": 0,
+          "explain": "I'd like ~.는 음식을 주문할 때 '~을 주세요/주문할게요'라는 뜻이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like a fruit salad.",
+          "answer": "I'd like a fruit salad.",
+          "distractors": [
+            "an",
+            "steak"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Waiter: What would you like?\nTom: I'd like a cheese pizza.\nMohan: I'd like a fruit salad.\nWaiter: Okay. One cheese pizza and one fruit salad.",
+          "question": "Mohan이 주문한 음식은 무엇인가요?",
+          "choices": [
+            "치즈피자",
+            "비프스테이크",
+            "당근케이크",
+            "과일샐러드"
+          ],
+          "answer": 3,
+          "explain": "Mohan은 'I'd like a fruit salad.'라고 했어요. 치즈피자는 Tom이 주문했어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "나는 샌드위치를 주문할게요.",
+          "answers": [
+            "I'd like a sandwich.",
+            "I would like a sandwich.",
+            "I'd like a sandwich, please."
+          ],
+          "hint": "I'd like a ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "나는 과일주스를 주문할게요.",
+          "answers": [
+            "I'd like fruit juice.",
+            "I'd like a fruit juice.",
+            "I would like fruit juice.",
+            "I'd like fruit juice, please."
+          ],
+          "hint": "I'd like ____ ____."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like ___ apple juice.",
+          "ko": "사과주스를 주문할게요.",
+          "choices": [
+            "a",
+            "two",
+            "an"
+          ],
+          "answer": 2,
+          "explain": "apple은 모음 소리로 시작해서 an apple juice라고 해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'd like tomato ___ and orange juice.",
+          "ko": "토마토스파게티와 오렌지주스를 주문할게요.",
+          "choices": [
+            "cake",
+            "salad",
+            "spaghetti"
+          ],
+          "answer": 2,
+          "explain": "토마토스파게티는 tomato spaghetti예요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 당근케이크와 오렌지주스를 주문할게요.",
+          "answer": "I'd like carrot cake and an orange juice.",
+          "distractors": [
+            "a",
+            "want"
+          ],
+          "explain": "carrot cake 앞에는 a를 쓰지 않았어요. 교과서 표현 그대로 익혀요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "샌드위치 두 개 주세요.",
+          "answer": "Two sandwiches, please.",
+          "distractors": [
+            "sandwich",
+            "a"
+          ],
+          "explain": "두 개 이상이면 sandwiches처럼 -es를 붙여요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "B2는 토마토스파게티를 원해요. 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "W",
+              "text": "What would you like?"
+            },
+            {
+              "who": "B1",
+              "text": "I'd like a cheese pizza."
+            },
+            {
+              "who": "B2",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "And I'd like tomato spaghetti.",
+            "And I'd like a beef steak.",
+            "Do you want some more?",
+            "Here's your pizza."
+          ],
+          "answer": 0,
+          "explain": "B2는 토마토스파게티를 주문하고 싶어 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like a sandwich and a fruit salad.",
+          "answer": "I'd like a sandwich and a fruit salad.",
+          "distractors": [
+            "an",
+            "want"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "음식 이름과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "fruit juice",
+              "과일주스"
+            ],
+            [
+              "sandwich",
+              "샌드위치"
+            ],
+            [
+              "kimchijeon",
+              "김치전"
+            ],
+            [
+              "fish and chips",
+              "피시 앤드 칩스"
+            ]
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What would you like? I'd like a sandwich.",
+          "ko": "무엇을 주문하시겠어요? 샌드위치를 주문할게요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "나는 비프스테이크와 과일샐러드를 주문할게요.",
+          "answers": [
+            "I'd like a beef steak and a fruit salad.",
+            "I would like a beef steak and a fruit salad.",
+            "I'd like a beef steak and a fruit salad, please."
+          ],
+          "hint": "I'd like a ____ ____ and a ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "무엇을 주문하시겠어요, Amy?",
+          "answers": [
+            "What would you like, Amy?",
+            "Amy, what would you like?"
+          ],
+          "hint": "What would you ____, Amy?"
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "나는 치즈피자와 당근케이크를 주문할게요.",
+          "answers": [
+            "I'd like a cheese pizza and carrot cake.",
+            "I would like a cheese pizza and carrot cake.",
+            "I'd like a cheese pizza and carrot cake, please."
+          ],
+          "hint": "I'd like a ____ ____ and ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like an orange juice and carrot cake, please.",
+          "answer": "I'd like an orange juice and carrot cake, please.",
+          "distractors": [
+            "a",
+            "want"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What would you like, Mohan?",
+          "answer": "What would you like, Mohan?",
+          "distractors": [
+            "do",
+            "want"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "나는 토마토스파게티를 주문할게요. 너는 어때?",
+          "answer": "I'd like tomato spaghetti. How about you?",
+          "distractors": [
+            "a",
+            "What"
+          ],
+          "explain": "내 주문을 말한 뒤 How about you?로 친구에게 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "오렌지주스 두 잔 주세요.",
+          "answer": "Two orange juices, please.",
+          "distractors": [
+            "juice",
+            "an"
+          ],
+          "explain": "두 잔이면 juices처럼 -s를 붙여요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "B는 비프스테이크를 원해요. 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "W",
+              "text": "What would you like?"
+            },
+            {
+              "who": "G",
+              "text": "I'd like a fruit salad."
+            },
+            {
+              "who": "W",
+              "text": "How about you?"
+            },
+            {
+              "who": "B",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "A fruit salad, please.",
+            "Yes, please.",
+            "It's tasty!",
+            "A beef steak, please."
+          ],
+          "answer": 3,
+          "explain": "B는 비프스테이크를 원해요. 음식 이름 뒤에 please를 붙여 짧게 주문할 수도 있어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Tom's family order\nDad: a beef steak\nMom: tomato spaghetti\nTom: a cheese pizza and an orange juice",
+          "question": "Tom의 엄마가 주문한 음식은?",
+          "choices": [
+            "비프스테이크",
+            "토마토스파게티",
+            "치즈피자",
+            "오렌지주스"
+          ],
+          "answer": 1,
+          "explain": "'Mom: tomato spaghetti'라고 쓰여 있어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Welcome! What would you like?",
+          "ko": "어서 오세요! 무엇을 주문하시겠어요?"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "음식을 소개하는 글 읽고 이해하기",
+      "objectives": [
+        "음식을 소개하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 114~115쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Read and Talk 그림으로 주문 문장 복습, 음식을 소개할 때 무엇을 말하는지 이야기하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "포도, 수박, 소고기, 닭고기, 치즈 중 좋아하는 음식 재료에 ○ 하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "과일주스와 샌드위치를 파는 푸드 트럭의 소개 글 듣고 읽기, 재료와 고를 수 있는 것 확인하기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "각 푸드 트럭과 관계있는 재료에 ○ 하기, 과일샐러드 소개 글 읽고 문장 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "과일주스 소개 글 읽고 문제 풀기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "We sell fruit juice.",
+        "It has fruit and ice in it.",
+        "You can choose grape or watermelon."
+      ],
+      "tip": "음식 소개 글에서는 무엇을 파는지(sell), 무엇이 들어 있는지(has), 무엇을 고를 수 있는지(choose)를 찾아보세요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가 — 음식을 소개하는 글을 읽고 이해할 수 있는가? (수행평가, 포트폴리오 평가)",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "We sell fruit juice at our truck. There is fruit and ice in it. You can pick grape or watermelon. It is really tasty!",
+          "question": "이 푸드 트럭에서 파는 것은 무엇인가요?",
+          "choices": [
+            "샌드위치",
+            "과일주스",
+            "피자",
+            "케이크"
+          ],
+          "answer": 1,
+          "explain": "'We sell fruit juice'라고 했어요. sell은 '팔다'예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "We sell fruit juice at our truck. There is fruit and ice in it. You can pick grape or watermelon. It is really tasty!",
+          "question": "과일주스 안에 들어 있는 것은 무엇인가요?",
+          "choices": [
+            "과일과 얼음",
+            "고기와 치즈",
+            "우유와 초콜릿",
+            "채소와 달걀"
+          ],
+          "answer": 0,
+          "explain": "'There is fruit and ice in it.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Try our sandwiches! There is meat and cheese in them. You can pick beef or chicken. They are delicious!",
+          "question": "샌드위치에 넣을 고기로 고를 수 있는 것은?",
+          "choices": [
+            "생선이나 소고기",
+            "닭고기나 생선",
+            "소고기나 닭고기",
+            "포도나 수박"
+          ],
+          "answer": 2,
+          "explain": "'You can pick beef or chicken.'이라고 했어요. beef는 소고기, chicken은 닭고기예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Try our sandwiches! There is meat and cheese in them. You can pick beef or chicken. They are delicious!",
+          "question": "샌드위치 안에 들어 있는 것은 무엇인가요?",
+          "choices": [
+            "과일과 얼음",
+            "고기와 치즈",
+            "생선과 감자",
+            "토마토와 당근"
+          ],
+          "answer": 1,
+          "explain": "'There is meat and cheese in them.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is our fruit salad. It has fruit and vegetables in it. You can choose banana or apple. Try some!",
+          "question": "과일샐러드에 넣을 과일로 고를 수 있는 것은?",
+          "choices": [
+            "포도나 수박",
+            "오렌지나 포도",
+            "바나나나 오렌지",
+            "바나나나 사과"
+          ],
+          "answer": 3,
+          "explain": "'You can choose banana or apple.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is fish and chips. It's from the U.K. It has fish and potato chips in it. People love it!",
+          "question": "fish and chips는 어느 나라 음식인가요?",
+          "choices": [
+            "미국",
+            "이탈리아",
+            "베트남",
+            "영국"
+          ],
+          "answer": 3,
+          "explain": "'It's from the U.K.'라고 했어요. the U.K.는 영국이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'sell'의 뜻은?",
+          "choices": [
+            "사다",
+            "팔다",
+            "고르다",
+            "느끼다"
+          ],
+          "answer": 1,
+          "explain": "We sell fruit juice. = 우리는 과일주스를 팔아요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'고르다, 선택하다'를 영어로 하면?",
+          "choices": [
+            "sell",
+            "feel",
+            "choose",
+            "would"
+          ],
+          "answer": 2,
+          "explain": "You can choose ~ or ~. = ~나 ~ 중에서 고를 수 있어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'tasty'의 뜻은?",
+          "emoji": "😋",
+          "choices": [
+            "맛있는",
+            "매운",
+            "차가운",
+            "비싼"
+          ],
+          "answer": 0,
+          "explain": "It is tasty! = 맛있어요! delicious와 비슷한 뜻이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "새로 배운 단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "meat",
+              "고기"
+            ],
+            [
+              "beef",
+              "소고기"
+            ],
+            [
+              "fish",
+              "생선"
+            ],
+            [
+              "fruit",
+              "과일"
+            ],
+            [
+              "or",
+              "또는"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "You can choose grape or watermelon.",
+          "choices": [
+            "포도와 수박이 들어 있어요.",
+            "포도나 수박 중에서 고를 수 있어요.",
+            "포도나 수박을 팔아요.",
+            "포도와 수박을 좋아해요."
+          ],
+          "answer": 1,
+          "explain": "choose A or B = A나 B 중에서 고르다."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It has fruit ___ ice in it.",
+          "ko": "그 안에는 과일과 얼음이 들어 있어요.",
+          "choices": [
+            "or",
+            "but",
+            "and"
+          ],
+          "answer": 2,
+          "explain": "'과일과 얼음'처럼 둘 다 들어 있을 때는 and를 써요. or는 둘 중 하나를 고를 때 써요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "We sell pizza at our truck. It has tomatoes and cheese in it. You can choose beef or chicken. It is delicious!",
+          "question": "이 트럭의 피자에 들어 있는 것은?",
+          "choices": [
+            "토마토와 치즈",
+            "과일과 얼음",
+            "생선과 감자",
+            "사과와 바나나"
+          ],
+          "answer": 0,
+          "explain": "'It has tomatoes and cheese in it.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "We sell pizza at our truck. It has tomatoes and cheese in it. You can choose beef or chicken. It is delicious!",
+          "question": "피자에 넣을 고기로 고를 수 있는 것은?",
+          "choices": [
+            "토마토나 치즈",
+            "포도나 수박",
+            "소고기나 닭고기",
+            "생선이나 감자"
+          ],
+          "answer": 2,
+          "explain": "'You can choose beef or chicken.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Try our fruit salad! It has bananas and apples in it. You can choose orange juice or grape juice with it. It is tasty!",
+          "question": "과일샐러드와 함께 고를 수 있는 것은?",
+          "choices": [
+            "바나나나 사과",
+            "오렌지주스나 포도주스",
+            "소고기나 닭고기",
+            "케이크나 쿠키"
+          ],
+          "answer": 1,
+          "explain": "'You can choose orange juice or grape juice with it.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is bibimbap. It's from Korea. It has rice and vegetables in it. You can choose beef or egg.",
+          "question": "비빔밥은 어느 나라 음식인가요?",
+          "choices": [
+            "영국",
+            "미국",
+            "베트남",
+            "한국"
+          ],
+          "answer": 3,
+          "explain": "'It's from Korea.'라고 했어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They have meat and cheese ___ them.",
+          "ko": "그 안에는 고기와 치즈가 들어 있어요.",
+          "choices": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 0,
+          "explain": "'~ 안에'는 in이에요. They have ~ in them."
+        },
+        {
+          "type": "match",
+          "prompt": "글에 나온 단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "chicken",
+              "닭고기"
+            ],
+            [
+              "cheese",
+              "치즈"
+            ],
+            [
+              "ice",
+              "얼음"
+            ],
+            [
+              "sandwich",
+              "샌드위치"
+            ],
+            [
+              "choose",
+              "고르다"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "We sell sandwiches. They have meat and cheese in them.",
+          "choices": [
+            "샌드위치를 사고, 안에 고기와 치즈가 들어 있어요.",
+            "샌드위치를 팔고, 안에 고기와 치즈가 들어 있어요.",
+            "샌드위치를 팔고, 안에 과일과 얼음이 들어 있어요.",
+            "피자를 팔고, 안에 고기와 치즈가 들어 있어요."
+          ],
+          "answer": 1,
+          "explain": "sell은 '팔다', meat and cheese는 '고기와 치즈'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "그것은 정말 맛있어요!",
+          "answer": "It is really tasty!",
+          "distractors": [
+            "are",
+            "spicy"
+          ],
+          "explain": "'정말'은 really, '맛있는'은 tasty예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'You can choose grape or watermelon.'에서 or의 뜻은?",
+          "choices": [
+            "그리고",
+            "그러나",
+            "~ 안에",
+            "또는, 아니면"
+          ],
+          "answer": 3,
+          "explain": "or는 둘 중 하나를 고를 때 쓰는 '또는'이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Try our sandwiches! They are delicious!",
+          "answer": "Try our sandwiches! They are delicious!",
+          "distractors": [
+            "is",
+            "tasty"
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Look at the food trucks! The first truck sells fish and chips. It has fish and potatoes in it. The second truck sells fruit juice. You can choose apple or banana. Everything is tasty!",
+          "question": "첫 번째 트럭에서 파는 음식은?",
+          "choices": [
+            "피시 앤드 칩스",
+            "과일주스",
+            "샌드위치",
+            "피자"
+          ],
+          "answer": 0,
+          "explain": "'The first truck sells fish and chips.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Look at the food trucks! The first truck sells fish and chips. It has fish and potatoes in it. The second truck sells fruit juice. You can choose apple or banana. Everything is tasty!",
+          "question": "과일주스에서 고를 수 있는 것은?",
+          "choices": [
+            "생선이나 감자",
+            "사과나 바나나",
+            "포도나 수박",
+            "오렌지나 사과"
+          ],
+          "answer": 1,
+          "explain": "'You can choose apple or banana.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Hi, I'm Uju. Do you know kimchijeon? It's from Korea. It has kimchi and eggs in it. It's spicy, but it's delicious!",
+          "question": "우주가 소개한 김치전의 맛은?",
+          "choices": [
+            "달고 차가워요.",
+            "맛이 없어요.",
+            "맵지만 맛있어요.",
+            "짜고 써요."
+          ],
+          "answer": 2,
+          "explain": "'It's spicy, but it's delicious!'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "Hi, I'm Uju. Do you know kimchijeon? It's from Korea. It has kimchi and eggs in it. It's spicy, but it's delicious!",
+          "question": "글에서 김치전에 들어 있다고 한 것은?",
+          "choices": [
+            "김치와 치즈",
+            "김치와 달걀",
+            "고기와 얼음",
+            "과일과 채소"
+          ],
+          "answer": 1,
+          "explain": "'It has kimchi and eggs in it.'이라고 했어요."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "우리는 과일주스를 팔아요.",
+          "answers": [
+            "We sell fruit juice."
+          ],
+          "hint": "We ____ fruit juice."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "그 안에는 생선과 감자가 들어 있어요.",
+          "answers": [
+            "It has fish and potatoes in it."
+          ],
+          "hint": "It has ____ and ____ in it."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "소고기나 생선 중에서 고를 수 있어요.",
+          "answer": "You can choose beef or fish.",
+          "distractors": [
+            "and",
+            "sell"
+          ],
+          "explain": "둘 중 하나를 고를 때는 or를 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "They have chicken and cheese in them.",
+          "answer": "They have chicken and cheese in them.",
+          "distractors": [
+            "has",
+            "fruit"
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "판매자",
+              "text": "We sell fruit juice. You can choose grape or watermelon."
+            },
+            {
+              "who": "손님",
+              "text": "?"
+            },
+            {
+              "who": "판매자",
+              "text": "Here you are."
+            }
+          ],
+          "choices": [
+            "We sell grape juice.",
+            "It has ice in it.",
+            "You can choose it.",
+            "I'd like grape juice, please."
+          ],
+          "answer": 3,
+          "explain": "손님은 둘 중 하나를 골라 I'd like ~, please.로 주문해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "We sell sandwiches. You can choose beef or chicken.",
+          "ko": "우리는 샌드위치를 팔아요. 소고기나 닭고기 중에서 고를 수 있어요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "좋아하는 음식 소개하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 좋아하는 음식을 소개하는 글을 쓸 수 있다.",
+        "좋아하는 음식을 소개하는 글을 발표하며 배운 내용을 활용할 수 있다."
+      ],
+      "pages": "교과서 116~117쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read 번갈아 읽기, 비프스테이크·토마토스파게티 사진 보고 주문 문장과 재료 문장 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "그림 보고 음식 이름 어구 완성하기(Words), 알맞은 어구 골라 주문 대화 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "소개하고 싶은 음식 이름과 재료를 고르고, 예시문(과일주스)을 참고해 음식 그림과 소개 글 완성하기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "내가 쓴 음식 소개 글을 친구들에게 읽어 주기",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "그림 보고 샌드위치 소개 글 빈칸 채우기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "This is a meat pizza.",
+        "It has meat and cheese in it.",
+        "You can choose beef or chicken."
+      ],
+      "tip": "'It has A and B in it.'은 재료를 모두, 'You can choose A or B.'는 둘 중 하나를 고른다는 뜻이에요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가 — 좋아하는 음식을 소개하는 글을 쓸 수 있는가? 친구들과 글을 공유하는 활동에 적극 참여하는가? (포트폴리오 평가)",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "이것은 과일주스예요.",
+          "answers": [
+            "This is fruit juice.",
+            "This is a fruit juice."
+          ],
+          "hint": "This is ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "그 안에는 고기와 치즈가 들어 있어요.",
+          "answers": [
+            "It has meat and cheese in it."
+          ],
+          "hint": "It has ____ and ____ in it."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "소고기나 닭고기 중에서 고를 수 있어요.",
+          "answers": [
+            "You can choose beef or chicken."
+          ],
+          "hint": "You can choose ____ or ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "맛있어요!",
+          "answers": [
+            "It is tasty!",
+            "It's tasty!",
+            "It is delicious!",
+            "It's delicious!"
+          ],
+          "hint": "It is ____!"
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "이것은 고기피자예요.",
+          "answer": "This is a meat pizza.",
+          "distractors": [
+            "It",
+            "cheese"
+          ],
+          "explain": "음식을 소개할 때는 This is ~.로 시작해요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "그 안에는 과일과 얼음이 들어 있어요.",
+          "answer": "It has fruit and ice in it.",
+          "distractors": [
+            "have",
+            "or"
+          ],
+          "explain": "재료를 말할 때는 It has ~ and ~ in it.을 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "바나나나 수박 중에서 고를 수 있어요.",
+          "answer": "You can choose banana or watermelon.",
+          "distractors": [
+            "and",
+            "sell"
+          ],
+          "explain": "둘 중 하나를 고를 때는 or를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It ___ apples and bananas in it.",
+          "ko": "그 안에는 사과와 바나나가 들어 있어요.",
+          "choices": [
+            "have",
+            "has",
+            "is"
+          ],
+          "answer": 1,
+          "explain": "It 뒤에는 has를 써요. It has ~ in it. = 그 안에 ~이 들어 있어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You can ___ apple or orange.",
+          "ko": "사과나 오렌지 중에서 고를 수 있어요.",
+          "choices": [
+            "choose",
+            "sell",
+            "feel"
+          ],
+          "answer": 0,
+          "explain": "'고르다'는 choose예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "음식을 소개하는 글에서 'You can choose beef or chicken.'은 무엇을 알려 주나요?",
+          "choices": [
+            "고를 수 있는 재료",
+            "음식의 가격",
+            "음식이 처음 만들어진 나라",
+            "음식을 먹는 시간"
+          ],
+          "answer": 0,
+          "explain": "choose A or B는 A나 B 중에서 고를 수 있다는 뜻이라서 고를 수 있는 재료를 알려 줘요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is a chicken salad.\nIt has chicken and vegetables in it.\nYou can choose tomatoes or carrots.\nIt is tasty!",
+          "question": "이 샐러드에 들어 있는 것은 무엇인가요?",
+          "choices": [
+            "소고기와 치즈",
+            "과일과 얼음",
+            "닭고기와 채소",
+            "생선과 감자"
+          ],
+          "answer": 2,
+          "explain": "'It has chicken and vegetables in it.'이라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "It has fruit and ice in it.",
+          "ko": "그 안에는 과일과 얼음이 들어 있어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "이것은 치즈피자예요.",
+          "answers": [
+            "This is a cheese pizza."
+          ],
+          "hint": "This is a ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "그 안에는 토마토와 달걀이 들어 있어요.",
+          "answers": [
+            "It has tomatoes and eggs in it."
+          ],
+          "hint": "It has ____ and ____ in it."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "This ___ a fruit salad.",
+          "ko": "이것은 과일샐러드예요.",
+          "choices": [
+            "is",
+            "are",
+            "has"
+          ],
+          "answer": 0,
+          "explain": "음식을 소개할 때는 This is ~.예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You can choose grapes ___ oranges.",
+          "ko": "포도나 오렌지 중에서 고를 수 있어요.",
+          "choices": [
+            "and",
+            "in",
+            "or"
+          ],
+          "answer": 2,
+          "explain": "둘 중 하나를 고를 때는 or를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "그 안에는 감자와 당근이 들어 있어요.",
+          "answer": "It has potatoes and carrots in it.",
+          "distractors": [
+            "have",
+            "or"
+          ],
+          "explain": "재료를 모두 말할 때는 and로 이어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "이것은 비프스테이크예요.",
+          "answer": "This is a beef steak.",
+          "distractors": [
+            "It",
+            "an"
+          ],
+          "explain": "This is a ~.로 음식을 소개해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "A",
+              "text": "This is a chicken sandwich. It has chicken and cheese in it."
+            },
+            {
+              "who": "B",
+              "text": "?"
+            },
+            {
+              "who": "A",
+              "text": "Sure. Help yourself."
+            }
+          ],
+          "choices": [
+            "This is a sandwich.",
+            "No, thanks.",
+            "It looks tasty! Can I try some?",
+            "You can choose beef."
+          ],
+          "answer": 2,
+          "explain": "A가 'Sure. Help yourself.'라고 했으니 B는 먹어 봐도 되는지 물었어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "You can choose potatoes or carrots.",
+          "answer": "You can choose potatoes or carrots.",
+          "distractors": [
+            "and",
+            "sell"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "음식 소개 글의 문장과 하는 일을 짝지어 보세요.",
+          "pairs": [
+            [
+              "This is ~.",
+              "음식 이름 소개"
+            ],
+            [
+              "It has ~ and ~ in it.",
+              "재료 소개"
+            ],
+            [
+              "You can choose ~ or ~.",
+              "고를 수 있는 것"
+            ],
+            [
+              "It is tasty!",
+              "맛 표현"
+            ]
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "This is a cheese pizza. It has cheese and tomatoes in it.",
+          "ko": "이것은 치즈피자예요. 그 안에는 치즈와 토마토가 들어 있어요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "이것은 과일샐러드예요. 그 안에는 과일과 채소가 들어 있어요.",
+          "answers": [
+            "This is a fruit salad. It has fruit and vegetables in it."
+          ],
+          "hint": "This is a ____ ____. It has ____ and ____ in it."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "달걀이나 닭고기 중에서 고를 수 있어요.",
+          "answers": [
+            "You can choose eggs or chicken."
+          ],
+          "hint": "You can choose ____ or ____."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "이것은 김치전이에요. 그것은 한국 음식이에요.",
+          "answers": [
+            "This is kimchijeon. It's from Korea.",
+            "This is kimchijeon. It is from Korea."
+          ],
+          "hint": "This is ____. It's from ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "This is a chicken sandwich. It is tasty!",
+          "answer": "This is a chicken sandwich. It is tasty!",
+          "distractors": [
+            "are",
+            "fish"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It has tomatoes and cheese in it.",
+          "answer": "It has tomatoes and cheese in it.",
+          "distractors": [
+            "have",
+            "or"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "이것은 고기 샌드위치예요.",
+          "answer": "This is a meat sandwich.",
+          "distractors": [
+            "It",
+            "pizza"
+          ],
+          "explain": "고기는 meat예요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "사과나 바나나 중에서 고를 수 있어요.",
+          "answer": "You can choose apples or bananas.",
+          "distractors": [
+            "and",
+            "sell"
+          ],
+          "explain": "or 앞뒤에 고를 수 있는 것을 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "A",
+              "text": "This is my pizza."
+            },
+            {
+              "who": "B",
+              "text": "What's in it?"
+            },
+            {
+              "who": "A",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It has chicken and tomatoes in it.",
+            "You can choose it.",
+            "This is a pizza.",
+            "Yes, please."
+          ],
+          "answer": 0,
+          "explain": "피자 안에 무엇이 들었는지 물었으니 It has ~ in it.으로 재료를 말해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is my favorite food, bulgogi. It's from Korea. It has beef and carrots in it. You can choose rice or salad.",
+          "question": "불고기에 들어 있는 것은?",
+          "choices": [
+            "닭고기와 감자",
+            "생선과 치즈",
+            "과일과 얼음",
+            "소고기와 당근"
+          ],
+          "answer": 3,
+          "explain": "'It has beef and carrots in it.'이라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "This is my favorite food. It is delicious!",
+          "ko": "이것은 내가 가장 좋아하는 음식이에요. 맛있어요!"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 118~119쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "Let's Read 글 소리 내어 읽고 선생님이 읽은 문장을 손가락으로 공중에 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "세계 여러 나라 대표 음식을 조사해 붙임쪽지에 소개 글을 쓰고 세계 음식 지도를 완성한 뒤, 모둠원에게 소개하고 주문 대화하기",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 순서대로 번호 쓰기, 주문하고 권하는 대화하기, 과일아이스크림 소개 글 읽고 문제 풀기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 돌아보고 정리해요 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "This is fish and chips.",
+        "It's from the U.K.",
+        "It has fish and chips in it.",
+        "What would you like?"
+      ],
+      "tip": "다른 나라 음식을 소개할 때는 'It's from 나라 이름.'으로 어느 나라 음식인지 알려 주세요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가 — 배운 표현을 활용하여 'Project'를 잘할 수 있는가? 적극 참여하고 결과물을 친구들과 공유하는가? My Work로 단원 내용 정리 (수행평가, 지필평가)",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 음식의 그림을 고르세요.",
+          "audio": "What would you like? I'd like carrot cake.",
+          "choices": [
+            "🥩",
+            "🍝",
+            "🥕🍰",
+            "🍕"
+          ],
+          "answer": 2,
+          "explain": "carrot cake = 당근케이크."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 주문한 음식을 모두 고르세요.",
+          "audio": "Okay. One fruit salad and one beef steak.",
+          "choices": [
+            "과일샐러드와 비프스테이크",
+            "과일샐러드와 치즈피자",
+            "오렌지주스와 비프스테이크",
+            "당근케이크와 과일샐러드"
+          ],
+          "answer": 0,
+          "explain": "one fruit salad and one beef steak = 과일샐러드 하나와 비프스테이크 하나."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "G",
+              "text": "Thank you. Oh, it's delicious."
+            },
+            {
+              "who": "B",
+              "text": "Do you want some more?"
+            },
+            {
+              "who": "G",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'd like a beef steak.",
+            "It has fruit and ice in it.",
+            "I don't like cheese pizza.",
+            "Yes, please."
+          ],
+          "answer": 3,
+          "explain": "맛있다고 했으니 더 먹겠다는 'Yes, please.'가 자연스러워요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "W",
+              "text": "Here's your orange juice."
+            },
+            {
+              "who": "B",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "You're welcome.",
+            "Thank you.",
+            "What would you like?",
+            "No, I don't."
+          ],
+          "answer": 1,
+          "explain": "음식을 받으면 'Thank you.'라고 말해요. 'You're welcome.'은 고맙다는 말에 대한 대답이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "묻는 말과 알맞은 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "What would you like?",
+              "I'd like a cheese pizza."
+            ],
+            [
+              "Do you want some more?",
+              "No, thanks."
+            ],
+            [
+              "What's that?",
+              "It's kimchijeon."
+            ],
+            [
+              "Can I try some?",
+              "Sure. Help yourself."
+            ]
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "We sell fruit ice cream. It has ___ and ice cream in it.",
+          "ko": "우리는 과일아이스크림을 팔아요. 그 안에는 과일과 아이스크림이 들어 있어요.",
+          "choices": [
+            "fruit",
+            "beef",
+            "cheese"
+          ],
+          "answer": 0,
+          "explain": "과일아이스크림에는 과일(fruit)이 들어 있어요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "우리는 샌드위치를 팔아요.",
+          "answer": "We sell sandwiches.",
+          "distractors": [
+            "sells",
+            "juice"
+          ],
+          "explain": "'팔다'는 sell이에요. We 뒤에는 sell을 그대로 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "You can choose orange or grape.",
+          "answer": "You can choose orange or grape.",
+          "distractors": [
+            "and",
+            "sell"
+          ]
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "과일샐러드를 주문할게요.",
+          "answers": [
+            "I'd like a fruit salad.",
+            "I would like a fruit salad.",
+            "I'd like a fruit salad, please."
+          ],
+          "hint": "I'd like a ____ ____."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "We sell tomato spaghetti. It has tomatoes and cheese in it. You can choose beef or chicken. It is delicious!",
+          "question": "이 글에서 파는 음식은 무엇인가요?",
+          "choices": [
+            "치즈피자",
+            "비프스테이크",
+            "토마토스파게티",
+            "과일샐러드"
+          ],
+          "answer": 2,
+          "explain": "'We sell tomato spaghetti.'라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What would you like?",
+          "ko": "무엇을 주문하시겠어요?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Dad",
+              "text": "Carrots are good for you. Try this."
+            },
+            {
+              "who": "Boy",
+              "text": "OK. Wow, this is so good!"
+            },
+            {
+              "who": "Girl",
+              "text": "Do you want some more?"
+            },
+            {
+              "who": "Boy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "What would you like?",
+            "Yes, please. I love it!",
+            "Here's your carrot cake.",
+            "You're welcome."
+          ],
+          "answer": 1,
+          "explain": "당근케이크가 맛있다고 했으니 더 먹겠다고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "M",
+              "text": "Welcome! What would you like?"
+            },
+            {
+              "who": "B",
+              "text": "I'd like a beef steak."
+            },
+            {
+              "who": "G",
+              "text": "?"
+            },
+            {
+              "who": "M",
+              "text": "OK."
+            }
+          ],
+          "choices": [
+            "And I'd like a fruit salad, please.",
+            "Do you want some more?",
+            "It's delicious.",
+            "Here you are."
+          ],
+          "answer": 0,
+          "explain": "주문을 받는 점원에게 G도 자기가 원하는 음식을 주문해요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "여기 당근케이크 나왔습니다.",
+          "answer": "Here's your carrot cake.",
+          "distractors": [
+            "you",
+            "are"
+          ],
+          "explain": "음식을 건넬 때 Here's your ~.라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "이것은 피시 앤드 칩스예요. 영국 음식이에요.",
+          "answer": "This is fish and chips. It's from the U.K.",
+          "distractors": [
+            "Italy",
+            "has"
+          ],
+          "explain": "어느 나라 음식인지는 It's from ~.으로 말해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's that? It's a cheese pizza.",
+          "answer": "What's that? It's a cheese pizza.",
+          "distractors": [
+            "This",
+            "is"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "We sell fruit juice. It has fruit and ___ in it.",
+          "ko": "우리는 과일주스를 팔아요. 그 안에는 과일과 얼음이 들어 있어요.",
+          "choices": [
+            "meat",
+            "cheese",
+            "ice"
+          ],
+          "answer": 2,
+          "explain": "과일주스에는 과일과 얼음(ice)이 들어 있어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Here's your tomato ___.",
+          "ko": "여기 토마토스파게티 나왔습니다.",
+          "choices": [
+            "cake",
+            "spaghetti",
+            "salad"
+          ],
+          "answer": 1,
+          "explain": "토마토스파게티는 tomato spaghetti예요."
+        },
+        {
+          "type": "match",
+          "prompt": "묻는 말과 알맞은 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Is that all?",
+              "Yes, that's all."
+            ],
+            [
+              "How was the kimchijeon?",
+              "It's spicy, but I like it."
+            ],
+            [
+              "What would you like?",
+              "Fish and chips, please."
+            ],
+            [
+              "Do you want some more?",
+              "No, thanks. I'm full."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 두 사람이 주문한 음식을 고르세요.",
+          "audio": "I'd like an orange juice. How about you? I'd like carrot cake.",
+          "choices": [
+            "오렌지주스, 치즈피자",
+            "과일샐러드, 당근케이크",
+            "토마토스파게티, 당근케이크",
+            "오렌지주스, 당근케이크"
+          ],
+          "answer": 3,
+          "explain": "한 사람은 오렌지주스, 다른 사람은 당근케이크를 주문했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Welcome! Do you want some kimchijeon?",
+          "ko": "어서 와! 김치전 좀 먹을래?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "토마토스파게티 더 먹을래?",
+          "answers": [
+            "Do you want some more tomato spaghetti?",
+            "Do you want some more spaghetti?"
+          ],
+          "hint": "Do you want some more ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "그 안에는 바나나와 우유가 들어 있어요.",
+          "answers": [
+            "It has bananas and milk in it."
+          ],
+          "hint": "It has ____ and ____ in it."
+        },
+        {
+          "type": "type",
+          "prompt": "우리말 뜻에 맞게 영어로 써 보세요.",
+          "ko": "아니, 괜찮아. 나는 당근을 좋아하지 않아.",
+          "answers": [
+            "No, thanks. I don't like carrots.",
+            "No, thanks. I do not like carrots."
+          ],
+          "hint": "No, ____. I don't like ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Welcome! What would you like today?",
+          "answer": "Welcome! What would you like today?",
+          "distractors": [
+            "do",
+            "want"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'd like a cheese pizza, please. It's my favorite.",
+          "answer": "I'd like a cheese pizza, please. It's my favorite.",
+          "distractors": [
+            "an",
+            "salad"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "우리는 김치전을 팔아요.",
+          "answer": "We sell kimchijeon.",
+          "distractors": [
+            "sells",
+            "buy"
+          ],
+          "explain": "'팔다'는 sell이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "우리말 뜻에 맞게 영어 문장을 만들어 보세요.",
+          "ko": "그것은 미국 음식이에요.",
+          "answer": "It's from the U.S.",
+          "distractors": [
+            "is",
+            "Korea"
+          ],
+          "explain": "어느 나라 음식인지는 It's from ~.으로 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "점원",
+              "text": "What would you like?"
+            },
+            {
+              "who": "A",
+              "text": "I'd like a sandwich."
+            },
+            {
+              "who": "점원",
+              "text": "You can choose beef or chicken."
+            },
+            {
+              "who": "A",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, please.",
+            "It has chicken in it.",
+            "Here you are.",
+            "Chicken, please."
+          ],
+          "answer": 3,
+          "explain": "소고기와 닭고기 중 하나를 골라 '~, please.'로 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 물음에 답하세요.",
+          "passage": "This is poutine. It's from Canada. It has potato chips and cheese in it. It is delicious!",
+          "question": "푸틴(poutine)은 어느 나라 음식인가요?",
+          "choices": [
+            "프랑스",
+            "캐나다",
+            "인도",
+            "베트남"
+          ],
+          "answer": 1,
+          "explain": "'It's from Canada.'라고 했어요. 감자튀김에 치즈를 얹은 캐나다 대표 음식이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What would you like? I'd like fish and chips, please.",
+          "ko": "무엇을 주문하시겠어요? 피시 앤드 칩스를 주문할게요."
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "세계 음식 축제의 미국 음식 부스에서 Linh과 Tom이 음식을 주문하고, 김치전을 든 우주를 만나요.",
+      "lines": [
+        {
+          "who": "점원",
+          "text": "Hi, what would you like?"
+        },
+        {
+          "who": "Linh",
+          "text": "I'd like a fruit salad."
+        },
+        {
+          "who": "점원",
+          "text": "Hello, what would you like?"
+        },
+        {
+          "who": "Tom",
+          "text": "I'd like a beef steak, please."
+        },
+        {
+          "who": "Linh",
+          "text": "What's that?"
+        },
+        {
+          "who": "우주",
+          "text": "It's kimchijeon. It's delicious!"
+        },
+        {
+          "who": "Tom",
+          "text": "Kimchijeon? Can I try some?"
+        },
+        {
+          "who": "우주",
+          "text": "Sure. Help yourself."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "더운 날 Amy네 가족이 카페에 들어가 음료와 케이크를 주문해요.",
+      "lines": [
+        {
+          "who": "점원",
+          "text": "Welcome! What would you like?"
+        },
+        {
+          "who": "Amy",
+          "text": "I'd like an orange juice."
+        },
+        {
+          "who": "남동생",
+          "text": "I'd like carrot cake."
+        },
+        {
+          "who": "남동생",
+          "text": "It's tasty!"
+        },
+        {
+          "who": "Amy",
+          "text": "I don't like carrots."
+        },
+        {
+          "who": "아빠",
+          "text": "Carrots are good for you. Try this."
+        },
+        {
+          "who": "남동생",
+          "text": "Do you want some more?"
+        },
+        {
+          "who": "Amy",
+          "text": "Yes, please."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "Jesse와 엄마가 음식점에서 주문하고, 나리가 Olivia에게 피자를 더 권해요.",
+      "lines": [
+        {
+          "who": "점원",
+          "text": "What would you like?"
+        },
+        {
+          "who": "Jesse",
+          "text": "I'd like a beef steak."
+        },
+        {
+          "who": "Jesse 엄마",
+          "text": "I'd like tomato spaghetti, please."
+        },
+        {
+          "who": "점원",
+          "text": "Okay. One beef steak and one tomato spaghetti."
+        },
+        {
+          "who": "나리",
+          "text": "I like cheese pizza."
+        },
+        {
+          "who": "Olivia",
+          "text": "It's tasty!"
+        },
+        {
+          "who": "나리",
+          "text": "Do you want some more?"
+        },
+        {
+          "who": "Olivia",
+          "text": "Yes, please."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "음식을 소개하는 글",
+    "passage": "Welcome to our food trucks! At the first truck, we sell fruit juice. There is fruit and ice in it. You can pick grape or watermelon. It is really tasty!\n\nAt the second truck, try our sandwiches. There is meat and cheese in them. You can pick beef or chicken. They are delicious!",
+    "summaryKo": "푸드 트럭 두 곳에서 과일과 얼음이 든 과일주스(포도·수박 중 선택)와 고기와 치즈가 든 샌드위치(소고기·닭고기 중 선택)를 소개해요."
+  },
+  "writing": {
+    "frame": [
+      "This is ____.",
+      "It has ____ and ____ in it.",
+      "You can choose ____ or ____.",
+      "It is tasty!"
+    ],
+    "model": "This is a fruit cake.\nIt has apples and bananas in it.\nYou can choose grapes or oranges.\nIt is delicious!"
+  },
+  "project": "세계 음식 지도 만들기: 모둠별로 1단원에서 배운 나라 중 네 나라를 골라 대표 음식을 태블릿으로 조사하고, 붙임쪽지에 'This is ~. It's from ~. It has ~ and ~ in it.'으로 소개 글을 써서 지도에 붙인 뒤, 서로 소개하고 음식을 주문하는 대화를 한다.",
+  "special": {
+    "no": 8,
+    "kind": "Into the World",
+    "title": "같은 듯 다른 세계 여러 나라 음식",
+    "summaryKo": "보보와 코코가 베트남에서 반미, 미국에서 피자, 이탈리아에서 아이스크림을 주문하며 세계 음식 여행을 해요. 그런데 'Bobo, wake up.' 소리에 깨어 보니 모두 보보의 꿈이었어요!",
+    "facts": [
+      "반미는 바게트 빵에 고기와 채소를 넣어 만든 베트남식 샌드위치예요.",
+      "피자는 세계 곳곳에서 그 지역의 문화에 맞게 다양한 모양과 맛으로 만들어져요.",
+      "미국 디트로이트식 피자는 자동차 공장의 사각 틀에 구운 것에서 유래해 네모난 모양이에요.",
+      "이탈리아의 젤라토는 우유, 달걀, 설탕과 과일·초콜릿 등을 넣어 만든 아이스크림으로, 일반 아이스크림보다 진하고 부드러워요."
+    ],
+    "expressions": [
+      "Hello. What would you like? — I'd like a banh mi.",
+      "Do you want some more? — No, thanks. I want pizza.",
+      "What would you like? — I'd like an orange ice cream."
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "보보가 베트남에서 주문한 음식은 무엇인가요?",
+        "choices": [
+          "피자",
+          "아이스크림",
+          "스파게티",
+          "반미"
+        ],
+        "answer": 3,
+        "explain": "보보는 'I'd like a banh mi.'라고 주문했어요. 반미는 바게트 빵으로 만든 베트남 샌드위치예요."
+      },
+      {
+        "type": "mc",
+        "prompt": "코코와 보보가 피자를 먹으러 간 나라는 어디인가요?",
+        "choices": [
+          "이탈리아",
+          "베트남",
+          "프랑스",
+          "미국"
+        ],
+        "answer": 3,
+        "explain": "코코가 피자를 먹고 싶다고 하자 'Let's go to America.'라고 했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "코코와 보보가 아이스크림을 먹으러 간 나라는 어디인가요?",
+        "choices": [
+          "미국",
+          "이탈리아",
+          "베트남",
+          "영국"
+        ],
+        "answer": 1,
+        "explain": "'I want ice cream. Let's go to Italy.'라고 했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "미국 디트로이트식 피자의 특징으로 알맞은 것은?",
+        "choices": [
+          "세모난 모양이에요.",
+          "빵 없이 만들어요.",
+          "네모난 모양이에요.",
+          "아이스크림을 올려요."
+        ],
+        "answer": 2,
+        "explain": "자동차 공장이 많은 디트로이트에서 자동차 부품용 사각 틀에 피자를 구운 것에서 유래해 네모난 모양이에요."
+      },
+      {
+        "type": "mc",
+        "prompt": "이탈리아의 젤라토에 대한 설명으로 알맞은 것은?",
+        "choices": [
+          "일반 아이스크림보다 맛이 진하고 부드러운 아이스크림이에요.",
+          "따뜻하게 먹는 수프예요.",
+          "고기와 치즈를 넣은 샌드위치예요.",
+          "오렌지로만 만든 주스예요."
+        ],
+        "answer": 0,
+        "explain": "젤라토는 우유, 달걀, 설탕과 과일, 초콜릿 등으로 만든 이탈리아 아이스크림이에요."
+      },
+      {
+        "type": "mc",
+        "prompt": "이야기 마지막에 알게 된 사실은 무엇인가요?",
+        "choices": [
+          "코코가 아이스크림 가게를 열었어요.",
+          "세계 여행은 모두 보보의 꿈이었어요.",
+          "보보가 피자를 직접 만들었어요.",
+          "두 친구가 베트남에 살게 되었어요."
+        ],
+        "answer": 1,
+        "explain": "'Bobo, wake up.'이라는 말에 깨어난 보보가 'Where's my ice cream?'이라고 했어요. 꿈이었던 거예요!"
+      },
+      {
+        "type": "dialog",
+        "prompt": "대화를 읽고 빈칸에 알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "Bobo",
+            "text": "It's delicious. Do you want some more?"
+          },
+          {
+            "who": "Coco",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "I'd like a banh mi.",
+          "Here you are.",
+          "No, thanks. I want pizza.",
+          "Welcome."
+        ],
+        "answer": 2,
+        "explain": "코코는 반미를 더 먹는 대신 'No, thanks. I want pizza.'라고 답했어요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "I'd like a pizza, please.",
+        "choices": [
+          "피자를 더 먹을래요.",
+          "피자를 주문할게요.",
+          "피자는 괜찮아요.",
+          "피자를 팔아요."
+        ],
+        "answer": 1,
+        "explain": "I'd like ~, please. = ~을 주문할게요."
+      }
+    ]
+  }
+}

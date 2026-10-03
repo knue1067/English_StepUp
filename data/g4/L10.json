@@ -1,0 +1,2267 @@
+{
+ "id": "L10",
+ "no": 10,
+ "grade": 4,
+ "semester": 2,
+ "title": "What Time Is It?",
+ "emoji": "⏰",
+ "rationale": "시각을 묻고 답하는 말은 일상생활에서 자주 사용하는 표현이다. 시각을 묻고 답하는 표현과 무엇을 할 시간인지 나타내는 표현을 익혀 실생활에서 활용하게 하고, 나아가 시간을 효율적으로 관리하여 규칙적으로 생활하는 습관을 기르도록 한다.",
+ "topics": "개인 생활 관련(취미), 디지털·인공 지능 관련(디지털 기술의 활용)",
+ "functions": [
+  {
+   "ko": "시각 묻고 답하기",
+   "examples": [
+    "What time is it?",
+    "It's ten thirty."
+   ]
+  },
+  {
+   "ko": "무엇을 할 시간인지 말하기",
+   "examples": [
+    "It's time for breakfast."
+   ]
+  }
+ ],
+ "forms": [
+  "What time is it? - It's ten thirty.",
+  "It's time for bed [breakfast / dinner / lunch / school]."
+ ],
+ "phonics": {
+  "focus": "i /ɪ/",
+  "words": [
+   "dinner",
+   "kick",
+   "sing"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "breakfast",
+   "ko": "아침 식사"
+  },
+  {
+   "en": "dinner",
+   "ko": "저녁 식사"
+  },
+  {
+   "en": "eleven",
+   "ko": "11, 열하나"
+  },
+  {
+   "en": "fun",
+   "ko": "재미있는, 재미"
+  },
+  {
+   "en": "movie",
+   "ko": "영화"
+  },
+  {
+   "en": "music",
+   "ko": "음악"
+  },
+  {
+   "en": "school",
+   "ko": "학교"
+  },
+  {
+   "en": "thirty",
+   "ko": "30, 서른"
+  },
+  {
+   "en": "time",
+   "ko": "시각, 시간"
+  },
+  {
+   "en": "twelve",
+   "ko": "12, 열둘"
+  },
+  {
+   "en": "twenty",
+   "ko": "20, 스물"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "bed",
+   "ko": "침대, 잠자리",
+   "emoji": "🛏️"
+  },
+  {
+   "en": "breakfast",
+   "ko": "아침 식사",
+   "emoji": "🍳"
+  },
+  {
+   "en": "dinner",
+   "ko": "저녁 식사",
+   "emoji": "🍽️"
+  },
+  {
+   "en": "lunch",
+   "ko": "점심 식사",
+   "emoji": "🍱"
+  },
+  {
+   "en": "school",
+   "ko": "학교",
+   "emoji": "🏫"
+  },
+  {
+   "en": "class",
+   "ko": "수업",
+   "emoji": "📚"
+  },
+  {
+   "en": "movie",
+   "ko": "영화",
+   "emoji": "🎬"
+  },
+  {
+   "en": "music",
+   "ko": "음악",
+   "emoji": "🎵"
+  }
+ ],
+ "characters": [
+  "준오",
+  "Kate",
+  "보라",
+  "Eric",
+  "Momo",
+  "Sam",
+  "Sam 엄마",
+  "Mr. Jones",
+  "Paul",
+  "Eve",
+  "Danny",
+  "피노키오",
+  "귀뚜라미",
+  "할아버지",
+  "서커스 단장"
+ ],
+ "goals": {
+  "understand": [
+   "시각을 묻고 답하는 말, 무엇을 할 시간인지 나타내는 말을 듣고 이해할 수 있다.",
+   "무엇을 할 시간인지 나타내는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /ɪ/와 철자 ‘i’의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "시각을 묻고 답하는 말을 들으며 협력적 소통 역량과 지식정보처리 역량을 기를 수 있다."
+  ],
+  "express": [
+   "시각을 묻고 답하는 말, 무엇을 할 시간인지 나타내는 말을 할 수 있다.",
+   "무엇을 할 시간인지 나타내는 문장을 보고 쓸 수 있다.",
+   "소리 /ɪ/와 철자 ‘i’의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "일상생활에 도움이 되는 영어 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "시각 묻고 답하기",
+   "objectives": [
+    "시각을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘모둠별 릴레이로 시각 묻고 답하기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 94~95쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "모형 시계로 시각을 묻고 답하는 말 소개하기, 지금 몇 시인지 묻고 답하기, 단원 목표 확인 및 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "어린이 과학관에서 4D 영화 시간을 확인하며 시각을 묻고 답하는 만화 영화 보기, Eric이 시계를 본 시각 고르기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 시각(11:10~12:50) 짚기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "바닥에 붙인 시각 카드를 따라 두 모둠이 릴레이로 ‘What time is it?’에 답하며 이동하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "현재 시각을 묻고 답하며 복습, 대화 듣고 알맞은 시계 고르기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What time is it?",
+    "It's ten thirty.",
+    "It's ten fifty."
+   ],
+   "tip": "시각은 ‘시’를 먼저, ‘분’을 나중에 말해요. 10시 30분 → ten thirty. 정각은 ‘It's twelve.’처럼 시만 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 시각을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 시각을 묻고 답하는 표현을 충분히 익혀 활용하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "숫자 단어와 숫자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "eleven",
+       "11"
+      ],
+      [
+       "twelve",
+       "12"
+      ],
+      [
+       "twenty",
+       "20"
+      ],
+      [
+       "thirty",
+       "30"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "forty",
+       "40"
+      ],
+      [
+       "fifty",
+       "50"
+      ],
+      [
+       "time",
+       "시각, 시간"
+      ],
+      [
+       "movie",
+       "영화"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘thirty’는 어떤 숫자인가요?",
+     "choices": [
+      "13",
+      "30",
+      "3",
+      "40"
+     ],
+     "answer": 1,
+     "explain": "thirty는 30이에요. 13은 thirteen이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 시각을 고르세요.",
+     "audio": "It's ten thirty.",
+     "choices": [
+      "10:13",
+      "3:10",
+      "10:30"
+     ],
+     "answer": 2,
+     "explain": "ten thirty는 10시 30분이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 시각을 고르세요.",
+     "audio": "It's eleven twenty.",
+     "choices": [
+      "12:20",
+      "11:20",
+      "11:30"
+     ],
+     "answer": 1,
+     "explain": "eleven twenty는 11시 20분이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What time is it?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "지금 몇 시니?",
+      "오늘은 무슨 요일이니?",
+      "이것은 얼마니?"
+     ],
+     "answer": 0,
+     "explain": "‘What time is it?’은 시각을 묻는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "시계가 가리키는 시각을 바르게 말한 것은?",
+     "emoji": "🕥",
+     "choices": [
+      "It's eleven thirty.",
+      "It's ten twenty.",
+      "It's ten thirty."
+     ],
+     "answer": 2,
+     "explain": "🕥는 10시 30분이에요. ‘It's ten thirty.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지금은 12시 30분이에요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Eric, what time is it?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's Wednesday.",
+      "It's twelve thirty.",
+      "It's fun."
+     ],
+     "answer": 1,
+     "explain": "시각을 물었으니 ‘It's twelve thirty.’처럼 시각으로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's eleven ___.",
+     "ko": "11시 30분이야.",
+     "choices": [
+      "thirty",
+      "thirteen",
+      "three"
+     ],
+     "answer": 0,
+     "explain": "30은 thirty예요. 13은 thirteen이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "지금 몇 시니?",
+     "answer": "What time is it?",
+     "distractors": [
+      "day",
+      "are"
+     ],
+     "explain": "시각을 물을 때는 ‘What time is it?’이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Let's watch this movie.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "이 음악을 듣자.",
+      "이 영화를 보자.",
+      "이 게임을 하자."
+     ],
+     "answer": 1,
+     "explain": "movie는 ‘영화’, watch는 ‘보다’예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What time is it?",
+     "ko": "지금 몇 시니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 시각을 고르세요.",
+     "audio": "It's twelve fifty.",
+     "choices": [
+      "12:15",
+      "2:50",
+      "12:50"
+     ],
+     "answer": 2,
+     "explain": "twelve fifty는 12시 50분이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 지금 시각을 고르세요.",
+     "audio": "What time is it? It's eleven ten.",
+     "choices": [
+      "10:11",
+      "11:10",
+      "11:20"
+     ],
+     "answer": 1,
+     "explain": "eleven ten은 11시 10분이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ten ___.",
+     "ko": "10시 50분이야.",
+     "choices": [
+      "fifty",
+      "forty",
+      "five"
+     ],
+     "answer": 0,
+     "explain": "50은 fifty예요. 40은 forty예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "11시 40분이야.",
+     "answer": "It's eleven forty.",
+     "distractors": [
+      "twelve",
+      "is"
+     ],
+     "explain": "시각은 ‘It's + 시 + 분.’ 순서로 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지금은 12시 20분이에요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "What time is it?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      },
+      {
+       "who": "Kate",
+       "text": "Okay. Let's go."
+      }
+     ],
+     "choices": [
+      "It's twenty twelve.",
+      "It's twelve twenty.",
+      "It's two twenty."
+     ],
+     "answer": 1,
+     "explain": "12시 20분은 시(twelve)를 먼저, 분(twenty)을 나중에 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "Ann",
+       "text": "It's nine thirty. Let's go."
+      }
+     ],
+     "choices": [
+      "Ann, what time is it?",
+      "Ann, what day is it today?",
+      "Ann, how much is it?"
+     ],
+     "answer": 0,
+     "explain": "‘It's nine thirty.’는 시각이니 시각을 묻는 말이 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I can play music. It's fun.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 영화를 볼 수 있어. 재미있어.",
+      "나는 음악을 연주할 수 있어. 재미있어.",
+      "나는 음악을 좋아해. 슬퍼."
+     ],
+     "answer": 1,
+     "explain": "music은 ‘음악’, fun은 ‘재미있는’이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's eleven ten. Let's go.",
+     "answer": "It's eleven ten. Let's go.",
+     "distractors": [
+      "twelve",
+      "is"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "시각과 영어 표현을 짝지어 보세요.",
+     "pairs": [
+      [
+       "8:10",
+       "eight ten"
+      ],
+      [
+       "9:40",
+       "nine forty"
+      ],
+      [
+       "7:50",
+       "seven fifty"
+      ],
+      [
+       "6:20",
+       "six twenty"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's ten fifty. Let's go.",
+     "ko": "10시 50분이야. 가자."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Kate, 지금 몇 시니?",
+     "answers": [
+      "Kate, what time is it?",
+      "What time is it, Kate?"
+     ],
+     "hint": "Kate, what t _ _ e is it?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "12 (숫자를 영어로)",
+     "answers": [
+      "twelve"
+     ],
+     "hint": "t w _ _ _ e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "9시 50분이야.",
+     "answers": [
+      "It's nine fifty.",
+      "It is nine fifty."
+     ],
+     "hint": "It's nine f _ f t y."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Momo, come here. Let's go.",
+     "answer": "Momo, come here. Let's go.",
+     "distractors": [
+      "comes",
+      "there."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kai: Let's watch this movie!\nRia: Sounds good. What time is it?\nKai: It's ten forty.\nRia: Okay. Let's go!",
+     "question": "지금은 몇 시인가요?",
+     "choices": [
+      "10:40",
+      "10:14",
+      "4:10"
+     ],
+     "answer": 0,
+     "explain": "Kai가 ‘It's ten forty.’라고 했어요. 10시 40분이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Leo and Ana are in the park. \"What time is it?\" asks Ana. \"It's eleven fifty,\" says Leo. \"Let's play music. It's fun!\"",
+     "question": "Leo와 Ana가 하자고 한 것은 무엇인가요?",
+     "choices": [
+      "영화 보기",
+      "음악 연주하기",
+      "공원 청소하기"
+     ],
+     "answer": 1,
+     "explain": "Leo가 ‘Let's play music.’이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mina의 시계는 7시 50분을 가리켜요. Mina의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Mina, what time is it?"
+      },
+      {
+       "who": "Mina",
+       "text": "?"
+      },
+      {
+       "who": "Dad",
+       "text": "Thank you, Mina."
+      }
+     ],
+     "choices": [
+      "It's seven fifty.",
+      "It's seven fifteen.",
+      "It's five seventy."
+     ],
+     "answer": 0,
+     "explain": "7시 50분은 ‘seven fifty’예요. fifteen은 15예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "지금 몇 시니? 11시 30분이야.",
+     "answer": "What time is it? It's eleven thirty.",
+     "distractors": [
+      "day",
+      "twelve"
+     ],
+     "explain": "묻는 말은 ‘What time is it?’, 대답은 ‘It's eleven thirty.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "12시 40분을 영어로 바르게 말한 것은?",
+     "choices": [
+      "It's twelve fourteen.",
+      "It's twelve forty.",
+      "It's forty twelve."
+     ],
+     "answer": 1,
+     "explain": "시(twelve)를 먼저, 분(forty)을 나중에 말해요. fourteen은 14예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's eleven fifty.",
+     "ko": "11시 50분이야."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "시각 묻고 답하기 / 무엇을 할 시간인지 말하기",
+   "objectives": [
+    "시각을 묻고 답하는 말을 할 수 있다.",
+    "무엇을 할 시간인지 나타내는 말을 듣고 이해하며 말할 수 있다.",
+    "‘What Time Is It?’ 노래와 ‘일과를 묻고 답하며 일과표 완성하기’에서 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 96~97쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "모형 시계로 시각 묻고 답하며 복습, 일과 그림 카드를 보며 무엇을 할 시간인지 나타내는 말 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "병원에 입원한 Sam이 아침을 먹고 8시 50분에 영상 통화로 수업에 참여하는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "시각과 날씨를 묻는 장면, 저녁 먹을 시간을 알리는 장면 동영상 보고 따라 말하기, 준오와 Kate가 되어 시각과 할 일 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘What Time Is It?’ 노래를 부르며 무엇을 할 시간인지 몸으로 표현하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "자신의 일과표에 시각을 쓰고 짝과 일과를 묻고 답하며 친구 칸 완성하기, 수준별 활동(보충: 그림 카드 보며 시각 맞히기 / 심화: 시각 말판 놀이)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "My Turn 장면으로 복습, 상황에 알맞은 대화하기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What time is it?",
+    "It's seven forty.",
+    "It's time for breakfast."
+   ],
+   "tip": "‘It's time for + 할 일.’로 무엇을 할 시간인지 말해요. breakfast(아침), lunch(점심), dinner(저녁), school(학교), bed(잠).",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 시각을 묻고 답하는 말을 할 수 있는가? 무엇을 할 시간인지 나타내는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "breakfast",
+       "아침 식사"
+      ],
+      [
+       "lunch",
+       "점심 식사"
+      ],
+      [
+       "dinner",
+       "저녁 식사"
+      ],
+      [
+       "class",
+       "수업"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘class’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "학교",
+      "점심",
+      "수업"
+     ],
+     "answer": 2,
+     "explain": "class는 ‘수업’이에요. 학교는 school이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "밤에 잘 준비를 해요. ‘It's time for ___.’의 빈칸에 알맞은 말은?",
+     "emoji": "🛏️",
+     "choices": [
+      "lunch",
+      "bed",
+      "school"
+     ],
+     "answer": 1,
+     "explain": "잘 시간은 ‘It's time for bed.’라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's time for lunch.",
+     "choices": [
+      "점심 먹을 시간이야.",
+      "저녁 먹을 시간이야.",
+      "잘 시간이야."
+     ],
+     "answer": 0,
+     "explain": "lunch는 점심 식사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's time for school.",
+     "choices": [
+      "🛏️",
+      "🍽️",
+      "🏫"
+     ],
+     "answer": 2,
+     "explain": "school은 학교예요. 학교 갈 시간이라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's time ___ breakfast.",
+     "ko": "아침 먹을 시간이야.",
+     "choices": [
+      "for",
+      "to",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "‘~할 시간이야’는 ‘It's time for ~.’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's time for ___.",
+     "ko": "저녁 먹을 시간이야.",
+     "choices": [
+      "lunch",
+      "breakfast",
+      "dinner"
+     ],
+     "answer": 2,
+     "explain": "저녁 식사는 dinner예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "8시 50분은 Sam의 수업 시간이에요. Sam의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Mom, what time is it?"
+      },
+      {
+       "who": "Mom",
+       "text": "It's eight fifty."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's time for bed.",
+      "Oh, it's time for class.",
+      "Good night."
+     ],
+     "answer": 1,
+     "explain": "8시 50분은 Sam의 수업 시간이니 ‘It's time for class.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아침 먹을 시간이야.",
+     "answer": "It's time for breakfast.",
+     "distractors": [
+      "lunch.",
+      "is"
+     ],
+     "explain": "‘It's time for + 할 일.’로 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘How's the weather?’에 알맞은 대답은?",
+     "choices": [
+      "It's eight twenty.",
+      "It's time for dinner.",
+      "It's raining."
+     ],
+     "answer": 2,
+     "explain": "날씨를 물었으니 ‘It's raining.(비가 와.)’이 알맞아요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🍳",
+       "breakfast"
+      ],
+      [
+       "🍱",
+       "lunch"
+      ],
+      [
+       "🍽️",
+       "dinner"
+      ],
+      [
+       "🏫",
+       "school"
+      ],
+      [
+       "🛏️",
+       "bed"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's time for class.",
+     "ko": "수업 시간이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Danny의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Danny, it's time for dinner."
+      },
+      {
+       "who": "Danny",
+       "text": "?"
+      },
+      {
+       "who": "Mom",
+       "text": "It's six forty."
+      }
+     ],
+     "choices": [
+      "What time is it?",
+      "How's the weather?",
+      "What day is it today?"
+     ],
+     "answer": 0,
+     "explain": "엄마가 ‘It's six forty.’라고 시각을 답했으니 Danny는 시각을 물었어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇을 할 시간인지 고르세요.",
+     "audio": "It's seven twenty. It's time for breakfast.",
+     "choices": [
+      "점심 식사",
+      "잠자기",
+      "아침 식사"
+     ],
+     "answer": 2,
+     "explain": "breakfast는 아침 식사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 지금 시각을 고르세요.",
+     "audio": "What time is it? It's eight thirty.",
+     "choices": [
+      "8:30",
+      "8:13",
+      "3:08"
+     ],
+     "answer": 0,
+     "explain": "eight thirty는 8시 30분이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ten fifty. It's time for ___.",
+     "ko": "10시 50분이야. 잘 시간이야.",
+     "choices": [
+      "school",
+      "lunch",
+      "bed"
+     ],
+     "answer": 2,
+     "explain": "잘 시간은 ‘It's time for bed.’예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "12시 10분이야. 점심 먹을 시간이야.",
+     "answer": "It's twelve ten. It's time for lunch.",
+     "distractors": [
+      "dinner.",
+      "eleven"
+     ],
+     "explain": "시각을 말한 뒤 ‘It's time for lunch.’로 할 일을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Oh, it's time for school.",
+     "answer": "Oh, it's time for school.",
+     "distractors": [
+      "class.",
+      "to"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Paul의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Paul",
+       "text": "Eve, what time is it?"
+      },
+      {
+       "who": "Eve",
+       "text": "It's eight twenty."
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      },
+      {
+       "who": "Eve",
+       "text": "It's raining."
+      }
+     ],
+     "choices": [
+      "How's the weather?",
+      "What time is it?",
+      "Are you okay?"
+     ],
+     "answer": 0,
+     "explain": "Eve가 ‘It's raining.’이라고 답했으니 날씨를 묻는 말이 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "밤 9시 50분이에요. 엄마가 할 말로 가장 알맞은 것은?",
+     "emoji": "🌙",
+     "choices": [
+      "It's time for breakfast.",
+      "It's time for bed.",
+      "It's time for school."
+     ],
+     "answer": 1,
+     "explain": "밤늦은 시각이니 잘 시간이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "It's time for lunch.",
+       "점심 먹을 시간이야."
+      ],
+      [
+       "It's time for dinner.",
+       "저녁 먹을 시간이야."
+      ],
+      [
+       "It's time for school.",
+       "학교 갈 시간이야."
+      ],
+      [
+       "It's time for bed.",
+       "잘 시간이야."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's six forty. It's time for dinner.",
+     "ko": "6시 40분이야. 저녁 먹을 시간이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아침 식사",
+     "answers": [
+      "breakfast"
+     ],
+     "hint": "b r _ _ _ f a s t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Danny, 저녁 먹을 시간이야.",
+     "answers": [
+      "Danny, it's time for dinner.",
+      "Danny, it is time for dinner.",
+      "It's time for dinner, Danny."
+     ],
+     "hint": "Danny, it's time for d _ _ _ _ r."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam is sick. He is at home. At seven forty, Mom says, \"It's time for breakfast.\" At eight fifty, Sam says, \"It's time for class.\" He sees his teacher and friends on the computer.",
+     "question": "Sam의 수업 시간은 몇 시인가요?",
+     "choices": [
+      "8:50",
+      "7:40",
+      "8:15"
+     ],
+     "answer": 0,
+     "explain": "8시 50분(eight fifty)에 ‘It's time for class.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Day\n7:30 It's time for breakfast.\n8:20 It's time for school.\n12:10 It's time for lunch.\n9:40 It's time for bed.",
+     "question": "글쓴이는 몇 시에 잠자리에 드나요?",
+     "choices": [
+      "12:10",
+      "9:40",
+      "8:20"
+     ],
+     "answer": 1,
+     "explain": "9:40에 ‘It's time for bed.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 아빠의 말로 가장 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "What time is it, Yuna?"
+      },
+      {
+       "who": "Yuna",
+       "text": "It's twelve twenty."
+      },
+      {
+       "who": "Dad",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's time for lunch. Let's eat.",
+      "Oh, it's time for breakfast. Let's eat.",
+      "Good night."
+     ],
+     "answer": 0,
+     "explain": "12시 20분은 점심 먹을 시간이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What time is it? It's seven forty.",
+     "answer": "What time is it? It's seven forty.",
+     "distractors": [
+      "day",
+      "eight"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "엄마, 지금 몇 시예요?",
+     "answer": "Mom, what time is it?",
+     "distractors": [
+      "day",
+      "are"
+     ],
+     "explain": "‘Mom,’으로 부른 뒤 ‘what time is it?’이라고 물어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "8시 20분이야. 학교 갈 시간이야.",
+     "answers": [
+      "It's eight twenty. It's time for school.",
+      "It is eight twenty. It is time for school.",
+      "It's eight twenty. It is time for school.",
+      "It is eight twenty. It's time for school."
+     ],
+     "hint": "It's eight twenty. It's time for s _ _ _ _ l."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스러운 것은?",
+     "choices": [
+      "A: It's time for bed. B: Good morning.",
+      "A: What time is it? B: It's raining.",
+      "A: It's time for bed. B: Okay. Good night."
+     ],
+     "answer": 2,
+     "explain": "잘 시간이라고 하면 ‘Okay. Good night.’이라고 답하는 것이 자연스러워요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Mom, what time is it? Oh, it's time for school.",
+     "ko": "엄마, 지금 몇 시예요? 아, 학교 갈 시간이네요."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽기·쓰기",
+   "icon": "pencil",
+   "studyPoint": "무엇을 할 시간인지 나타내는 문장 읽고 쓰기 / ‘i’가 들어가는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "무엇을 할 시간인지 나타내는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /ɪ/와 철자 ‘i’의 관계를 이해하며 ‘i’가 들어가는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "‘협력하여 캐릭터 일과표 만들기’의 협력 과업으로 무엇을 할 시간인지 나타내는 문장을 읽고 쓰며, 시각을 묻고 답하는 말과 무엇을 할 시간인지 나타내는 말을 할 수 있다."
+   ],
+   "pages": "교과서 98~99쪽, 133쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "단어 카드로 복습, 학생들이 점심을 먹는 사진을 보며 ‘It's time for lunch.’ 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "남자아이와 강아지 캐릭터의 말풍선 문장을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Number",
+     "desc": "문장을 읽고 알맞은 그림의 번호 쓰기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Write and Complete / 스스로 다지기",
+     "desc": "그림에 알맞은 단어를 써서 문장 완성하고 자신의 일과 시각 쓰기, My Turn: 가장 행복한 때를 나타내는 문장 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "i /ɪ/ 소리와 입 모양 익히기, dinner·kick·sing 따라 읽기, 확인 문제, 빈칸 철자 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 캐릭터를 정해 시각과 ‘It's time for ....’ 문장으로 일과표를 만들고 반 친구들과 묻고 답하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "문장 읽고 쓰며 복습, 확인 문제, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "It's time for bed.",
+    "It's time for lunch.",
+    "dinner, kick, sing"
+   ],
+   "tip": "dinner, kick, sing의 i는 짧게 [이]처럼 소리 내요. breakfast는 철자가 길어요: b-r-e-a-k-f-a-s-t!",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오) — 무엇을 할 시간인지 나타내는 문장을 소리 내어 읽고 의미를 이해하며 보고 쓸 수 있는가? /ɪ/와 ‘i’의 관계를 이해하며 단어를 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🍳",
+       "breakfast"
+      ],
+      [
+       "🍱",
+       "lunch"
+      ],
+      [
+       "🍽️",
+       "dinner"
+      ],
+      [
+       "🏫",
+       "school"
+      ],
+      [
+       "🛏️",
+       "bed"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "sing",
+     "choices": [
+      "song",
+      "sing",
+      "sang"
+     ],
+     "answer": 1,
+     "explain": "sing[씽]의 i는 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "kick",
+     "choices": [
+      "cook",
+      "cake",
+      "kick"
+     ],
+     "answer": 2,
+     "explain": "kick[킥]의 i는 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림과 어울리는 동작 단어를 고르세요.",
+     "emoji": "🎤",
+     "choices": [
+      "kick",
+      "sing",
+      "sit"
+     ],
+     "answer": 1,
+     "explain": "sing은 ‘노래하다’, kick은 ‘차다’, sit은 ‘앉다’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘It's time for lunch.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "점심 먹을 시간이야.",
+      "아침 먹을 시간이야.",
+      "학교 갈 시간이야."
+     ],
+     "answer": 0,
+     "explain": "lunch는 점심 식사예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘It's time for bed.’에 알맞은 그림을 고르세요.",
+     "choices": [
+      "🏫",
+      "🍳",
+      "🛏️"
+     ],
+     "answer": 2,
+     "explain": "bed는 침대예요. 잘 시간이라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "k___ck",
+     "ko": "(발로) 차다",
+     "choices": [
+      "a",
+      "i",
+      "o"
+     ],
+     "answer": 1,
+     "explain": "‘차다’는 kick이에요. i는 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's time for ___.",
+     "ko": "학교 갈 시간이야.",
+     "choices": [
+      "bed",
+      "lunch",
+      "school"
+     ],
+     "answer": 2,
+     "explain": "학교는 school이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 i가 /ɪ/ 소리가 나는 단어는?",
+     "choices": [
+      "sun",
+      "six",
+      "bed",
+      "cat"
+     ],
+     "answer": 1,
+     "explain": "six[식스]의 i가 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "잘 시간이야.",
+     "answer": "It's time for bed.",
+     "distractors": [
+      "bad.",
+      "to"
+     ],
+     "explain": "‘It's time for bed.’ bed는 침대예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's time for breakfast.",
+     "choices": [
+      "🍳",
+      "🍽️",
+      "🛏️"
+     ],
+     "answer": 0,
+     "explain": "breakfast는 아침 식사예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "dinner, kick, sing",
+     "ko": "저녁 식사, 차다, 노래하다"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "sit",
+     "choices": [
+      "sat",
+      "set",
+      "sit"
+     ],
+     "answer": 2,
+     "explain": "sit[씻]의 i는 /ɪ/ 소리가 나요. sit은 ‘앉다’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🐟",
+     "choices": [
+      "fan",
+      "fish",
+      "dish"
+     ],
+     "answer": 1,
+     "explain": "🐟는 물고기, fish예요. i는 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ for dinner.",
+     "ko": "저녁 먹을 시간이야.",
+     "choices": [
+      "day",
+      "what",
+      "time"
+     ],
+     "answer": 2,
+     "explain": "‘~할 시간이야’는 ‘It's time for ~.’예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ken: It's time for breakfast.\nDot: It's time for school.\nKen: It's time for ___.\n(Ken은 밤에 침대 옆에서 하품을 하고 있어요.)",
+     "question": "빈칸에 알맞은 말은?",
+     "choices": [
+      "bed",
+      "lunch",
+      "school"
+     ],
+     "answer": 0,
+     "explain": "밤에 하품을 하고 있으니 잘 시간이에요. ‘It's time for bed.’"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look! It's time for lunch.",
+     "answer": "Look! It's time for lunch.",
+     "distractors": [
+      "dinner.",
+      "to"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "저녁 먹을 시간이야.",
+     "answer": "It's time for dinner.",
+     "distractors": [
+      "lunch.",
+      "is"
+     ],
+     "explain": "저녁 식사는 dinner예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "kick",
+       "차다"
+      ],
+      [
+       "sing",
+       "노래하다"
+      ],
+      [
+       "sit",
+       "앉다"
+      ],
+      [
+       "six",
+       "여섯, 6"
+      ]
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "학교",
+     "answers": [
+      "school"
+     ],
+     "hint": "s c h _ _ l"
+    },
+    {
+     "type": "dialog",
+     "prompt": "아침이에요. 빈칸에 들어갈 준의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Jun",
+       "text": "What time is it?"
+      },
+      {
+       "who": "Mom",
+       "text": "It's eight ten."
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's time for dinner.",
+      "Oh, it's time for bed.",
+      "Oh, it's time for school."
+     ],
+     "answer": 2,
+     "explain": "아침 8시 10분은 학교 갈 시간이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's eight ten. It's time for school.",
+     "ko": "8시 10분이야. 학교 갈 시간이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "저녁 식사",
+     "answers": [
+      "dinner"
+     ],
+     "hint": "d i _ _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "점심 먹을 시간이야.",
+     "answers": [
+      "It's time for lunch.",
+      "It is time for lunch."
+     ],
+     "hint": "It's time for l _ _ _ h."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "분홍색",
+     "answers": [
+      "pink"
+     ],
+     "hint": "p _ n k"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Happy Time\nIt's six thirty. It's time for dinner. I like chicken. Dinner is my happy time!",
+     "question": "글쓴이가 가장 행복한 때는 언제인가요?",
+     "choices": [
+      "저녁 식사 시간",
+      "아침 식사 시간",
+      "잠자는 시간"
+     ],
+     "answer": 0,
+     "explain": "‘Dinner is my happy time!’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Robo's Day\n7:00 breakfast\n8:00 school\n12:30 lunch\n6:00 dinner\n9:00 bed",
+     "question": "12시 30분에 Robo가 할 말로 알맞은 것은?",
+     "choices": [
+      "It's time for school.",
+      "It's time for lunch.",
+      "It's time for bed."
+     ],
+     "answer": 1,
+     "explain": "12:30은 점심(lunch) 시간이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's eight forty. It's time for school.",
+     "answer": "It's eight forty. It's time for school.",
+     "distractors": [
+      "lunch.",
+      "eighty"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "9시 30분이야. 잘 시간이야.",
+     "answer": "It's nine thirty. It's time for bed.",
+     "distractors": [
+      "breakfast.",
+      "ten"
+     ],
+     "explain": "시각을 말한 뒤 ‘It's time for bed.’라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "big",
+     "choices": [
+      "bag",
+      "bug",
+      "big"
+     ],
+     "answer": 2,
+     "explain": "big[빅]의 i는 /ɪ/ 소리가 나요. big은 ‘큰’이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가운데 소리가 나머지와 다른 단어는?",
+     "choices": [
+      "sit",
+      "kick",
+      "pig",
+      "cat"
+     ],
+     "answer": 3,
+     "explain": "sit, kick, pig의 i는 /ɪ/ 소리이고, cat의 a는 /æ/ 소리예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's seven thirty. It's time for breakfast.",
+     "ko": "7시 30분이야. 아침 먹을 시간이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "‘Story Time’에서 ‘피노키오’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 100~101쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "교사가 보여 주는 문장을 읽고 쓰며 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "‘피노키오’ 원작 이야기하기, 그림 보고 ‘?’ 장면 추측, 만화 영화 보며 줄거리 이해, HOW ABOUT YOU?(피노키오를 도울 방법), 따라 말하기, 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "문제를 풀며 단원 내용 확인하기 (3시간 10분 후의 시각을 쓰고 할 일 문장 완성하기 등)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "4차시 성취도 점검, ‘정리해요’에 느낀 점과 복습 계획 쓰기, Special 단원 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What time is it? - It's eight ten.",
+    "It's time for school.",
+    "I'm sorry. - That's okay."
+   ],
+   "tip": "역할극에서 시계를 가리키며 ‘What time is it?’이라고 묻고, 할 일을 ‘It's time for ....’로 말해 보세요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가), My Work 자기 평가(지필평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? 단원 내용을 문제를 풀며 정리할 수 있는가? (단원평가 지도서 800쪽)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Pinocchio: What time is it?\nCricket: It's eight ten.\nGrandpa: It's time for school.",
+     "question": "지금은 무엇을 할 시간인가요?",
+     "choices": [
+      "학교 갈 시간",
+      "저녁 먹을 시간",
+      "잘 시간"
+     ],
+     "answer": 0,
+     "explain": "할아버지가 ‘It's time for school.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A man says, \"Let's dance.\" Pinocchio says, \"I can't dance. I'm tired.\"",
+     "question": "피노키오는 왜 춤을 출 수 없다고 했나요?",
+     "choices": [
+      "배가 고파서",
+      "피곤해서",
+      "슬퍼서"
+     ],
+     "answer": 1,
+     "explain": "‘I'm tired.’는 ‘나는 피곤해.’라는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Put on your hat.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "모자를 써.",
+      "모자를 벗어.",
+      "모자를 찾아."
+     ],
+     "answer": 0,
+     "explain": "put on은 ‘(옷·모자 등을) 입다, 쓰다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Pinocchio",
+       "text": "I'm sorry."
+      },
+      {
+       "who": "Grandpa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's eight ten.",
+      "That's okay.",
+      "Let's dance."
+     ],
+     "answer": 1,
+     "explain": "‘I'm sorry.’에는 ‘That's okay.(괜찮아.)’라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 시각을 고르세요.",
+     "audio": "It's eight ten.",
+     "choices": [
+      "8:10",
+      "10:08",
+      "8:20"
+     ],
+     "answer": 0,
+     "explain": "eight ten은 8시 10분이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "breakfast",
+       "아침 식사"
+      ],
+      [
+       "dinner",
+       "저녁 식사"
+      ],
+      [
+       "twelve",
+       "12"
+      ],
+      [
+       "fifty",
+       "50"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's time ___ school.",
+     "ko": "학교 갈 시간이야.",
+     "choices": [
+      "to",
+      "in",
+      "for"
+     ],
+     "answer": 2,
+     "explain": "‘~할 시간이야’는 ‘It's time for ~.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's time for dinner.",
+     "choices": [
+      "🏫",
+      "🍽️",
+      "🛏️"
+     ],
+     "answer": 1,
+     "explain": "dinner는 저녁 식사예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I'm tired.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 행복해.",
+      "나는 목말라.",
+      "나는 피곤해."
+     ],
+     "answer": 2,
+     "explain": "tired는 ‘피곤한’이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "춤추자.",
+     "answer": "Let's dance.",
+     "distractors": [
+      "sing.",
+      "I"
+     ],
+     "explain": "‘~하자’는 ‘Let's ~.’로 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "hit",
+     "choices": [
+      "hit",
+      "hat",
+      "hot"
+     ],
+     "answer": 0,
+     "explain": "hit[힛]의 i는 /ɪ/ 소리가 나요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What time is it? It's eight ten.",
+     "ko": "지금 몇 시니? 8시 10분이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Grandpa says, \"It's time for school.\" Pinocchio puts on his hat and goes out. But he meets a circus man. \"Let's dance,\" says the man. \"Okay,\" says Pinocchio.",
+     "question": "피노키오는 학교에 가는 길에 누구를 만났나요?",
+     "choices": [
+      "할아버지",
+      "선생님",
+      "서커스 단장"
+     ],
+     "answer": 2,
+     "explain": "‘he meets a circus man’ — 서커스 단장을 만났어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Pinocchio: I'm sorry, Grandpa.\nGrandpa: That's okay. It's nine thirty. It's time for bed.\nPinocchio: Good night!",
+     "question": "지금은 몇 시인가요?",
+     "choices": [
+      "9:13",
+      "9:30",
+      "3:09"
+     ],
+     "answer": 1,
+     "explain": "할아버지가 ‘It's nine thirty.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Cricket",
+       "text": "Pinocchio, put on your hat."
+      },
+      {
+       "who": "Pinocchio",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay.",
+      "No, it isn't.",
+      "It's raining."
+     ],
+     "answer": 0,
+     "explain": "부탁이나 지시를 받으면 ‘Okay.’라고 답할 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "피노키오는 너무 피곤해요. 피노키오의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Man",
+       "text": "Dance, Pinocchio!"
+      },
+      {
+       "who": "Pinocchio",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can dance. I'm happy.",
+      "It's time for lunch.",
+      "I can't dance. I'm tired."
+     ],
+     "answer": 2,
+     "explain": "너무 피곤하니 ‘I can't dance. I'm tired.’라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Put on your hat. It's time for school.",
+     "answer": "Put on your hat. It's time for school.",
+     "distractors": [
+      "bed.",
+      "cap."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can't ___. I'm tired.",
+     "ko": "나는 춤출 수 없어. 나는 피곤해.",
+     "choices": [
+      "jump",
+      "dance",
+      "swim"
+     ],
+     "answer": 1,
+     "explain": "‘춤추다’는 dance예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "7시 40분이야. 아침 먹을 시간이야.",
+     "answer": "It's seven forty. It's time for breakfast.",
+     "distractors": [
+      "lunch.",
+      "seventy"
+     ],
+     "explain": "40은 forty예요. 아침 식사는 breakfast예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "시계를 보고 알맞은 말을 고르세요.",
+     "emoji": "🕣",
+     "choices": [
+      "It's eight thirteen.",
+      "It's three eight.",
+      "It's eight thirty."
+     ],
+     "answer": 2,
+     "explain": "🕣는 8시 30분이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "점심 먹을 시간이야.",
+     "answers": [
+      "It's time for lunch.",
+      "It is time for lunch."
+     ],
+     "hint": "It's time for l _ _ _ h."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm sorry. That's okay.",
+     "ko": "미안해요. 괜찮아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's eight ten. \"It's time for school,\" says Grandpa. On the way, Pinocchio meets a circus man. Pinocchio dances and dances. Now he can't dance. He is tired. Grandpa finds him. \"I'm sorry,\" says Pinocchio. \"That's okay,\" says Grandpa.",
+     "question": "이야기의 내용과 맞는 것은?",
+     "choices": [
+      "할아버지가 피노키오를 찾았어요.",
+      "피노키오는 8시 10분에 잠을 잤어요.",
+      "피노키오는 학교에서 춤을 췄어요."
+     ],
+     "answer": 0,
+     "explain": "‘Grandpa finds him.’ — 할아버지가 피노키오를 찾았어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina's Sunday\nIt's nine. It's time for breakfast.\nIt's twelve thirty. It's time for lunch.\nIt's three. Let's watch a movie!\nIt's six forty. It's time for dinner.",
+     "question": "Mina는 몇 시에 영화를 보나요?",
+     "choices": [
+      "12:30",
+      "3:00",
+      "6:40"
+     ],
+     "answer": 1,
+     "explain": "‘It's three. Let's watch a movie!’라고 했어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "6시 40분이야.",
+     "answers": [
+      "It's six forty.",
+      "It is six forty."
+     ],
+     "hint": "It's six f _ r t y."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아침 먹을 시간이야.",
+     "answers": [
+      "It's time for breakfast.",
+      "It is time for breakfast."
+     ],
+     "hint": "It's time for b r _ _ _ _ _ _ t."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Grandpa, I'm sorry.",
+     "answer": "Grandpa, I'm sorry.",
+     "distractors": [
+      "happy.",
+      "okay."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "할아버지, 지금 몇 시예요?",
+     "answer": "Grandpa, what time is it?",
+     "distractors": [
+      "day",
+      "are"
+     ],
+     "explain": "할아버지를 부른 뒤 ‘what time is it?’이라고 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "밤이에요. 빈칸에 들어갈 엄마의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "What time is it?"
+      },
+      {
+       "who": "Ben",
+       "text": "It's ten fifty."
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      },
+      {
+       "who": "Ben",
+       "text": "Okay. Good night, Mom."
+      }
+     ],
+     "choices": [
+      "It's time for bed.",
+      "It's time for school.",
+      "It's time for breakfast."
+     ],
+     "answer": 0,
+     "explain": "밤 10시 50분이고 Ben이 ‘Good night.’이라고 했으니 잘 시간이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "It's six forty. It's time for dinner."
+      },
+      {
+       "who": "Jake",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good morning.",
+      "Okay. Let's eat.",
+      "Yes, it is."
+     ],
+     "answer": 1,
+     "explain": "저녁 먹을 시간이라고 하면 ‘Okay. Let's eat.’이라고 답할 수 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: What time is it? B: It's Monday.",
+      "A: What time is it? B: It's twelve.",
+      "A: It's time for lunch. B: Okay."
+     ],
+     "answer": 0,
+     "explain": "‘What time is it?’은 시각을 묻는 말이에요. 요일(Monday)로 답하면 어색해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Thank you, Grandpa. I'm sorry.",
+     "ko": "고마워요, 할아버지. 죄송해요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "어린이 과학관에서 아이들이 4D 영화 시간표를 확인하며 시각을 물어요.",
+   "lines": [
+    {
+     "who": "준오",
+     "text": "Let's watch this movie."
+    },
+    {
+     "who": "보라",
+     "text": "Eric, what time is it?"
+    },
+    {
+     "who": "Eric",
+     "text": "It's ten thirty."
+    },
+    {
+     "who": "보라",
+     "text": "I can play music."
+    },
+    {
+     "who": "Eric",
+     "text": "It's ten fifty. Let's go."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "병원에 입원한 Sam이 아침을 먹고, 수업 시간에 영상 통화로 친구들을 만나요.",
+   "lines": [
+    {
+     "who": "Sam 엄마",
+     "text": "It's seven forty. It's time for breakfast."
+    },
+    {
+     "who": "Sam",
+     "text": "Mom, what time is it?"
+    },
+    {
+     "who": "Sam 엄마",
+     "text": "It's eight fifty."
+    },
+    {
+     "who": "Sam",
+     "text": "Oh, it's time for class."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Paul이 Eve에게 시각과 날씨를 묻고, 엄마가 Danny에게 저녁 먹을 시간이라고 말해요.",
+   "lines": [
+    {
+     "who": "Paul",
+     "text": "Eve, what time is it?"
+    },
+    {
+     "who": "Eve",
+     "text": "It's eight twenty."
+    },
+    {
+     "who": "엄마",
+     "text": "Danny, it's time for dinner."
+    },
+    {
+     "who": "Danny",
+     "text": "What time is it?"
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "피노키오 — 학교 갈 시간에 서커스 단장을 따라간 피노키오가 할아버지에게 사과해요.",
+   "lines": [
+    {
+     "who": "피노키오",
+     "text": "What time is it?"
+    },
+    {
+     "who": "귀뚜라미",
+     "text": "It's eight ten."
+    },
+    {
+     "who": "할아버지",
+     "text": "It's time for school."
+    },
+    {
+     "who": "피노키오",
+     "text": "I can't dance. I'm tired."
+    },
+    {
+     "who": "피노키오",
+     "text": "I'm sorry."
+    },
+    {
+     "who": "할아버지",
+     "text": "That's okay."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 피노키오",
+  "passage": "At eight ten, Grandpa tells Pinocchio it is time for school. The cricket reminds him to wear his hat. On the way, a circus man asks Pinocchio to dance, and Pinocchio follows him. He dances until he is too tired, and the man locks him up. Grandpa comes and saves him. Pinocchio says sorry, and Grandpa says it's okay.",
+  "summaryKo": "학교에 가야 할 시간에 서커스 단장을 따라간 피노키오가 갇혔다가 할아버지에게 구출되어 잘못을 뉘우치는 이야기예요."
+ },
+ "writing": {
+  "frame": [
+   "It's ____.",
+   "It's time for ____."
+  ],
+  "model": "It's seven thirty. It's time for breakfast. It's six forty. It's time for dinner."
+ },
+ "project": "Work Together: 네 명이 한 모둠이 되어 일과표의 주인공 캐릭터를 정하고, 시각을 숫자로 쓴 뒤 ‘It's time for ....’ 문장으로 캐릭터 일과표를 만들어 반 친구들과 일과를 묻고 답한다.",
+ "special": {
+  "no": 5,
+  "kind": "CULTURE·PROJECT",
+  "title": "지금 세계 여러 나라는 몇 시일까요? / 가방 주인 찾기",
+  "summaryKo": "CULTURE에서는 Momo와 함께 대한민국, 영국, 이집트, 호주, 캐나다의 현재 시각을 듣고 쓰며 나라마다 위치가 달라 시각이 다르다는 것을 알아보고, 태블릿으로 여러 도시의 현재 시각을 조사해 묻고 답해요. Let's Try!의 ‘가위바위보 축구 말판 놀이’와 PROJECT ‘가방 주인 찾기’, Let's Check!로 9~10단원을 복습해요.",
+  "facts": [
+   "Momo가 알려 주는 시각: 대한민국 낮 12시(점심 시간), 영국 오전 4시, 이집트 오전 5시, 호주 오후 1시(점심 시간), 캐나다 오후 10시(잘 시간).",
+   "세계의 시각은 영국 그리니치 천문대를 기준으로 정해요. 지구는 1시간에 15°씩 돌기 때문에 동쪽으로 15° 갈 때마다 1시간씩 시차가 생겨요.",
+   "미국처럼 땅이 넓은 나라는 같은 나라 안에서도 지역마다 시각이 달라요.",
+   "PROJECT ‘가방 주인 찾기’: 가방 활동지 앞면에 물건 세 개를 그려 붙이고 뒷면에 색깔 문장(My cap is black.)을 쓴 뒤, 상대 모둠과 바꿔 ‘Is this your ...?’로 주인을 찾아요."
+  ],
+  "expressions": [
+   "What time is it? — It's twelve. It's time for lunch.",
+   "It's ten. It's time for bed.",
+   "Is this your cap? — No, it isn't. My cap is black.",
+   "Is this your bag? — Yes, it is."
+  ],
+  "exercises": []
+ }
+}

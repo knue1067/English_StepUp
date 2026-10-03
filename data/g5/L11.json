@@ -1,0 +1,3137 @@
+{
+  "id": "L11",
+  "no": 11,
+  "semester": 2,
+  "title": "My Favorite Subject Is Math",
+  "emoji": "📚",
+  "rationale": "자신이 좋아하는 것과 잘하는 것을 아는 것은 자아를 이해하고 탐색하는 진로 교육의 바탕이 된다. 이 단원에서는 좋아하는 것을 묻고 답하는 말과 잘하는 것을 표현하는 말을 익혀 실생활에서 활용하게 하고, 좋아하는 것을 스스로 찾아보며 이를 소개하는 글을 읽고 쓰는 능력을 기르고자 한다.",
+  "topics": "개인생활 관련 (관심사), 학교생활 관련 (학교 활동, 교우 관계), 디지털 · 인공지능 관련 (디지털 기술의 이해와 활용)",
+  "functions": [
+    {
+      "ko": "좋아하는 것 묻고 답하기",
+      "examples": [
+        "What's your favorite subject?",
+        "My favorite subject is math."
+      ]
+    },
+    {
+      "ko": "잘하는 것 표현하기",
+      "examples": [
+        "I'm good at drawing pictures."
+      ]
+    }
+  ],
+  "forms": [
+    "My favorite subject is science.",
+    "I'm good at making robots."
+  ],
+  "newWords": [
+    {
+      "en": "difficult",
+      "ko": "어려운"
+    },
+    {
+      "en": "drone",
+      "ko": "무인기, 드론"
+    },
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "food",
+      "ko": "음식"
+    },
+    {
+      "en": "math",
+      "ko": "수학"
+    },
+    {
+      "en": "speak",
+      "ko": "말하다"
+    },
+    {
+      "en": "subject",
+      "ko": "과목"
+    },
+    {
+      "en": "thing",
+      "ko": "것, 물건"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "P.E.",
+      "ko": "체육",
+      "emoji": "🏃"
+    },
+    {
+      "en": "math",
+      "ko": "수학",
+      "emoji": "➗"
+    },
+    {
+      "en": "English",
+      "ko": "영어",
+      "emoji": "🔤"
+    },
+    {
+      "en": "science",
+      "ko": "과학",
+      "emoji": "🔬"
+    },
+    {
+      "en": "music",
+      "ko": "음악",
+      "emoji": "🎵"
+    },
+    {
+      "en": "art",
+      "ko": "미술",
+      "emoji": "🎨"
+    }
+  ],
+  "characters": [
+    "Tom",
+    "하나",
+    "우주",
+    "Mohan",
+    "Amy",
+    "Linh",
+    "안내원",
+    "나리",
+    "Jesse",
+    "민우",
+    "Olivia",
+    "Naru",
+    "Minsu",
+    "Suho",
+    "Sojin",
+    "신사임당",
+    "율곡",
+    "보보",
+    "코코"
+  ],
+  "goals": {
+    "understand": [
+      "좋아하는 것을 묻고 답하는 말을 듣고 이해할 수 있다.",
+      "잘하는 것을 표현하는 말을 듣고 이해할 수 있다.",
+      "좋아하는 것을 소개하는 글을 읽고 이해할 수 있다.",
+      "좋아하는 것을 묻고 답하고 잘하는 것을 표현하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "좋아하는 것을 소개하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "좋아하는 것을 묻고 답하는 말을 할 수 있다.",
+      "잘하는 것을 표현하는 말을 할 수 있다.",
+      "좋아하는 것을 나타내는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 좋아하는 것을 소개하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "좋아하는 것 묻고 답하기",
+      "objectives": [
+        "좋아하는 것을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 1’으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 149~151쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "시간표를 보며 과목 이름 말하기, 좋아하는 과목 이야기하기, 단원 목표·My Study 계획, 과목 단어 붙임딱지 붙이기와 Word Chant",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "수요일 아침 교실에서 좋아하는 과목을 이야기하는 만화 보고 하나와 Mohan이 좋아하는 과목 쓰기, 주요 표현 따라 말하기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Number / Practice 1",
+          "desc": "대화 듣고 과목 그림(과학, 미술, 음악, 영어)에 순서대로 번호 쓰기, 주요 표현 연습",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "선생님께 좋아하는 과목을 묻고, 대답과 같은 과목 카드를 고른 학생이 따라 말해 점수 얻기 (모둠)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "과목 그림 카드로 복습, 듣고 알맞은 그림 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's your favorite subject?",
+        "My favorite subject is math.",
+        "My favorite subject is P.E., too."
+      ],
+      "tip": "과목 이름 English는 언제나 대문자 E로 시작하고, 체육은 P.E.처럼 점을 찍어 써요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 좋아하는 것을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "P.E.",
+              "체육"
+            ],
+            [
+              "math",
+              "수학"
+            ],
+            [
+              "English",
+              "영어"
+            ],
+            [
+              "science",
+              "과학"
+            ],
+            [
+              "music",
+              "음악"
+            ],
+            [
+              "art",
+              "미술"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "그림과 과목 이름을 짝지어 보세요.",
+          "pairs": [
+            [
+              "🎨",
+              "art"
+            ],
+            [
+              "🎵",
+              "music"
+            ],
+            [
+              "🔬",
+              "science"
+            ],
+            [
+              "🏃",
+              "P.E."
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "'수학'을 영어로 하면?",
+          "emoji": "➗",
+          "choices": [
+            "music",
+            "art",
+            "math",
+            "science"
+          ],
+          "answer": 2,
+          "explain": "수학은 math예요. music은 음악이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'subject'의 뜻은?",
+          "emoji": "📚",
+          "choices": [
+            "과목",
+            "음식",
+            "색깔",
+            "운동"
+          ],
+          "answer": 0,
+          "explain": "'What's your favorite subject?'는 가장 좋아하는 과목을 묻는 말이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "My favorite subject is science.",
+          "choices": [
+            "내가 가장 좋아하는 과목은 수학이야.",
+            "내가 가장 좋아하는 과목은 과학이야.",
+            "나는 과학을 잘해."
+          ],
+          "answer": 1,
+          "explain": "'My favorite subject is ~.'는 '내가 가장 좋아하는 과목은 ~야.'라는 뜻이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "What's your favorite subject?",
+          "choices": [
+            "네가 가장 좋아하는 음식은 뭐니?",
+            "네가 가장 좋아하는 과목은 뭐니?",
+            "오늘은 무슨 요일이니?"
+          ],
+          "answer": 1,
+          "explain": "favorite subject는 '가장 좋아하는 과목'이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "My favorite subject is P.E. What's your favorite subject, Hana?"
+            },
+            {
+              "who": "하나",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's Wednesday.",
+            "My favorite subject is P.E., too.",
+            "Sure, I can."
+          ],
+          "answer": 1,
+          "explain": "좋아하는 과목을 물었으니 'My favorite subject is ~.'로 답해요. too는 '~도'라는 뜻이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "하나",
+              "text": "How about you, Mohan? What's your favorite subject?"
+            },
+            {
+              "who": "Mohan",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I don't like math. It's very difficult.",
+            "Great! I love sports.",
+            "My favorite subject is math. I study math every day."
+          ],
+          "answer": 2,
+          "explain": "Mohan은 수학 문제를 풀고 있었고, 가장 좋아하는 과목이 수학이라고 했어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite ___ is art.",
+          "ko": "내가 가장 좋아하는 과목은 미술이야.",
+          "choices": [
+            "subject",
+            "food",
+            "color"
+          ],
+          "answer": 0,
+          "explain": "'과목'은 subject예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니?",
+          "answer": "What's your favorite subject?",
+          "distractors": [
+            "food?",
+            "How"
+          ],
+          "explain": "'What's your favorite + 과목?' 순서예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is music.",
+          "answer": "My favorite subject is music.",
+          "distractors": [
+            "art.",
+            "good"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite subject is P.E.",
+          "ko": "내가 가장 좋아하는 과목은 체육이야."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "What's your favorite subject, Amy?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine, thanks.",
+            "It's Wednesday.",
+            "My favorite subject is English. How about you?"
+          ],
+          "answer": 2,
+          "explain": "좋아하는 과목을 물었으니 'My favorite subject is ~.'로 답하고 되물어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "우주",
+              "text": "I don't like math. It's very difficult. Mohan, can you help me?"
+            },
+            {
+              "who": "Mohan",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "My favorite subject is P.E.",
+            "Sure, I can. Let me see.",
+            "It's Wednesday."
+          ],
+          "answer": 1,
+          "explain": "도와줄 수 있는지 물었으니 'Sure, I can.'으로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Amy, 네가 가장 좋아하는 과목은 뭐니?",
+          "answer": "Amy, what's your favorite subject?",
+          "distractors": [
+            "food?",
+            "How"
+          ],
+          "explain": "이름을 부른 뒤 'what's your favorite subject?'로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 과학이야. 너는?",
+          "answer": "My favorite subject is science. How about you?",
+          "distractors": [
+            "What",
+            "good"
+          ],
+          "explain": "'How about you?'는 '너는 어때?'라고 되묻는 말이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's your favorite subject, Linh?",
+          "answer": "What's your favorite subject, Linh?",
+          "distractors": [
+            "color,",
+            "Where"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is music, ___.",
+          "ko": "내가 가장 좋아하는 과목도 음악이야.",
+          "choices": [
+            "two",
+            "to",
+            "too"
+          ],
+          "answer": 2,
+          "explain": "'~도'는 too예요. two(2), to와 헷갈리지 않게 해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I don't like math. It's very ___.",
+          "ko": "나는 수학을 좋아하지 않아. 그건 너무 어려워.",
+          "choices": [
+            "difficult",
+            "favorite",
+            "great"
+          ],
+          "answer": 0,
+          "explain": "'어려운'은 difficult예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Great! I love sports.",
+          "choices": [
+            "좋아! 나는 음악을 정말 좋아해.",
+            "좋아! 나는 운동을 정말 좋아해.",
+            "나는 운동을 잘해."
+          ],
+          "answer": 1,
+          "explain": "sports는 운동이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's your favorite subject, Mohan?",
+          "ko": "Mohan, 네가 가장 좋아하는 과목은 뭐니?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니, Tom?",
+          "answers": [
+            "What's your favorite subject, Tom?",
+            "Tom, what's your favorite subject?",
+            "What is your favorite subject, Tom?"
+          ],
+          "hint": "What's your ____ ____, Tom?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목도 영어야.",
+          "answers": [
+            "My favorite subject is English, too."
+          ],
+          "hint": "My favorite subject is ____, ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 수학을 좋아하지 않아.",
+          "answers": [
+            "I don't like math.",
+            "I do not like math."
+          ],
+          "hint": "I ____ like math."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is science. I study science every day.",
+          "answer": "My favorite subject is science. I study science every day.",
+          "distractors": [
+            "math",
+            "good"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "How about you, Jesse? What's your favorite subject?",
+          "answer": "How about you, Jesse? What's your favorite subject?",
+          "distractors": [
+            "food?",
+            "Who"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "오늘은 수요일이야. 우리는 오늘 체육 수업이 있어.",
+          "answer": "It's Wednesday. We have P.E. class today.",
+          "distractors": [
+            "music",
+            "has"
+          ],
+          "explain": "'수업이 있다'는 'have ~ class'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 음악이야. 나는 음악을 매일 공부해.",
+          "answer": "My favorite subject is music. I study music every day.",
+          "distractors": [
+            "art.",
+            "good"
+          ],
+          "explain": "'매일'은 every day로 문장 끝에 와요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "What's your favorite subject, Linh?"
+            },
+            {
+              "who": "Linh",
+              "text": "My favorite subject is art."
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Sure, I can.",
+            "Really? My favorite subject is art, too.",
+            "It's Wednesday."
+          ],
+          "answer": 1,
+          "explain": "같은 과목을 좋아할 때는 too(~도)를 써서 말해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Tom: What's your favorite subject, Uju?\nUju: My favorite subject is P.E. I love soccer.\nTom: Me, too! How about you, Amy?\nAmy: My favorite subject is music.",
+          "question": "Amy가 가장 좋아하는 과목은?",
+          "choices": [
+            "체육",
+            "음악",
+            "미술"
+          ],
+          "answer": 1,
+          "explain": "Amy는 'My favorite subject is music.'이라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite subject is art. How about you, Tom?",
+          "ko": "내가 가장 좋아하는 과목은 미술이야. Tom, 너는?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "좋아하는 것 묻고 답하기 / 잘하는 것 표현하기",
+      "objectives": [
+        "좋아하는 것을 묻고 답하는 말을 할 수 있다.",
+        "잘하는 것을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 152~153쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Practice 1 그림으로 복습, 농구하는 여자아이 사진 보고 좋아하는 과목 추측하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "4차 산업 혁명 센터에서 3D 펜 수업과 드론 축구를 체험하는 만화 보고 Linh이 좋아하는 과목, 우주가 잘하는 것 알아보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "실생활 동영상(나리·Jesse, 민우·Olivia) 보며 표현 익히기, 짝과 좋아하는 과목과 잘하는 것 말하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "좋아하는 과목을 말한 뒤 놀이판에서 어울리는 그림을 짚고 'I'm good at ....' 말하며 색연필로 표시하기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "좋아하는 과목과 잘하는 것 묻고 답하며 복습, 상황에 맞는 대화하기, 자기 평가, 복습 계획",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "My favorite subject is art.",
+        "I'm good at drawing pictures.",
+        "I'm good at playing soccer."
+      ],
+      "tip": "'I'm good at' 뒤에는 drawing, playing처럼 -ing가 붙은 말을 써요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 좋아하는 것을 묻고 답하는 말을 할 수 있는가? 잘하는 것을 표현하는 말을 듣고 이해하며 말할 수 있는가?",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "안내원",
+              "text": "What's your favorite subject?"
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I want a robot.",
+            "My favorite subject is art. I'm good at drawing pictures.",
+            "I like your glasses."
+          ],
+          "answer": 1,
+          "explain": "Linh은 미술을 가장 좋아하고 그림을 잘 그린다고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "안내원",
+              "text": "We'll play drone soccer here."
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I want glasses.",
+            "My favorite food is chicken.",
+            "Soccer? I'm good at playing soccer."
+          ],
+          "answer": 2,
+          "explain": "축구를 한다는 말에 우주는 '나 축구 잘해!'라고 말했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "민우",
+              "text": "Wow, great, Olivia!"
+            },
+            {
+              "who": "Olivia",
+              "text": "Thank you. My favorite subject is music."
+            },
+            {
+              "who": "민우",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "What time do you get up?",
+            "My favorite subject is music, too. I'm good at playing music.",
+            "I want red, please."
+          ],
+          "answer": 1,
+          "explain": "민우도 음악을 좋아하고 음악 연주를 잘한다고 말했어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 그림 그리는 것을 잘해.",
+          "answer": "I'm good at drawing pictures.",
+          "distractors": [
+            "doing",
+            "is"
+          ],
+          "explain": "'~을 잘해'는 'I'm good at + ~ing'로 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 영어로 말하는 것을 잘해.",
+          "answer": "I'm good at speaking English.",
+          "distractors": [
+            "playing",
+            "math."
+          ],
+          "explain": "'영어로 말하다'는 'speak English'예요. good at 뒤에는 speaking으로 써요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I'm good at making robots.",
+          "choices": [
+            "나는 로봇 만드는 것을 잘해.",
+            "나는 그림 그리는 것을 잘해.",
+            "나는 로봇을 좋아해."
+          ],
+          "answer": 0,
+          "explain": "'making robots'는 '로봇 만들기'예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 말한 사람이 가장 좋아하는 과목을 고르세요.",
+          "audio": "My favorite subject is art. I'm good at drawing pictures.",
+          "choices": [
+            "음악",
+            "미술",
+            "과학"
+          ],
+          "answer": 1,
+          "explain": "'art'는 미술이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'm good at playing music.",
+          "answer": "I'm good at playing music.",
+          "distractors": [
+            "sports.",
+            "doing"
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "'I'm good at doing math.'와 가장 잘 어울리는 과목은?",
+          "choices": [
+            "math",
+            "music",
+            "art",
+            "P.E."
+          ],
+          "answer": 0,
+          "explain": "doing math는 '수학 문제 풀기'라서 math(수학)와 어울려요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm good ___ playing sports.",
+          "ko": "나는 운동을 잘해.",
+          "choices": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 2,
+          "explain": "'~을 잘하다'는 'be good at'이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'm good at drawing pictures.",
+          "ko": "나는 그림 그리는 것을 잘해."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite subject is English. I'm good at speaking English.",
+          "ko": "내가 가장 좋아하는 과목은 영어야. 나는 영어로 말하는 것을 잘해."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "What's your favorite subject, Uju?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I want a robot.",
+            "This is cool.",
+            "My favorite subject is P.E. I'm good at playing soccer."
+          ],
+          "answer": 2,
+          "explain": "좋아하는 과목을 말하고, 잘하는 것을 덧붙여요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "안내원",
+              "text": "Look at these. Choose one, please."
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Umm, I want glasses.",
+            "I'm good at drawing pictures.",
+            "My favorite sport is soccer."
+          ],
+          "answer": 0,
+          "explain": "하나를 고르라고 했으니 원하는 것을 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 운동은 축구야.",
+          "answer": "My favorite sport is soccer.",
+          "distractors": [
+            "subject",
+            "good"
+          ],
+          "explain": "'운동(스포츠)'은 sport예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Amy, 너 정말 잘한다.",
+          "answer": "Amy, you're very good.",
+          "distractors": [
+            "at",
+            "I'm"
+          ],
+          "explain": "'너는 ~하다'는 'you're ~'예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'm good at doing math. My favorite subject is math.",
+          "answer": "I'm good at doing math. My favorite subject is math.",
+          "distractors": [
+            "making",
+            "art."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm good at ___ soccer.",
+          "ko": "나는 축구를 잘해.",
+          "choices": [
+            "doing",
+            "playing",
+            "making"
+          ],
+          "answer": 1,
+          "explain": "'축구를 하다'는 'play soccer'라서 playing soccer예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Do you like soccer? Yes, I ___.",
+          "ko": "너는 축구를 좋아하니? 응, 좋아해.",
+          "choices": [
+            "am",
+            "like",
+            "do"
+          ],
+          "answer": 2,
+          "explain": "'Do you ~?'에는 'Yes, I do.'로 답해요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "drawing pictures",
+              "그림 그리기"
+            ],
+            [
+              "making robots",
+              "로봇 만들기"
+            ],
+            [
+              "speaking English",
+              "영어로 말하기"
+            ],
+            [
+              "playing music",
+              "음악 연주하기"
+            ],
+            [
+              "doing math",
+              "수학 문제 풀기"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Amy, you're very good.",
+          "choices": [
+            "Amy, 나는 축구를 잘해.",
+            "Amy, 너 정말 잘한다.",
+            "Amy, 너는 축구를 좋아하니?"
+          ],
+          "answer": 1,
+          "explain": "you're very good은 '너 정말 잘한다'예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite subject is math. I'm good at doing math.",
+          "ko": "내가 가장 좋아하는 과목은 수학이야. 나는 수학 문제 푸는 것을 잘해."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Mohan은 수학 문제 푸는 것을 잘해.",
+          "answers": [
+            "Mohan is good at doing math.",
+            "Mohan's good at doing math."
+          ],
+          "hint": "Mohan is ____ ____ doing math."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Linh은 그림 그리는 것을 잘해.",
+          "answers": [
+            "Linh is good at drawing pictures.",
+            "Linh's good at drawing pictures."
+          ],
+          "hint": "Linh is good at ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 운동은 농구야.",
+          "answers": [
+            "My favorite sport is basketball."
+          ],
+          "hint": "My favorite ____ is ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite sport is soccer. I'm good at playing soccer.",
+          "answer": "My favorite sport is soccer. I'm good at playing soccer.",
+          "distractors": [
+            "subject",
+            "doing"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Olivia is good at playing music.",
+          "answer": "Olivia is good at playing music.",
+          "distractors": [
+            "plays",
+            "I'm"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "우주는 축구를 잘해.",
+          "answer": "Uju is good at playing soccer.",
+          "distractors": [
+            "are",
+            "doing"
+          ],
+          "explain": "한 사람이 주어일 때는 'is good at'이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Amy는 드론 축구를 잘해.",
+          "answer": "Amy is good at playing drone soccer.",
+          "distractors": [
+            "making",
+            "I'm"
+          ],
+          "explain": "drone soccer(드론 축구)를 하는 것은 playing drone soccer예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "?"
+            },
+            {
+              "who": "Olivia",
+              "text": "My favorite subject is music. I'm good at playing music."
+            }
+          ],
+          "choices": [
+            "What's your favorite subject, Olivia?",
+            "How much is it, Olivia?",
+            "What time do you get up, Olivia?"
+          ],
+          "answer": 0,
+          "explain": "가장 좋아하는 과목을 답했으니 그것을 물어본 거예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Jesse. My favorite subject is science. I'm good at making robots. My friend Nari likes English. She is good at speaking English.",
+          "question": "나리가 잘하는 것은?",
+          "choices": [
+            "로봇 만들기",
+            "영어로 말하기",
+            "과학 실험"
+          ],
+          "answer": 1,
+          "explain": "'She is good at speaking English.' — She는 나리예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Tom is good at playing basketball.",
+          "ko": "Tom은 농구를 잘해."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Talk / Read and Write",
+      "studyPoint": "좋아하는 것 묻고 답하는 문장 읽고 쓰기",
+      "objectives": [
+        "좋아하는 것을 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "‘Play 3’로 좋아하는 것을 묻고 답하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 154~155쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Practice 2 그림으로 짝 대화 복습, 칠판의 'science'를 읽고 'My favorite subject is science.' 따라 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "말풍선 문장 읽고 빈 말풍선에 알맞은 문장 골라 짝과 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림 보고 알맞은 과목 단어 골라 문장 완성하기, 교과서 189쪽 단어·문장 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "놀이판에 과목 이름 쓰기 → 주사위를 굴려 좋아하는 과목 묻고 답하고, 어울리는 활동이 나오면 'I'm good at ....' 말하기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "Read and Talk 대화를 역할 바꿔 읽기, 알맞은 단어·문장 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's your favorite subject?",
+        "My favorite subject is science.",
+        "My favorite subject is art."
+      ],
+      "tip": "What's는 What is를 줄인 말이에요. 아포스트로피(')를 꼭 써요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가(포트폴리오 평가) — 좋아하는 것을 묻고 답하는 문장을 읽고 의미를 이해하며 쓸 수 있는가? 강세·리듬·억양에 맞게 소리 내어 읽을 수 있는가?",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is ___.",
+          "ko": "내가 가장 좋아하는 과목은 음악이에요.",
+          "choices": [
+            "math",
+            "music",
+            "art"
+          ],
+          "answer": 1,
+          "explain": "음악은 music이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ your favorite subject?",
+          "ko": "네가 가장 좋아하는 과목은 뭐니?",
+          "choices": [
+            "Where's",
+            "Who's",
+            "What's"
+          ],
+          "answer": 2,
+          "explain": "'무엇'을 물을 때는 What's(What is)를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is science. I'm good at ___ robots.",
+          "ko": "내가 가장 좋아하는 과목은 과학이에요. 나는 로봇 만드는 것을 잘해요.",
+          "choices": [
+            "making",
+            "doing",
+            "speaking"
+          ],
+          "answer": 0,
+          "explain": "'로봇을 만들다'는 'make robots', good at 뒤에서는 making이 돼요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 영어예요.",
+          "answer": "My favorite subject is English.",
+          "distractors": [
+            "food",
+            "are"
+          ],
+          "explain": "'My favorite subject is + 과목.' 순서로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 수학이에요.",
+          "answer": "My favorite subject is math.",
+          "distractors": [
+            "good",
+            "art."
+          ],
+          "explain": "수학은 math예요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 과학이에요.",
+          "answers": [
+            "My favorite subject is science."
+          ],
+          "hint": "My favorite subject is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 체육이에요.",
+          "answers": [
+            "My favorite subject is P.E.",
+            "My favorite subject is PE"
+          ],
+          "hint": "My favorite subject is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니?",
+          "answers": [
+            "What's your favorite subject?",
+            "What is your favorite subject?"
+          ],
+          "hint": "What's your ____ ____?"
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "My favorite subject is english.",
+            "my favorite subject is English.",
+            "My favorite subject is English?",
+            "My favorite subject is English."
+          ],
+          "answer": 3,
+          "explain": "문장의 첫 글자와 English는 대문자로 쓰고, 대답하는 문장은 마침표(.)로 끝내요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'My favorite subject is art.'의 뜻으로 알맞은 것은?",
+          "choices": [
+            "나는 미술을 잘해요.",
+            "내가 가장 좋아하는 과목은 미술이에요.",
+            "내가 가장 좋아하는 과목은 음악이에요.",
+            "나는 그림을 좋아해요."
+          ],
+          "answer": 1,
+          "explain": "art는 미술, favorite subject는 '가장 좋아하는 과목'이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is P.E.",
+          "answer": "My favorite subject is P.E.",
+          "distractors": [
+            "art.",
+            "good"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Jimin: What's your favorite subject, Chris?\nChris: My favorite subject is science. I'm good at making robots.\nJimin: Cool! My favorite subject is P.E.",
+          "question": "Chris가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "그림 그리기",
+            "로봇 만들기",
+            "운동하기"
+          ],
+          "answer": 1,
+          "explain": "Chris는 'I'm good at making robots.'라고 했어요. 체육을 좋아하는 사람은 지민이에요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Jimin, 네가 가장 좋아하는 과목은 뭐니?",
+          "answers": [
+            "Jimin, what's your favorite subject?",
+            "What's your favorite subject, Jimin?",
+            "Jimin, what is your favorite subject?"
+          ],
+          "hint": "Jimin, what's your ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 미술이에요. 너는요?",
+          "answers": [
+            "My favorite subject is art. How about you?",
+            "My favorite subject is art. What about you?"
+          ],
+          "hint": "My favorite subject is ____. How about ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 과학을 좋아해요.",
+          "answers": [
+            "I like science."
+          ],
+          "hint": "I ____ ____."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Tom's favorite ___ is P.E.",
+          "ko": "Tom이 가장 좋아하는 과목은 체육이에요.",
+          "choices": [
+            "subject",
+            "color",
+            "food"
+          ],
+          "answer": 0,
+          "explain": "'과목'은 subject예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's your ___ subject, Chris?",
+          "ko": "Chris, 네가 가장 좋아하는 과목은 뭐니?",
+          "choices": [
+            "good",
+            "very",
+            "favorite"
+          ],
+          "answer": 2,
+          "explain": "'가장 좋아하는'은 favorite이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject ___ math, too.",
+          "ko": "내가 가장 좋아하는 과목도 수학이에요.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": 1,
+          "explain": "My favorite subject(하나) 뒤에는 is를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 영어예요. 나는 영어를 매일 공부해요.",
+          "answer": "My favorite subject is English. I study English every day.",
+          "distractors": [
+            "math.",
+            "good"
+          ],
+          "explain": "두 문장을 차례로 만들어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Olivia, 네가 가장 좋아하는 과목은 뭐니?",
+          "answer": "Olivia, what's your favorite subject?",
+          "distractors": [
+            "food?",
+            "Who"
+          ],
+          "explain": "이름을 부른 뒤 질문해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is science, too.",
+          "answer": "My favorite subject is science, too.",
+          "distractors": [
+            "two.",
+            "art"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "문장의 앞부분과 뒷부분을 이어 보세요.",
+          "pairs": [
+            [
+              "What's your",
+              "favorite subject?"
+            ],
+            [
+              "My favorite",
+              "subject is art."
+            ],
+            [
+              "I'm good",
+              "at drawing pictures."
+            ],
+            [
+              "I study",
+              "math every day."
+            ]
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 체육이에요. 나는 운동을 잘해요.",
+          "answers": [
+            "My favorite subject is P.E. I'm good at playing sports.",
+            "My favorite subject is PE. I'm good at playing sports."
+          ],
+          "hint": "My favorite subject is ____. I'm good at ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니, 나리야?",
+          "answers": [
+            "What's your favorite subject, Nari?",
+            "Nari, what's your favorite subject?",
+            "What is your favorite subject, Nari?"
+          ],
+          "hint": "What's your favorite subject, ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 수학을 매일 공부해요.",
+          "answers": [
+            "I study math every day."
+          ],
+          "hint": "I ____ math ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's your favorite subject? My favorite subject is music.",
+          "answer": "What's your favorite subject? My favorite subject is music.",
+          "distractors": [
+            "food?",
+            "art."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I like art. My favorite subject is art.",
+          "answer": "I like art. My favorite subject is art.",
+          "distractors": [
+            "good",
+            "music."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 음악이에요. 나는 음악 연주하는 것을 잘해요.",
+          "answer": "My favorite subject is music. I'm good at playing music.",
+          "distractors": [
+            "doing",
+            "art."
+          ],
+          "explain": "좋아하는 과목 → 잘하는 것 순서로 만들어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 초록이에요.",
+          "answer": "My favorite color is green.",
+          "distractors": [
+            "subject",
+            "food"
+          ],
+          "explain": "'색깔'은 color예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What's your favorite subject?"
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            },
+            {
+              "who": "Boy",
+              "text": "Me, too! I love sports."
+            }
+          ],
+          "choices": [
+            "My favorite subject is art. I love pictures.",
+            "My favorite subject is math. It's fun.",
+            "My favorite subject is P.E. I love soccer."
+          ],
+          "answer": 2,
+          "explain": "'나도! 나는 운동을 좋아해.'라고 했으니 체육(P.E.)이 알맞아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Favorite Subjects\nMinsu: math\nJiwoo: English\nSora: art\nHajun: P.E.",
+          "question": "표의 내용과 맞는 말은?",
+          "choices": [
+            "Jiwoo: My favorite subject is English.",
+            "Sora: My favorite subject is music.",
+            "Hajun: My favorite subject is math."
+          ],
+          "answer": 0,
+          "explain": "표에서 Jiwoo는 English예요. Sora는 art, Hajun은 P.E.예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's your favorite subject? My favorite subject is science.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니? 내가 가장 좋아하는 과목은 과학이야."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "좋아하는 것 소개하는 글 읽고 이해하기",
+      "objectives": [
+        "좋아하는 것을 소개하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 156~157쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "칠판 문장을 Read and Talk에서 찾아 읽기, 선생님께 좋아하는 과목을 묻고 짝과 좋아하는 과목·잘하는 것 말하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "축구하기, 로봇 만들기, 그림 그리기 중 좋아하는 활동 고르고 어구 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "태블릿 설문 형식으로 좋아하는 것을 소개하는 나루의 글 듣고 읽기, 음식·색깔·과목·잘하는 것 확인하기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "글의 내용에 맞게 생각 그물 완성하기, 교과서 189쪽 글 읽고 문장 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "미나의 글 읽고 문제 풀기, 자기 평가, 복습 계획",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "My favorite food is chicken.",
+        "My favorite color is black.",
+        "My favorite subject is science.",
+        "I'm good at making robots."
+      ],
+      "tip": "favorite 뒤에 food, color, subject를 바꿔 넣으면 좋아하는 여러 가지를 말할 수 있어요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 좋아하는 것을 소개하는 글을 읽고 이해할 수 있는가?",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! I'm Naru. Let me tell you about my favorite things. I love chicken. It's my favorite food. Black is my favorite color. Science is my favorite subject, and I'm good at making robots. These are the things I like best!",
+          "question": "나루가 가장 좋아하는 음식은?",
+          "choices": [
+            "피자",
+            "샐러드",
+            "닭고기",
+            "스테이크"
+          ],
+          "answer": 2,
+          "explain": "'I love chicken. It's my favorite food.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! I'm Naru. Let me tell you about my favorite things. I love chicken. It's my favorite food. Black is my favorite color. Science is my favorite subject, and I'm good at making robots. These are the things I like best!",
+          "question": "나루가 가장 좋아하는 색깔은?",
+          "choices": [
+            "검정",
+            "빨강",
+            "초록",
+            "노랑"
+          ],
+          "answer": 0,
+          "explain": "'Black is my favorite color.' — black은 검정이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! I'm Naru. Let me tell you about my favorite things. I love chicken. It's my favorite food. Black is my favorite color. Science is my favorite subject, and I'm good at making robots. These are the things I like best!",
+          "question": "나루가 잘하는 것은?",
+          "choices": [
+            "그림 그리기",
+            "수학 문제 풀기",
+            "영어로 말하기",
+            "로봇 만들기"
+          ],
+          "answer": 3,
+          "explain": "'I'm good at making robots.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! I'm Naru. Let me tell you about my favorite things. I love chicken. It's my favorite food. Black is my favorite color. Science is my favorite subject, and I'm good at making robots. These are the things I like best!",
+          "question": "이 글은 무엇에 대한 글인가요?",
+          "choices": [
+            "나루의 하루 일과",
+            "나루의 장래 희망",
+            "나루가 좋아하는 것들"
+          ],
+          "answer": 2,
+          "explain": "음식, 색깔, 과목, 잘하는 것 등 나루가 좋아하는 것들을 소개하는 글이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Mina. Steak is my favorite food. I like yellow best. My favorite subject is art. I'm good at drawing pictures.",
+          "question": "글의 내용과 일치하는 것은?",
+          "choices": [
+            "미나는 피자를 가장 좋아한다.",
+            "미나는 그림을 잘 그린다.",
+            "미나는 초록색을 가장 좋아한다."
+          ],
+          "answer": 1,
+          "explain": "미나는 스테이크와 노란색을 좋아하고, 그림 그리기를 잘해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Luna. Salad is my favorite food, and blue is my favorite color. I love music class. I'm good at playing music.",
+          "question": "Luna가 잘하는 것은?",
+          "choices": [
+            "음악 연주하기",
+            "그림 그리기",
+            "운동하기"
+          ],
+          "answer": 0,
+          "explain": "'I'm good at playing music.'이라고 했어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'difficult'의 뜻은?",
+          "choices": [
+            "쉬운",
+            "재미있는",
+            "가장 좋아하는",
+            "어려운"
+          ],
+          "answer": 3,
+          "explain": "우주는 'It's very difficult.'라며 수학이 어렵다고 했어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'음식'을 영어로 하면?",
+          "emoji": "🍗",
+          "choices": [
+            "food",
+            "thing",
+            "subject",
+            "drone"
+          ],
+          "answer": 0,
+          "explain": "'My favorite food is chicken.'에서 food는 음식이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'drone'의 뜻으로 알맞은 것은?",
+          "emoji": "🛸",
+          "choices": [
+            "로봇",
+            "안경",
+            "무인기(드론)",
+            "공"
+          ],
+          "answer": 2,
+          "explain": "Fun Talk 2에서 아이들은 drone soccer(드론 축구)를 했어요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "favorite",
+              "가장 좋아하는"
+            ],
+            [
+              "speak",
+              "말하다"
+            ],
+            [
+              "thing",
+              "것, 물건"
+            ],
+            [
+              "subject",
+              "과목"
+            ],
+            [
+              "math",
+              "수학"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "My favorite color is black.",
+          "choices": [
+            "내가 가장 좋아하는 음식은 닭고기야.",
+            "내가 가장 좋아하는 색깔은 검정이야.",
+            "내가 가장 좋아하는 색깔은 파랑이야."
+          ],
+          "answer": 1,
+          "explain": "color는 색깔, black은 검정이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "These are my favorite ___.",
+          "ko": "이것들이 내가 가장 좋아하는 것들이에요.",
+          "choices": [
+            "subject",
+            "color",
+            "things"
+          ],
+          "answer": 2,
+          "explain": "'것들'은 things예요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Jiho. My favorite food is pizza. My favorite color is green. My favorite subject is P.E. I'm good at playing sports.",
+          "question": "지호가 가장 좋아하는 색깔은?",
+          "choices": [
+            "빨강",
+            "초록",
+            "파랑"
+          ],
+          "answer": 1,
+          "explain": "'My favorite color is green.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Jiho. My favorite food is pizza. My favorite color is green. My favorite subject is P.E. I'm good at playing sports.",
+          "question": "지호가 잘하는 것은?",
+          "choices": [
+            "그림 그리기",
+            "운동하기",
+            "로봇 만들기"
+          ],
+          "answer": 1,
+          "explain": "'I'm good at playing sports.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Sora. I like red best. Steak is my favorite food. I love English class. I'm good at speaking English.",
+          "question": "소라가 가장 좋아하는 음식은?",
+          "choices": [
+            "샐러드",
+            "스테이크",
+            "닭고기"
+          ],
+          "answer": 1,
+          "explain": "'Steak is my favorite food.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My Favorite Things Survey\nFood: salad\nColor: yellow\nSubject: math\nI'm good at: doing math",
+          "question": "설문에 답한 아이가 할 말로 알맞은 것은?",
+          "choices": [
+            "My favorite food is pizza.",
+            "I'm good at making robots.",
+            "My favorite color is yellow."
+          ],
+          "answer": 2,
+          "explain": "설문에서 좋아하는 색깔(Color)은 yellow예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite ___ is pizza.",
+          "ko": "내가 가장 좋아하는 음식은 피자예요.",
+          "choices": [
+            "food",
+            "color",
+            "subject"
+          ],
+          "answer": 0,
+          "explain": "'음식'은 food예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite color ___ red.",
+          "ko": "내가 가장 좋아하는 색깔은 빨강이에요.",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": 1,
+          "explain": "My favorite color 뒤에는 is를 써요."
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "What's your favorite food?",
+              "My favorite food is steak."
+            ],
+            [
+              "What's your favorite color?",
+              "My favorite color is pink."
+            ],
+            [
+              "What's your favorite subject?",
+              "My favorite subject is art."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "My favorite food is salad.",
+          "choices": [
+            "내가 가장 좋아하는 음식은 스테이크야.",
+            "내가 가장 좋아하는 색깔은 초록이야.",
+            "내가 가장 좋아하는 음식은 샐러드야."
+          ],
+          "answer": 2,
+          "explain": "food는 음식, salad는 샐러드예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 노랑이에요.",
+          "answer": "My favorite color is yellow.",
+          "distractors": [
+            "food",
+            "are"
+          ],
+          "explain": "'색깔'은 color예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite food is pizza. My favorite color is red.",
+          "ko": "내가 가장 좋아하는 음식은 피자예요. 내가 가장 좋아하는 색깔은 빨강이에요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello, I'm Tom. I'm from Canada. My favorite food is steak, and my favorite color is blue. My favorite subject is P.E. I'm good at playing basketball.",
+          "question": "Tom이 잘하는 것은?",
+          "choices": [
+            "축구하기",
+            "농구하기",
+            "그림 그리기"
+          ],
+          "answer": 1,
+          "explain": "'I'm good at playing basketball.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello, I'm Tom. I'm from Canada. My favorite food is steak, and my favorite color is blue. My favorite subject is P.E. I'm good at playing basketball.",
+          "question": "글의 내용과 일치하지 않는 것은?",
+          "choices": [
+            "Tom이 가장 좋아하는 색깔은 빨강이다.",
+            "Tom은 캐나다에서 왔다.",
+            "Tom은 스테이크를 가장 좋아한다."
+          ],
+          "answer": 0,
+          "explain": "Tom이 가장 좋아하는 색깔은 빨강이 아니라 파랑(blue)이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Amy: My favorite subject is music. I'm good at playing music.\nLinh: My favorite subject is art. I'm good at drawing pictures.\nMohan: My favorite subject is math. I'm good at doing math.",
+          "question": "그림을 잘 그리는 사람은?",
+          "choices": [
+            "Amy",
+            "Linh",
+            "Mohan"
+          ],
+          "answer": 1,
+          "explain": "Linh이 'I'm good at drawing pictures.'라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! I'm Yuna. I'm good at speaking English, so my favorite subject is English. My favorite food is chicken. I like pink.",
+          "question": "유나가 영어를 가장 좋아하는 까닭은?",
+          "choices": [
+            "영어로 말하는 것을 잘해서",
+            "닭고기를 좋아해서",
+            "분홍색을 좋아해서"
+          ],
+          "answer": 0,
+          "explain": "'I'm good at speaking English, so ...'라고 했어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 음식은 스테이크예요.",
+          "answers": [
+            "My favorite food is steak."
+          ],
+          "hint": "My favorite ____ is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 초록이에요.",
+          "answers": [
+            "My favorite color is green."
+          ],
+          "hint": "My favorite ____ is ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite food is chicken. My favorite color is yellow.",
+          "answer": "My favorite food is chicken. My favorite color is yellow.",
+          "distractors": [
+            "subject",
+            "red."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My name is Sora. My favorite food is steak.",
+          "answer": "My name is Sora. My favorite food is steak.",
+          "distractors": [
+            "color",
+            "pizza."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내 이름은 Luna예요. 내가 가장 좋아하는 색깔은 파랑이에요.",
+          "answer": "My name is Luna. My favorite color is blue.",
+          "distractors": [
+            "food",
+            "red."
+          ],
+          "explain": "이름 → 좋아하는 색깔 순서로 만들어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite food is chicken, and my favorite color is black.",
+          "ko": "내가 가장 좋아하는 음식은 닭고기이고, 가장 좋아하는 색깔은 검정이에요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "좋아하는 것 소개하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 좋아하는 것을 소개하는 글을 쓸 수 있다.",
+        "좋아하는 것을 소개하는 글을 발표하며 배운 표현을 활용할 수 있다."
+      ],
+      "pages": "교과서 158~159쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read 글을 모둠별로 번갈아 읽기, 야구하는 남자아이 사진 보고 'My favorite subject is P.E. I'm good at playing sports.' 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "그림 보고 철자를 써서 과목 단어 완성하기(Words), 교과서를 든 아이들 그림 보고 문장 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "내가 좋아하는 것(음식·색깔·과목·잘하는 것) 쓰기, 민수의 예시문을 참고해 좋아하는 것을 그리고 소개하는 글 쓰기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "자신이 쓴 글을 짝에게 읽어 주기, 자기·상호 평가",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "좋아하는 것 소개 글 읽고 질문에 답하기, 호준이의 글 빈칸 ⓐ·ⓑ 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "My name is Minsu.",
+        "My favorite food is pizza.",
+        "My favorite color is blue.",
+        "I'm good at doing math."
+      ],
+      "tip": "좋아하는 과목과 잘하는 것을 서로 어울리게 쓰면 글이 더 자연스러워요. (math → doing math)",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 좋아하는 것을 소개하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 음식은 피자예요.",
+          "answers": [
+            "My favorite food is pizza."
+          ],
+          "hint": "My favorite food is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 파랑이에요.",
+          "answers": [
+            "My favorite color is blue."
+          ],
+          "hint": "My favorite color is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 수학 문제 푸는 것을 잘해요.",
+          "answers": [
+            "I'm good at doing math.",
+            "I am good at doing math."
+          ],
+          "hint": "I'm good at ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 수호예요.",
+          "answers": [
+            "My name is Suho."
+          ],
+          "hint": "My name is ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 빨강이에요.",
+          "answer": "My favorite color is red.",
+          "distractors": [
+            "food",
+            "subject"
+          ],
+          "explain": "'색깔'은 color예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 음악 연주하는 것을 잘해요.",
+          "answer": "I'm good at playing music.",
+          "distractors": [
+            "doing",
+            "sports."
+          ],
+          "explain": "'음악을 연주하다'는 'play music'이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 과학이에요. 나는 로봇 만드는 것을 잘해요.",
+          "answer": "My favorite subject is science. I'm good at making robots.",
+          "distractors": [
+            "drawing",
+            "color"
+          ],
+          "explain": "두 문장을 차례대로 만들어요. 과학 → 로봇 만들기!"
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is ___. I'm good at speaking English.",
+          "ko": "내가 가장 좋아하는 과목은 영어예요. 나는 영어로 말하는 것을 잘해요.",
+          "choices": [
+            "English",
+            "math",
+            "P.E."
+          ],
+          "answer": 0,
+          "explain": "영어로 말하기를 잘하니까 좋아하는 과목은 English예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm good at ___ math.",
+          "ko": "나는 수학 문제 푸는 것을 잘해요.",
+          "choices": [
+            "making",
+            "doing",
+            "playing"
+          ],
+          "answer": 1,
+          "explain": "'수학 문제를 풀다'는 'do math'라서 doing math라고 써요."
+        },
+        {
+          "type": "mc",
+          "prompt": "호준이가 가장 좋아하는 과목은 영어예요. 다음 글의 빈칸에 들어갈 문장으로 가장 알맞은 것은?\nMy favorite subject is English. ______",
+          "choices": [
+            "I'm good at playing soccer.",
+            "I'm good at speaking English.",
+            "I'm good at making robots."
+          ],
+          "answer": 1,
+          "explain": "영어를 좋아하는 호준이에게 어울리는 잘하는 것은 '영어로 말하기'예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Minsu. Pizza is my favorite food. I like blue best. My favorite subject is math, and I'm good at doing math.",
+          "question": "글의 내용과 일치하지 않는 것은?",
+          "choices": [
+            "민수는 피자를 가장 좋아한다.",
+            "민수가 가장 좋아하는 과목은 음악이다.",
+            "민수는 파란색을 가장 좋아한다."
+          ],
+          "answer": 1,
+          "explain": "민수가 가장 좋아하는 과목은 음악이 아니라 수학(math)이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My favorite food is salad.",
+          "ko": "내가 가장 좋아하는 음식은 샐러드예요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 음식은 닭고기예요.",
+          "answers": [
+            "My favorite food is chicken."
+          ],
+          "hint": "My favorite food is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 Hana예요.",
+          "answers": [
+            "My name is Hana."
+          ],
+          "hint": "My ____ is Hana."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 그림 그리는 것을 잘해요.",
+          "answers": [
+            "I'm good at drawing pictures.",
+            "I am good at drawing pictures."
+          ],
+          "hint": "I'm good at ____ ____."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite food ___ steak.",
+          "ko": "내가 가장 좋아하는 음식은 스테이크예요.",
+          "choices": [
+            "am",
+            "are",
+            "is"
+          ],
+          "answer": 2,
+          "explain": "My favorite food 뒤에는 is를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is P.E. I'm good at ___ sports.",
+          "ko": "내가 가장 좋아하는 과목은 체육이에요. 나는 운동을 잘해요.",
+          "choices": [
+            "doing",
+            "playing",
+            "making"
+          ],
+          "answer": 1,
+          "explain": "'운동하다'는 'play sports'예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My ___ is Hojun.",
+          "ko": "내 이름은 호준이에요.",
+          "choices": [
+            "food",
+            "color",
+            "name"
+          ],
+          "answer": 2,
+          "explain": "'이름'은 name이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 분홍이에요.",
+          "answer": "My favorite color is pink.",
+          "distractors": [
+            "food",
+            "are"
+          ],
+          "explain": "'분홍'은 pink예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내 이름은 Minji예요. 나는 로봇 만드는 것을 잘해요.",
+          "answer": "My name is Minji. I'm good at making robots.",
+          "distractors": [
+            "doing",
+            "color"
+          ],
+          "explain": "자기소개 → 잘하는 것 순서로 만들어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'My favorite subject is P.E.' 다음에 이어질 문장으로 가장 알맞은 것은?",
+          "choices": [
+            "I'm good at playing sports.",
+            "I'm good at speaking English.",
+            "I'm good at doing math."
+          ],
+          "answer": 0,
+          "explain": "체육(P.E.)과 어울리는 잘하는 것은 '운동하기'예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My name is Hojun. My favorite color is green.",
+          "answer": "My name is Hojun. My favorite color is green.",
+          "distractors": [
+            "food",
+            "red."
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 음식은 피자이고, 가장 좋아하는 색깔은 빨강이에요.",
+          "answers": [
+            "My favorite food is pizza. My favorite color is red."
+          ],
+          "hint": "My favorite food is ____. My favorite color is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 수학이에요. 나는 수학 문제 푸는 것을 잘해요.",
+          "answers": [
+            "My favorite subject is math. I'm good at doing math.",
+            "My favorite subject is math. I am good at doing math."
+          ],
+          "hint": "My favorite subject is ____. I'm good at ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 Jiwoo예요.",
+          "answers": [
+            "My name is Jiwoo."
+          ],
+          "hint": "My name is ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite color is blue. My favorite subject is art.",
+          "answer": "My favorite color is blue. My favorite subject is art.",
+          "distractors": [
+            "food",
+            "good"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My name is Jiu. I'm good at speaking English.",
+          "answer": "My name is Jiu. I'm good at speaking English.",
+          "distractors": [
+            "doing",
+            "food"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내가 가장 좋아하는 음식은 닭고기예요. 내가 가장 좋아하는 과목은 과학이에요.",
+          "answer": "My favorite food is chicken. My favorite subject is science.",
+          "distractors": [
+            "color",
+            "good"
+          ],
+          "explain": "두 문장 모두 'My favorite ~ is ~.' 틀을 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 수학 문제 푸는 것을 잘해서, 가장 좋아하는 과목은 수학이에요.",
+          "answer": "I'm good at doing math, so my favorite subject is math.",
+          "distractors": [
+            "making",
+            "color"
+          ],
+          "explain": "so는 '그래서'라는 뜻이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "Hi, Hojun. What's your favorite color?"
+            },
+            {
+              "who": "Hojun",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "My favorite food is chicken.",
+            "My favorite color is green.",
+            "My favorite subject is English."
+          ],
+          "answer": 1,
+          "explain": "좋아하는 '색깔'을 물었으니 color로 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Seoyun. My favorite food is salad. My favorite color is pink. My favorite subject is music. I'm good at playing music.",
+          "question": "서윤이가 가장 좋아하는 과목과 잘하는 것이 바르게 짝지어진 것은?",
+          "choices": [
+            "미술 – 그림 그리기",
+            "음악 – 음악 연주하기",
+            "음악 – 영어로 말하기"
+          ],
+          "answer": 1,
+          "explain": "서윤이는 음악을 가장 좋아하고 음악 연주를 잘해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My name is Suho. My favorite subject is English.",
+          "ko": "내 이름은 수호예요. 내가 가장 좋아하는 과목은 영어예요."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project / My Work",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 160~161쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "Let's Write 예시문을 소리 내어 읽고, 선생님이 읽는 문장을 찾아 공책에 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "모둠별 노래자랑 — 'What's Your Favorite Subject?'(La Cucaracha 곡) 따라 부르기 → 색깔 표시된 노랫말을 바꾸기 → 모둠별로 부르고 잘한 모둠 뽑기",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 친구들이 좋아하는 과목 연결하기, 좋아하는 과목·잘하는 것 대화하기, 소진이의 글 읽고 그림 고르기와 빈칸 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 점검('정리해요'), 복습 계획, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's your favorite subject?",
+        "My favorite subject is music.",
+        "I'm good at playing music."
+      ],
+      "tip": "노랫말의 과목과 잘하는 것을 바꿔 나만의 노래를 만들어 불러 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 지민이가 가장 좋아하는 과목을 고르세요.",
+          "audio": "My favorite subject is P.E.",
+          "choices": [
+            "과학",
+            "미술",
+            "체육"
+          ],
+          "answer": 2,
+          "explain": "P.E.는 체육이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is science. I'm good at making robots.",
+          "answer": "My favorite subject is science. I'm good at making robots.",
+          "distractors": [
+            "art.",
+            "drawing"
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What's your favorite subject?"
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "My favorite subject is math.",
+            "My favorite color is black.",
+            "I like your glasses.",
+            "My favorite food is steak."
+          ],
+          "answer": 0,
+          "explain": "좋아하는 '과목'을 물었으니 subject로 답해야 해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! I'm Sojin. Pizza is my favorite food, and pink is my favorite color. I'm good at drawing pictures, so my favorite subject is ____.",
+          "question": "빈칸에 들어갈 과목으로 가장 알맞은 것은?",
+          "choices": [
+            "math",
+            "art",
+            "music"
+          ],
+          "answer": 1,
+          "explain": "그림 그리기를 잘하니까 가장 좋아하는 과목은 art(미술)가 어울려요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 과목은 미술이에요.",
+          "answers": [
+            "My favorite subject is art."
+          ],
+          "hint": "My favorite subject is ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 운동을 잘해요.",
+          "answer": "I'm good at playing sports.",
+          "distractors": [
+            "doing",
+            "is"
+          ],
+          "explain": "'운동하다'는 'play sports'예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's your favorite ___?",
+          "ko": "네가 가장 좋아하는 과목은 뭐니?",
+          "choices": [
+            "food",
+            "color",
+            "subject"
+          ],
+          "answer": 2,
+          "explain": "'과목'은 subject예요."
+        },
+        {
+          "type": "match",
+          "prompt": "과목과 어울리는 잘하는 것을 짝지어 보세요.",
+          "pairs": [
+            [
+              "math",
+              "doing math"
+            ],
+            [
+              "music",
+              "playing music"
+            ],
+            [
+              "art",
+              "drawing pictures"
+            ],
+            [
+              "English",
+              "speaking English"
+            ],
+            [
+              "P.E.",
+              "playing sports"
+            ]
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's your favorite subject?",
+          "ko": "네가 가장 좋아하는 과목은 뭐니?"
+        },
+        {
+          "type": "mc",
+          "prompt": "'I'm good at ~.'은 어떤 뜻을 나타낼까요?",
+          "choices": [
+            "나는 ~을 잘해요.",
+            "나는 ~을 가장 좋아해요.",
+            "나는 ~이 되고 싶어요.",
+            "나는 ~시에 ~해요."
+          ],
+          "answer": 0,
+          "explain": "good at은 '~을 잘하는'이라는 뜻이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "나리",
+              "text": "What's your favorite subject?"
+            },
+            {
+              "who": "Jesse",
+              "text": "My favorite subject is science. What's your favorite subject?"
+            },
+            {
+              "who": "나리",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's very difficult.",
+            "My favorite subject is English.",
+            "How nice!"
+          ],
+          "answer": 1,
+          "explain": "Jesse가 좋아하는 과목을 되물었으니 나리도 'My favorite subject is ~.'로 답해요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What's your favorite food?"
+            },
+            {
+              "who": "Boy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "My favorite subject is P.E.",
+            "My favorite food is chicken.",
+            "I'm good at playing sports."
+          ],
+          "answer": 1,
+          "explain": "좋아하는 '음식'을 물었으니 food로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "My favorite subject is art. How about you?"
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from Korea.",
+            "Yes, please.",
+            "My favorite subject is art, too."
+          ],
+          "answer": 2,
+          "explain": "'너는 어때?'라고 물었으니 좋아하는 과목을 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Sojin, 네가 가장 좋아하는 과목은 뭐니?",
+          "answer": "Sojin, what's your favorite subject?",
+          "distractors": [
+            "food?",
+            "Where"
+          ],
+          "explain": "이름을 부른 뒤 질문해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 그림 그리는 것을 잘해요. 내가 가장 좋아하는 색깔은 분홍이에요.",
+          "answer": "I'm good at drawing pictures. My favorite color is pink.",
+          "distractors": [
+            "doing",
+            "food"
+          ],
+          "explain": "두 문장을 차례로 만들어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's your favorite subject? Is it music?",
+          "answer": "What's your favorite subject? Is it music?",
+          "distractors": [
+            "art?",
+            "Are"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Olivia ___ good at playing music.",
+          "ko": "Olivia는 음악 연주를 잘해요.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": 0,
+          "explain": "한 사람(Olivia)이 주어일 때는 is를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My favorite subject is ___. I'm good at doing math.",
+          "ko": "내가 가장 좋아하는 과목은 수학이에요. 나는 수학 문제 푸는 것을 잘해요.",
+          "choices": [
+            "art",
+            "math",
+            "music"
+          ],
+          "answer": 1,
+          "explain": "doing math와 어울리는 과목은 math예요."
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Can you help me?",
+              "Sure, I can."
+            ],
+            [
+              "What day is it today?",
+              "It's Wednesday."
+            ],
+            [
+              "What's your favorite sport?",
+              "My favorite sport is soccer."
+            ],
+            [
+              "What's your favorite subject?",
+              "My favorite subject is music."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 내용과 일치하는 것을 고르세요.",
+          "audio": "My favorite subject is English. I'm good at speaking English.",
+          "choices": [
+            "영어를 가장 좋아하고 그림 그리기를 잘한다.",
+            "수학을 가장 좋아하고 영어로 말하기를 잘한다.",
+            "영어를 가장 좋아하고 영어로 말하기를 잘한다."
+          ],
+          "answer": 2,
+          "explain": "English, speaking English를 잘 들어 봐요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'm good at playing sports. My favorite subject is P.E.",
+          "ko": "나는 운동을 잘해요. 내가 가장 좋아하는 과목은 체육이에요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Chris, 네가 가장 좋아하는 과목은 뭐니?",
+          "answers": [
+            "Chris, what's your favorite subject?",
+            "What's your favorite subject, Chris?",
+            "Chris, what is your favorite subject?"
+          ],
+          "hint": "Chris, what's your ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내가 가장 좋아하는 색깔은 노랑이에요.",
+          "answers": [
+            "My favorite color is yellow."
+          ],
+          "hint": "My favorite ____ is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그녀는 그림 그리는 것을 잘해요.",
+          "answers": [
+            "She is good at drawing pictures.",
+            "She's good at drawing pictures."
+          ],
+          "hint": "She is good at ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My favorite subject is P.E., too. I love sports.",
+          "answer": "My favorite subject is P.E., too. I love sports.",
+          "distractors": [
+            "two.",
+            "music"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Mohan is good at doing math. He studies math every day.",
+          "answer": "Mohan is good at doing math. He studies math every day.",
+          "distractors": [
+            "do",
+            "She"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그는 로봇 만드는 것을 잘해요.",
+          "answer": "He is good at making robots.",
+          "distractors": [
+            "are",
+            "doing"
+          ],
+          "explain": "한 사람(He)이 주어일 때는 'is good at'이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "네가 가장 좋아하는 과목은 뭐니? 내가 가장 좋아하는 과목은 미술이야.",
+          "answer": "What's your favorite subject? My favorite subject is art.",
+          "distractors": [
+            "food?",
+            "music."
+          ],
+          "explain": "질문 문장과 대답 문장을 차례로 만들어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What's your favorite subject, Jimin?"
+            },
+            {
+              "who": "Jimin",
+              "text": "My favorite subject is P.E."
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            },
+            {
+              "who": "Jimin",
+              "text": "I'm good at playing sports."
+            }
+          ],
+          "choices": [
+            "What's your favorite food?",
+            "What are you good at?",
+            "Can you help me?"
+          ],
+          "answer": 1,
+          "explain": "지민이가 잘하는 것을 답했으니 '너는 무엇을 잘하니?'라고 물은 거예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "In our class, nine students like P.E. best. Six students like math best. Five students like art best.",
+          "question": "우리 반에서 가장 많은 학생이 좋아하는 과목은?",
+          "choices": [
+            "체육",
+            "수학",
+            "미술"
+          ],
+          "answer": 0,
+          "explain": "nine(9명)이 체육을 가장 좋아해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are you good at? I'm good at making robots.",
+          "ko": "너는 무엇을 잘하니? 나는 로봇 만드는 것을 잘해."
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "체육 수업이 있는 수요일 아침, 교실에서 친구들이 가장 좋아하는 과목을 이야기해요.",
+      "lines": [
+        {
+          "who": "Tom",
+          "text": "What day is it today?"
+        },
+        {
+          "who": "하나",
+          "text": "It's Wednesday."
+        },
+        {
+          "who": "Tom",
+          "text": "My favorite subject is P.E. What's your favorite subject, Hana?"
+        },
+        {
+          "who": "하나",
+          "text": "My favorite subject is P.E., too."
+        },
+        {
+          "who": "하나",
+          "text": "How about you, Mohan? What's your favorite subject?"
+        },
+        {
+          "who": "Mohan",
+          "text": "My favorite subject is math. I study math every day."
+        },
+        {
+          "who": "우주",
+          "text": "I don't like math. It's very difficult."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "우주, Amy, Linh이 4차 산업 혁명 센터에서 3D 펜 수업과 드론 축구를 체험해요.",
+      "lines": [
+        {
+          "who": "안내원",
+          "text": "What's your favorite subject?"
+        },
+        {
+          "who": "Linh",
+          "text": "My favorite subject is art. I'm good at drawing pictures."
+        },
+        {
+          "who": "안내원",
+          "text": "Good. We have a 3D pen class. Come with me!"
+        },
+        {
+          "who": "안내원",
+          "text": "We'll play drone soccer here."
+        },
+        {
+          "who": "우주",
+          "text": "Soccer? I'm good at playing soccer."
+        },
+        {
+          "who": "Amy",
+          "text": "This is cool."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "나리와 Jesse, 민우와 Olivia가 좋아하는 과목과 잘하는 것을 이야기해요.",
+      "lines": [
+        {
+          "who": "나리",
+          "text": "What's your favorite subject?"
+        },
+        {
+          "who": "Jesse",
+          "text": "My favorite subject is science. What's your favorite subject?"
+        },
+        {
+          "who": "나리",
+          "text": "My favorite subject is English. Look!"
+        },
+        {
+          "who": "Olivia",
+          "text": "Thank you. My favorite subject is music."
+        },
+        {
+          "who": "민우",
+          "text": "My favorite subject is music, too. I'm good at playing music."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "내가 좋아하는 것들",
+    "passage": "Hello! I'm Naru. Let me tell you about my favorite things. I love chicken. It's my favorite food. Black is my favorite color. Science is my favorite subject, and I'm good at making robots. These are the things I like best!",
+    "summaryKo": "나루는 닭고기, 검정색, 과학을 가장 좋아하고 로봇 만들기를 잘한다며 자신이 좋아하는 것들을 소개해요."
+  },
+  "writing": {
+    "frame": [
+      "My name is ____.",
+      "My favorite food is ____.",
+      "My favorite color is ____.",
+      "My favorite subject is ____.",
+      "I'm good at ____."
+    ],
+    "model": "My name is Yuna. My favorite food is salad. My favorite color is green. My favorite subject is music. I'm good at playing music."
+  },
+  "project": "모둠별 노래자랑: 'What's Your Favorite Subject?'(La Cucaracha 곡) 노래를 배운 뒤, 모둠이 좋아하는 과목과 잘하는 것으로 노랫말을 바꿔 부르고, 노랫말을 잘 바꾼 모둠과 열심히 부른 모둠을 뽑는다.",
+  "special": {
+    "no": 11,
+    "kind": "Into the History",
+    "title": "신사임당을 꼭 닮은 아들 율곡",
+    "summaryKo": "보보와 코코가 그림을 그리는 신사임당과 아들 율곡을 만나요. 미술을 좋아하는 보보가 그림을 칭찬하고, 율곡도 어머니처럼 그림을 잘 그린다고 말해요. 밤에도 책을 더 읽고 싶어 하는 율곡의 모습도 나와요.",
+    "facts": [
+      "율곡 이이는 신사임당의 셋째 아들이에요.",
+      "율곡은 두 살 때부터 그림을 잘 그리는 어머니 신사임당의 그림을 흉내 냈다고 해요.",
+      "율곡은 세 살 때부터 형과 누나를 따라 글을 읽었고, 여덟 살 때 시를 지을 만큼 글솜씨가 뛰어났어요.",
+      "율곡은 열세 살에 진사 초시에 합격했어요.",
+      "효심이 깊었던 율곡은 열여섯 살에 어머니가 돌아가시자 무덤 옆에서 3년 동안 지냈어요."
+    ],
+    "expressions": [
+      "My favorite subject is art. I love your picture.",
+      "I'm good at drawing pictures."
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "율곡은 신사임당의 몇째 아들인가요?",
+        "emoji": "👦",
+        "choices": [
+          "셋째",
+          "첫째",
+          "둘째",
+          "넷째"
+        ],
+        "answer": 0,
+        "explain": "율곡 이이는 신사임당의 셋째 아들이에요."
+      },
+      {
+        "type": "mc",
+        "prompt": "만화에서 신사임당이 하고 있던 일은?",
+        "emoji": "🖌️",
+        "choices": [
+          "노래 부르기",
+          "축구하기",
+          "그림 그리기",
+          "로봇 만들기"
+        ],
+        "answer": 2,
+        "explain": "신사임당은 'I'm drawing pictures.'라고 말했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "율곡이 글을 읽기 시작한 나이는?",
+        "emoji": "📖",
+        "choices": [
+          "여덟 살",
+          "세 살",
+          "열세 살",
+          "열여섯 살"
+        ],
+        "answer": 1,
+        "explain": "율곡은 세 살 때부터 형과 누나를 따라 글을 읽었어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "율곡에 대한 설명으로 알맞은 것은?",
+        "choices": [
+          "그림을 전혀 그리지 못했다.",
+          "책 읽기를 싫어했다.",
+          "여덟 살 때 시를 지을 만큼 글솜씨가 뛰어났다."
+        ],
+        "answer": 2,
+        "explain": "율곡은 그림도 잘 그리고 책 읽기도 좋아했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "만화에서 보보가 가장 좋아한다고 말한 과목은?",
+        "emoji": "🎨",
+        "choices": [
+          "미술",
+          "음악",
+          "수학",
+          "체육"
+        ],
+        "answer": 0,
+        "explain": "보보는 'My favorite subject is art.'라고 말했어요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "보보",
+            "text": "What are you doing?"
+          },
+          {
+            "who": "신사임당",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "My favorite subject is math.",
+          "I'm drawing pictures.",
+          "No. It's time for bed."
+        ],
+        "answer": 1,
+        "explain": "무엇을 하고 있는지 물었으니 '그림을 그리고 있단다.'라고 답해요."
+      },
+      {
+        "type": "fill",
+        "prompt": "빈칸에 알맞은 말을 고르세요.",
+        "sentence": "I'm good ___ drawing pictures.",
+        "ko": "나는 그림 그리는 것을 잘해.",
+        "choices": [
+          "on",
+          "at",
+          "to"
+        ],
+        "answer": 1,
+        "explain": "'~을 잘하다'는 'be good at'이에요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "My favorite subject is art. I love your picture.",
+        "choices": [
+          "저는 그림 그리는 것을 잘해요.",
+          "제가 가장 좋아하는 과목은 미술이에요. 그림이 정말 좋아요.",
+          "엄마, 이 책을 읽어도 될까요?"
+        ],
+        "answer": 1,
+        "explain": "art는 미술, picture는 그림이에요."
+      }
+    ]
+  }
+}

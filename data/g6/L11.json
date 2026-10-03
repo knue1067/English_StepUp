@@ -1,0 +1,3159 @@
+{
+ "id": "L11",
+ "no": 11,
+ "grade": 6,
+ "semester": 2,
+ "title": "Do You Know Anything About Tuho?",
+ "emoji": "🪃",
+ "rationale": "지적 호기심과 탐구심이 많은 6학년 학생들이 어떤 것에 대해 알고 있는지 묻고 답하는 말과 모른다고 말하는 표현을 익혀 실생활에서 활용하게 한다. 또한 어떤 것에 대해 설명하는 글을 읽고 정보를 찾는 능력을 기르며 인문·과학적 지식을 넓히도록 한다.",
+ "topics": "개인생활 관련(오락), 학교생활 관련(학교 활동), 문화 관련(세계 문화의 의식주, 전통)",
+ "functions": [
+  {
+   "ko": "어떤 것에 대해 알고 있는지 묻고 답하기",
+   "examples": [
+    "Do you know anything about Tuho?",
+    "Yes, I do. It's a Korean game.",
+    "No, I don't."
+   ]
+  },
+  {
+   "ko": "모르고 있음을 표현하기",
+   "examples": [
+    "I have no idea."
+   ]
+  }
+ ],
+ "forms": [
+  "Do you know anything about helper robots?",
+  "They are very clever."
+ ],
+ "newWords": [
+  {
+   "en": "air",
+   "ko": "공중, 공기"
+  },
+  {
+   "en": "boomerang",
+   "ko": "부메랑"
+  },
+  {
+   "en": "clever",
+   "ko": "영리한, 똑똑한"
+  },
+  {
+   "en": "hit",
+   "ko": "치다, 때리다"
+  },
+  {
+   "en": "into",
+   "ko": "~ 안으로, ~으로"
+  },
+  {
+   "en": "sari",
+   "ko": "사리(인도 여성의 전통 의상)"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "Australian toy",
+   "ko": "호주의 장난감",
+   "emoji": "🪃"
+  },
+  {
+   "en": "African drum",
+   "ko": "아프리카의 북",
+   "emoji": "🥁"
+  },
+  {
+   "en": "Indian dress",
+   "ko": "인도의 옷",
+   "emoji": "🥻"
+  },
+  {
+   "en": "Korean cookie",
+   "ko": "한국의 과자",
+   "emoji": "🍪"
+  },
+  {
+   "en": "Korean game",
+   "ko": "한국의 놀이",
+   "emoji": "🎯"
+  },
+  {
+   "en": "Vietnamese hat",
+   "ko": "베트남의 모자",
+   "emoji": "👒"
+  }
+ ],
+ "characters": [
+  "우주",
+  "Amy",
+  "하나",
+  "Tom",
+  "Linh",
+  "Green 선생님",
+  "Jacob",
+  "민우",
+  "Olivia",
+  "나리",
+  "Jesse"
+ ],
+ "goals": {
+  "understand": [
+   "어떤 것에 대해 알고 있는지 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "모르고 있음을 표현하는 말을 듣고 이해할 수 있다.",
+   "도우미 로봇에 대해 설명하는 글을 읽고 이해할 수 있다.",
+   "어떤 것에 대해 알고 있는지 묻고 답하며 모르고 있음을 표현하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "도우미 로봇에 대해 설명하는 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "어떤 것에 대해 알고 있는지 묻고 답하는 말을 할 수 있다.",
+   "모르고 있음을 표현하는 말을 할 수 있다.",
+   "어떤 것에 대해 알고 있는지 묻고 답하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 어떤 것에 대해 설명하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-05",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "어떤 것에 대해 알고 있는지 묻고 답하기",
+   "objectives": [
+    "어떤 것에 대해 알고 있는지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 1’을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 149~151쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Motivation / Get Ready",
+     "desc": "부메랑 사진을 보며 알고 있는 것 이야기하기, 친구에게 모르는 것을 알려 준 경험 말하기",
+     "min": 3
+    },
+    {
+     "phase": "도입",
+     "step": "Let's Learn / Words / Word Chant",
+     "desc": "단원 학습 목표 확인, 여러 나라의 물건 어구 붙임딱지 붙이고 찬트 하기",
+     "min": 4
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "민속 박물관 전통 놀이 체험장에서 우주가 Amy에게 투호를 알려 주고, 함께 제기차기를 하는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "대화를 듣고 들은 순서대로 번호 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "사다리 타기: 짝이 고른 그림에 대해 알고 있는지 묻고 ‘Yes, I do. It's〔They're〕 ....’로 답하면 점수 얻기 (짝)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about Tuho?",
+    "Yes, I do. It's a Korean game.",
+    "No, I don't."
+   ],
+   "tip": "하나는 It's a ..., 여러 개는 They're ...로 설명해요. (It's a Korean game. / They're Australian toys.)",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 어떤 것에 대해 알고 있는지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "물건과 알맞은 설명을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Tuho",
+       "a Korean game"
+      ],
+      [
+       "yakgwa",
+       "a Korean cookie"
+      ],
+      [
+       "nón lá",
+       "a Vietnamese hat"
+      ],
+      [
+       "boomerangs",
+       "Australian toys"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Australian toy",
+       "호주의 장난감"
+      ],
+      [
+       "African drum",
+       "아프리카의 북"
+      ],
+      [
+       "Indian dress",
+       "인도의 옷"
+      ],
+      [
+       "Korean cookie",
+       "한국의 과자"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 것을 고르세요.",
+     "emoji": "🪃",
+     "choices": [
+      "djembes",
+      "boomerangs",
+      "saris",
+      "yakgwa"
+     ],
+     "answer": 1,
+     "explain": "던지면 되돌아오는 🪃는 boomerang(부메랑)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 설명을 고르세요.",
+     "emoji": "🥁",
+     "choices": [
+      "African drums",
+      "Australian toys",
+      "Indian dresses"
+     ],
+     "answer": 0,
+     "explain": "🥁 젬베(djembes)는 아프리카의 북이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Do you know anything about Tuho?",
+     "choices": [
+      "너는 투호를 좋아하니?",
+      "투호는 어디에 있니?",
+      "너는 투호에 대해 알고 있니?"
+     ],
+     "answer": 2,
+     "explain": "‘Do you know anything about ...?’은 어떤 것에 대해 알고 있는지 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "No, I don't.",
+     "choices": [
+      "응, 알아.",
+      "고마워.",
+      "아니, 몰라."
+     ],
+     "answer": 2,
+     "explain": "‘No, I don't.’는 모른다고 답하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's a Korean game.",
+     "choices": [
+      "그것은 한국의 놀이야.",
+      "그것은 한국의 과자야.",
+      "그것은 한국의 모자야."
+     ],
+     "answer": 0,
+     "explain": "game은 ‘놀이, 게임’이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 제기차기를 알고 있어요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Do you know anything about jegichagi?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do. It's a Korean game.",
+      "I'm from Canada."
+     ],
+     "answer": 1,
+     "explain": "알고 있으면 ‘Yes, I do.’라고 답하고 설명을 덧붙여요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy는 투호를 몰라요. Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Do you know anything about Tuho?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't. What's Tuho?",
+      "Yes, I do.",
+      "It's a Korean cookie."
+     ],
+     "answer": 0,
+     "explain": "모르면 ‘No, I don't.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you know ___ about yakgwa?",
+     "ko": "너는 약과에 대해 알고 있니?",
+     "choices": [
+      "anything",
+      "any",
+      "thing"
+     ],
+     "answer": 0,
+     "explain": "‘~에 대해 뭐라도 알고 있니?’는 Do you know anything about ~?이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 부메랑에 대해 알고 있니?",
+     "answer": "Do you know anything about boomerangs?",
+     "distractors": [
+      "Are",
+      "does"
+     ],
+     "explain": "Do you know anything about + 대상?"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about Tuho?",
+     "ko": "너는 투호에 대해 알고 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, I ___.",
+     "ko": "응, 알아.",
+     "choices": [
+      "am",
+      "know",
+      "do"
+     ],
+     "answer": 2,
+     "explain": "‘Do you ...?’로 물으면 ‘Yes, I do.’로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ Australian toys.",
+     "ko": "그것들은 호주의 장난감이야.",
+     "choices": [
+      "It's",
+      "They're",
+      "I'm"
+     ],
+     "answer": 1,
+     "explain": "여러 개(toys)를 말할 때는 They're를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 젬베를 알고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Do you know anything about djembes?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. It's a Korean game.",
+      "Yes, I do. They're African drums.",
+      "No, I'm not."
+     ],
+     "answer": 1,
+     "explain": "젬베는 아프리카의 북이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "G는 약과를 몰라요. B의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Do you know anything about yakgwa?"
+      },
+      {
+       "who": "G",
+       "text": "No, I don't."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's a Vietnamese hat.",
+      "They're Indian dresses.",
+      "It's a Korean cookie."
+     ],
+     "answer": 2,
+     "explain": "약과는 한국의 전통 과자예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 베트남의 모자야.",
+     "answer": "It's a Vietnamese hat.",
+     "distractors": [
+      "They're",
+      "drum."
+     ],
+     "explain": "‘베트남의’는 Vietnamese예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "They're Indian dresses.",
+     "answer": "They're Indian dresses.",
+     "distractors": [
+      "It's",
+      "dress."
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Do you know anything about saris? Yes, I do. They're Indian dresses.",
+     "choices": [
+      "🥻",
+      "🥁",
+      "🪃"
+     ],
+     "answer": 0,
+     "explain": "사리(sari)는 인도의 전통 옷이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Do you know anything about boomerangs?’에 대한 알맞은 대답은?",
+     "choices": [
+      "Yes, I do. They're Australian toys.",
+      "Yes, I do. It's Australian toys.",
+      "Yes, I do. It's a Korean cookie."
+     ],
+     "answer": 0,
+     "explain": "boomerangs는 여러 개이므로 They're를 써요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "kick",
+       "차다"
+      ],
+      [
+       "air",
+       "공중"
+      ],
+      [
+       "into",
+       "~ 안으로"
+      ],
+      [
+       "show",
+       "보여 주다"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Kick the jegi. One, two, three!",
+     "ko": "제기를 차. 하나, 둘, 셋!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you know anything about jegichagi?",
+     "answer": "Do you know anything about jegichagi?",
+     "distractors": [
+      "Are",
+      "does"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 한국의 놀이야. 나는 그것을 TV에서 봤어.",
+     "answer": "It's a Korean game. I saw it on TV.",
+     "distractors": [
+      "see",
+      "They're"
+     ],
+     "explain": "‘봤다’는 saw, ‘TV에서’는 on TV예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 사리에 대해 알고 있니?",
+     "answers": [
+      "Do you know anything about saris?"
+     ],
+     "hint": "Do you know a_______ about saris?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것들은 아프리카의 북이야.",
+     "answers": [
+      "They're African drums.",
+      "They are African drums."
+     ],
+     "hint": "They're A______ d____."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ms. Green: Do you know anything about boomerangs, Linh?\nLinh: No, I don't.\nMs. Green: They're Australian toys. You throw them, and they come back!",
+     "question": "부메랑은 어느 나라의 장난감인가요?",
+     "choices": [
+      "아프리카",
+      "호주",
+      "인도"
+     ],
+     "answer": 1,
+     "explain": "‘They're Australian toys.’ Australian은 ‘호주의’예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the Folk Museum\nAmy: What's that?\nUju: It's Tuho. Do you know anything about Tuho?\nAmy: No, I don't.\nUju: It's a Korean game.\nHana: Look at me. I'll show you.",
+     "question": "Amy가 처음 보고 궁금해한 것은?",
+     "choices": [
+      "투호",
+      "제기",
+      "약과"
+     ],
+     "answer": 0,
+     "explain": "Amy가 ‘What's that?’이라고 묻자 우주가 ‘It's Tuho.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아이는 젬베를 몰라요. 아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Guide",
+       "text": "This is a djembe. Do you know anything about djembes?"
+      },
+      {
+       "who": "Kid",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. It's a Vietnamese hat.",
+      "They're Indian dresses.",
+      "No, I don't. What is it?"
+     ],
+     "answer": 2,
+     "explain": "모를 때는 ‘No, I don't.’라고 하고 무엇인지 물어볼 수 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Do you know anything about Tuho?’에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "Yes, I do.",
+      "Yes, I am.",
+      "No, I don't."
+     ],
+     "answer": 1,
+     "explain": "Do you ...?로 물었으니 do로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Kick the jegi ___ the air.",
+     "ko": "제기를 공중으로 차.",
+     "choices": [
+      "into",
+      "on",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "‘~ 안으로, ~으로’는 into예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about djembes? No, I don't.",
+     "ko": "너는 젬베에 대해 알고 있니? 아니, 몰라."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "어떤 것에 대해 알고 있는지 묻고 답하기 / 모르고 있음을 표현하기",
+   "objectives": [
+    "어떤 것에 대해 알고 있는지 묻고 답하는 말을 할 수 있다.",
+    "모르고 있음을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 152~153쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Word Chant 부르기, 논라 사진 보며 오늘 배울 내용 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "교실에서 Linh이 논라를, Amy와 Tom이 젬베를 소개하고, Linh이 ‘I have no idea.’라고 답하는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "약과와 사리에 관한 실생활 동영상 보기, 짝과 물건을 골라 묻고 모른다고 표현한 뒤 알려 주기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "묻고 답하기 스피드 게임: 모둠 대표가 그림 카드를 보여 주며 묻고, 모둠원이 알거나 모른다고 답하며 많은 카드 해결하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about nón lá?",
+    "It's a Vietnamese hat.",
+    "I have no idea."
+   ],
+   "tip": "‘I have no idea.’는 ‘전혀 모르겠어.’라는 뜻이에요. ‘That's a good idea.’와 헷갈리지 않게 조심해요!",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 어떤 것에 대해 알고 있는지 묻고 답하는 말을 할 수 있는가? 모르고 있음을 표현하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "표현과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I have no idea.",
+       "전혀 모르겠어."
+      ],
+      [
+       "You look good!",
+       "너 멋져 보여!"
+      ],
+      [
+       "Can you show us?",
+       "우리에게 보여 줄래?"
+      ],
+      [
+       "Go ahead.",
+       "어서 해 봐."
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "hit",
+       "치다"
+      ],
+      [
+       "clever",
+       "똑똑한"
+      ],
+      [
+       "umbrella",
+       "우산"
+      ],
+      [
+       "rainy",
+       "비가 오는"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I have no idea.",
+     "choices": [
+      "좋은 생각이야.",
+      "나도 알아.",
+      "전혀 모르겠어."
+     ],
+     "answer": 2,
+     "explain": "‘I have no idea.’는 전혀 모를 때 하는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "어떤 것에 대해 전혀 모를 때 하는 말은?",
+     "choices": [
+      "That's a good idea.",
+      "Good for you.",
+      "I have no idea."
+     ],
+     "answer": 2,
+     "explain": "idea가 들어가지만 ‘I have no idea.’는 ‘전혀 모르겠어.’라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Linh은 젬베에 대해 전혀 몰라요. Linh의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Do you know anything about djembes?"
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I have no idea.",
+      "Yes, I do.",
+      "That's a good idea."
+     ],
+     "answer": 0,
+     "explain": "전혀 모를 때는 ‘I have no idea.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 논라를 몰라요. Linh의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "Do you know anything about nón lá?"
+      },
+      {
+       "who": "Tom",
+       "text": "No, I don't."
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They're African drums.",
+      "It's a Vietnamese hat.",
+      "It's a Korean cookie."
+     ],
+     "answer": 1,
+     "explain": "논라(nón lá)는 베트남의 모자예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "nón lá는 무엇인가요?",
+     "choices": [
+      "베트남의 모자",
+      "인도의 옷",
+      "호주의 장난감"
+     ],
+     "answer": 0,
+     "explain": "글에 nón lá — a Vietnamese hat라고 나와 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Hit it with your hands.",
+     "choices": [
+      "손으로 그것을 쳐.",
+      "발로 그것을 차.",
+      "손을 씻어."
+     ],
+     "answer": 0,
+     "explain": "hit는 ‘치다’, with your hands는 ‘손으로’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have no ___.",
+     "ko": "전혀 모르겠어.",
+     "choices": [
+      "plan",
+      "hat",
+      "idea"
+     ],
+     "answer": 2,
+     "explain": "‘I have no idea.’ — 전혀 모르겠어."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We wear this on sunny and ___ days.",
+     "ko": "우리는 이것을 맑은 날과 비 오는 날에 써.",
+     "choices": [
+      "cold",
+      "rainy",
+      "windy"
+     ],
+     "answer": 1,
+     "explain": "‘비 오는’은 rainy예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안하지만, 전혀 모르겠어.",
+     "answer": "Sorry, I have no idea.",
+     "distractors": [
+      "any",
+      "don't"
+     ],
+     "explain": "모를 때 ‘I have no idea.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you show us? Of course!",
+     "ko": "우리에게 보여 줄래? 물론이지!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Olivia는 약과를 몰라요. 민우의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "It's yakgwa. Do you know anything about yakgwa?"
+      },
+      {
+       "who": "Olivia",
+       "text": "No, I don't."
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They're Australian toys.",
+      "It's a Korean cookie. Try some.",
+      "It's a Vietnamese hat."
+     ],
+     "answer": 1,
+     "explain": "약과는 한국의 과자예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jesse는 사리를 전혀 몰라요. Jesse의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "나리",
+       "text": "This is a sari. Do you know anything about saris?"
+      },
+      {
+       "who": "Jesse",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. They're Indian dresses.",
+      "Good for you.",
+      "Hmm, I have no idea."
+     ],
+     "answer": 2,
+     "explain": "전혀 모를 때는 ‘I have no idea.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "젬베는 장난감이 아니라 북이에요. Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Are they toys?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, they aren't. They're African drums.",
+      "Yes, they are. They're Australian toys.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "‘Are they ...?’에는 ‘No, they aren't.’로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 우산 같아.",
+     "answer": "It's like an umbrella.",
+     "distractors": [
+      "is",
+      "a"
+     ],
+     "explain": "‘~ 같은’은 like예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Yes, we do. It's like an umbrella.",
+     "answer": "Yes, we do. It's like an umbrella.",
+     "distractors": [
+      "does",
+      "a"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대화 내용으로 알맞은 것을 고르세요.",
+     "audio": "Do you know anything about boomerangs? I have no idea. They're Australian toys.",
+     "choices": [
+      "한 사람은 부메랑을 몰랐고, 다른 사람이 알려 주었다.",
+      "두 사람 모두 부메랑을 잘 안다.",
+      "부메랑은 아프리카의 북이다."
+     ],
+     "answer": 0,
+     "explain": "‘I have no idea.’라고 한 뒤 ‘They're Australian toys.’라고 알려 주었어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I have no idea.’와 비슷한 뜻의 말은?",
+     "choices": [
+      "Yes, I do.",
+      "I don't know.",
+      "That's a good idea."
+     ],
+     "answer": 1,
+     "explain": "둘 다 ‘모르겠어.’라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you wear it on rainy days, ___?",
+     "ko": "비 오는 날에도 그것을 쓰니?",
+     "choices": [
+      "too",
+      "to",
+      "two"
+     ],
+     "answer": 0,
+     "explain": "‘~도’는 too예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것들은 아프리카의 북이에요.",
+     "answers": [
+      "They're African drums.",
+      "They are African drums."
+     ],
+     "hint": "They're A______ d____."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about yakgwa? I have no idea.",
+     "ko": "너는 약과에 대해 알고 있니? 전혀 모르겠어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "dialog",
+     "prompt": "Emma는 떡에 대해 전혀 몰라요. Emma의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Me",
+       "text": "It's tteok. Do you know anything about tteok?"
+      },
+      {
+       "who": "Emma",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. It's a Vietnamese hat.",
+      "That's a good idea.",
+      "I have no idea. Is it a cookie?"
+     ],
+     "answer": 2,
+     "explain": "모를 때 ‘I have no idea.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "떡은 한국의 쌀로 만든 떡이에요. 나의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "Emma",
+       "text": "I have no idea."
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They're Indian dresses.",
+      "It's a Korean rice cake.",
+      "It's an African drum."
+     ],
+     "answer": 1,
+     "explain": "떡은 a Korean rice cake라고 설명할 수 있어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 알아. 그것은 한국의 과자야.",
+     "answer": "Yes, I do. It's a Korean cookie.",
+     "distractors": [
+      "They're",
+      "don't"
+     ],
+     "explain": "알면 ‘Yes, I do.’ 뒤에 설명을 해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것들은 장난감이니?",
+     "answers": [
+      "Are they toys?"
+     ],
+     "hint": "Are they t___?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 인도의 옷이에요.",
+     "answers": [
+      "It's an Indian dress.",
+      "It is an Indian dress."
+     ],
+     "hint": "It's an I_____ d____."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Show and Tell\nLinh: This is nón lá. It's a Vietnamese hat. We wear it on sunny days. We wear it on rainy days, too. It's like an umbrella.",
+     "question": "논라를 쓰는 날은 언제인가요?",
+     "choices": [
+      "맑은 날과 비 오는 날",
+      "맑은 날에만",
+      "눈 오는 날에만"
+     ],
+     "answer": 0,
+     "explain": "sunny days와 rainy days에 모두 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tom: Do you know anything about djembes?\nLinh: I have no idea.\nAmy: They're African drums.\nTom: Hit them with your hands. It's fun!",
+     "question": "젬베를 몰랐던 사람은?",
+     "choices": [
+      "Tom",
+      "Amy",
+      "Linh"
+     ],
+     "answer": 2,
+     "explain": "Linh이 ‘I have no idea.’라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We wear it on rainy days, too.",
+     "answer": "We wear it on rainy days, too.",
+     "distractors": [
+      "sunny",
+      "wears"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 수 없는 말은?\nA: Do you know anything about saris?\nB: ______",
+     "choices": [
+      "I have no idea.",
+      "No, I don't.",
+      "Yes, they are."
+     ],
+     "answer": 2,
+     "explain": "Do you ...?에는 do로 답하거나 ‘I have no idea.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about boomerangs? I have no idea.",
+     "ko": "너는 부메랑에 대해 알고 있니? 전혀 모르겠어."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "어떤 것에 대해 알고 있는지 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "어떤 것에 대해 알고 있는지 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "‘Play 3’를 하며 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 154~155쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화, 젬베·투호 사진에 맞는 문장 가리키고 따라 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "세계 문화 박람회 그림의 말풍선 문장 읽고 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림 보고 알맞은 어구 골라 대화 완성하기, 어구와 문장 읽고 쓰기(189쪽)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "땅따먹기: 판의 빈칸을 채운 뒤 지우개를 튕겨 멈춘 칸의 ○·╳에 맞게 묻고 답하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 어구·문장 골라 대화 완성하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about Tuho?",
+    "Yes, I do. It's a Korean game.",
+    "No, I don't. It's a Vietnamese hat."
+   ],
+   "tip": "나라 이름에서 온 말(Korean, Indian, African, Australian, Vietnamese)은 항상 대문자로 시작해요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 어떤 것에 대해 알고 있는지 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "빈칸에 알맞은 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "a Korean ___",
+       "game"
+      ],
+      [
+       "a Vietnamese ___",
+       "hat"
+      ],
+      [
+       "Australian ___",
+       "toys"
+      ],
+      [
+       "African ___",
+       "drums"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Indian",
+       "인도의"
+      ],
+      [
+       "Korean",
+       "한국의"
+      ],
+      [
+       "Vietnamese",
+       "베트남의"
+      ],
+      [
+       "African",
+       "아프리카의"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 말을 고르세요.\nA: Do you know anything about yakgwa?\nB: Yes, I do. It's ______.",
+     "choices": [
+      "a Korean cookie",
+      "a Korean game",
+      "African drums"
+     ],
+     "answer": 0,
+     "explain": "약과는 한국의 과자예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장을 고르세요.",
+     "emoji": "🪃",
+     "choices": [
+      "They're African drums.",
+      "They're Australian toys.",
+      "It's a Korean game."
+     ],
+     "answer": 1,
+     "explain": "🪃 부메랑은 호주의 장난감이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you know anything ___ nón lá?",
+     "ko": "너는 논라에 대해 알고 있니?",
+     "choices": [
+      "about",
+      "of",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "‘~에 대해’는 about이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "No, I ___.",
+     "ko": "아니, 몰라.",
+     "choices": [
+      "don't",
+      "do",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "모를 때는 ‘No, I don't.’라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Yes, I do. It's a Korean game.",
+     "choices": [
+      "아니, 몰라. 그것은 한국의 놀이야.",
+      "응, 알아. 그것은 한국의 과자야.",
+      "응, 알아. 그것은 한국의 놀이야."
+     ],
+     "answer": 2,
+     "explain": "‘Yes, I do.’는 ‘응, 알아.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 부메랑을 알고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about boomerangs?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do. They're Australian toys.",
+      "Yes, I do. It's a Vietnamese hat."
+     ],
+     "answer": 1,
+     "explain": "부메랑은 호주의 장난감이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 몰라.",
+     "answer": "No, I don't.",
+     "distractors": [
+      "do.",
+      "am"
+     ],
+     "explain": "모를 때는 ‘No, I don't.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘It's’는 무엇을 줄인 말인가요?",
+     "choices": [
+      "It was",
+      "It is",
+      "Its"
+     ],
+     "answer": 1,
+     "explain": "글에 It's = It is라고 나와 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "boomerangs처럼 여러 개를 설명할 때 쓰는 말은?",
+     "choices": [
+      "It's",
+      "I'm",
+      "They're"
+     ],
+     "answer": 2,
+     "explain": "여러 개는 They're(They are)를 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about djembes? Yes, I do.",
+     "ko": "너는 젬베에 대해 알고 있니? 응, 알아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "한국의 놀이",
+     "answers": [
+      "a Korean game",
+      "Korean game"
+     ],
+     "hint": "a K_____ game"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "호주의 장난감들",
+     "answers": [
+      "Australian toys"
+     ],
+     "hint": "A_________ toys"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 사리에 대해 알고 있니?",
+     "answer": "Do you know anything about saris?",
+     "distractors": [
+      "Are",
+      "does"
+     ],
+     "explain": "Do you know anything about + 대상?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 한국의 놀이야.",
+     "answer": "It's a Korean game.",
+     "distractors": [
+      "They're",
+      "cookie."
+     ],
+     "explain": "한 가지 물건은 It's로 설명해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They're African ___.",
+     "ko": "그것들은 아프리카의 북이야.",
+     "choices": [
+      "drums",
+      "drum",
+      "hats"
+     ],
+     "answer": 0,
+     "explain": "They're 다음이라 여러 개 drums를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 사리를 몰라요. A의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about saris?"
+      },
+      {
+       "who": "B",
+       "text": "No, I don't."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They're Indian dresses.",
+      "It's a Korean cookie.",
+      "They're Australian toys."
+     ],
+     "answer": 0,
+     "explain": "사리는 인도의 옷이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Do you know anything about djembes? No, I don't. They're African drums.",
+     "choices": [
+      "🪃",
+      "🥁",
+      "🥻"
+     ],
+     "answer": 1,
+     "explain": "djembes는 아프리카의 북이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "대문자와 문장 부호를 바르게 쓴 문장은?",
+     "choices": [
+      "Do you know anything about Tuho?",
+      "do you know anything about Tuho?",
+      "Do you know anything about Tuho."
+     ],
+     "answer": 0,
+     "explain": "첫 글자는 대문자, 질문 끝에는 물음표를 써요. Tuho는 이름이라 대문자로 시작해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "땅따먹기 판\nTuho ○ | saris ╳ | djembes ○",
+     "question": "지우개가 ‘djembes ○’ 칸에 멈췄을 때 알맞은 대답은?",
+     "choices": [
+      "No, I don't.",
+      "Yes, I do. It's a Korean game.",
+      "Yes, I do. They're African drums."
+     ],
+     "answer": 2,
+     "explain": "○ 칸은 안다고 답하고 설명해요. 젬베는 아프리카의 북이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "No, I don't. It's a Vietnamese hat.",
+     "ko": "아니, 몰라. 그것은 베트남의 모자야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 젬베에 대해 알고 있니?",
+     "answers": [
+      "Do you know anything about djembes?"
+     ],
+     "hint": "Do you know anything about d______?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 한국의 과자예요.",
+     "answers": [
+      "It's a Korean cookie.",
+      "It is a Korean cookie."
+     ],
+     "hint": "It's a K_____ c_____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 몰라. 그것들은 호주의 장난감이야.",
+     "answer": "No, I don't. They're Australian toys.",
+     "distractors": [
+      "do.",
+      "It's"
+     ],
+     "explain": "모른다고 한 뒤 알려 주는 말이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you know anything about yakgwa?",
+     "answer": "Do you know anything about yakgwa?",
+     "distractors": [
+      "Are",
+      "does"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "World Culture Fair\nBooth 1: Tuho – a Korean game\nBooth 2: djembes – African drums\nBooth 3: nón lá – a Vietnamese hat\nBooth 4: saris – Indian dresses",
+     "question": "아프리카의 악기를 보려면 몇 번 부스로 가야 하나요?",
+     "choices": [
+      "1번",
+      "2번",
+      "4번"
+     ],
+     "answer": 1,
+     "explain": "글에 Booth 2: djembes – African drums라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "World Culture Fair\nBooth 1: Tuho – a Korean game\nBooth 2: djembes – African drums\nBooth 3: nón lá – a Vietnamese hat\nBooth 4: saris – Indian dresses",
+     "question": "4번 부스에서 볼 수 있는 것은?",
+     "choices": [
+      "인도의 옷",
+      "베트남의 모자",
+      "한국의 놀이"
+     ],
+     "answer": 0,
+     "explain": "글에 Booth 4: saris – Indian dresses라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 제기차기를 알고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about jegichagi?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't. It's a Korean game.",
+      "Yes, I am.",
+      "Yes, I do. Kick the jegi into the air."
+     ],
+     "answer": 2,
+     "explain": "알고 있으니 ‘Yes, I do.’라고 하고 노는 방법을 설명해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you know anything about ___? — Yes, I do. It's a Vietnamese hat.",
+     "ko": "논라에 대해 알고 있니? — 응, 그건 베트남의 모자야.",
+     "choices": [
+      "saris",
+      "djembes",
+      "nón lá"
+     ],
+     "answer": 2,
+     "explain": "베트남의 모자는 nón lá예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 말을 고르세요.\nA: Do you know anything about nón lá?\nB: Yes, I do. ______",
+     "choices": [
+      "It's a Vietnamese hat.",
+      "They're African drums.",
+      "It's a Korean cookie."
+     ],
+     "answer": 0,
+     "explain": "논라는 베트남의 모자예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about saris? No, I don't.",
+     "ko": "너는 사리에 대해 알고 있니? 아니, 몰라."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "읽기",
+   "icon": "book",
+   "studyPoint": "도우미 로봇에 대해 설명하는 글 읽고 이해하기",
+   "objectives": [
+    "도우미 로봇에 대해 설명하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 156~157쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장 읽기, 사람을 도와주는 로봇 사진 보며 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "로봇과 함께 해 보고 싶은 활동 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "아이들과 놀아 주고, 집안일을 하고, 병원에서 사람들을 돕는 도우미 로봇에 대해 설명하는 글 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글에 나온 로봇이 할 수 없는 일 고르기, 글 읽고 문장 완성하기(189쪽)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "글을 읽고 물음에 답하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about helper robots?",
+    "They are very clever.",
+    "They help doctors and nurses."
+   ],
+   "tip": "글을 읽으며 ‘어디에서(at home, at hospitals) 무엇을 하는지’ 표시해 보면 내용을 쉽게 정리할 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 도우미 로봇에 대해 설명하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "clever",
+       "똑똑한"
+      ],
+      [
+       "robot",
+       "로봇"
+      ],
+      [
+       "sick",
+       "아픈"
+      ],
+      [
+       "future",
+       "미래"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘helper robot’의 뜻으로 알맞은 것은?",
+     "emoji": "🤖",
+     "choices": [
+      "장난감 로봇",
+      "도우미 로봇",
+      "로봇 놀이"
+     ],
+     "answer": 1,
+     "explain": "helper는 ‘도와주는 사람(것)’이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Helper Robots\nDo you know anything about helper robots? They are very clever. They do many things for people. At home, they clean the house and cook. At schools, they play games with children. At hospitals, they help doctors and nurses.",
+     "question": "도우미 로봇이 집에서 하는 일은?",
+     "choices": [
+      "청소와 요리",
+      "아이들과 게임하기",
+      "의사 돕기"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘At home, they clean the house and cook.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Helper Robots\nDo you know anything about helper robots? They are very clever. They do many things for people. At home, they clean the house and cook. At schools, they play games with children. At hospitals, they help doctors and nurses.",
+     "question": "도우미 로봇이 학교에서 하는 일은?",
+     "choices": [
+      "아이들과 게임하기",
+      "청소와 요리",
+      "간호사 돕기"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘At schools, they play games with children.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Helper Robots\nDo you know anything about helper robots? They are very clever. They do many things for people. At home, they clean the house and cook. At schools, they play games with children. At hospitals, they help doctors and nurses.",
+     "question": "글에서 도우미 로봇은 어떻다고 했나요?",
+     "choices": [
+      "매우 크다",
+      "매우 느리다",
+      "매우 똑똑하다"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘They are very clever.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Robot, Robo\nI have a helper robot. Its name is Robo. Robo is very clever. Robo reads books to my little brother. Robo plays chess with me. Robo cleans my room, too. I love Robo!",
+     "question": "Robo가 동생에게 해 주는 일은?",
+     "choices": [
+      "체스하기",
+      "책 읽어 주기",
+      "방 청소하기"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘Robo reads books to my little brother.’라고 나와 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Robo is very clever.",
+     "choices": [
+      "Robo는 매우 커.",
+      "Robo는 매우 똑똑해.",
+      "Robo는 매우 빨라."
+     ],
+     "answer": 1,
+     "explain": "clever는 ‘똑똑한’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "They cook, too.",
+     "choices": [
+      "그들은 청소도 해.",
+      "그들은 노래도 해.",
+      "그들은 요리도 해."
+     ],
+     "answer": 2,
+     "explain": "cook은 ‘요리하다’, too는 ‘~도’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 도우미 로봇에 대해 알고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about helper robots?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. They help people.",
+      "No, I don't.",
+      "They're Indian dresses."
+     ],
+     "answer": 0,
+     "explain": "알고 있으니 ‘Yes, I do.’라고 하고 설명해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They tell fun ___ to children.",
+     "ko": "그들은 아이들에게 재미있는 이야기를 들려줘.",
+     "choices": [
+      "stories",
+      "houses",
+      "doctors"
+     ],
+     "answer": 0,
+     "explain": "‘이야기’는 story, 여러 개는 stories예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They help ___ and nurses.",
+     "ko": "그들은 의사와 간호사를 도와.",
+     "choices": [
+      "robots",
+      "doctors",
+      "games"
+     ],
+     "answer": 1,
+     "explain": "‘의사’는 doctor예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Helper robots do many things for people.",
+     "ko": "도우미 로봇은 사람들을 위해 많은 일을 해."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Robots at the Hospital\nRobots help people at hospitals. They bring water and food to sick people. They help nurses, too. In the future, we will see many robots at hospitals.",
+     "question": "로봇이 아픈 사람들에게 가져다주는 것은?",
+     "choices": [
+      "물과 음식",
+      "약과 책",
+      "꽃"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘They bring water and food to sick people.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Robots at the Hospital\nRobots help people at hospitals. They bring water and food to sick people. They help nurses, too. In the future, we will see many robots at hospitals.",
+     "question": "로봇이 병원에서 돕는 사람은?",
+     "choices": [
+      "요리사",
+      "선생님",
+      "간호사"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘They help nurses, too.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: Do you know anything about robot dogs?\nJun: No, I don't.\nMina: They are robots for old people. They walk and play with them.",
+     "question": "로봇 강아지는 누구를 위한 로봇인가요?",
+     "choices": [
+      "아기",
+      "노인",
+      "의사"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘They are robots for old people.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "병원에서 도우미 로봇이 하는 일을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What do helper robots do at hospitals?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They bring food to sick people.",
+      "They play soccer with children.",
+      "They are Australian toys."
+     ],
+     "answer": 0,
+     "explain": "병원에서는 아픈 사람들을 도와요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그들은 아이들과 게임을 해.",
+     "answer": "They play games with children.",
+     "distractors": [
+      "plays",
+      "doctors"
+     ],
+     "explain": "with children = 아이들과 함께"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Helper robots help people at hospitals.",
+     "answer": "Helper robots help people at hospitals.",
+     "distractors": [
+      "helps",
+      "schools"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You will see many helper robots in the ___.",
+     "ko": "여러분은 미래에 많은 도우미 로봇을 보게 될 거예요.",
+     "choices": [
+      "hospital",
+      "house",
+      "future"
+     ],
+     "answer": 2,
+     "explain": "‘미래’는 future예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "They clean the house. They cook, too. They play games with children.",
+     "question": "로봇이 하는 일로 언급되지 않은 것은?",
+     "choices": [
+      "청소하기",
+      "요리하기",
+      "그림 그리기"
+     ],
+     "answer": 2,
+     "explain": "글에는 그림 그리기가 나오지 않아요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장이 되도록 짝지어 보세요.",
+     "pairs": [
+      [
+       "They clean",
+       "the house."
+      ],
+      [
+       "They cook",
+       "for families."
+      ],
+      [
+       "They tell",
+       "fun stories."
+      ],
+      [
+       "They help",
+       "sick people."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "They bring food to sick people.",
+     "ko": "그들은 아픈 사람들에게 음식을 가져다줘."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about Robo-Chef? It's a cooking robot. It is very clever. It makes pizza, noodles, and salad. It cooks fast. It cleans the kitchen, too. You will see Robo-Chef in many restaurants in the future.",
+     "question": "Robo-Chef가 만드는 음식이 아닌 것은?",
+     "choices": [
+      "햄버거",
+      "피자",
+      "국수"
+     ],
+     "answer": 0,
+     "explain": "피자, 국수, 샐러드를 만든다고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about Robo-Chef? It's a cooking robot. It is very clever. It makes pizza, noodles, and salad. It cooks fast. It cleans the kitchen, too. You will see Robo-Chef in many restaurants in the future.",
+     "question": "Robo-Chef에 대한 설명으로 맞는 것은?",
+     "choices": [
+      "천천히 요리한다.",
+      "부엌 청소도 한다.",
+      "병원에서 일한다."
+     ],
+     "answer": 1,
+     "explain": "글에 ‘It cleans the kitchen, too.’라고 나와 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그들은 매우 똑똑해요.",
+     "answers": [
+      "They are very clever.",
+      "They're very clever."
+     ],
+     "hint": "They are very c_____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그들은 집을 청소해요.",
+     "answers": [
+      "They clean the house."
+     ],
+     "hint": "They c____ the h____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "도우미 로봇은 집에서 많은 일을 해.",
+     "answer": "Helper robots do many things at home.",
+     "distractors": [
+      "does",
+      "hospitals."
+     ],
+     "explain": "at home = 집에서"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "They bring water and food to sick people.",
+     "answer": "They bring water and food to sick people.",
+     "distractors": [
+      "brings",
+      "play"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 도우미 로봇을 몰라요. A의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about helper robots?"
+      },
+      {
+       "who": "B",
+       "text": "I have no idea."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They are robots. They help people.",
+      "They're Indian dresses.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "모르는 친구에게 무엇인지 설명해 줘요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Robots ___ water to sick people.",
+     "ko": "로봇들은 아픈 사람들에게 물을 가져다줘.",
+     "choices": [
+      "bring",
+      "play",
+      "tell"
+     ],
+     "answer": 0,
+     "explain": "‘가져다주다’는 bring이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 글의 제목으로 알맞은 것은?\n‘They clean the house. They cook. They help doctors and nurses. They are very clever.’",
+     "choices": [
+      "Korean Games",
+      "Healthy Habits",
+      "Helper Robots"
+     ],
+     "answer": 2,
+     "explain": "도우미 로봇이 하는 일을 설명하는 글이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Helper robots are very clever. They help people.",
+     "ko": "도우미 로봇은 아주 똑똑해. 그들은 사람들을 도와."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "쓰기",
+   "icon": "pencil",
+   "studyPoint": "어떤 것에 대해 설명하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 어떤 것에 대해 설명하는 글을 쓸 수 있다.",
+    "어떤 것에 대해 설명하는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 158~159쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Let's Read 글 다시 읽기, 사리 사진 보고 ‘They are Indian dresses.’ 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림에 알맞은 단어를 써서 어구 완성하기, 어구를 골라 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "보기 A·B에서 설명하고 싶은 것과 특징(fun, tasty, nice, beautiful)을 골라 예시문을 참고하여 설명하는 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽기",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림을 보고 글 완성하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about yakgwa?",
+    "It's a Korean cookie. It's very tasty.",
+    "They are African drums. They are very fun."
+   ],
+   "tip": "설명하는 글은 ‘Do you know anything about ...? → 무엇인지 → It's very ...(특징)’ 순서로 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 어떤 것에 대해 설명하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "tasty",
+       "맛있는"
+      ],
+      [
+       "fun",
+       "재미있는"
+      ],
+      [
+       "beautiful",
+       "아름다운"
+      ],
+      [
+       "nice",
+       "멋진"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "약과를 설명하는 문장 ‘It's very ___.’에 알맞은 말은?",
+     "choices": [
+      "rainy",
+      "tasty",
+      "tired"
+     ],
+     "answer": 1,
+     "explain": "약과는 과자이니 tasty(맛있는)가 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's a Korean cookie. It's very ___.",
+     "ko": "그것은 한국의 과자예요. 그것은 아주 맛있어요.",
+     "choices": [
+      "rainy",
+      "tasty",
+      "sick"
+     ],
+     "answer": 1,
+     "explain": "‘맛있는’은 tasty예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They ___ African drums.",
+     "ko": "그것들은 아프리카의 북이에요.",
+     "choices": [
+      "is",
+      "am",
+      "are"
+     ],
+     "answer": 2,
+     "explain": "They 다음에는 are를 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "They are very fun.",
+     "choices": [
+      "그것들은 아주 재미있어.",
+      "그것은 아주 맛있어.",
+      "그것들은 아주 아름다워."
+     ],
+     "answer": 0,
+     "explain": "fun은 ‘재미있는’이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about Tuho? It's a Korean game. It's very fun.",
+     "question": "글에서 투호를 어떻게 설명했나요?",
+     "choices": [
+      "재미있는 한국의 놀이",
+      "맛있는 한국의 과자",
+      "아름다운 인도의 옷"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘It's a Korean game. It's very fun.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about saris? They are Indian dresses. They are very beautiful.",
+     "question": "사리의 특징은?",
+     "choices": [
+      "맛있다",
+      "아름답다",
+      "시끄럽다"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘They are very beautiful.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 비빔밥을 알아요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you know anything about bibimbap?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. It's a Korean food.",
+      "No, I don't.",
+      "Yes, I do. It's a Korean game."
+     ],
+     "answer": 0,
+     "explain": "비빔밥은 한국의 음식(food)이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 아주 맛있어.",
+     "answer": "It's very tasty.",
+     "distractors": [
+      "They",
+      "are"
+     ],
+     "explain": "very는 ‘아주’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "boomerangs를 바르게 설명한 문장은?",
+     "choices": [
+      "It is a Australian toy.",
+      "They is Australian toys.",
+      "They are Australian toys."
+     ],
+     "answer": 2,
+     "explain": "여러 개는 They are를 써요."
+    },
+    {
+     "type": "match",
+     "prompt": "줄인 말과 원래 말을 짝지어 보세요.",
+     "pairs": [
+      [
+       "It's",
+       "It is"
+      ],
+      [
+       "They're",
+       "They are"
+      ],
+      [
+       "don't",
+       "do not"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about yakgwa? It's a Korean cookie.",
+     "ko": "너는 약과에 대해 알고 있니? 그것은 한국의 과자야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아프리카의 북들",
+     "answers": [
+      "African drums"
+     ],
+     "hint": "A______ drums"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "베트남의 모자",
+     "answers": [
+      "a Vietnamese hat",
+      "Vietnamese hat"
+     ],
+     "hint": "a V_________ hat"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것들은 아주 아름다워.",
+     "answer": "They are very beautiful.",
+     "distractors": [
+      "is",
+      "It"
+     ],
+     "explain": "They are very + 꾸미는 말"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 한국의 음식이야.",
+     "answer": "It's a Korean food.",
+     "distractors": [
+      "They",
+      "game."
+     ],
+     "explain": "음식은 food예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ are Indian dresses.",
+     "ko": "그것들은 인도의 옷이에요.",
+     "choices": [
+      "It",
+      "They",
+      "He"
+     ],
+     "answer": 1,
+     "explain": "여러 개는 They로 받아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "They are African drums. They are very fun.",
+     "answer": "They are African drums. They are very fun.",
+     "distractors": [
+      "is",
+      "drum."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about ⓐ______? They are African drums. They are very fun.",
+     "question": "ⓐ에 알맞은 것은?",
+     "choices": [
+      "djembes",
+      "Tuho",
+      "yakgwa"
+     ],
+     "answer": 0,
+     "explain": "아프리카의 북은 djembes예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know anything about Tuho? ⓑ______ It's very fun.",
+     "question": "ⓑ에 알맞은 문장은?",
+     "choices": [
+      "They are Indian dresses.",
+      "It's a Korean cookie.",
+      "It's a Korean game."
+     ],
+     "answer": 2,
+     "explain": "투호는 한국의 놀이예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘It's very nice.’에서 nice의 뜻은?",
+     "choices": [
+      "슬픈",
+      "무서운",
+      "멋진"
+     ],
+     "answer": 2,
+     "explain": "nice는 ‘멋진, 좋은’이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about saris? They are Indian dresses. They are very nice.",
+     "ko": "너는 사리에 대해 알고 있니? 그것들은 인도의 옷이야. 아주 멋져."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 한국의 놀이예요. 그것은 아주 재미있어요.",
+     "answers": [
+      "It's a Korean game. It's very fun.",
+      "It is a Korean game. It is very fun."
+     ],
+     "hint": "It's a Korean g___. It's very f__."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 부메랑에 대해 알고 있니?",
+     "answers": [
+      "Do you know anything about boomerangs?"
+     ],
+     "hint": "Do you know anything about b_________?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 베트남의 모자야. 그것은 아주 멋져.",
+     "answer": "It's a Vietnamese hat. It's very nice.",
+     "distractors": [
+      "They",
+      "tasty."
+     ],
+     "explain": "두 문장 모두 It's로 시작해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you know anything about jegichagi? It's a Korean game.",
+     "answer": "Do you know anything about jegichagi? It's a Korean game.",
+     "distractors": [
+      "They're",
+      "cookie."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Korean Things\nDo you know anything about hanbok? It's a Korean dress. It's very beautiful.\nDo you know anything about songpyeon? It's a Korean rice cake. It's very tasty.",
+     "question": "송편에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "맛있는 한국의 떡",
+      "아름다운 한국의 옷",
+      "재미있는 한국의 놀이"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘It's a Korean rice cake. It's very tasty.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Korean Things\nDo you know anything about hanbok? It's a Korean dress. It's very beautiful.\nDo you know anything about songpyeon? It's a Korean rice cake. It's very tasty.",
+     "question": "hanbok은 무엇이라고 설명했나요?",
+     "choices": [
+      "한국의 떡",
+      "한국의 옷",
+      "한국의 놀이"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘It's a Korean dress.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나는 김치를 잘 알아요. 나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Friend",
+       "text": "Do you know anything about kimchi?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. It's a Korean food. It's very tasty.",
+      "No, I don't. It's a Korean food.",
+      "I have no idea."
+     ],
+     "answer": 0,
+     "explain": "알고 있으니 ‘Yes, I do.’라고 하고 설명해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They are Indian dresses. They ___ very beautiful.",
+     "ko": "그것들은 인도의 옷이에요. 그것들은 아주 아름다워요.",
+     "choices": [
+      "are",
+      "is",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "They 다음에는 are를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 바르게 쓴 문장은?",
+     "choices": [
+      "It are very tasty.",
+      "They is very tasty.",
+      "It is very tasty."
+     ],
+     "answer": 2,
+     "explain": "It is / They are로 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about djembes? They are African drums. They are very fun.",
+     "ko": "너는 젬베에 대해 알고 있니? 그것들은 아프리카의 북이야. 아주 재미있어."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 160~161쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "Ready to Write 문장 읽고 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "우리나라의 전통문화 소개하기: 모둠별로 세 가지를 정해 도화지에 소개 글과 그림을 만들고 ‘Do you know anything about ...?’으로 발표하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 순서 쓰기, 알고 있는지 묻고 답하기, 글 읽고 물음에 답하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 돌아보기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you know anything about bibimbap?",
+    "It's a Korean food.",
+    "I have no idea."
+   ],
+   "tip": "우리나라 전통문화를 소개할 때 ‘It's a Korean food / game / dance.’처럼 말해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Do you know anything about boomerangs? I have no idea. They're Australian toys.",
+     "choices": [
+      "🥁",
+      "🪃",
+      "🥻"
+     ],
+     "answer": 1,
+     "explain": "부메랑은 호주의 장난감이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Do you know anything about djembes? Yes, I do. They're African drums.",
+     "choices": [
+      "🪃",
+      "🥁",
+      "🥻"
+     ],
+     "answer": 1,
+     "explain": "젬베는 아프리카의 북이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "물건과 알맞은 설명을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Tuho",
+       "a Korean game"
+      ],
+      [
+       "djembes",
+       "African drums"
+      ],
+      [
+       "saris",
+       "Indian dresses"
+      ],
+      [
+       "yakgwa",
+       "a Korean cookie"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 사리를 알고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Do you know anything about saris?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do. It's a Korean game.",
+      "Yes, I do. They're Indian dresses."
+     ],
+     "answer": 2,
+     "explain": "사리는 인도의 옷이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 약과를 몰라요. G의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Do you know anything about yakgwa?"
+      },
+      {
+       "who": "B",
+       "text": "I have no idea."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's a Korean cookie.",
+      "They're African drums.",
+      "It's a Vietnamese hat."
+     ],
+     "answer": 0,
+     "explain": "약과는 한국의 과자예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Helper robots help people at hospitals. They bring medicine to sick people. They help doctors, too.",
+     "question": "이 로봇들이 일하는 곳은?",
+     "choices": [
+      "병원",
+      "학교",
+      "식당"
+     ],
+     "answer": 0,
+     "explain": "‘at hospitals’ — 병원에서 일해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Group's Korean Culture\nDo you know anything about bibimbap? It's a Korean food. It's very tasty.\nDo you know anything about ganggangsullae? It's a Korean dance. It's very beautiful.",
+     "question": "강강술래는 무엇이라고 소개했나요?",
+     "choices": [
+      "한국의 음식",
+      "한국의 춤",
+      "한국의 놀이"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘It's a Korean dance.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you know anything about bibimbap? — Yes, I do. It's a Korean ___.",
+     "ko": "비빔밥에 대해 알고 있니? — 응, 그건 한국의 음식이야.",
+     "choices": [
+      "food",
+      "hat",
+      "drum"
+     ],
+     "answer": 0,
+     "explain": "비빔밥은 음식(food)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "모를 때 하는 말이 아닌 것은?",
+     "choices": [
+      "No, I don't.",
+      "I have no idea.",
+      "Yes, I do."
+     ],
+     "answer": 2,
+     "explain": "‘Yes, I do.’는 안다고 답하는 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 한국의 춤이야.",
+     "answer": "It's a Korean dance.",
+     "distractors": [
+      "They're",
+      "food."
+     ],
+     "explain": "‘춤’은 dance예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 설명하는 문장으로 알맞은 것은?",
+     "emoji": "👒👒",
+     "choices": [
+      "They're African drums.",
+      "They're Vietnamese hats.",
+      "It's a Korean cookie."
+     ],
+     "answer": 1,
+     "explain": "베트남의 모자(nón lá)를 여러 개 그린 그림이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about bibimbap? It's a Korean food.",
+     "ko": "너는 비빔밥에 대해 알고 있니? 그것은 한국의 음식이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대화 내용으로 알맞은 것을 고르세요.",
+     "audio": "Do you know anything about yakgwa? No, I don't. It's a Korean cookie.",
+     "choices": [
+      "약과는 한국의 과자라고 알려 주었다.",
+      "두 사람 모두 약과를 잘 안다.",
+      "약과는 베트남의 모자다."
+     ],
+     "answer": 0,
+     "explain": "‘No, I don't.’라고 하자 ‘It's a Korean cookie.’라고 알려 주었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "반 친구들은 판소리를 몰라요. 모둠의 설명을 고르세요.",
+     "lines": [
+      {
+       "who": "Group",
+       "text": "Do you know anything about pansori?"
+      },
+      {
+       "who": "Class",
+       "text": "I have no idea."
+      },
+      {
+       "who": "Group",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "They're Australian toys.",
+      "Yes, I do.",
+      "It's Korean music. It's very nice."
+     ],
+     "answer": 2,
+     "explain": "판소리는 한국의 전통 음악이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그들은 병원에서 사람들을 도와.",
+     "answer": "They help people at hospitals.",
+     "distractors": [
+      "helps",
+      "home."
+     ],
+     "explain": "at hospitals = 병원에서"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "한국의 과자",
+     "answers": [
+      "a Korean cookie",
+      "Korean cookie"
+     ],
+     "hint": "a Korean c_____"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아니, 몰라요.",
+     "answers": [
+      "No, I don't.",
+      "No, I do not."
+     ],
+     "hint": "No, I d___."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Yuna: Do you know anything about paengichigi?\nMax: I have no idea.\nYuna: It's a Korean winter game. We play it on the ice.",
+     "question": "팽이치기는 어떤 놀이라고 설명했나요?",
+     "choices": [
+      "여름에 하는 물놀이",
+      "아프리카의 놀이",
+      "얼음 위에서 하는 한국의 겨울 놀이"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘It's a Korean winter game. We play it on the ice.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "They ___ water to sick people.",
+     "ko": "그들은 아픈 사람들에게 물을 가져다줘.",
+     "choices": [
+      "bring",
+      "play",
+      "wear"
+     ],
+     "answer": 0,
+     "explain": "‘가져다주다’는 bring이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's a Korean dance. It's very beautiful.",
+     "answer": "It's a Korean dance. It's very beautiful.",
+     "distractors": [
+      "They",
+      "food."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스럽지 않은 것은?",
+     "choices": [
+      "A: Do you know anything about Tuho? — B: I have no idea.",
+      "A: Do you know anything about saris? — B: Yes, I am.",
+      "A: Are they toys? — B: No, they aren't."
+     ],
+     "answer": 1,
+     "explain": "Do you ...?에는 ‘Yes, I do.’로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about Tuho? Yes, I do. It's a Korean game.",
+     "ko": "너는 투호에 대해 알고 있니? 응, 알아. 그것은 한국의 놀이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 비빔밥에 대해 알고 있니?",
+     "answers": [
+      "Do you know anything about bibimbap?"
+     ],
+     "hint": "Do you know a_______ about bibimbap?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 한국의 놀이예요.",
+     "answers": [
+      "It's a Korean game.",
+      "It is a Korean game."
+     ],
+     "hint": "It's a K_____ g___."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 알아. 그것은 한국의 음식이야. 그것은 아주 맛있어.",
+     "answer": "Yes, I do. It's a Korean food. It's very tasty.",
+     "distractors": [
+      "don't.",
+      "They"
+     ],
+     "explain": "알고 있다고 답한 뒤 무엇인지와 특징을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hit it with your hands. It's very fun.",
+     "answer": "Hit it with your hands. It's very fun.",
+     "distractors": [
+      "kick",
+      "feet."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Do you know anything about helper robots?\nB: No, I don't.\nA: They are very clever. They clean the house. They cook, too.",
+     "question": "A가 말한 로봇이 하는 일이 아닌 것은?",
+     "choices": [
+      "아이들 가르치기",
+      "집 청소하기",
+      "요리하기"
+     ],
+     "answer": 0,
+     "explain": "청소와 요리만 말했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my favorite thing. It's from India. People wear it. It's very long and beautiful.",
+     "question": "글쓴이가 설명하는 것은?",
+     "choices": [
+      "사리(인도의 옷)",
+      "젬베(아프리카의 북)",
+      "부메랑(호주의 장난감)"
+     ],
+     "answer": 0,
+     "explain": "인도에서 온, 입는 것이니 사리예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A는 부메랑을 전혀 몰라요. A의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What's that?"
+      },
+      {
+       "who": "B",
+       "text": "It's a boomerang. Do you know anything about boomerangs?"
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. They're African drums.",
+      "Good for you.",
+      "I have no idea. Can you show me?"
+     ],
+     "answer": 2,
+     "explain": "모른다고 말하고 보여 달라고 부탁해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have ___ idea.",
+     "ko": "전혀 모르겠어.",
+     "choices": [
+      "any",
+      "no",
+      "not"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘I have no idea.’라고 나와 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 ‘They're’로 설명해야 하는 것은?",
+     "choices": [
+      "Tuho",
+      "boomerangs",
+      "yakgwa"
+     ],
+     "answer": 1,
+     "explain": "boomerangs는 여러 개를 나타내는 말이라 They're를 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you know anything about helper robots? They are very clever.",
+     "ko": "너는 도우미 로봇에 대해 알고 있니? 그들은 아주 똑똑해."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "민속 박물관 전통 놀이 체험장에서 우주가 Amy에게 투호를 알려 주고, Tom은 TV에서 본 제기차기에 대해 알고 있다고 해요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "What's that?"
+    },
+    {
+     "who": "우주",
+     "text": "It's Tuho. Do you know anything about Tuho?"
+    },
+    {
+     "who": "Amy",
+     "text": "No, I don't. What's Tuho?"
+    },
+    {
+     "who": "우주",
+     "text": "It's a Korean game."
+    },
+    {
+     "who": "하나",
+     "text": "Do you know anything about jegichagi?"
+    },
+    {
+     "who": "Tom",
+     "text": "Yes, I do. It's a Korean game."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "교실에서 Linh이 베트남의 모자 논라를 소개하고, Amy와 Tom이 젬베를 소개해요. 젬베를 모르는 Linh은 ‘I have no idea.’라고 해요.",
+   "lines": [
+    {
+     "who": "Linh",
+     "text": "Do you know anything about nón lá?"
+    },
+    {
+     "who": "Tom",
+     "text": "No, I don't."
+    },
+    {
+     "who": "Linh",
+     "text": "It's a Vietnamese hat."
+    },
+    {
+     "who": "Tom",
+     "text": "Do you know anything about djembes?"
+    },
+    {
+     "who": "Linh",
+     "text": "I have no idea."
+    },
+    {
+     "who": "Amy",
+     "text": "They're African drums."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 Olivia에게 약과를, 나리가 Jesse에게 사리를 소개해요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "Do you know anything about yakgwa?"
+    },
+    {
+     "who": "Olivia",
+     "text": "No, I don't."
+    },
+    {
+     "who": "민우",
+     "text": "It's a Korean cookie."
+    },
+    {
+     "who": "나리",
+     "text": "Do you know anything about saris?"
+    },
+    {
+     "who": "Jesse",
+     "text": "I have no idea."
+    },
+    {
+     "who": "나리",
+     "text": "They're Indian dresses."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Helper Robots (도우미 로봇)",
+  "passage": "This passage explains helper robots, which are very clever. For children, they play games and tell fun stories. At home, they do housework such as cleaning and cooking. At hospitals, they work with doctors and nurses and bring food to sick people. The writer says we will see many helper robots in the future.",
+  "summaryKo": "아이들과 놀아 주고, 집안일을 하고, 병원에서 사람들을 돕는 똑똑한 도우미 로봇을 설명하는 글이에요."
+ },
+ "writing": {
+  "frame": [
+   "Do you know anything about ____?",
+   "It's ____. It's very ____.",
+   "Do you know anything about ____?",
+   "They are ____. They are very ____."
+  ],
+  "model": "Do you know anything about Tuho? It's a Korean game. It's very fun. Do you know anything about saris? They are Indian dresses. They are very beautiful."
+ },
+ "project": "우리나라의 전통문화 소개하기: 모둠별로 발표하고 싶은 우리나라 전통문화(비빔밥, 팽이치기, 판소리, 강강술래, 민화 등) 세 가지를 정해 도화지에 소개 글과 그림을 만들고, ‘Do you know anything about ...? It's a Korean ....’로 발표한다.",
+ "special": {
+  "no": 11,
+  "kind": "Into the World",
+  "title": "세계 여러 나라의 전통 놀이",
+  "summaryKo": "아이들이 숟가락에 달걀을 올려놓고 달리는 ‘에그 앤드 스푼 레이스’를 보고 알고 있는지 묻고 답해요. 영국의 놀이라는 것을 알고 함께 해 본 뒤, 에티오피아의 ‘점프 점프’ 놀이도 해 보기로 해요.",
+  "facts": [
+   "에그 앤드 스푼 레이스(egg-and-spoon race)는 숟가락에 달걀을 올려놓고 떨어뜨리지 않게 달리는 영국의 놀이로, 지금도 학교 운동회의 인기 종목이에요.",
+   "점프 점프(jump, jump)는 닭싸움과 비슷한 에티오피아의 놀이로, 한쪽 다리로 서서 상대를 밀거나 당겨 쓰러뜨려요.",
+   "러시아의 ‘라프타’는 방망이로 공을 쳐서 노는 전통 놀이예요.",
+   "프랑스의 ‘페탕크’는 작은 공 가까이에 쇠공을 던져 점수를 얻는 놀이예요."
+  ],
+  "expressions": [
+   "Do you know anything about egg-and-spoon races? — I have no idea.",
+   "It's an English game.",
+   "Let's try.",
+   "What are they doing? — They are doing jump, jump."
+  ],
+  "exercises": []
+ }
+}

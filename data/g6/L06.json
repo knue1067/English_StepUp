@@ -1,0 +1,3227 @@
+{
+ "id": "L06",
+ "no": 6,
+ "grade": 6,
+ "semester": 1,
+ "title": "He Has Blue Eyes",
+ "emoji": "👀",
+ "rationale": "일상생활에서 외모와 옷차림을 묘사하는 일은 자주 일어난다. 인물의 외모를 묻고 답하는 말과 옷차림을 묘사하는 말을 익히고, 인물을 묘사하는 시를 읽고 나만의 표현으로 바꿔 쓰게 하여 외모에 대한 편견 없이 다양성을 존중하는 태도를 기르고자 한다.",
+ "topics": "학교생활 관련(교우 관계), 민주시민 관련(협력)",
+ "functions": [
+  {
+   "ko": "인물의 외모 묻고 답하기",
+   "examples": [
+    "What does he / she look like?",
+    "He / She has blue eyes."
+   ]
+  },
+  {
+   "ko": "옷차림 묘사하기",
+   "examples": [
+    "He / She is wearing a yellow shirt and blue pants."
+   ]
+  }
+ ],
+ "forms": [
+  "She has blue eyes and short gray hair.",
+  "She is wearing red glasses."
+ ],
+ "newWords": [
+  {
+   "en": "aunt",
+   "ko": "이모, 고모, 숙모"
+  },
+  {
+   "en": "daughter",
+   "ko": "딸"
+  },
+  {
+   "en": "dress",
+   "ko": "원피스, 드레스"
+  },
+  {
+   "en": "eye",
+   "ko": "눈"
+  },
+  {
+   "en": "hair",
+   "ko": "머리카락"
+  },
+  {
+   "en": "long",
+   "ko": "긴"
+  },
+  {
+   "en": "of",
+   "ko": "~의"
+  },
+  {
+   "en": "same",
+   "ko": "같은"
+  },
+  {
+   "en": "sand",
+   "ko": "모래"
+  },
+  {
+   "en": "short",
+   "ko": "짧은, 키가 작은"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "blue eyes",
+   "ko": "파란 눈동자",
+   "emoji": "👀"
+  },
+  {
+   "en": "long brown hair",
+   "ko": "길고 갈색인 머리",
+   "emoji": "👩"
+  },
+  {
+   "en": "short gray hair",
+   "ko": "짧고 회색인 머리",
+   "emoji": "👴"
+  },
+  {
+   "en": "black glasses",
+   "ko": "검은색 안경",
+   "emoji": "👓"
+  },
+  {
+   "en": "a yellow dress",
+   "ko": "노란색 원피스",
+   "emoji": "👗"
+  },
+  {
+   "en": "a shirt and pants",
+   "ko": "셔츠와 바지",
+   "emoji": "👕"
+  }
+ ],
+ "characters": [
+  "Sally",
+  "우주",
+  "Linh",
+  "Mohan",
+  "Paul",
+  "Tom",
+  "Amy",
+  "Sarah",
+  "나리",
+  "Jesse",
+  "Jones 선생님",
+  "Judy",
+  "Olivia",
+  "테오 반고흐",
+  "빈센트 반고흐",
+  "폴 고갱"
+ ],
+ "goals": {
+  "understand": [
+   "인물의 외모를 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "옷차림을 묘사하는 말을 듣고 이해할 수 있다.",
+   "인물을 소개하는 글을 읽고 이해할 수 있다.",
+   "인물의 외모를 묻고 답하며 옷차림을 묘사하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "인물의 외모나 옷차림을 묘사하는 시를 공감하며 읽을 수 있다."
+  ],
+  "express": [
+   "인물의 외모를 묻고 답하는 말을 할 수 있다.",
+   "옷차림을 묘사하는 말을 할 수 있다.",
+   "인물의 외모를 묻고 답하는 문장, 옷차림을 묘사하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 인물을 소개하는 글을 쓸 수 있다.",
+   "시의 일부분을 바꿔 써서 인물을 창의적으로 묘사하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-04",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "인물의 외모 묻고 답하기",
+   "objectives": [
+    "인물의 외모를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 77~79쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "교과서 등장인물(Tom) 그림을 보며 외모 말하기, 가장 친한 친구의 외모와 옷차림 이야기하기, 단원 목표 확인, 어구 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "운동장에서 전학 온 친구 Paul의 외모에 대해 이야기하는 Sally·우주·Linh의 만화 영화 보고 Paul 찾기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "대화를 듣고 들은 순서대로 얼굴 그림에 번호 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 말하는 인물의 외모를 묻고 답을 듣고 얼굴을 그리고 색칠해 완성하기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What does he look like?",
+    "He has long brown hair.",
+    "He has blue eyes."
+   ],
+   "tip": "머리를 묘사할 때는 '길이 → 색깔 → hair' 순서로 말해요. (long brown hair)",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 인물의 외모를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "eye",
+       "눈"
+      ],
+      [
+       "hair",
+       "머리카락"
+      ],
+      [
+       "long",
+       "긴"
+      ],
+      [
+       "short",
+       "짧은"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "blue eyes",
+       "파란 눈동자"
+      ],
+      [
+       "long brown hair",
+       "길고 갈색인 머리"
+      ],
+      [
+       "short gray hair",
+       "짧고 회색인 머리"
+      ],
+      [
+       "black glasses",
+       "검은색 안경"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말은?",
+     "emoji": "👓",
+     "choices": [
+      "glasses",
+      "dress",
+      "eyes",
+      "hair"
+     ],
+     "answer": 0,
+     "explain": "👓는 안경(glasses)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'He has blue eyes.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그는 파란색 옷을 입고 있어요.",
+      "그는 눈동자가 파란색이에요.",
+      "그는 머리가 파란색이에요."
+     ],
+     "answer": 1,
+     "explain": "has blue eyes는 '눈동자가 파란색이다'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What does he look like?",
+     "choices": [
+      "그는 무엇을 좋아하니?",
+      "그는 어떻게 생겼니?",
+      "그는 어디에서 왔니?"
+     ],
+     "answer": 1,
+     "explain": "look like는 '~처럼 보이다, 생기다'예요. 외모를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She has long yellow hair.",
+     "choices": [
+      "그녀는 머리가 길고 노란색이에요.",
+      "그녀는 머리가 짧고 노란색이에요.",
+      "그녀는 눈동자가 노란색이에요."
+     ],
+     "answer": 0,
+     "explain": "long(긴), yellow hair(노란 머리)를 잘 들어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul은 머리가 길고 갈색이에요. 우주의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sally",
+       "text": "What does he look like?"
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He has long brown hair.",
+      "He has short black hair.",
+      "He's from France."
+     ],
+     "answer": 0,
+     "explain": "Paul의 외모를 물었으니 '머리가 길고 갈색'이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Tom의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "Linh",
+       "text": "She has blue eyes."
+      }
+     ],
+     "choices": [
+      "What does she look like?",
+      "Where is she?",
+      "When is her birthday?"
+     ],
+     "answer": 0,
+     "explain": "'She has blue eyes.'는 외모를 묻는 말에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She ___ black hair.",
+     "ko": "그녀는 머리가 검은색이에요.",
+     "choices": [
+      "is",
+      "wears",
+      "has"
+     ],
+     "answer": 2,
+     "explain": "외모를 말할 때는 'She has ...'라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 어떻게 생겼니?",
+     "answer": "What does she look like?",
+     "distractors": [
+      "is",
+      "have"
+     ],
+     "explain": "외모를 물을 때는 'What does she look like?'라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "머리가 짧고 회색인 남자를 묘사하는 말로 알맞은 것은?",
+     "choices": [
+      "He has long gray hair.",
+      "He has short gray eyes.",
+      "He has short gray hair."
+     ],
+     "answer": 2,
+     "explain": "짧은 머리는 short hair, 회색은 gray예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What does he look like?",
+     "ko": "그는 어떻게 생겼니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She has ___ brown hair.",
+     "ko": "그녀는 머리가 길고 갈색이에요.",
+     "choices": [
+      "short",
+      "long",
+      "tall"
+     ],
+     "answer": 1,
+     "explain": "'긴 머리'는 long hair예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ he look like?",
+     "ko": "그는 어떻게 생겼니?",
+     "choices": [
+      "is",
+      "do",
+      "does"
+     ],
+     "answer": 2,
+     "explain": "he/she에게는 What does ... look like?를 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "He has green eyes.",
+     "choices": [
+      "파란색 눈동자",
+      "초록색 눈동자",
+      "갈색 눈동자"
+     ],
+     "answer": 1,
+     "explain": "green eyes는 초록색 눈동자예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She has short brown hair.",
+     "choices": [
+      "그녀는 머리가 길고 갈색이에요.",
+      "그녀는 머리가 짧고 갈색이에요.",
+      "그녀는 눈동자가 갈색이에요."
+     ],
+     "answer": 1,
+     "explain": "short brown hair — 짧고 갈색인 머리예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jenny는 눈동자가 파란색이고 머리가 짧고 갈색이에요. Mohan의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mohan",
+       "text": "I have a new friend. Her name is Jenny."
+      },
+      {
+       "who": "Amy",
+       "text": "What does she look like?"
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She has blue eyes and short brown hair.",
+      "She has brown eyes and short blue hair.",
+      "She has blue eyes and long brown hair."
+     ],
+     "answer": 0,
+     "explain": "눈동자는 파란색(blue eyes), 머리는 짧고 갈색(short brown hair)이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 눈동자가 갈색이에요.",
+     "answer": "He has brown eyes.",
+     "distractors": [
+      "is",
+      "eye"
+     ],
+     "explain": "He has + 색깔 + eyes. 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She has long black hair.",
+     "answer": "She has long black hair.",
+     "distractors": [
+      "short",
+      "is"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "가족의 외모를 묻는 말로 알맞은 것은?",
+     "choices": [
+      "What is your sister doing?",
+      "What does your sister look like?",
+      "Where is your sister?"
+     ],
+     "answer": 1,
+     "explain": "외모는 'What does ... look like?'로 물어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "She has brown eyes.",
+       "그녀는 눈동자가 갈색이에요."
+      ],
+      [
+       "She has long hair.",
+       "그녀는 머리가 길어요."
+      ],
+      [
+       "He likes basketball.",
+       "그는 농구를 좋아해요."
+      ],
+      [
+       "He's very funny.",
+       "그는 매우 재미있어요."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She has blue eyes and long brown hair.",
+     "ko": "그녀는 눈동자가 파란색이고 머리가 길고 갈색이에요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "머리카락",
+     "answers": [
+      "hair"
+     ],
+     "hint": "h _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 눈동자가 파란색이에요.",
+     "answers": [
+      "He has blue eyes."
+     ],
+     "hint": "He has ____ ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 눈동자가 초록색이고 머리가 짧고 회색이에요.",
+     "answer": "She has green eyes and short gray hair.",
+     "distractors": [
+      "long",
+      "is"
+     ],
+     "explain": "눈동자와 머리 모양을 and로 이어서 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Uju: We have a new friend. His name is Paul. He's from France.\nSally: What does he look like?\nUju: He has long brown hair and blue eyes. He's very tall.",
+     "question": "Paul에 대한 설명으로 알맞지 않은 것은?",
+     "choices": [
+      "프랑스에서 왔다.",
+      "머리가 짧다.",
+      "키가 크다."
+     ],
+     "answer": 1,
+     "explain": "Paul은 머리가 길어요(long brown hair)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Four Friends\n- Mina: brown eyes, short yellow hair\n- Jisu: brown eyes, long black hair\n- Leo: blue eyes, short gray hair\n- Ben: blue eyes, short brown hair",
+     "question": "'He has blue eyes and short gray hair.'는 누구일까요?",
+     "choices": [
+      "Leo",
+      "Ben",
+      "Mina"
+     ],
+     "answer": 0,
+     "explain": "눈동자가 파란색이고 머리가 짧고 회색인 친구는 Leo예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "This is Jenny. She's from Canada."
+      },
+      {
+       "who": "Students",
+       "text": "?"
+      },
+      {
+       "who": "Teacher",
+       "text": "She has blue eyes and short brown hair."
+      }
+     ],
+     "choices": [
+      "Where is she from?",
+      "How old is she?",
+      "What does Jenny look like?"
+     ],
+     "answer": 2,
+     "explain": "선생님이 외모를 알려 주었으니 외모를 묻는 질문이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He has brown eyes and short black hair.",
+     "answer": "He has brown eyes and short black hair.",
+     "distractors": [
+      "long",
+      "She"
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "네 친구는 어떻게 생겼니?",
+     "answers": [
+      "What does your friend look like?"
+     ],
+     "hint": "What does your ____ look ____?"
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul은 눈동자가 파란색이고 키가 커요. Linh의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sally",
+       "text": "Oh, I see Paul. He has blue eyes."
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, he isn't. He's sad.",
+      "Yes, he does. He's very tall.",
+      "Yes, I do. I like him."
+     ],
+     "answer": 1,
+     "explain": "'He has ...'에 맞다고 할 때는 'Yes, he does.'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "He has blue eyes. He's very tall.",
+     "ko": "그는 눈동자가 파란색이에요. 그는 키가 매우 커요."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "인물의 외모 묻고 답하기 / 옷차림 묘사하기",
+   "objectives": [
+    "인물의 외모를 묻고 답하는 말을 할 수 있다.",
+    "옷차림을 묘사하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 80~81쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "인물 사진을 보며 외모 묻고 답하기, 선생님과 친구의 옷차림 묘사하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "놀이터에서 사촌 동생 Sarah를 찾는 Amy를 우주와 Tom이 도와주는 만화 영화 보기 (Sarah의 외모와 옷차림 찾기)",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "이모를 찾는 Jesse, 딸 Judy의 사진을 보여 주는 Jones 선생님의 동영상 보기, 짝과 외모·옷차림 묻고 답하기, 좋아하는 유명인 묘사하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "두 그림에서 외모나 옷차림이 다른 부분을 찾아 묘사하는 말 하기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "그림에 알맞은 대화를 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What does she look like?",
+    "She has green eyes and short brown hair.",
+    "She's wearing a yellow shirt and blue pants."
+   ],
+   "tip": "옷이나 안경은 'is wearing'으로 말해요. 외모(눈, 머리)는 'has'로 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 인물의 외모를 묻고 답하는 말을 할 수 있는가? 옷차림을 묘사하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "옷차림 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "dress",
+       "원피스"
+      ],
+      [
+       "glasses",
+       "안경"
+      ],
+      [
+       "shirt",
+       "셔츠"
+      ],
+      [
+       "pants",
+       "바지"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "aunt",
+       "이모, 고모"
+      ],
+      [
+       "daughter",
+       "딸"
+      ],
+      [
+       "sand",
+       "모래"
+      ],
+      [
+       "cousin",
+       "사촌"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말은?",
+     "emoji": "👗",
+     "choices": [
+      "dress",
+      "pants",
+      "shirt",
+      "glasses"
+     ],
+     "answer": 0,
+     "explain": "👗는 원피스(dress)예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'She's wearing a yellow shirt.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그녀는 노란색 셔츠를 입고 있어요.",
+      "그녀는 노란색 셔츠를 좋아해요.",
+      "그녀는 노란색 원피스를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "be wearing은 '입고 있다'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What is she wearing?",
+     "choices": [
+      "그녀는 어떻게 생겼니?",
+      "그녀는 어디에 있니?",
+      "그녀는 무엇을 입고 있니?"
+     ],
+     "answer": 2,
+     "explain": "What is she wearing?은 옷차림을 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He's wearing black glasses.",
+     "choices": [
+      "그는 검은색 셔츠를 입고 있어요.",
+      "그는 눈동자가 검은색이에요.",
+      "그는 검은색 안경을 쓰고 있어요."
+     ],
+     "answer": 2,
+     "explain": "glasses는 '안경'이에요. 안경을 쓸 때도 wear를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sarah는 노란색 셔츠와 파란색 바지를 입고 있어요. Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "What is she wearing?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's wearing a blue shirt and yellow pants.",
+      "She has green eyes.",
+      "She's wearing a yellow shirt and blue pants."
+     ],
+     "answer": 2,
+     "explain": "옷차림을 물었으니 노란색 셔츠와 파란색 바지를 입었다고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "나리",
+       "text": "What are you doing?"
+      },
+      {
+       "who": "Jesse",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm from the U.S.",
+      "It's on your left.",
+      "I'm looking for my aunt."
+     ],
+     "answer": 2,
+     "explain": "무엇을 하고 있는지 물었으니 '이모를 찾고 있어.'가 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's ___ a yellow dress.",
+     "ko": "그녀는 노란색 원피스를 입고 있어요.",
+     "choices": [
+      "having",
+      "wearing",
+      "looking"
+     ],
+     "answer": 1,
+     "explain": "'입고 있다'는 be wearing이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 초록색 셔츠를 입고 있어요.",
+     "answer": "He's wearing a green shirt.",
+     "distractors": [
+      "has",
+      "pants."
+     ],
+     "explain": "He's wearing + 옷. 순서예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Jones",
+       "text": "This is my daughter, Judy."
+      },
+      {
+       "who": "Olivia",
+       "text": "?"
+      },
+      {
+       "who": "Ms. Jones",
+       "text": "Thanks. I made it."
+      }
+     ],
+     "choices": [
+      "Go straight one block.",
+      "I'm looking for my aunt.",
+      "She's wearing a yellow dress. It's pretty."
+     ],
+     "answer": 2,
+     "explain": "Jones 선생님이 '고마워요. 내가 만들었어요.'라고 했으니 원피스를 칭찬하는 말이 알맞아요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What is she wearing?",
+     "ko": "그녀는 무엇을 입고 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He is wearing a white shirt ___ black pants.",
+     "ko": "그는 흰색 셔츠와 검은색 바지를 입고 있어요.",
+     "choices": [
+      "or",
+      "but",
+      "and"
+     ],
+     "answer": 2,
+     "explain": "두 가지 옷을 이어 말할 때 and를 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's wearing red ___.",
+     "ko": "그녀는 빨간색 안경을 쓰고 있어요.",
+     "choices": [
+      "dress",
+      "hair",
+      "glasses"
+     ],
+     "answer": 2,
+     "explain": "안경은 glasses예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She has short gray hair. She's wearing white pants.",
+     "choices": [
+      "그녀는 머리가 짧고 회색이며 흰색 바지를 입고 있어요.",
+      "그녀는 머리가 길고 회색이며 흰색 바지를 입고 있어요.",
+      "그녀는 머리가 짧고 흰색이며 회색 바지를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "short gray hair(짧은 회색 머리), white pants(흰색 바지)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't worry. We'll help you.",
+     "choices": [
+      "미안해. 나는 갈 수 없어.",
+      "걱정하지 마. 우리가 도와줄게.",
+      "잘했어. 축하해."
+     ],
+     "answer": 1,
+     "explain": "Don't worry.는 '걱정하지 마.', help는 '돕다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그 여자아이는 검은색 안경을 썼지만 Amy의 사촌은 안경을 쓰지 않아요. Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Is she your cousin?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, she is. She's playing in the sand.",
+      "No, she isn't. She's wearing black glasses.",
+      "Of course. I can't wait!"
+     ],
+     "answer": 1,
+     "explain": "Amy의 사촌은 안경을 쓰지 않았으니 '아니야.'라고 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 눈동자가 갈색이에요. 그녀는 빨간색 원피스를 입고 있어요.",
+     "answer": "She has brown eyes. She's wearing a red dress.",
+     "distractors": [
+      "is",
+      "pants."
+     ],
+     "explain": "외모는 has, 옷차림은 is wearing으로 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He has brown eyes. He's wearing red glasses.",
+     "answer": "He has brown eyes. He's wearing red glasses.",
+     "distractors": [
+      "She",
+      "shirt."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Amy: I'm looking for my cousin, Sarah. She has green eyes and short brown hair. She's wearing a yellow shirt and blue pants.",
+     "question": "Sarah가 입고 있는 바지의 색은?",
+     "choices": [
+      "파란색",
+      "노란색",
+      "초록색"
+     ],
+     "answer": 0,
+     "explain": "'blue pants' — 파란색 바지를 입고 있어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "What are you doing?",
+       "너는 무엇을 하고 있니?"
+      ],
+      [
+       "I'm looking for my cousin.",
+       "나는 사촌을 찾고 있어."
+      ],
+      [
+       "There she is.",
+       "저기 있다."
+      ],
+      [
+       "I made it.",
+       "내가 그것을 만들었어."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "He has short black hair. He's wearing a white shirt.",
+     "ko": "그는 머리가 짧고 검은색이에요. 그는 흰색 셔츠를 입고 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "원피스",
+     "answers": [
+      "dress"
+     ],
+     "hint": "d r _ _ s"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 파란색 안경을 쓰고 있어요.",
+     "answers": [
+      "He's wearing blue glasses.",
+      "He is wearing blue glasses."
+     ],
+     "hint": "He's w _ _ _ _ _ _ blue glasses."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 눈동자가 파란색이고 머리가 짧고 갈색이에요. 그녀는 분홍색 원피스를 입고 있어요.",
+     "answer": "She has blue eyes and short brown hair. She's wearing a pink dress.",
+     "distractors": [
+      "long",
+      "shirt."
+     ],
+     "explain": "외모(has) 문장 다음에 옷차림(is wearing) 문장을 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Lost Child!\nPlease help me find my son, Leo. He has brown eyes and short black hair. He's wearing a red shirt and green pants. He's wearing blue glasses, too.",
+     "question": "Leo가 쓰고 있는 안경의 색은?",
+     "choices": [
+      "빨간색",
+      "파란색",
+      "초록색"
+     ],
+     "answer": 1,
+     "explain": "'He's wearing blue glasses, too.' — 파란색 안경이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Lost Child!\nPlease help me find my son, Leo. He has brown eyes and short black hair. He's wearing a red shirt and green pants. He's wearing blue glasses, too.",
+     "question": "Leo에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "초록색 셔츠를 입고 있다.",
+      "머리가 짧고 검은색이다.",
+      "눈동자가 파란색이다."
+     ],
+     "answer": 1,
+     "explain": "short black hair — 짧고 검은 머리예요. 셔츠는 빨간색, 눈동자는 갈색이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여동생은 분홍색 원피스를 입고 있어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "text": "Can I help you?"
+      },
+      {
+       "who": "Boy",
+       "text": "I'm looking for my sister."
+      },
+      {
+       "who": "Clerk",
+       "text": "What is she wearing?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's wearing a pink shirt.",
+      "She's wearing a pink dress.",
+      "She has pink eyes."
+     ],
+     "answer": 1,
+     "explain": "여동생은 분홍색 원피스(a pink dress)를 입고 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She has long brown hair. She's wearing green glasses.",
+     "answer": "She has long brown hair. She's wearing green glasses.",
+     "distractors": [
+      "short",
+      "He"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "나리가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Jesse",
+       "text": "I'm looking for my aunt."
+      },
+      {
+       "who": "나리",
+       "text": "What does she look like?"
+      },
+      {
+       "who": "Jesse",
+       "text": "She has blue eyes and short brown hair."
+      },
+      {
+       "who": "나리",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What time is it?",
+      "Look! Is she your aunt?",
+      "You're welcome."
+     ],
+     "answer": 1,
+     "explain": "설명을 듣고 이모를 찾았는지 물어보는 말이 자연스러워요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 무엇을 입고 있니?",
+     "answers": [
+      "What is he wearing?",
+      "What's he wearing?"
+     ],
+     "hint": "What is he w _ _ _ _ _ _?"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look over there! She's playing in the sand.",
+     "ko": "저기 봐! 그녀는 모래에서 놀고 있어."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "인물의 외모를 묻고 답하는 문장, 옷차림을 묘사하는 문장 읽고 쓰기",
+   "objectives": [
+    "인물의 외모를 묻고 답하는 문장, 옷차림을 묘사하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 외모를 묻고 답하는 문장, 옷차림을 묘사하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 82~83쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화하며 복습하기, 그림을 보며 'He has brown eyes and short brown hair.' 문장 만들기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "여왕과 마법 거울의 말풍선을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 단어나 어구를 골라 문장 완성하기, 스스로 다지기(어구와 문장 읽고 쓰기)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "원판의 그림을 보고 어구를 완성한 뒤, 종이 집게를 돌려 멈춘 칸의 외모·옷차림을 말하며 그림 완성하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 문장과 어구 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What does he look like?",
+    "He has blue eyes.",
+    "He is wearing a white shirt and blue pants."
+   ],
+   "tip": "eyes, glasses, pants처럼 항상 두 개(한 쌍)인 것은 끝에 -s를 붙여 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 외모를 묻고 답하는 문장, 옷차림을 묘사하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "brown eyes",
+       "갈색 눈동자"
+      ],
+      [
+       "long black hair",
+       "길고 검은 머리"
+      ],
+      [
+       "red glasses",
+       "빨간색 안경"
+      ],
+      [
+       "a yellow dress",
+       "노란색 원피스"
+      ],
+      [
+       "a white shirt and green pants",
+       "흰색 셔츠와 초록색 바지"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "문장을 바르게 쓴 것은?",
+     "choices": [
+      "she has short black hair.",
+      "She has black short hair.",
+      "She has short black hair."
+     ],
+     "answer": 2,
+     "explain": "문장 첫 글자는 대문자로 쓰고, 머리는 '길이 → 색깔' 순서(short black hair)로 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'He is wearing a white shirt and blue pants.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그는 흰색 셔츠와 파란색 바지를 입고 있어요.",
+      "그는 파란색 셔츠와 흰색 바지를 입고 있어요.",
+      "그는 흰색 셔츠와 파란색 원피스를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "white shirt(흰색 셔츠), blue pants(파란색 바지)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She has short black hair.",
+     "choices": [
+      "그녀는 머리가 짧고 검은색이에요.",
+      "그녀는 머리가 길고 검은색이에요.",
+      "그녀는 검은색 셔츠를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "short black hair — 짧고 검은 머리예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He is wearing a green shirt and blue pants.",
+     "choices": [
+      "그는 파란색 셔츠와 초록색 바지를 입고 있어요.",
+      "그는 초록색 원피스를 입고 있어요.",
+      "그는 초록색 셔츠와 파란색 바지를 입고 있어요."
+     ],
+     "answer": 2,
+     "explain": "green shirt(초록색 셔츠), blue pants(파란색 바지)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He has blue ___.",
+     "ko": "그는 눈동자가 파란색이에요.",
+     "choices": [
+      "hair",
+      "glasses",
+      "eyes"
+     ],
+     "answer": 2,
+     "explain": "눈동자는 eyes예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She is wearing a yellow ___.",
+     "ko": "그녀는 노란색 원피스를 입고 있어요.",
+     "choices": [
+      "hair",
+      "dress",
+      "eyes"
+     ],
+     "answer": 1,
+     "explain": "원피스는 dress예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그는 눈동자가 파란색이에요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "W",
+       "text": "What does he look like?"
+      },
+      {
+       "who": "M",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He has blue eyes.",
+      "He is blue eyes.",
+      "He has blue hair."
+     ],
+     "answer": 0,
+     "explain": "외모는 'He has + 색깔 + eyes.'로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 머리가 길고 갈색이에요.",
+     "answer": "She has long brown hair.",
+     "distractors": [
+      "is",
+      "short"
+     ],
+     "explain": "She has + 길이 + 색깔 + hair. 순서예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Mr. Kim.\nHe has brown eyes.\nHe is wearing blue glasses.",
+     "question": "Mr. Kim이 쓰고 있는 안경의 색은?",
+     "choices": [
+      "파란색",
+      "갈색",
+      "검은색"
+     ],
+     "answer": 0,
+     "explain": "'He is wearing blue glasses.'"
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 '옷차림'을 묘사하는 문장은?",
+     "choices": [
+      "She has brown eyes.",
+      "She has long hair.",
+      "She is wearing a red dress."
+     ],
+     "answer": 2,
+     "explain": "is wearing으로 입고 있는 옷을 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She has long brown hair. She is wearing a yellow shirt.",
+     "ko": "그녀는 머리가 길고 갈색이에요. 그녀는 노란색 셔츠를 입고 있어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He has brown eyes ___ short brown hair.",
+     "ko": "그는 눈동자가 갈색이고 머리가 짧고 갈색이에요.",
+     "choices": [
+      "and",
+      "or",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "두 가지 특징을 and로 이어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She ___ wearing a pink dress.",
+     "ko": "그녀는 분홍색 원피스를 입고 있어요.",
+     "choices": [
+      "has",
+      "does",
+      "is"
+     ],
+     "answer": 2,
+     "explain": "'입고 있다'는 is wearing이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 흰색 셔츠와 파란색 바지를 입고 있어요.",
+     "answer": "He is wearing a white shirt and blue pants.",
+     "distractors": [
+      "has",
+      "dress"
+     ],
+     "explain": "He is wearing a 셔츠 and 바지. 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What does she look like?",
+     "answer": "What does she look like?",
+     "distractors": [
+      "is",
+      "do"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "W: What does he look like?\nM: He has blue eyes. He is wearing a white shirt and blue pants.",
+     "question": "그가 입고 있는 셔츠의 색은?",
+     "choices": [
+      "파란색",
+      "흰색",
+      "초록색"
+     ],
+     "answer": 1,
+     "explain": "'a white shirt' — 흰색 셔츠예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mirror, mirror! Who is she?\nShe has green eyes and long red hair.\nShe is wearing a blue dress.",
+     "question": "그녀의 머리 모양으로 알맞은 것은?",
+     "choices": [
+      "짧고 빨간색",
+      "길고 빨간색",
+      "길고 파란색"
+     ],
+     "answer": 1,
+     "explain": "'long red hair' — 길고 빨간 머리예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He has brown eyes. He is wearing blue glasses.",
+     "choices": [
+      "그는 눈동자가 갈색이고 파란색 안경을 쓰고 있어요.",
+      "그는 눈동자가 파란색이고 갈색 안경을 쓰고 있어요.",
+      "그는 머리가 갈색이고 파란색 셔츠를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "brown eyes(갈색 눈동자), blue glasses(파란색 안경)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그녀는 머리가 짧고 갈색이며 빨간색 안경을 쓰고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What does she look like?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She has short red hair. She is wearing brown glasses.",
+      "She is short. She has brown glasses.",
+      "She has short brown hair. She is wearing red glasses."
+     ],
+     "answer": 2,
+     "explain": "짧고 갈색인 머리(short brown hair), 빨간 안경(red glasses)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'길고 검은 머리'를 바르게 넣은 문장은?",
+     "choices": [
+      "He has black long hair.",
+      "He is long black hair.",
+      "He has long black hair."
+     ],
+     "answer": 2,
+     "explain": "has + 길이 + 색깔 + hair 순서로 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "He has brown eyes. He is wearing a green shirt.",
+     "ko": "그는 눈동자가 갈색이에요. 그는 초록색 셔츠를 입고 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "안경",
+     "answers": [
+      "glasses"
+     ],
+     "hint": "g l _ s s _ s"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "바지",
+     "answers": [
+      "pants"
+     ],
+     "hint": "p _ n t s"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀는 눈동자가 갈색이에요.",
+     "answers": [
+      "She has brown eyes."
+     ],
+     "hint": "She has ____ ____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 노란색 셔츠를 입고 있어요.",
+     "answers": [
+      "He is wearing a yellow shirt.",
+      "He's wearing a yellow shirt."
+     ],
+     "hint": "He is wearing a ____ ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 머리가 짧고 회색이에요. 그녀는 흰색 바지를 입고 있어요.",
+     "answer": "She has short gray hair. She is wearing white pants.",
+     "distractors": [
+      "long",
+      "shirt."
+     ],
+     "explain": "외모 문장(has) 다음에 옷차림 문장(is wearing)을 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Spin the wheel!\n③ long black hair\n⑤ red glasses\n⑧ a white shirt and green pants",
+     "question": "종이 집게가 ⑧에 멈췄을 때 할 말로 알맞은 것은?",
+     "choices": [
+      "He has long black hair.",
+      "She is wearing red glasses.",
+      "He is wearing a white shirt and green pants."
+     ],
+     "answer": 2,
+     "explain": "⑧은 흰색 셔츠와 초록색 바지예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Card\nName: Ken\nEyes: green\nHair: short, red\nClothes: a blue shirt",
+     "question": "카드에 맞는 문장은?",
+     "choices": [
+      "He has red eyes and short green hair.",
+      "He has green eyes and long red hair.",
+      "He has green eyes and short red hair."
+     ],
+     "answer": 2,
+     "explain": "눈동자는 초록색(green eyes), 머리는 짧고 빨간색(short red hair)이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그는 초록색 셔츠와 검은색 바지를 입고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What does he look like?"
+      },
+      {
+       "who": "B",
+       "text": "He has short brown hair."
+      },
+      {
+       "who": "A",
+       "text": "What is he wearing?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He is wearing a black shirt and green pants.",
+      "He has a green shirt and black eyes.",
+      "He is wearing a green shirt and black pants."
+     ],
+     "answer": 2,
+     "explain": "초록색 셔츠(green shirt)와 검은색 바지(black pants)예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She has blue eyes and long yellow hair.",
+     "answer": "She has blue eyes and long yellow hair.",
+     "distractors": [
+      "short",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What does he look like? He has green eyes and short black hair.",
+     "ko": "그는 어떻게 생겼니? 그는 눈동자가 초록색이고 머리가 짧고 검은색이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "인물을 소개하는 글 읽고 이해하기",
+   "objectives": [
+    "인물을 소개하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 84~85쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "원판 그림으로 어구 읽기 복습, 할머니·할아버지의 외모와 잘하시는 것 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "지금 생각나는 사람의 외모를 묘사해 보기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "할머니를 소개하는 글(외모, 안경, 요리와 글쓰기)을 듣고 따라 읽기, 짝과 번갈아 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 표(눈동자, 머리, 안경, 잘하시는 것) 완성하기, 스스로 다지기(삼촌 소개 글 읽고 문장 완성)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "사촌을 소개하는 글을 읽고 문제 풀기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "This is my grandma.",
+    "She has blue eyes and short gray hair.",
+    "She is wearing red glasses.",
+    "She is a good cook."
+   ],
+   "tip": "글을 읽을 때 외모(has), 옷차림(is wearing), 잘하는 것(is a good ...)을 나눠서 찾아봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 인물을 소개하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Meet my grandma! She lives with us. Her eyes are blue, and her hair is short and gray. She wears red glasses. She cooks very well. Her cookies are delicious, and I eat them every day. She also writes funny stories. I read them every night. Grandma is my good friend.",
+     "question": "할머니의 눈동자 색깔은?",
+     "choices": [
+      "파란색",
+      "갈색",
+      "회색"
+     ],
+     "answer": 0,
+     "explain": "'Her eyes are blue' — 눈동자가 파란색이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Meet my grandma! She lives with us. Her eyes are blue, and her hair is short and gray. She wears red glasses. She cooks very well. Her cookies are delicious, and I eat them every day. She also writes funny stories. I read them every night. Grandma is my good friend.",
+     "question": "할머니의 머리 모양은?",
+     "choices": [
+      "길고 회색",
+      "짧고 갈색",
+      "짧고 회색"
+     ],
+     "answer": 2,
+     "explain": "'her hair is short and gray' — 짧고 회색이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Meet my grandma! She lives with us. Her eyes are blue, and her hair is short and gray. She wears red glasses. She cooks very well. Her cookies are delicious, and I eat them every day. She also writes funny stories. I read them every night. Grandma is my good friend.",
+     "question": "할머니가 쓰고 계신 안경의 색깔은?",
+     "choices": [
+      "파란색",
+      "빨간색",
+      "검은색"
+     ],
+     "answer": 1,
+     "explain": "'She wears red glasses.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Meet my grandma! She lives with us. Her eyes are blue, and her hair is short and gray. She wears red glasses. She cooks very well. Her cookies are delicious, and I eat them every day. She also writes funny stories. I read them every night. Grandma is my good friend.",
+     "question": "할머니가 잘하시는 것 두 가지는?",
+     "choices": [
+      "요리하기, 재미있는 이야기 쓰기",
+      "노래하기, 춤추기",
+      "그림 그리기, 운동하기"
+     ],
+     "answer": 0,
+     "explain": "요리를 잘하시고(cooks very well) 재미있는 이야기를 쓰세요(writes funny stories)."
+    },
+    {
+     "type": "mc",
+     "prompt": "'grandma'의 뜻으로 알맞은 것은?",
+     "emoji": "👵",
+     "choices": [
+      "이모",
+      "딸",
+      "사촌",
+      "할머니"
+     ],
+     "answer": 3,
+     "explain": "grandma는 할머니예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'She is a good cook.'에서 'cook'의 뜻은?",
+     "choices": [
+      "작가",
+      "가수",
+      "요리사",
+      "화가"
+     ],
+     "answer": 2,
+     "explain": "cook은 '요리하다', '요리사'라는 뜻이 있어요. a good cook — 훌륭한 요리사"
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "lives with my family",
+       "우리 가족과 함께 살다"
+      ],
+      [
+       "bakes cookies",
+       "과자를 굽다"
+      ],
+      [
+       "writes funny stories",
+       "재미있는 이야기를 쓰다"
+      ],
+      [
+       "my good friend",
+       "나의 좋은 친구"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She is a good writer, too.",
+     "choices": [
+      "그녀는 훌륭한 요리사이기도 해요.",
+      "그녀는 훌륭한 작가이기도 해요.",
+      "그녀는 글을 잘 읽어요."
+     ],
+     "answer": 1,
+     "explain": "writer는 '작가'예요. too는 '또한, ~도'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She ___ delicious cookies.",
+     "ko": "그녀는 맛있는 과자를 구워요.",
+     "choices": [
+      "wears",
+      "has",
+      "bakes"
+     ],
+     "answer": 2,
+     "explain": "과자를 '굽다'는 bake예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who is she?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She is my grandma.",
+      "She has blue eyes.",
+      "She is wearing red glasses."
+     ],
+     "answer": 0,
+     "explain": "'누구니?'라고 물었으니 '나의 할머니야.'라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "She is wearing red glasses.",
+     "choices": [
+      "👓 빨간색 안경을 쓰고 있어요.",
+      "👗 빨간색 원피스를 입고 있어요.",
+      "👕 빨간색 셔츠를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "glasses는 안경이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "This is my grandma. She is my good friend.",
+     "ko": "이분은 나의 할머니예요. 그녀는 나의 좋은 친구예요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my uncle. He has brown eyes and short brown hair. He is wearing a blue shirt. He is a good painter.",
+     "question": "삼촌은 무엇을 잘하나요?",
+     "choices": [
+      "요리하기",
+      "노래하기",
+      "그림 그리기"
+     ],
+     "answer": 2,
+     "explain": "'He is a good painter.' — 훌륭한 화가예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my uncle. He has brown eyes and short brown hair. He is wearing a blue shirt. He is a good painter.",
+     "question": "삼촌이 입고 있는 셔츠의 색은?",
+     "choices": [
+      "갈색",
+      "흰색",
+      "파란색"
+     ],
+     "answer": 2,
+     "explain": "'He is wearing a blue shirt.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my cousin. He has green eyes and short brown hair. He is wearing black glasses. He draws pictures very well.",
+     "question": "사촌의 외모로 알맞은 것은?",
+     "choices": [
+      "갈색 눈동자, 짧은 초록색 머리, 검은색 안경",
+      "초록색 눈동자, 긴 갈색 머리, 빨간색 안경",
+      "초록색 눈동자, 짧은 갈색 머리, 검은색 안경"
+     ],
+     "answer": 2,
+     "explain": "green eyes, short brown hair, black glasses예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "눈동자 색깔: 파란색\n머리 길이/색깔: 짧고 회색\n안경 색깔: 빨간색\n잘하는 것: 과자 굽기",
+     "question": "표의 내용과 맞는 문장은?",
+     "choices": [
+      "She has blue eyes and short gray hair.",
+      "She has gray eyes and short blue hair.",
+      "She is wearing blue glasses."
+     ],
+     "answer": 0,
+     "explain": "눈동자는 파란색(blue eyes), 머리는 짧고 회색(short gray hair)이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She is a good ___. She writes funny stories.",
+     "ko": "그녀는 훌륭한 작가예요. 그녀는 재미있는 이야기를 써요.",
+     "choices": [
+      "writer",
+      "cook",
+      "singer"
+     ],
+     "answer": 0,
+     "explain": "이야기를 쓰는 사람은 writer(작가)예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 우리 가족과 함께 살아요.",
+     "answer": "She lives with my family.",
+     "distractors": [
+      "live",
+      "has"
+     ],
+     "explain": "'~와 함께 살다'는 live with예요. She 다음에는 lives로 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I read her stories every day.",
+     "answer": "I read her stories every day.",
+     "distractors": [
+      "reads",
+      "week."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What can your grandma do well?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She has short gray hair.",
+      "She is wearing red glasses.",
+      "She bakes delicious cookies."
+     ],
+     "answer": 2,
+     "explain": "무엇을 잘하는지 물었으니 잘하는 일로 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I love my grandma. She is my good friend.'에 나타난 글쓴이의 마음은?",
+     "choices": [
+      "할머니를 무서워해요.",
+      "할머니를 잘 몰라요.",
+      "할머니를 사랑하고 친하게 느껴요."
+     ],
+     "answer": 2,
+     "explain": "love(사랑하다), good friend(좋은 친구)라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She has blue eyes and short gray hair.",
+     "ko": "그녀는 눈동자가 파란색이고 머리가 짧고 회색이에요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Aunt Mina\nThis is my aunt. Her name is Mina. She has brown eyes and long black hair. She is wearing a pink dress today. She is a good singer. She sings songs for me every night. I like her songs very much.",
+     "question": "Mina 이모에 대해 글에서 알 수 없는 것은?",
+     "choices": [
+      "머리 모양",
+      "나이",
+      "잘하는 것"
+     ],
+     "answer": 1,
+     "explain": "나이는 글에 나오지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Aunt Mina\nThis is my aunt. Her name is Mina. She has brown eyes and long black hair. She is wearing a pink dress today. She is a good singer. She sings songs for me every night. I like her songs very much.",
+     "question": "이모가 매일 밤 하는 일은?",
+     "choices": [
+      "나에게 과자를 구워 준다.",
+      "나에게 노래를 불러 준다.",
+      "나에게 이야기를 써 준다."
+     ],
+     "answer": 1,
+     "explain": "'She sings songs for me every night.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my grandpa. He has ___ eyes and short white hair. He is wearing a green shirt.\n(할아버지의 눈동자는 갈색이에요.)",
+     "question": "빈칸에 알맞은 말은?",
+     "choices": [
+      "white",
+      "green",
+      "brown"
+     ],
+     "answer": 2,
+     "explain": "갈색 눈동자는 brown eyes예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Two Cousins\nTom has blue eyes and short yellow hair. He is wearing a red shirt.\nJake has brown eyes and short black hair. He is wearing a red shirt, too.",
+     "question": "두 사촌의 같은 점은?",
+     "choices": [
+      "빨간색 셔츠를 입고 있다.",
+      "눈동자가 파란색이다.",
+      "머리가 검은색이다."
+     ],
+     "answer": 0,
+     "explain": "두 사람 모두 'a red shirt'를 입고 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "할머니",
+     "answers": [
+      "grandma",
+      "grandmother"
+     ],
+     "hint": "g r _ n d m _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀는 훌륭한 요리사예요.",
+     "answers": [
+      "She is a good cook.",
+      "She's a good cook."
+     ],
+     "hint": "She is a good ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 그림을 매우 잘 그려요.",
+     "answer": "He draws pictures very well.",
+     "distractors": [
+      "draw",
+      "good"
+     ],
+     "explain": "very well은 '매우 잘'이에요. He 다음에는 draws로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Sora의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Sora",
+       "text": "Who is this?"
+      },
+      {
+       "who": "Ben",
+       "text": "This is my uncle. He is a good painter."
+      },
+      {
+       "who": "Sora",
+       "text": "?"
+      },
+      {
+       "who": "Ben",
+       "text": "He has green eyes and short brown hair."
+      }
+     ],
+     "choices": [
+      "What is he wearing?",
+      "What does he look like?",
+      "Where is he?"
+     ],
+     "answer": 1,
+     "explain": "Ben이 외모(눈동자, 머리)를 말했으니 외모를 묻는 질문이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She is a good writer. She writes funny stories.",
+     "answer": "She is a good writer. She writes funny stories.",
+     "distractors": [
+      "cook.",
+      "write"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My uncle is a good painter. He draws pictures very well.",
+     "ko": "나의 삼촌은 훌륭한 화가예요. 그는 그림을 매우 잘 그려요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "인물을 소개하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 인물을 소개하는 글을 쓸 수 있다.",
+    "인물을 소개하는 글을 발표하며 배운 표현을 활용할 수 있다."
+   ],
+   "pages": "교과서 86~87쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "할머니 소개 글을 모둠별로 번갈아 읽기, 그림 속 인물에 관한 문장의 빈칸 채우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "애니메이션 등장인물(앨리스, 크리스토프, 알라딘, 벨) 그림을 보고 어구와 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "소개하고 싶은 인물의 이름·외모·옷차림·잘하는 것을 정하고 예시문(Min)을 참고하여 인물 소개 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "친구의 글을 함께 읽기, 그림에 맞게 글의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "This is Min.",
+    "He has blue eyes and short brown hair.",
+    "He is wearing green glasses.",
+    "He is a good singer."
+   ],
+   "tip": "외모를 쓸 때는 다른 사람을 놀리는 표현 없이 있는 그대로 존중하며 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 인물을 소개하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "eyes",
+       "눈"
+      ],
+      [
+       "glasses",
+       "안경"
+      ],
+      [
+       "shirt",
+       "셔츠"
+      ],
+      [
+       "pants",
+       "바지"
+      ],
+      [
+       "hair",
+       "머리카락"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "철자가 바른 것은?",
+     "emoji": "👓",
+     "choices": [
+      "glases",
+      "glasess",
+      "grasses",
+      "glasses"
+     ],
+     "answer": 3,
+     "explain": "안경은 g-l-a-s-s-e-s예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말은?",
+     "emoji": "👕",
+     "choices": [
+      "dress",
+      "shirt",
+      "pants",
+      "hair"
+     ],
+     "answer": 1,
+     "explain": "👕는 셔츠(shirt)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "This is Belle. She has long brown ___.",
+     "ko": "이 사람은 Belle이에요. 그녀는 머리가 길고 갈색이에요.",
+     "choices": [
+      "hair",
+      "eyes",
+      "dress"
+     ],
+     "answer": 0,
+     "explain": "머리카락은 hair예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She is ___ a yellow dress.",
+     "ko": "그녀는 노란색 원피스를 입고 있어요.",
+     "choices": [
+      "having",
+      "looking",
+      "wearing"
+     ],
+     "answer": 2,
+     "explain": "'입고 있다'는 is wearing이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "This is Aladdin. He has black hair.",
+     "choices": [
+      "이 사람은 알라딘이에요. 그는 머리가 검은색이에요.",
+      "이 사람은 알라딘이에요. 그는 눈동자가 검은색이에요.",
+      "이 사람은 알라딘이에요. 그는 검은색 셔츠를 입고 있어요."
+     ],
+     "answer": 0,
+     "explain": "black hair는 검은 머리예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He is a good singer.",
+     "choices": [
+      "그는 훌륭한 화가예요.",
+      "그는 노래를 좋아해요.",
+      "그는 훌륭한 가수예요."
+     ],
+     "answer": 2,
+     "explain": "singer는 '가수'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Min. He has blue eyes and short brown hair. He is wearing green glasses. He is a good singer.",
+     "question": "Min이 잘하는 것은?",
+     "choices": [
+      "춤추기",
+      "요리하기",
+      "노래하기"
+     ],
+     "answer": 2,
+     "explain": "'He is a good singer.' — 훌륭한 가수예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Min. He has blue eyes and short brown hair. He is wearing green glasses. He is a good singer.",
+     "question": "Min이 쓰고 있는 안경의 색은?",
+     "choices": [
+      "초록색",
+      "파란색",
+      "갈색"
+     ],
+     "answer": 0,
+     "explain": "'He is wearing green glasses.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who is he?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He is my cousin, Jin.",
+      "He is wearing a cap.",
+      "He has black hair."
+     ],
+     "answer": 0,
+     "explain": "'누구니?'라고 물었으니 누구인지 알려 줘요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이 사람은 Kate예요.",
+     "answer": "This is Kate.",
+     "distractors": [
+      "He",
+      "are"
+     ],
+     "explain": "사람을 소개할 때 'This is ○○.'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "This is Min. He is a good singer.",
+     "ko": "이 사람은 Min이에요. 그는 훌륭한 가수예요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "This is Jenny. She has blue ___ and long brown hair.",
+     "ko": "그녀는 눈동자가 파란색이고 머리가 길고 갈색이에요.",
+     "choices": [
+      "eyes",
+      "glasses",
+      "dress"
+     ],
+     "answer": 0,
+     "explain": "눈동자는 eyes예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She is wearing ___.",
+     "ko": "그녀는 빨간색 안경을 쓰고 있어요.",
+     "choices": [
+      "red glasses",
+      "a green shirt",
+      "long hair"
+     ],
+     "answer": 0,
+     "explain": "빨간색 안경은 red glasses예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Kate. She has brown eyes and long red hair. She is wearing blue glasses. She is a good dancer.",
+     "question": "Kate의 머리 모양은?",
+     "choices": [
+      "짧고 빨간색",
+      "길고 갈색",
+      "길고 빨간색"
+     ],
+     "answer": 2,
+     "explain": "'long red hair' — 길고 빨간 머리예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Kate. She has brown eyes and long red hair. She is wearing blue glasses. She is a good dancer.",
+     "question": "Kate가 잘하는 것은?",
+     "choices": [
+      "노래하기",
+      "춤추기",
+      "그림 그리기"
+     ],
+     "answer": 1,
+     "explain": "'She is a good dancer.' — 훌륭한 무용수예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 훌륭한 무용수예요.",
+     "answer": "She is a good dancer.",
+     "distractors": [
+      "He",
+      "dance"
+     ],
+     "explain": "a good + 직업 — 훌륭한 ~예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 초록색 셔츠와 검은색 바지를 입고 있어요.",
+     "answer": "He is wearing a green shirt and black pants.",
+     "distractors": [
+      "has",
+      "dress"
+     ],
+     "explain": "is wearing a 셔츠 and 바지. 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "This is Belle. She has long brown hair.",
+     "answer": "This is Belle. She has long brown hair.",
+     "distractors": [
+      "short",
+      "He"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "인물을 소개하는 글을 쓰는 순서로 알맞은 것은?",
+     "choices": [
+      "잘하는 것 → 이름 → 옷차림 → 외모",
+      "옷차림 → 이름 → 잘하는 것 → 외모",
+      "이름 → 외모 → 옷차림 → 잘하는 것"
+     ],
+     "answer": 2,
+     "explain": "This is ○○. → He/She has ... → He/She is wearing ... → He/She is a good ... 순서로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kristoff는 빨간색 안경을 쓰고 초록색 셔츠를 입고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What does Kristoff look like?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He has red eyes and a green shirt.",
+      "He is wearing green glasses and a red shirt.",
+      "He is wearing red glasses and a green shirt."
+     ],
+     "answer": 2,
+     "explain": "빨간색 안경(red glasses), 초록색 셔츠(green shirt)예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She has brown eyes and long red hair.",
+     "ko": "그녀는 눈동자가 갈색이고 머리가 길고 빨간색이에요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "셔츠",
+     "answers": [
+      "shirt"
+     ],
+     "hint": "s h _ r t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 훌륭한 축구 선수예요.",
+     "answers": [
+      "He is a good soccer player.",
+      "He's a good soccer player."
+     ],
+     "hint": "He is a good ______ ______."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "이 사람은 Alice예요. 그녀는 눈동자가 파란색이에요.",
+     "answers": [
+      "This is Alice. She has blue eyes."
+     ],
+     "hint": "This is ____. She has ____ ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이 사람은 Jin이에요. 그는 눈동자가 파란색이고 머리가 짧고 갈색이에요.",
+     "answer": "This is Jin. He has blue eyes and short brown hair.",
+     "distractors": [
+      "She",
+      "long"
+     ],
+     "explain": "소개(This is ...) 다음에 외모(He has ...)를 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is Sena. She has green eyes and short yellow hair. ___ She is a good painter.",
+     "question": "Sena는 분홍색 원피스를 입고 있어요. 빈칸에 알맞은 문장은?",
+     "choices": [
+      "She has a pink dress eyes.",
+      "She is pink dress.",
+      "She is wearing a pink dress."
+     ],
+     "answer": 2,
+     "explain": "옷차림은 'She is wearing + 옷.'으로 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "메모\n이름: Leo / 눈동자: 갈색 / 머리: 길고 검은색 / 안경: 노란색 / 잘하는 것: 요리",
+     "question": "메모를 보고 쓴 글로 알맞은 것은?",
+     "choices": [
+      "This is Leo. He has black eyes and long brown hair. He is wearing yellow glasses. He is a good cook.",
+      "This is Leo. He has brown eyes and short black hair. He is wearing yellow glasses. He is a good singer.",
+      "This is Leo. He has brown eyes and long black hair. He is wearing yellow glasses. He is a good cook."
+     ],
+     "answer": 2,
+     "explain": "눈동자 갈색(brown eyes), 길고 검은 머리(long black hair), 노란 안경, 요리사(cook)를 모두 확인해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who is your favorite star?"
+      },
+      {
+       "who": "B",
+       "text": "I like Mia. She is a good singer."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "She has blue eyes and long yellow hair."
+      }
+     ],
+     "choices": [
+      "What is she doing?",
+      "What does she look like?",
+      "Where is she from?"
+     ],
+     "answer": 1,
+     "explain": "B가 외모를 말했으니 외모를 묻는 질문이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She is wearing blue glasses. She is a good painter.",
+     "answer": "She is wearing blue glasses. She is a good painter.",
+     "distractors": [
+      "has",
+      "paint"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 노란색 원피스를 입고 있어요. 그녀는 훌륭한 요리사예요.",
+     "answer": "She is wearing a yellow dress. She is a good cook.",
+     "distractors": [
+      "has",
+      "cooks"
+     ],
+     "explain": "옷차림 문장 다음에 잘하는 것을 소개해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "This is Jenny. She has blue eyes and long brown hair. She is wearing red glasses.",
+     "ko": "이 사람은 Jenny예요. 그녀는 눈동자가 파란색이고 머리가 길고 갈색이에요. 그녀는 빨간색 안경을 쓰고 있어요."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 88~89쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Ready to Write 문장을 읽고 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "생김새가 모두 다르지만 모두 아름답다는 시를 읽고 외모·옷차림 어구에 밑줄 긋기, 모둠 친구들의 이름·외모·옷차림으로 시를 바꿔 쓰고 낭송하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 들은 순서대로 번호 쓰기, 외모·옷차림 묻고 답하기, 삼촌 소개 글 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What does he look like?",
+    "He has green eyes and short yellow hair.",
+    "She's wearing a pink dress.",
+    "All are beautiful."
+   ],
+   "tip": "생김새는 모두 달라요. 친구의 외모를 묘사할 때는 존중하는 마음으로 말해요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "same",
+       "같은"
+      ],
+      [
+       "short",
+       "키가 작은, 짧은"
+      ],
+      [
+       "tall",
+       "키가 큰"
+      ],
+      [
+       "beautiful",
+       "아름다운"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Everybody doesn't look the same.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "모든 사람이 똑같이 생겼어요.",
+      "모든 사람이 똑같이 생기지는 않았어요.",
+      "모든 사람이 키가 커요."
+     ],
+     "answer": 1,
+     "explain": "the same은 '같은'이에요. 모든 사람의 생김새가 같지는 않다는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말은?",
+     "emoji": "👓",
+     "choices": [
+      "pants",
+      "dress",
+      "shirt",
+      "glasses"
+     ],
+     "answer": 3,
+     "explain": "👓는 안경(glasses)이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He has brown eyes and short brown hair.",
+     "choices": [
+      "그는 눈동자가 갈색이고 머리가 길고 갈색이에요.",
+      "그는 눈동자가 파란색이고 머리가 짧고 갈색이에요.",
+      "그는 눈동자가 갈색이고 머리가 짧고 갈색이에요."
+     ],
+     "answer": 2,
+     "explain": "brown eyes, short brown hair를 잘 들어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm looking for my aunt.",
+     "choices": [
+      "나는 이모와 놀고 있어요.",
+      "나는 이모를 찾고 있어요.",
+      "나는 이모를 보고 있어요."
+     ],
+     "answer": 1,
+     "explain": "look for는 '~을 찾다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "M",
+       "text": "I have a daughter."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      },
+      {
+       "who": "M",
+       "text": "She has blue eyes and long black hair."
+      }
+     ],
+     "choices": [
+      "What is she doing?",
+      "What does she look like?",
+      "Where is she?"
+     ],
+     "answer": 1,
+     "explain": "아빠가 딸의 외모를 말했으니 외모를 묻는 질문이 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "이모는 노란색 안경을 쓰고 있어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "I can help you. What is she wearing?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's wearing yellow glasses.",
+      "She has yellow eyes.",
+      "I'm looking for my aunt."
+     ],
+     "answer": 0,
+     "explain": "무엇을 입고(쓰고) 있는지 물었으니 노란색 안경을 쓰고 있다고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Some are tall. Some are ___.",
+     "ko": "몇몇은 키가 커요. 몇몇은 키가 작아요.",
+     "choices": [
+      "long",
+      "same",
+      "short"
+     ],
+     "answer": 2,
+     "explain": "키가 '작은'은 short예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "All are good. All are ___.",
+     "ko": "모두 좋아요. 모두 아름다워요.",
+     "choices": [
+      "hungry",
+      "beautiful",
+      "same"
+     ],
+     "answer": 1,
+     "explain": "'아름다운'은 beautiful이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina has green eyes. Ben has brown eyes.\nSue has short hair. Max has long hair.\nWe all look different!",
+     "question": "머리가 긴 사람은 누구인가요?",
+     "choices": [
+      "Max",
+      "Sue",
+      "Mina"
+     ],
+     "answer": 0,
+     "explain": "'Max has long hair.'"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 파란색 셔츠를 입고 있어요.",
+     "answer": "I'm wearing a blue shirt.",
+     "distractors": [
+      "has",
+      "pants."
+     ],
+     "explain": "나를 말할 때는 I'm wearing ...이라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Everybody doesn't look the same.",
+     "ko": "모든 사람이 똑같이 생기지는 않았어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my uncle, Brad. He has green eyes and long brown hair. He is wearing yellow glasses. He plays soccer very well. Every Sunday, I play soccer with him.",
+     "question": "일요일마다 나는 삼촌과 무엇을 하나요?",
+     "choices": [
+      "축구",
+      "요리",
+      "농구"
+     ],
+     "answer": 0,
+     "explain": "'Every Sunday, I play soccer with him.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my uncle, Brad. He has green eyes and long brown hair. He is wearing yellow glasses. He plays soccer very well. Every Sunday, I play soccer with him.",
+     "question": "Brad 삼촌의 모습으로 알맞은 것은?",
+     "choices": [
+      "갈색 눈동자, 긴 초록색 머리, 노란색 안경",
+      "초록색 눈동자, 긴 갈색 머리, 노란색 안경",
+      "초록색 눈동자, 짧은 갈색 머리, 검은색 안경"
+     ],
+     "answer": 1,
+     "explain": "green eyes, long brown hair, yellow glasses예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have brown eyes ___ long black hair.",
+     "ko": "나는 눈동자가 갈색이고 머리가 길고 검은색이에요.",
+     "choices": [
+      "but",
+      "or",
+      "and"
+     ],
+     "answer": 2,
+     "explain": "두 특징을 and로 이어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 눈동자가 갈색이고 머리가 길고 검은색이에요.",
+     "answer": "I have brown eyes and long black hair.",
+     "distractors": [
+      "has",
+      "short"
+     ],
+     "explain": "나에 대해 말할 때는 I have ...예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's me. I love all of me!",
+     "answer": "It's me. I love all of me!",
+     "distractors": [
+      "my",
+      "you"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "그는 눈동자가 초록색이고 머리가 짧고 노란색이에요. G의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "What does he look like?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He has yellow eyes and short green hair.",
+      "He has green eyes and long yellow hair.",
+      "He has green eyes and short yellow hair."
+     ],
+     "answer": 2,
+     "explain": "초록 눈동자(green eyes), 짧고 노란 머리(short yellow hair)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그녀는 머리가 길고 갈색이며 분홍색 원피스를 입고 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "What does she look like?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She has short brown hair. She's wearing a pink dress.",
+      "She has long brown hair. She's wearing a pink dress.",
+      "She has long pink hair. She's wearing a brown dress."
+     ],
+     "answer": 1,
+     "explain": "길고 갈색인 머리, 분홍색 원피스예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "(wearing / yellow / He / glasses. / is)를 바르게 배열한 문장은?",
+     "choices": [
+      "He is wearing yellow glasses.",
+      "He wearing is yellow glasses.",
+      "Yellow glasses is he wearing."
+     ],
+     "answer": 0,
+     "explain": "He is wearing + 옷(안경). 순서예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "I have a new friend.",
+       "나는 새 친구가 있어."
+      ],
+      [
+       "I can help you.",
+       "내가 도와줄 수 있어."
+      ],
+      [
+       "Is she your cousin?",
+       "그 애가 네 사촌이니?"
+      ],
+      [
+       "That's cool.",
+       "멋지다."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I have brown eyes and long black hair. I'm wearing green glasses.",
+     "ko": "나는 눈동자가 갈색이고 머리가 길고 검은색이에요. 나는 초록색 안경을 쓰고 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "같은",
+     "answers": [
+      "same"
+     ],
+     "hint": "s _ m e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 머리가 짧고 검은색이에요.",
+     "answers": [
+      "I have short black hair."
+     ],
+     "hint": "I have ____ ____ hair."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "모두 좋아요.",
+     "answers": [
+      "All are good."
+     ],
+     "hint": "All ___ ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 모두 달라요. 우리는 모두 아름다워요.",
+     "answer": "We are all different. We are all beautiful.",
+     "distractors": [
+      "same",
+      "is"
+     ],
+     "explain": "different는 '다른', beautiful은 '아름다운'이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We Are Different\nSome friends are tall. Some friends are short.\nJisu has brown eyes. Tom has blue eyes.\nI have long black hair. I'm wearing red glasses.\nWe all look different. We are all beautiful!",
+     "question": "'I'에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "눈동자가 파란색이다.",
+      "머리가 길고 검은색이며 빨간색 안경을 썼다.",
+      "머리가 짧고 갈색이다."
+     ],
+     "answer": 1,
+     "explain": "'I have long black hair. I'm wearing red glasses.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We Are Different\nSome friends are tall. Some friends are short.\nJisu has brown eyes. Tom has blue eyes.\nI have long black hair. I'm wearing red glasses.\nWe all look different. We are all beautiful!",
+     "question": "이 시가 전하고 싶은 말로 알맞은 것은?",
+     "choices": [
+      "생김새가 달라도 모두 아름다워요.",
+      "키가 큰 사람이 아름다워요.",
+      "눈동자가 파란 사람이 아름다워요."
+     ],
+     "answer": 0,
+     "explain": "'We all look different. We are all beautiful!'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: What does she look like?\nB: She has long brown hair. She's wearing a pink dress.\nA: Oh, I see her. She's playing with a ball.",
+     "question": "B가 말한 사람의 옷차림은?",
+     "choices": [
+      "분홍색 원피스",
+      "갈색 원피스",
+      "분홍색 셔츠"
+     ],
+     "answer": 0,
+     "explain": "'She's wearing a pink dress.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "text": "Can I help you?"
+      },
+      {
+       "who": "Mom",
+       "text": "I'm looking for my son. He has short black hair."
+      },
+      {
+       "who": "Clerk",
+       "text": "?"
+      },
+      {
+       "who": "Mom",
+       "text": "He's wearing a blue shirt and white pants."
+      }
+     ],
+     "choices": [
+      "When is his birthday?",
+      "Where is he from?",
+      "What is he wearing?"
+     ],
+     "answer": 2,
+     "explain": "엄마가 아들의 옷차림을 말했으니 옷차림을 묻는 질문이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Some are tall. Some are short.",
+     "answer": "Some are tall. Some are short.",
+     "distractors": [
+      "long.",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "This is my uncle, Brad. He has green eyes and long brown hair.",
+     "ko": "이분은 나의 삼촌 Brad예요. 그는 눈동자가 초록색이고 머리가 길고 갈색이에요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "운동장에서 우주와 Linh이 Sally에게 프랑스에서 온 새 친구 Paul의 외모를 알려 줘요.",
+   "lines": [
+    {
+     "who": "Linh",
+     "text": "He's from France. His name is Paul."
+    },
+    {
+     "who": "Sally",
+     "text": "Really? What does he look like?"
+    },
+    {
+     "who": "우주",
+     "text": "He has long brown hair."
+    },
+    {
+     "who": "Sally",
+     "text": "Oh, I see him. He has blue eyes."
+    },
+    {
+     "who": "Linh",
+     "text": "Yes, he does. He's very tall."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "놀이터에서 사촌 Sarah를 찾는 Amy를 우주와 Tom이 도와줘요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "I'm looking for my cousin, Sarah."
+    },
+    {
+     "who": "우주",
+     "text": "Don't worry. We'll help you."
+    },
+    {
+     "who": "Tom",
+     "text": "What does she look like?"
+    },
+    {
+     "who": "Amy",
+     "text": "She has green eyes and short brown hair."
+    },
+    {
+     "who": "우주",
+     "text": "What is she wearing?"
+    },
+    {
+     "who": "Amy",
+     "text": "She's wearing a yellow shirt and blue pants."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Jesse가 나리에게 찾고 있는 이모의 외모를 말하고, Jones 선생님이 딸 Judy의 사진을 Olivia에게 보여 줘요.",
+   "lines": [
+    {
+     "who": "Jesse",
+     "text": "I'm looking for my aunt."
+    },
+    {
+     "who": "나리",
+     "text": "What does she look like?"
+    },
+    {
+     "who": "Jesse",
+     "text": "She has blue eyes and short brown hair."
+    },
+    {
+     "who": "Jones 선생님",
+     "text": "This is my daughter, Judy."
+    },
+    {
+     "who": "Olivia",
+     "text": "She's wearing a yellow dress. It's pretty."
+    },
+    {
+     "who": "Jones 선생님",
+     "text": "Thanks. I made it."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "할머니를 소개하는 글 (My Grandma)",
+  "passage": "Let me introduce my grandma. She lives in our house. She has blue eyes and short gray hair, and she always wears red glasses. Grandma is a great cook. Her cookies taste so good that I eat some every day. She is also a writer of funny stories, and I read them every night. I love her, and she is my good friend.",
+  "summaryKo": "파란 눈동자에 짧은 회색 머리, 빨간 안경을 쓴 할머니는 과자를 잘 굽고 재미있는 이야기도 쓰시는 나의 좋은 친구예요."
+ },
+ "writing": {
+  "frame": [
+   "This is ____.",
+   "He / She has ____ eyes and ____ hair.",
+   "He / She is wearing ____.",
+   "He / She is a good ____."
+  ],
+  "model": "This is Leo. He has green eyes and short black hair. He is wearing a red shirt. He is a good soccer player."
+ },
+ "project": "생김새는 모두 다르지만 모두 아름답다는 내용의 시를 감상하며 외모·옷차림 어구에 밑줄을 긋고, 모둠 친구들의 이름과 외모, 옷차림을 넣어 시를 바꿔 쓴 뒤 모둠별로 낭송한다.",
+ "special": {
+  "no": 6,
+  "kind": "Into the Art",
+  "title": "고흐와 고갱이 주고받은 자화상",
+  "summaryKo": "테오 반고흐가 형 빈센트에게 화가 폴 고갱을 소개해요. 고갱이 어떻게 생겼는지, 무엇을 입고 있는지 묻고 답하며 고갱을 찾은 뒤, 두 화가는 서로의 자화상을 선물로 주고받아요.",
+  "facts": [
+   "네덜란드에 살던 빈센트 반고흐는 1886년 그림을 사고파는 일을 하던 동생 테오를 찾아 파리로 왔고, 그해 폴 고갱을 만났어요.",
+   "고흐는 프랑스 남부의 아를로 떠나면서 고갱을 초대했고, 고갱을 기다리며 〈해바라기〉를 그렸어요.",
+   "두 사람은 아를에서 함께 지냈지만 성격과 그림에 대한 생각이 달라 9주 만에 공동생활이 끝났어요.",
+   "자화상은 화가가 자기 자신의 모습을 그린 그림이에요."
+  ],
+  "expressions": [
+   "Do you know Paul Gauguin? — No, I don't.",
+   "What does he look like? — He has brown eyes and brown hair.",
+   "What is he wearing? — He's wearing a black jacket.",
+   "This is for you, Vincent. — Thanks. This is for you, too."
+  ],
+  "exercises": []
+ }
+}

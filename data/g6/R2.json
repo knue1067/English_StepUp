@@ -1,0 +1,591 @@
+{
+ "id": "R2",
+ "title": "Review 2",
+ "grade": 6,
+ "semester": 2,
+ "covers": [
+  "L07",
+  "L08",
+  "L09",
+  "L10",
+  "L11",
+  "L12"
+ ],
+ "emoji": "🚀",
+ "pages": "교과서 177~178쪽",
+ "summaryKo": "7~12단원에서 배운 초대하고 답하기·약속 정하기(L07), 비교하기·부인하기(L08), 계획 묻고 답하기·동의하기(L09), 빈도 묻고 답하기·칭찬하기(L10), 알고 있는지 묻고 답하기·모름 표현하기(L11), 과거에 한 일 묻고 답하기·묘사하기(L12)를 그림 장면, 말판 놀이, 어구 만들기 놀이로 복습해요.",
+ "keyExpressions": [
+  "Can you come to the movie festival? — Of course. / Sorry, but I can't.",
+  "Come to the sports park at 10.",
+  "It's taller than the tree. / That's not right.",
+  "What are you going to do this weekend? — I'm going to stay home. / That's a good idea.",
+  "How often do you eat vegetables? — Once a day. / Good for you.",
+  "Do you know anything about Tuho? — Yes, I do. It's a Korean game. / I have no idea.",
+  "Did you paint the wall? — Yes, I did. / No, I didn't. Hana won the quiz."
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Review 2 (1)",
+   "pages": "교과서 177쪽",
+   "objectives": [
+    "‘Review 2’를 하며 7단원부터 12단원까지 배운 내용을 복습할 수 있다."
+   ],
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Objectives",
+     "desc": "인사하고 7~12단원 복습 활동 안내하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "그림에 알맞은 단어나 어구 고르기",
+     "desc": "그림 속 장면을 보고 상자 안의 단어·어구(movie festival, taller, go camping, brush your teeth, Australian toy, painted the wall 등 14개)를 골라 번호 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "장면 골라 문장·대화 만들기",
+     "desc": "짝과 함께 ①~⑭번 장면 중 하나를 골라 배운 표현으로 문장이나 대화를 만들어 발표하고 예시 대화 따라 말하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Closing",
+     "desc": "다음 시간 놀이 활동 안내하기",
+     "min": 5
+    }
+   ],
+   "activities": [
+    "그림에 알맞은 단어나 어구를 골라 번호 쓰기 (14개 장면)",
+    "짝과 함께 장면을 골라 문장이나 대화를 만들어 발표하기 (예: Can you come to the movie festival? — Of course. / The boy is taller than his sister. / I brush my teeth three times a day.)"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Review 2 (2)",
+   "pages": "교과서 178쪽",
+   "objectives": [
+    "‘Review 2’를 하며 7단원부터 12단원까지 배운 내용을 복습할 수 있다.",
+    "규칙을 지키고 친구들을 배려하며 사이좋게 놀이에 참여할 수 있다."
+   ],
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Objectives",
+     "desc": "인사하고 놀이로 복습한다고 안내하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "우주여행 말판 놀이",
+     "desc": "말판의 과제(물음에 답하기, 대화 완성하기, 초대하는 말 하기, 비교하는 말 하기, 단어 배열하기 등)를 확인하고, 동전을 던져 말을 옮기며 과제를 해결하고 행성 색칠하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "어구 빨리 만들기 놀이",
+     "desc": "활동지의 단어 조각을 이어 birthday party, laser show, drink water, African drums, won the quiz 같은 어구를 모둠원과 협력하여 빨리 많이 만들기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Closing",
+     "desc": "활동 정리 및 방학 인사",
+     "min": 5
+    }
+   ],
+   "activities": [
+    "우주여행 말판 놀이: How often do you wash your hands? / Do you know anything about nón lá? / Can you come to my birthday party? / The train is faster than the car. 등 12개 과제 해결하기",
+    "어구 빨리 만들기 놀이: 단어를 조합해 배운 어구를 제한 시간 안에 많이 만들기"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "match",
+   "prompt": "어구와 뜻을 짝지어 보세요.",
+   "pairs": [
+    [
+     "movie festival",
+     "영화 축제"
+    ],
+    [
+     "birthday party",
+     "생일잔치"
+    ],
+    [
+     "laser show",
+     "레이저 쇼"
+    ],
+    [
+     "cooking class party",
+     "요리 교실 잔치"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "prompt": "단어와 뜻을 짝지어 보세요.",
+   "pairs": [
+    [
+     "bigger",
+     "더 큰"
+    ],
+    [
+     "taller",
+     "키가 더 큰"
+    ],
+    [
+     "faster",
+     "더 빠른"
+    ],
+    [
+     "heavier",
+     "더 무거운"
+    ]
+   ]
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+   "audio": "Can you come to the movie festival?",
+   "choices": [
+    "너는 영화 축제에 갔니?",
+    "너는 영화 축제에 올 수 있니?",
+    "너는 영화 축제를 좋아하니?"
+   ],
+   "answer": 1,
+   "explain": "‘Can you come to ...?’는 초대하는 말이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "B는 생일잔치에 갈 수 있어요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Can you come to my birthday party?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Of course.",
+    "Sorry, but I can't.",
+    "No, I didn't."
+   ],
+   "answer": 0,
+   "explain": "갈 수 있으면 ‘Of course.(물론이지.)’라고 답해요."
+  },
+  {
+   "type": "mc",
+   "prompt": "그림에 알맞은 문장을 고르세요.",
+   "emoji": "🐘🐕",
+   "choices": [
+    "The dog is bigger than the elephant.",
+    "The elephant is faster than the dog.",
+    "The elephant is bigger than the dog."
+   ],
+   "answer": 2,
+   "explain": "코끼리(🐘)가 개(🐕)보다 더 커요. ‘bigger than ~’은 ‘~보다 더 큰’이에요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+   "audio": "I'm going to go camping.",
+   "choices": [
+    "🏀",
+    "📚",
+    "🏕️"
+   ],
+   "answer": 2,
+   "explain": "go camping은 ‘캠핑을 가다’예요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "B는 하루에 세 번 이를 닦아요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "How often do you brush your teeth?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Three times a day.",
+    "Three times a week.",
+    "Yes, I do."
+   ],
+   "answer": 0,
+   "explain": "‘하루에 세 번’은 three times a day예요."
+  },
+  {
+   "type": "mc",
+   "prompt": "그림에 알맞은 설명을 고르세요.",
+   "emoji": "🪃",
+   "choices": [
+    "They're African drums.",
+    "They're Australian toys.",
+    "It's a Korean game."
+   ],
+   "answer": 1,
+   "explain": "🪃 부메랑은 호주의 장난감이에요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+   "audio": "Did you paint the wall? Yes, I did.",
+   "choices": [
+    "🎨",
+    "🧹",
+    "📷"
+   ],
+   "answer": 0,
+   "explain": "paint the wall은 ‘벽화를 그리다’예요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "I eat vegetables three ___ a day.",
+   "ko": "나는 하루에 세 번 채소를 먹어.",
+   "choices": [
+    "times",
+    "time",
+    "twice"
+   ],
+   "answer": 0,
+   "explain": "세 번 이상은 ‘숫자 + times’예요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "나는 할머니, 할아버지 댁을 방문할 거야.",
+   "answer": "I'm going to visit my grandparents.",
+   "distractors": [
+    "visited",
+    "is"
+   ],
+   "explain": "계획은 I'm going to ...로 말해요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "Come to the sports park at 10.",
+   "ko": "10시에 스포츠 공원으로 와."
+  }
+ ],
+ "exercises2": [
+  {
+   "type": "dialog",
+   "prompt": "B는 요리 교실 잔치에 갈 수 없어요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Can you come to the cooking class party?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Of course.",
+    "Yes, I did.",
+    "Sorry, but I can't."
+   ],
+   "answer": 2,
+   "explain": "갈 수 없을 때는 ‘Sorry, but I can't.’라고 해요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "Come to my house ___ three.",
+   "ko": "3시에 우리 집으로 와.",
+   "choices": [
+    "on",
+    "at",
+    "in"
+   ],
+   "answer": 1,
+   "explain": "시각 앞에는 at을 써요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "The boy is ___ than his sister.",
+   "ko": "그 남자아이는 여동생보다 키가 더 커.",
+   "choices": [
+    "tall",
+    "taller",
+    "tallest"
+   ],
+   "answer": 1,
+   "explain": "‘~보다 더 키가 큰’은 taller than ~이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "A의 말이 틀렸어요. B의 말을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "The cat is bigger than the tiger."
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "That's a good idea.",
+    "Good for you.",
+    "That's not right."
+   ],
+   "answer": 2,
+   "explain": "틀린 말에는 ‘That's not right.’라고 해요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "I'm going to ___ a basketball game.",
+   "ko": "나는 농구 경기를 볼 거야.",
+   "choices": [
+    "watch",
+    "visit",
+    "stay"
+   ],
+   "answer": 0,
+   "explain": "‘경기를 보다’는 watch a game이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "A의 좋은 습관을 칭찬하는 말을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "I exercise four times a week."
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Good for you.",
+    "That's not right.",
+    "I have no idea."
+   ],
+   "answer": 0,
+   "explain": "칭찬할 때는 ‘Good for you.’라고 해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "B는 약과에 대해 전혀 몰라요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Do you know anything about yakgwa?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Yes, I do.",
+    "I have no idea.",
+    "Of course."
+   ],
+   "answer": 1,
+   "explain": "전혀 모를 때는 ‘I have no idea.’라고 해요."
+  },
+  {
+   "type": "mc",
+   "prompt": "‘Did you clean the street?’에 ‘아니, 안 그랬어. 그가 청소했어.’라고 답하는 말은?",
+   "choices": [
+    "No, I didn't. He cleaned the street.",
+    "No, I don't. He cleans the street.",
+    "Yes, I did. He cleaned the street."
+   ],
+   "answer": 0,
+   "explain": "Did로 물으면 did로 답하고, 다른 사람이 한 일은 과거형으로 말해요."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "나는 하루에 세 번 손을 씻어요.",
+   "answers": [
+    "I wash my hands three times a day."
+   ],
+   "hint": "I wash my hands t____ t____ a day."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "너는 레이저 쇼에 올 수 있니?",
+   "answers": [
+    "Can you come to the laser show?"
+   ],
+   "hint": "Can you c___ to the laser show?"
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "기차가 자동차보다 더 빨라.",
+   "answer": "The train is faster than the car.",
+   "distractors": [
+    "fast",
+    "then"
+   ],
+   "explain": "‘~보다 더 빠른’은 faster than ~이에요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "Do you know anything about djembes? Yes, I do. They're African drums.",
+   "ko": "너는 젬베에 대해 알고 있니? 응, 알아. 그것들은 아프리카의 북이야."
+  }
+ ],
+ "exercises3": [
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Hi, Jinu.\nCan you come to the laser show? It's on November 5th. Please come to the school at 6.\nLove, Sumi",
+   "question": "레이저 쇼에 오라고 한 시각과 장소는?",
+   "choices": [
+    "5시, 학교",
+    "6시, 스포츠 공원",
+    "6시, 학교"
+   ],
+   "answer": 2,
+   "explain": "글에 ‘Please come to the school at 6.’라고 나와 있어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Alice is taller than me. But I'm faster than Alice. We like soccer. We practice soccer after school every day.",
+   "question": "글쓴이에 대한 설명으로 맞는 것은?",
+   "choices": [
+    "Alice보다 키가 더 크다.",
+    "Alice보다 더 빠르다.",
+    "축구를 좋아하지 않는다."
+   ],
+   "answer": 1,
+   "explain": "글에 ‘I'm faster than Alice.’라고 나와 있어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "My family loves hiking in the forest. We're going to go camping this Saturday. We're going to cook hamburgers there. I can't wait!",
+   "question": "이 가족이 토요일에 할 일은?",
+   "choices": [
+    "캠핑 가서 햄버거 요리하기",
+    "집에서 햄버거 먹기",
+    "숲에서 그림 그리기"
+   ],
+   "answer": 0,
+   "explain": "글에 ‘We're going to go camping this Saturday. We're going to cook hamburgers.’라고 나와 있어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Boy: I wash my hands five times a day. But I brush my teeth once a day.\nDoctor: That's not good. You should brush your teeth more often.",
+   "question": "의사 선생님의 조언은?",
+   "choices": [
+    "손을 더 자주 씻기",
+    "운동을 더 하기",
+    "이를 더 자주 닦기"
+   ],
+   "answer": 2,
+   "explain": "글에 ‘You should brush your teeth more often.’라고 나와 있어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Do you know anything about helper robots? They do many things. They play basketball with children. They clean the house, too.",
+   "question": "도우미 로봇이 하는 일로 글에 나온 것은?",
+   "choices": [
+    "요리하기",
+    "병원에서 의사 돕기",
+    "아이들과 농구하기"
+   ],
+   "answer": 2,
+   "explain": "글에 ‘They play basketball with children.’라고 나와 있어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Hana won the car race. Amy made this nice birdhouse. Uju cleaned the park at the Earth Festival. We studied together and played together.",
+   "question": "공원을 청소한 사람은?",
+   "choices": [
+    "우주",
+    "하나",
+    "Amy"
+   ],
+   "answer": 0,
+   "explain": "글에 ‘Uju cleaned the park at the Earth Festival.’라고 나와 있어요."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "우리는 이번 주말에 캠핑을 갈 거예요.",
+   "answers": [
+    "We're going to go camping this weekend.",
+    "We are going to go camping this weekend."
+   ],
+   "hint": "We're going to go c______ this weekend."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "너는 벽화를 그렸니?",
+   "answers": [
+    "Did you paint the wall?"
+   ],
+   "hint": "Did you p____ the wall?"
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "곰이 호랑이보다 더 힘이 세.",
+   "answer": "The bear is stronger than the tiger.",
+   "distractors": [
+    "strong",
+    "then"
+   ],
+   "explain": "‘~보다 힘이 더 센’은 stronger than ~이에요."
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "Did you make a class album? No, I didn't. I wrote a book.",
+   "answer": "Did you make a class album? No, I didn't. I wrote a book.",
+   "distractors": [
+    "made",
+    "write"
+   ]
+  },
+  {
+   "type": "mc",
+   "prompt": "다음 중 어구가 바르지 않은 것은?",
+   "choices": [
+    "drink water",
+    "drink teeth",
+    "brush your teeth"
+   ],
+   "answer": 1,
+   "explain": "teeth는 brush(닦다)와 함께 써요. drink는 water와 어울려요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "I'm going to watch a basketball game this Saturday. Can you come?",
+   "ko": "나는 이번 주 토요일에 농구 경기를 볼 거야. 너도 올 수 있니?"
+  }
+ ]
+}

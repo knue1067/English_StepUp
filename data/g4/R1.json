@@ -1,0 +1,580 @@
+{
+ "id": "R1",
+ "title": "Review",
+ "emoji": "🎄",
+ "grade": 4,
+ "semester": 2,
+ "covers": [
+  "L01",
+  "L02",
+  "L03",
+  "L04",
+  "L05",
+  "L06",
+  "L07",
+  "L08",
+  "L09",
+  "L10",
+  "L11",
+  "L12"
+ ],
+ "summaryKo": "말판 놀이로 크리스마스트리를 꾸미며 1~12단원에서 배운 이름·감정·금지·제안·원하는 것·위치·요일·가격·물건 주인·시각·하고 있는 일·직업 표현과 단어, 문장을 복습해요.",
+ "periods": [
+  {
+   "n": 1,
+   "title": "말판 놀이로 크리스마스트리를 꾸며 보아요",
+   "pages": "교과서 122~123쪽",
+   "objectives": [
+    "말판 놀이로 크리스마스트리를 꾸며 보며 1단원부터 12단원까지 배운 내용을 복습할 수 있다.",
+    "규칙을 지키고 친구들을 배려하며 사이좋게 놀이에 참여할 수 있다."
+   ],
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Objectives",
+     "desc": "인사하고, 말판 놀이로 1~12단원을 복습한다는 학습 목표 확인하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Talk about the Task → Do the Task Together → Check and Repeat → Play the Game",
+     "desc": "말판 24칸의 그림과 지시문 보며 과제 알아보기, 짝과 함께 대화·문장 읽기·단어 완성하기, 예시 대화와 정답 확인 후 따라 말하기, 두 명씩 팀을 이루어 동전을 던져(앞면 1칸, 뒷면 2칸) 말을 옮기고 칸의 과제를 해결할 때마다 크리스마스트리 장식 색칠하기(‘사랑해’, ‘고마워’ 등 칸에서는 상대 팀에게 그 말 하기)",
+     "min": 30
+    },
+    {
+     "phase": "정리",
+     "step": "Wrap-up",
+     "desc": "놀이 결과 확인, 장식을 더 많이 칠한 팀 칭찬하기, 인사",
+     "min": 5
+    }
+   ],
+   "activities": [
+    "1 그림에 알맞게 이름 묻고 답하기 (What's your name? - My name is Amy.)",
+    "2 문장(She is a doctor.)을 읽고 알맞은 그림 고르기",
+    "3 그림에 알맞게 상태 묻고 답하기 (Are you thirsty? - No, I'm not. I'm tired.)",
+    "4 그림에 알맞게 문장 완성하기 (I'm playing a game.)",
+    "5 그림에 알맞게 금지 표현 말하고 답하기 (Don't touch. - Okay.)",
+    "6 그림에 알맞은 문장 고르기 (It's time for bed.)",
+    "7 문장(I want salad.)에 알맞은 그림 고르기",
+    "8 그림에 알맞게 제안하고 답하기 (Let's play soccer. - Sorry, I can't.)",
+    "9 그림에 알맞게 원하는 음식 묻고 답하기 (What do you want? - I want chicken.)",
+    "10 그림에 알맞게 문장 완성하기 (dance)",
+    "11 그림에 알맞게 물건의 주인인지 묻고 답하기 (Is this your umbrella? - Yes, it is.)",
+    "12 문장을 읽고 알맞은 위치에 물건 그리기 (책상 위에 공 그리기)",
+    "13 요일 묻고 답하기 (What day is it today? - It's Thursday.)",
+    "14 문장(I'm happy.)을 읽고 알맞은 그림 고르기",
+    "15 가격 묻고 답하기 (How much is it? - It's two thousand won.)",
+    "16 그림에 알맞게 문장 완성하기 (baseball)",
+    "17 물건의 위치 묻고 답하기 (Where's my cap? - It's under the bed.)",
+    "18 문장(My notebook is blue.)에 알맞게 색칠하기",
+    "19 시각 묻고 답하기 (What time is it? - It's ten thirty.)",
+    "20 문장(Don't eat here.)을 읽고 알맞은 표지판 고르기",
+    "21 그림에 알맞게 지금 하고 있는 일 묻고 답하기 (What are you doing? - I'm drawing a picture.)",
+    "22 문장에 알맞은 표정 그리기 (행복한 표정)",
+    "23 그림에 알맞게 직업 묻고 답하기 (What does he do? - He's a writer.)",
+    "24 아침 인사말 완성하기 (Good morning.)"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "dialog",
+   "prompt": "알맞은 말을 고르세요.",
+   "lines": [
+    {
+     "who": "Sam",
+     "text": "What's your name?"
+    },
+    {
+     "who": "Amy",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "I'm fine.",
+    "My name is Amy.",
+    "I'm a nurse."
+   ],
+   "answer": 1,
+   "explain": "이름을 물으면 ‘My name is ....’로 답해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "Mia는 지금 슬퍼요. Mia의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Jin",
+     "text": "Are you happy?"
+    },
+    {
+     "who": "Mia",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Yes, I am.",
+    "Yes, it is.",
+    "No, I'm not. I'm sad."
+   ],
+   "answer": 2,
+   "explain": "기분이 좋지 않으니 ‘No, I'm not. I'm sad.’라고 답해요."
+  },
+  {
+   "type": "mc",
+   "prompt": "‘Don't touch.’의 뜻으로 알맞은 것은?",
+   "choices": [
+    "만지지 마.",
+    "먹지 마.",
+    "앉지 마."
+   ],
+   "answer": 0,
+   "explain": "touch는 ‘만지다’예요. ‘Don't ~.’는 ‘~하지 마.’예요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "Ben은 아파서 축구를 할 수 없어요. Ben의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Let's play soccer."
+    },
+    {
+     "who": "Ben",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Sounds good.",
+    "Sorry, I can't.",
+    "Help yourself."
+   ],
+   "answer": 1,
+   "explain": "함께 할 수 없을 때는 ‘Sorry, I can't.’라고 해요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 원하는 음식을 고르세요.",
+   "audio": "I want chicken.",
+   "choices": [
+    "🍗",
+    "🍞",
+    "🥗"
+   ],
+   "answer": 0,
+   "explain": "chicken은 치킨(닭고기)이에요."
+  },
+  {
+   "type": "mc",
+   "prompt": "‘It's under the bed.’의 뜻으로 알맞은 것은?",
+   "choices": [
+    "그것은 침대 위에 있어.",
+    "그것은 침대 아래에 있어.",
+    "그것은 책상 위에 있어."
+   ],
+   "answer": 1,
+   "explain": "under는 ‘~ 아래에’예요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 요일을 고르세요.",
+   "audio": "It's Thursday.",
+   "choices": [
+    "목요일",
+    "화요일",
+    "토요일"
+   ],
+   "answer": 0,
+   "explain": "Thursday는 목요일이에요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 가격을 고르세요.",
+   "audio": "It's two thousand won.",
+   "choices": [
+    "200원",
+    "20,000원",
+    "2,000원"
+   ],
+   "answer": 2,
+   "explain": "two thousand는 2,000이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "우산은 Ann의 것이 맞아요. Ann의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Jun",
+     "text": "Is this your umbrella?"
+    },
+    {
+     "who": "Ann",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Yes, it is.",
+    "Yes, I am.",
+    "No, it isn't."
+   ],
+   "answer": 0,
+   "explain": "Ann의 우산이 맞으니 ‘Yes, it is.’라고 답해요."
+  },
+  {
+   "type": "mc",
+   "prompt": "밤 10시예요. 알맞은 말을 고르세요.",
+   "emoji": "🛏️",
+   "choices": [
+    "It's time for lunch.",
+    "It's time for bed.",
+    "It's time for school."
+   ],
+   "answer": 1,
+   "explain": "밤늦은 시각은 잘 시간이에요."
+  },
+  {
+   "type": "mc",
+   "prompt": "그림을 그리고 있는 아이가 할 말로 알맞은 것은?",
+   "emoji": "🎨",
+   "choices": [
+    "I'm reading a book.",
+    "I'm playing a game.",
+    "I'm drawing a picture."
+   ],
+   "answer": 2,
+   "explain": "그림을 그리고 있으니 ‘I'm drawing a picture.’예요."
+  },
+  {
+   "type": "mc",
+   "prompt": "‘She is a doctor.’에 알맞은 사람은?",
+   "choices": [
+    "남자 의사",
+    "여자 의사",
+    "여자 선생님"
+   ],
+   "answer": 1,
+   "explain": "She는 여자, doctor는 의사예요."
+  }
+ ],
+ "exercises2": [
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "Good ___.",
+   "ko": "좋은 아침이야.",
+   "choices": [
+    "morning",
+    "night",
+    "evening"
+   ],
+   "answer": 0,
+   "explain": "아침 인사는 ‘Good morning.’이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "Leo는 목마르지 않고 피곤해요. Leo의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Are you thirsty?"
+    },
+    {
+     "who": "Leo",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Yes, I am. I'm thirsty.",
+    "No, I'm not. I'm tired.",
+    "No, it isn't."
+   ],
+   "answer": 1,
+   "explain": "목마르지 않으니 ‘No, I'm not.’이라고 하고 피곤하다고(tired) 말해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "박물관에서 아이가 전시물을 만지려고 해요. 빈칸에 들어갈 남자의 말을 고르세요.",
+   "lines": [
+    {
+     "who": "Man",
+     "text": "?"
+    },
+    {
+     "who": "Girl",
+     "text": "Okay."
+    }
+   ],
+   "choices": [
+    "Let's play.",
+    "What time is it?",
+    "Don't touch."
+   ],
+   "answer": 2,
+   "explain": "박물관 전시물을 만지려는 아이에게는 ‘Don't touch.(만지지 마.)’라고 해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "유나는 국수를 먹고 싶어요. 유나의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Waiter",
+     "text": "What do you want?"
+    },
+    {
+     "who": "Yuna",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "I want noodles.",
+    "I'm noodles.",
+    "Yes, I do."
+   ],
+   "answer": 0,
+   "explain": "원하는 것을 물으면 ‘I want ....’로 답해요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "Where's my ___?",
+   "ko": "내 야구 모자는 어디 있지?",
+   "choices": [
+    "cat",
+    "cap",
+    "cup"
+   ],
+   "answer": 1,
+   "explain": "야구 모자는 cap이에요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "오늘은 무슨 요일이니?",
+   "answer": "What day is it today?",
+   "distractors": [
+    "time",
+    "are"
+   ],
+   "explain": "요일을 물을 때는 ‘What day is it today?’라고 해요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "그것은 얼마예요?",
+   "answer": "How much is it?",
+   "distractors": [
+    "many",
+    "what"
+   ],
+   "explain": "가격을 물을 때는 ‘How much is it?’이라고 해요."
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "My notebook is blue.",
+   "answer": "My notebook is blue.",
+   "distractors": [
+    "your",
+    "black."
+   ]
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 시각을 고르세요.",
+   "audio": "What time is it? It's ten thirty.",
+   "choices": [
+    "10:30",
+    "10:13",
+    "3:10"
+   ],
+   "answer": 0,
+   "explain": "ten thirty는 10시 30분이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "Sue는 책을 읽고 있어요. Sue의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Dan",
+     "text": "What are you doing?"
+    },
+    {
+     "who": "Sue",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "I'm a writer.",
+    "Sure.",
+    "I'm reading a book."
+   ],
+   "answer": 2,
+   "explain": "지금 하고 있는 일을 물었으니 ‘I'm reading a book.’이라고 답해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "그는 작가예요. Ben의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "What does he do?"
+    },
+    {
+     "who": "Ben",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "He's a writer.",
+    "She's a writer.",
+    "I'm a writer."
+   ],
+   "answer": 0,
+   "explain": "he(남자)의 직업을 물었으니 ‘He's a writer.’예요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "Is this your cap? No, it isn't.",
+   "ko": "이것은 너의 모자니? 아니, 그렇지 않아."
+  }
+ ],
+ "exercises3": [
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "나는 행복해.",
+   "answers": [
+    "I'm happy.",
+    "I am happy."
+   ],
+   "hint": "I'm h _ p p y."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "여기서 먹지 마.",
+   "answers": [
+    "Don't eat here."
+   ],
+   "hint": "Don't e _ t here."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "야구하자.",
+   "answers": [
+    "Let's play baseball."
+   ],
+   "hint": "Let's play b _ s e b a l l."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "나는 샐러드를 원해.",
+   "answer": "I want salad.",
+   "distractors": [
+    "wants",
+    "soup."
+   ],
+   "explain": "‘~을 원해’는 ‘I want ....’예요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "그것은 책상 위에 있어.",
+   "answer": "It's on the desk.",
+   "distractors": [
+    "under",
+    "in"
+   ],
+   "explain": "‘~ 위에’는 on이에요."
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "I have a computer class.",
+   "answer": "I have a computer class.",
+   "distractors": [
+    "has",
+    "art"
+   ]
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "The pencil case is two thousand won.",
+   "answer": "The pencil case is two thousand won.",
+   "distractors": [
+    "hundred",
+    "are"
+   ]
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Today is Friday. It's twelve ten. It's time for lunch. Jun says, \"What do you want?\" Mina says, \"I want soup.\"",
+   "question": "Mina가 원하는 음식은 무엇인가요?",
+   "choices": [
+    "치킨",
+    "수프",
+    "빵"
+   ],
+   "answer": 1,
+   "explain": "Mina가 ‘I want soup.’이라고 했어요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Ben: What are you doing, Amy?\nAmy: I'm drawing a picture.\nBen: Is this your bag?\nAmy: No, it isn't. My bag is red.",
+   "question": "Amy의 가방은 무슨 색인가요?",
+   "choices": [
+    "빨간색",
+    "파란색",
+    "노란색"
+   ],
+   "answer": 0,
+   "explain": "Amy가 ‘My bag is red.’라고 했어요."
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "그녀는 간호사이다.",
+   "answers": [
+    "She is a nurse.",
+    "She's a nurse."
+   ],
+   "hint": "She is a n _ r s e."
+  },
+  {
+   "type": "dialog",
+   "prompt": "알맞은 말을 고르세요.",
+   "lines": [
+    {
+     "who": "Man",
+     "text": "How much is it?"
+    },
+    {
+     "who": "Woman",
+     "text": "It's seven hundred won."
+    },
+    {
+     "who": "Man",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Help yourself.",
+    "I'll take it.",
+    "Be careful."
+   ],
+   "answer": 1,
+   "explain": "물건을 사겠다고 할 때는 ‘I'll take it.’이라고 해요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "Good morning, everyone. What time is it?",
+   "ko": "안녕, 얘들아. 지금 몇 시니?"
+  }
+ ]
+}

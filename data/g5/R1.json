@@ -1,0 +1,688 @@
+{
+  "id": "R1",
+  "title": "Review 1",
+  "semester": 1,
+  "covers": [
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05",
+    "L06"
+  ],
+  "summaryKo": "1학기에 배운 1~6단원의 단어와 표현을 다시 익혀요. 1차시에는 도서관·쇼핑몰·공원 그림 속 상황에 맞는 단어를 찾아 대화하고 주사위를 굴려 연 색칠하기 놀이를 해요. 2차시에는 해변 말판 놀이를 하며 칸마다 그림에 맞게 대화하거나 읽고 써요.",
+  "periods": [
+    {
+      "n": 1,
+      "objectives": [
+        "'Review 1'을 하며 1단원부터 6단원까지 배운 내용을 복습할 수 있다.",
+        "규칙을 지키고 친구들을 배려하며 놀이에 참여할 수 있다."
+      ],
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Greetings / Objectives",
+          "desc": "인사하기, Review 1로 1~6단원 내용을 복습한다고 안내하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "A. Do the Task / Talk Together",
+          "desc": "도서관·쇼핑몰·공원·집·길 그림에서 알맞은 단어나 어구(spoons, bottle, Canada, pencil case, scissors, visit my grandpa, ride a bike, do homework) 번호 쓰기, 말풍선 상황에 맞게 짝과 대화하기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "B. 주사위를 굴려 연 색칠하기",
+          "desc": "2명씩 팀을 이뤄 주사위 숫자에 해당하는 연의 단어·어구를 읽거나 그림에 알맞은 단어를 쓰고 색칠하기 (활동지 지도서 711쪽)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Closing",
+          "desc": "놀이 결과 확인, 다음 차시 안내",
+          "min": 5
+        }
+      ],
+      "activities": [
+        "A. 그림에 알맞은 단어나 어구를 골라 번호를 쓰고, 말풍선 상황에 맞는 대화하기 (What are these? – They're spoons. / Where are you from? – I'm from Canada. / Whose pencil case is this? – It's Jisu's.)",
+        "B. 모둠별로 주사위를 굴려 연 색칠하기 (France, India, albums, spoons, borrow a pen, take pictures, bottle, textbook, go shopping, go to the movies, read many books, go to the beach)"
+      ]
+    },
+    {
+      "n": 2,
+      "objectives": [
+        "'Review 1'을 하며 1단원부터 6단원까지 배운 내용을 복습할 수 있다.",
+        "규칙을 지키고 친구들을 배려하며 놀이에 참여할 수 있다."
+      ],
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Greetings / Objectives",
+          "desc": "인사하기, 말판 놀이로 1~6단원 내용을 복습한다고 안내하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "C. 해변 말판 놀이",
+          "desc": "말판 12칸의 과제(빈칸 채우기, 알맞은 그림·단어·어구 고르기) 함께 알아보기 → 짝과 과제 해결 → 예시 대화 따라 말하기 → 2명씩 팀으로 말판 놀이하기",
+          "min": 30
+        },
+        {
+          "phase": "정리",
+          "step": "Closing",
+          "desc": "놀이 결과 확인, 방학 인사 (Have a good vacation. – You, too.)",
+          "min": 5
+        }
+      ],
+      "activities": [
+        "C. 모둠별 해변 말판 놀이 — 칸마다 그림에 맞게 대화하거나 읽고 쓰기 (Where are you from? / Can I bring animals? / What will you do this summer? / What are these? / Whose bottle is this? / Let's go to the movies. / Can I take pictures? / What are those? / Whose textbook is this?)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "'인도'를 영어로 하면?",
+      "emoji": "🇮🇳",
+      "choices": [
+        "Canada",
+        "France",
+        "Vietnam",
+        "India"
+      ],
+      "answer": 3,
+      "explain": "인도는 India예요. (1단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "B는 미국에서 왔어요. 알맞은 대답을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Where are you from?"
+        },
+        {
+          "who": "B",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'm from Canada.",
+        "I'm from the U.S.",
+        "Nice to meet you.",
+        "They're buttons."
+      ],
+      "answer": 1,
+      "explain": "미국은 the U.S.예요. 출신 국가는 I'm from ~.으로 답해요. (1단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Mia",
+          "text": "This is my friend, Uju."
+        },
+        {
+          "who": "Tom",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "Nice to meet you.",
+        "No problem.",
+        "How nice!",
+        "Sounds good."
+      ],
+      "answer": 0,
+      "explain": "친구를 소개받으면 'Nice to meet you.(만나서 반가워.)'라고 해요. (1단원)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 물건을 고르세요.",
+      "audio": "What are these? They're spoons.",
+      "choices": [
+        "단추",
+        "숟가락",
+        "포크",
+        "지도"
+      ],
+      "answer": 1,
+      "explain": "spoons는 숟가락들이에요. (2단원)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "What are ___? They're buttons.",
+      "ko": "저것들은 무엇이니? 그것들은 단추야.",
+      "choices": [
+        "this",
+        "those",
+        "that"
+      ],
+      "answer": 1,
+      "explain": "멀리 있는 여러 개의 물건은 those로 물어요. (2단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "What are these?"
+        },
+        {
+          "who": "B",
+          "text": "They're my albums."
+        },
+        {
+          "who": "A",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "No, you can't.",
+        "I'm from India.",
+        "How nice!"
+      ],
+      "answer": 2,
+      "explain": "멋진 물건을 보고 감탄하거나 칭찬할 때는 'How nice!'라고 해요. (2단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "이곳에서는 사진을 찍을 수 없어요. 알맞은 대답을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Can I take pictures here?"
+        },
+        {
+          "who": "B",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "Yes, you can.",
+        "Sounds good.",
+        "No, you can't.",
+        "It's mine."
+      ],
+      "answer": 2,
+      "explain": "허락하지 않을 때는 'No, you can't.'라고 해요. (3단원)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "펜을 빌려도 될까?",
+      "answer": "Can I borrow a pen?",
+      "distractors": [
+        "Do",
+        "bike?"
+      ],
+      "explain": "허락을 구할 때는 Can I ~?로 물어요. (3단원)"
+    },
+    {
+      "type": "match",
+      "prompt": "질문과 알맞은 대답을 짝 지어 보세요.",
+      "pairs": [
+        [
+          "Where are you from?",
+          "I'm from India."
+        ],
+        [
+          "What are those?",
+          "They're buttons."
+        ],
+        [
+          "Can I ride a bike?",
+          "Yes, you can."
+        ],
+        [
+          "Whose bottle is this?",
+          "It's Brian's."
+        ],
+        [
+          "What will you do this summer?",
+          "I will read many books."
+        ]
+      ]
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 것을 고르세요.",
+      "audio": "Whose textbook is this? It's Jiho's.",
+      "choices": [
+        "지호의 교과서",
+        "지호의 필통",
+        "Brian의 교과서"
+      ],
+      "answer": 0,
+      "explain": "textbook은 교과서, Jiho's는 '지호의 것'이에요. (4단원)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "No, it's Uju's ___.",
+      "ko": "아니야, 그건 우주의 교과서야.",
+      "choices": [
+        "pen",
+        "bottle",
+        "textbook"
+      ],
+      "answer": 2,
+      "explain": "교과서는 textbook이에요. (4단원 수정하는 말)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Let's go to the movies."
+        },
+        {
+          "who": "B",
+          "text": "Sounds good. What time?"
+        },
+        {
+          "who": "A",
+          "text": "?"
+        },
+        {
+          "who": "B",
+          "text": "Okay."
+        }
+      ],
+      "choices": [
+        "Sorry, but I'm busy.",
+        "How about at two twenty?",
+        "Have a good time.",
+        "Thank you."
+      ],
+      "answer": 1,
+      "explain": "약속 시간을 제안할 때는 'How about at + 시각?'을 써요. (5단원)"
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "Let's play a board game.",
+      "answer": "Let's play a board game.",
+      "distractors": [
+        "go",
+        "do"
+      ]
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "나는 과학 캠프에 참가할 거야.",
+      "answers": [
+        "I'll join a science camp.",
+        "I will join a science camp."
+      ],
+      "hint": "I'll join ____."
+    },
+    {
+      "type": "read",
+      "prompt": "글을 읽고 답하세요.",
+      "passage": "Hi, I'm Mia. I'm from the U.S. This is my friend, Linh. She is from Vietnam. This summer, Linh will visit her grandpa in Vietnam.",
+      "question": "Linh은 이번 여름에 무엇을 할까요?",
+      "choices": [
+        "베트남에 계신 할아버지 댁 방문하기",
+        "미국 여행하기",
+        "과학 캠프 참가하기"
+      ],
+      "answer": 0,
+      "explain": "Linh will visit her grandpa in Vietnam. → 베트남에 계신 할아버지 댁에 가요. (1·6단원)"
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "Thank you. No problem.",
+      "ko": "고마워. 천만에."
+    }
+  ],
+  "exercises2": [
+    {
+      "type": "dialog",
+      "prompt": "B는 프랑스에서 왔어요. 알맞은 대답을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Where are you from?"
+        },
+        {
+          "who": "B",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'm from France.",
+        "I'm from Canada.",
+        "I'm from India.",
+        "They're maps."
+      ],
+      "answer": 0,
+      "explain": "프랑스는 France예요. (1단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Amy",
+          "text": "This is my cousin, Peter."
+        },
+        {
+          "who": "Linh",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'm from Canada.",
+        "Nice to meet you, Peter.",
+        "How nice!"
+      ],
+      "answer": 1,
+      "explain": "소개를 받으면 'Nice to meet you.'라고 인사해요. (1단원)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "What are ___? They're forks.",
+      "ko": "이것들은 무엇이니? 그것들은 포크야.",
+      "choices": [
+        "this",
+        "that",
+        "these"
+      ],
+      "answer": 2,
+      "explain": "가까이 있는 여러 개는 these로 물어요. (2단원)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 물건을 고르세요.",
+      "audio": "What are those? They're maps.",
+      "choices": [
+        "가위",
+        "컵",
+        "앨범",
+        "지도"
+      ],
+      "answer": 3,
+      "explain": "maps는 지도들이에요. (2단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "이곳에서는 자전거를 탈 수 있어요. 알맞은 대답을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Can I ride a bike here?"
+        },
+        {
+          "who": "B",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "No problem.",
+        "Yes, you can.",
+        "Sounds good."
+      ],
+      "answer": 1,
+      "explain": "허락할 때는 'Yes, you can.'이라고 해요. (3단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Thank you."
+        },
+        {
+          "who": "B",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "Sounds good.",
+        "No problem.",
+        "It's mine.",
+        "Nice to meet you."
+      ],
+      "answer": 1,
+      "explain": "고맙다는 말에는 'No problem.(천만에.)'이라고 답해요. (3단원)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "저것은 누구의 휴대 전화니?",
+      "answer": "Whose phone is that?",
+      "distractors": [
+        "this",
+        "Who"
+      ],
+      "explain": "멀리 있는 물건의 주인은 Whose ~ is that?으로 물어요. (4단원)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "Whose bottle is this? It's ___.",
+      "ko": "이것은 누구의 물병이니? 그건 내 거야.",
+      "choices": [
+        "mine",
+        "my",
+        "me"
+      ],
+      "answer": 0,
+      "explain": "'내 것'은 mine이에요. (4단원)"
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "Let's go swimming. Sounds good.",
+      "answer": "Let's go swimming. Sounds good.",
+      "distractors": [
+        "busy.",
+        "go."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "3시는 어때?",
+      "answer": "How about at 3?",
+      "distractors": [
+        "What",
+        "in"
+      ],
+      "explain": "약속 시간은 How about at + 시각?으로 제안해요. (5단원)"
+    },
+    {
+      "type": "match",
+      "prompt": "표현과 뜻을 짝 지어 보세요.",
+      "pairs": [
+        [
+          "How nice!",
+          "정말 멋지다!"
+        ],
+        [
+          "No problem.",
+          "천만에."
+        ],
+        [
+          "Sounds good.",
+          "좋아."
+        ],
+        [
+          "Have a good time.",
+          "좋은 시간 보내."
+        ],
+        [
+          "Nice to meet you.",
+          "만나서 반가워."
+        ]
+      ]
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "I'll go to the beach this summer.",
+      "ko": "나는 이번 여름에 해변에 갈 거야."
+    }
+  ],
+  "exercises3": [
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "나는 캐나다에서 왔어.",
+      "answers": [
+        "I'm from Canada.",
+        "I am from Canada."
+      ],
+      "hint": "I'm from ____."
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "저것들은 무엇이니?",
+      "answers": [
+        "What are those?"
+      ],
+      "hint": "What are ____?"
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "사진을 찍어도 될까?",
+      "answers": [
+        "Can I take pictures?"
+      ],
+      "hint": "Can I ____?"
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "이것은 누구의 교과서니?",
+      "answers": [
+        "Whose textbook is this?"
+      ],
+      "hint": "Whose ____ is this?"
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "This is my friend, Linh. She is from Vietnam.",
+      "answer": "This is my friend, Linh. She is from Vietnam.",
+      "distractors": [
+        "He",
+        "India."
+      ]
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "No, you can't. You can't bring animals.",
+      "answer": "No, you can't. You can't bring animals.",
+      "distractors": [
+        "can.",
+        "Yes,"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "아니야, 그건 Brian의 물병이야.",
+      "answer": "No, it's Brian's bottle.",
+      "distractors": [
+        "Yes,",
+        "Brian"
+      ],
+      "explain": "수정하는 말은 No, it's + 이름's + 물건. (4단원)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "보드게임하자. 2시는 어때?",
+      "answer": "Let's play a board game. How about at 2?",
+      "distractors": [
+        "go",
+        "What"
+      ],
+      "explain": "제안(Let's ~.) + 약속 시간(How about at ~?) (5단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "What will you do this summer?"
+        },
+        {
+          "who": "B",
+          "text": "I'll visit my grandpa in Canada."
+        },
+        {
+          "who": "A",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "Nice to meet you.",
+        "No, you can't.",
+        "How about at 2?",
+        "Have a good time."
+      ],
+      "answer": 3,
+      "explain": "여름 계획을 들으면 'Have a good time.'이라고 기원해요. (6단원)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "A",
+          "text": "Let's go to the movies."
+        },
+        {
+          "who": "B",
+          "text": "?"
+        },
+        {
+          "who": "A",
+          "text": "Oh, okay."
+        }
+      ],
+      "choices": [
+        "Sounds good.",
+        "Yes, you can.",
+        "Sorry, but I'm busy."
+      ],
+      "answer": 2,
+      "explain": "A가 'Oh, okay.'라고 아쉬워했으니 B는 거절했어요. (5단원)"
+    },
+    {
+      "type": "read",
+      "prompt": "글을 읽고 답하세요.",
+      "passage": "Hi, I'm Lucas. I'm from France. These are my albums. They're from my trip. This summer, I will visit Korea. Let's go shopping in Seoul!",
+      "question": "Lucas가 이번 여름에 할 일은?",
+      "choices": [
+        "한국 방문하기",
+        "프랑스 여행하기",
+        "앨범 만들기"
+      ],
+      "answer": 0,
+      "explain": "This summer, I will visit Korea. (1·2·5·6단원 표현)"
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "Can I borrow a pen? Thank you.",
+      "ko": "펜을 빌려도 될까? 고마워."
+    }
+  ]
+}

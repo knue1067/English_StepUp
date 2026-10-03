@@ -1,0 +1,2288 @@
+{
+ "id": "L08",
+ "no": 8,
+ "grade": 4,
+ "semester": 2,
+ "title": "How Much Is It?",
+ "emoji": "💰",
+ "rationale": "학생들도 용돈을 받아 원하는 물건을 사거나 저축을 하는 등 다양한 경제활동을 한다. 가격을 묻고 답하는 말과 물건을 살 때 하는 말을 익혀 실생활에서 활용하게 하고, 바른 소비생활 태도를 기를 수 있도록 하고자 한다.",
+ "topics": "개인 생활 관련(쇼핑), 사회생활 관련(대인 관계), 문화 관련(문화 소개)",
+ "functions": [
+  {
+   "ko": "가격 묻고 답하기",
+   "examples": [
+    "How much is it?",
+    "It's seven hundred won."
+   ]
+  },
+  {
+   "ko": "물건 사기",
+   "examples": [
+    "I'll take it."
+   ]
+  }
+ ],
+ "forms": [
+  "The comic book [pencil case / soccer ball / toy car] is seven hundred [thousand] won."
+ ],
+ "phonics": {
+  "focus": "단모음 u /ʌ/",
+  "words": [
+   "hundred",
+   "run",
+   "sun"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "car",
+   "ko": "자동차 (toy car 장난감 자동차)"
+  },
+  {
+   "en": "case",
+   "ko": "통, 상자 (pencil case 필통)"
+  },
+  {
+   "en": "comic",
+   "ko": "만화의 (comic book 만화책)"
+  },
+  {
+   "en": "hundred",
+   "ko": "백(100)"
+  },
+  {
+   "en": "idea",
+   "ko": "생각, 아이디어"
+  },
+  {
+   "en": "skirt",
+   "ko": "치마"
+  },
+  {
+   "en": "take",
+   "ko": "가져가다, (물건을) 사다 (I'll take it. 그것을 살게요.)"
+  },
+  {
+   "en": "thousand",
+   "ko": "천(1,000)"
+  },
+  {
+   "en": "toy",
+   "ko": "장난감"
+  },
+  {
+   "en": "will",
+   "ko": "~할 것이다 (I'll = I will)"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "comic book",
+   "ko": "만화책",
+   "emoji": "📖"
+  },
+  {
+   "en": "fan",
+   "ko": "부채",
+   "emoji": "🪭"
+  },
+  {
+   "en": "pencil case",
+   "ko": "필통",
+   "emoji": "✏️"
+  },
+  {
+   "en": "skirt",
+   "ko": "치마",
+   "emoji": "👗"
+  },
+  {
+   "en": "soccer ball",
+   "ko": "축구공",
+   "emoji": "⚽"
+  },
+  {
+   "en": "toy car",
+   "ko": "장난감 자동차",
+   "emoji": "🚗"
+  },
+  {
+   "en": "doll",
+   "ko": "인형",
+   "emoji": "🪆"
+  },
+  {
+   "en": "eraser",
+   "ko": "지우개",
+   "emoji": ""
+  },
+  {
+   "en": "hundred",
+   "ko": "백(100)",
+   "emoji": ""
+  },
+  {
+   "en": "thousand",
+   "ko": "천(1,000)",
+   "emoji": ""
+  }
+ ],
+ "characters": [
+  "Kate",
+  "Eric",
+  "준오",
+  "보라",
+  "Momo",
+  "Sam",
+  "점원",
+  "Paul",
+  "Alice",
+  "하나",
+  "빨간 모자",
+  "엄마",
+  "점원 1",
+  "점원 2",
+  "늑대"
+ ],
+ "goals": {
+  "understand": [
+   "가격을 묻고 답하는 말, 물건을 살 때 하는 말을 듣고 이해할 수 있다.",
+   "가격을 나타내는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /ʌ/와 철자 'u'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "가격을 묻고 답하는 말과 물건을 살 때 하는 말을 들으며 현명한 소비생활 태도를 기를 수 있다."
+  ],
+  "express": [
+   "가격을 묻고 답하는 말, 물건을 살 때 하는 말을 할 수 있다.",
+   "가격을 나타내는 문장을 보고 쓸 수 있다.",
+   "소리 /ʌ/와 철자 'u'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "일상생활에 도움이 되는 영어 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "가격 묻고 답하기",
+   "objectives": [
+    "가격을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '가격 알아맞히기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 76~77쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "교사의 새 펜 가격 추측하기, 물건을 살 때 먼저 묻는 것 이야기하기, 단원 목표 확인, 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "재사용 가게에서 연필과 장난감 자동차의 가격을 묻는 만화 영화 보기, Eric이 사려고 한 물건에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 노랫말에 나오지 않은 물건에 ○표 하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 보여 주는 물건의 가격을 모둠별로 추측하여 쓰고 말하기, 가장 가까운 가격을 쓴 모둠이 카드 얻기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "Fun Talk 1 그림 속 물건 가격 말하기, 대화 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "How much is it?",
+    "It's seven hundred won.",
+    "It's two thousand won.",
+    "I like this toy car."
+   ],
+   "tip": "hundred는 100(백), thousand는 1,000(천)이에요. 700원은 seven hundred won, 2,000원은 two thousand won이라고 하고, hundred와 thousand 뒤에는 s를 붙이지 않아요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 가격을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "toy car",
+       "장난감 자동차"
+      ],
+      [
+       "comic book",
+       "만화책"
+      ],
+      [
+       "pencil case",
+       "필통"
+      ],
+      [
+       "skirt",
+       "치마"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "숫자 말과 숫자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "one hundred",
+       "100"
+      ],
+      [
+       "five hundred",
+       "500"
+      ],
+      [
+       "one thousand",
+       "1,000"
+      ],
+      [
+       "seven thousand",
+       "7,000"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'치마'를 영어로 하면?",
+     "emoji": "👗",
+     "choices": [
+      "skirt",
+      "toy car",
+      "comic book"
+     ],
+     "answer": 0,
+     "explain": "치마는 skirt예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'700원'을 영어로 바르게 말한 것은?",
+     "choices": [
+      "seventy won",
+      "seven thousand won",
+      "seven hundred won"
+     ],
+     "answer": 2,
+     "explain": "100은 one hundred, 700은 seven hundred예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 가격을 고르세요.",
+     "audio": "It's two thousand won.",
+     "choices": [
+      "₩200",
+      "₩2,000",
+      "₩20,000"
+     ],
+     "answer": 1,
+     "explain": "thousand는 1,000(천)이에요. two thousand는 2,000이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "How much is it?",
+     "choices": [
+      "그것은 얼마니?",
+      "그것은 무엇이니?",
+      "그것은 어디에 있니?"
+     ],
+     "answer": 0,
+     "explain": "'How much is it?'은 가격을 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 가격을 고르세요.",
+     "audio": "It's nine hundred won.",
+     "choices": [
+      "₩9,000",
+      "₩500",
+      "₩900"
+     ],
+     "answer": 2,
+     "explain": "hundred는 100(백)이에요. nine hundred는 900이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "연필은 700원이에요. 점원의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "I like this pencil. How much is it?"
+      },
+      {
+       "who": "Clerk",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's seven thousand won.",
+      "It's seven hundred won.",
+      "It's a pencil."
+     ],
+     "answer": 1,
+     "explain": "700원은 seven hundred won이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "It's five hundred won."
+      }
+     ],
+     "choices": [
+      "How much is it?",
+      "What's this?",
+      "What day is it today?"
+     ],
+     "answer": 0,
+     "explain": "가격을 말하는 대답이므로 'How much is it?'으로 물어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "How ___ is it?",
+     "ko": "그것은 얼마니?",
+     "choices": [
+      "much",
+      "many",
+      "day"
+     ],
+     "answer": 0,
+     "explain": "가격을 물을 때는 'How much is it?'이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 얼마니?",
+     "answer": "How much is it?",
+     "distractors": [
+      "many",
+      "What"
+     ],
+     "explain": "가격을 묻는 말은 'How much is it?'이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How much is it? It's eight hundred won.",
+     "ko": "그것은 얼마니? 800원이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "'6,000원'을 영어로 하면?",
+     "choices": [
+      "six hundred won",
+      "six thousand won",
+      "sixty won"
+     ],
+     "answer": 1,
+     "explain": "1,000은 thousand예요. 6,000은 six thousand예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'four hundred'는 얼마인가요?",
+     "choices": [
+      "400원",
+      "4원",
+      "4,000원"
+     ],
+     "answer": 0,
+     "explain": "four는 4, hundred는 100이라서 400이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 가격을 고르세요.",
+     "audio": "It's four thousand won.",
+     "choices": [
+      "₩400",
+      "₩4,000",
+      "₩40,000"
+     ],
+     "answer": 1,
+     "explain": "four thousand는 4,000이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "장난감 자동차는 3,000원이에요. 점원의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "It's nice. How much is it?"
+      },
+      {
+       "who": "Clerk",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's three hundred won.",
+      "It's a toy car.",
+      "It's three thousand won."
+     ],
+     "answer": 2,
+     "explain": "3,000원은 three thousand won이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "치마는 5,000원이에요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "I like this skirt. How much is it?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's five thousand won.",
+      "It's five hundred won.",
+      "I like this skirt, too."
+     ],
+     "answer": 0,
+     "explain": "5,000원은 five thousand won이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's nine ___ won.",
+     "ko": "그것은 9,000원이야.",
+     "choices": [
+      "hundred",
+      "thousand",
+      "ten"
+     ],
+     "answer": 1,
+     "explain": "1,000(천)은 thousand예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 이 만화책이 마음에 들어.",
+     "answer": "I like this comic book.",
+     "distractors": [
+      "want",
+      "case."
+     ],
+     "explain": "'이 ~'는 this예요. 만화책은 comic book이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like this fan. How much is it?",
+     "answer": "I like this fan. How much is it?",
+     "distractors": [
+      "many",
+      "that"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "숫자 말과 숫자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "two hundred",
+       "200"
+      ],
+      [
+       "six hundred",
+       "600"
+      ],
+      [
+       "three thousand",
+       "3,000"
+      ],
+      [
+       "eight thousand",
+       "8,000"
+      ],
+      [
+       "nine hundred",
+       "900"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like this toy car. How much is it?",
+     "ko": "나는 이 장난감 자동차가 마음에 들어. 얼마예요?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만화책",
+     "answers": [
+      "comic book"
+     ],
+     "hint": "c o m i c b _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "장난감 자동차",
+     "answers": [
+      "toy car"
+     ],
+     "hint": "t _ y c _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "오백(500)",
+     "answers": [
+      "five hundred"
+     ],
+     "hint": "f _ _ e h _ n d r e d"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's six thousand won.",
+     "answer": "It's six thousand won.",
+     "distractors": [
+      "hundred",
+      "five"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 300원이야.",
+     "answer": "It's three hundred won.",
+     "distractors": [
+      "thousand",
+      "many"
+     ],
+     "explain": "300은 three hundred예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "펜은 1,000원이에요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I like this pen. How much is it?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's one hundred won.",
+      "It's ten thousand won.",
+      "It's one thousand won."
+     ],
+     "answer": 2,
+     "explain": "1,000원은 one thousand won이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Price Tags\ntoy car: 2,000 won\ncomic book: 800 won\npencil case: 500 won\nsoccer ball: 7,000 won",
+     "question": "가장 비싼 물건은 무엇인가요?",
+     "choices": [
+      "toy car",
+      "comic book",
+      "pencil case",
+      "soccer ball"
+     ],
+     "answer": 3,
+     "explain": "soccer ball이 7,000원으로 가장 비싸요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: I like this pencil. How much is it?\nClerk: It's seven hundred won.\nEric: I want a toy car. How much is it?\nClerk: It's two thousand won.",
+     "question": "장난감 자동차의 가격은 얼마인가요?",
+     "choices": [
+      "700원",
+      "2,000원",
+      "7,000원",
+      "200원"
+     ],
+     "answer": 1,
+     "explain": "점원이 'It's two thousand won.'이라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'How much is it?'에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "It's five hundred won.",
+      "It's eight thousand won.",
+      "It's on the table."
+     ],
+     "answer": 2,
+     "explain": "가격을 묻는 말에 위치를 말하는 것은 어울리지 않아요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like this soccer ball. How much is it? It's nine thousand won.",
+     "ko": "나는 이 축구공이 마음에 들어. 얼마예요? 9,000원이에요."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "가격 묻고 답하기 / 물건 사기",
+   "objectives": [
+    "가격을 묻고 답하는 말을 할 수 있다.",
+    "물건을 살 때 하는 말을 듣고 이해하며 말할 수 있다.",
+    "'How Much Is It?' 노래와 '모든 물건 사기' 놀이에서 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 78~79쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "찬트로 복습하기, 찬트 속 물건과 가격으로 교사와 가게 놀이를 하며 'I'll take it.' 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "경복궁 기념품 가게에서 Kate가 인형을 사고, 준오가 Sam에게 지우개를 사 주는 만화 영화 보기, 장면별로 다시 듣고 이해 점검",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 짝과 함께 알뜰 시장의 주인과 손님이 되어 가격 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'How Much Is It?' 노래를 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "각자 가게 물건의 가격을 정한 뒤 짝의 가게 물건 가격을 묻고 'I'll take it.'이라 말하며 모든 물건 사기 (짝)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "My Turn 그림으로 가격 묻고 답하기, 그림에 알맞은 대화 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "How much is it?",
+    "It's four thousand won.",
+    "I'll take it.",
+    "This is for you."
+   ],
+   "tip": "물건을 사기로 했을 때는 'I'll take it.(그것을 살게요.)'이라고 해요. I'll은 I will을 줄인 말이에요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 가격을 묻고 답하는 말을 할 수 있는가? 물건을 살 때 하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'll take it.",
+     "choices": [
+      "그것을 살게요.",
+      "그것은 얼마예요?",
+      "그것을 원하지 않아요."
+     ],
+     "answer": 0,
+     "explain": "'I'll take it.'은 물건을 사겠다는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "물건을 사겠다고 할 때 하는 말은?",
+     "emoji": "🛍️",
+     "choices": [
+      "How much is it?",
+      "Help yourself.",
+      "I'll take it."
+     ],
+     "answer": 2,
+     "explain": "물건을 살 때 'I'll take it.(그것을 살게요.)'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 인형을 사기로 했어요. Kate의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "How much is it?"
+      },
+      {
+       "who": "Clerk",
+       "text": "It's four thousand won."
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good! I'll take it.",
+      "I don't know.",
+      "It's a doll."
+     ],
+     "answer": 0,
+     "explain": "물건을 사기로 했으면 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그것은 지우개가 맞아요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Is it an eraser?"
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "Yes, it is.",
+      "It's Monday."
+     ],
+     "answer": 1,
+     "explain": "'Is it ~?'에 '응, 맞아.'는 'Yes, it is.'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 가격을 고르세요.",
+     "audio": "It's five hundred won.",
+     "choices": [
+      "₩5,000",
+      "₩50",
+      "₩500"
+     ],
+     "answer": 2,
+     "explain": "five hundred는 500이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오가 지우개를 선물했어요. Sam의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "Two, please. This is for you."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "How much is it?",
+      "I'll take it.",
+      "Oh, thank you."
+     ],
+     "answer": 2,
+     "explain": "선물을 받으면 'Thank you.'라고 해요."
+    },
+    {
+     "type": "match",
+     "prompt": "말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "It's pretty.",
+       "예쁘다."
+      ],
+      [
+       "Two, please.",
+       "두 개 주세요."
+      ],
+      [
+       "This is for you.",
+       "이건 너를 위한 거야."
+      ],
+      [
+       "eraser",
+       "지우개"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'll ___ it.",
+     "ko": "그것을 살게요.",
+     "choices": [
+      "take",
+      "like",
+      "want"
+     ],
+     "answer": 0,
+     "explain": "'그것을 살게요.'는 'I'll take it.'이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'doll'의 뜻으로 알맞은 것은?",
+     "emoji": "🪆",
+     "choices": [
+      "지우개",
+      "인형",
+      "치마"
+     ],
+     "answer": 1,
+     "explain": "doll은 인형이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "I like this fan. How much is it?",
+     "choices": [
+      "부채의 가격을 묻고 있어요.",
+      "부채를 선물하고 있어요.",
+      "부채가 어디 있는지 묻고 있어요."
+     ],
+     "answer": 0,
+     "explain": "'How much is it?'은 가격을 묻는 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것을 살게요.",
+     "answer": "I'll take it.",
+     "distractors": [
+      "want",
+      "is"
+     ],
+     "explain": "물건을 살 때 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's pretty. I'll take it.",
+     "ko": "예쁘다. 그것을 살게요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "부채는 800원이에요. 점원의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Paul",
+       "text": "I like this fan. How much is it?"
+      },
+      {
+       "who": "Clerk",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's eighty won.",
+      "It's eight thousand won.",
+      "It's eight hundred won."
+     ],
+     "answer": 2,
+     "explain": "800원은 eight hundred won이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Alice는 치마를 사기로 했어요. Alice의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "It's nice. How much is it?"
+      },
+      {
+       "who": "Hana",
+       "text": "It's three thousand won."
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "How much is it?",
+      "Okay. I'll take it.",
+      "I want a doll."
+     ],
+     "answer": 1,
+     "explain": "물건을 사기로 했으면 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ that soccer ball.",
+     "ko": "나는 저 축구공을 원해.",
+     "choices": [
+      "want",
+      "take",
+      "much"
+     ],
+     "answer": 0,
+     "explain": "'원하다'는 want예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "예쁘다. 나는 그 인형을 원해.",
+     "answer": "It's pretty. I want the doll.",
+     "distractors": [
+      "take",
+      "much"
+     ],
+     "explain": "'예쁘다'는 'It's pretty.', '원해'는 want예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like this pencil case. I'll take it.",
+     "answer": "I like this pencil case. I'll take it.",
+     "distractors": [
+      "want",
+      "much"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "물건 사기 대화의 순서로 알맞은 것은?\n(가) I'll take it.\n(나) How much is it?\n(다) It's six hundred won.",
+     "choices": [
+      "(가) - (나) - (다)",
+      "(나) - (다) - (가)",
+      "(다) - (가) - (나)"
+     ],
+     "answer": 1,
+     "explain": "가격을 묻고(나), 가격을 듣고(다), 사겠다고 말해요(가)."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I want that soccer ball.",
+     "choices": [
+      "🚗",
+      "⚽",
+      "📖"
+     ],
+     "answer": 1,
+     "explain": "soccer ball은 축구공이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Alice: It's nice. How much is it?\nHana: It's three thousand won.\nAlice: I'll take it.",
+     "question": "Alice가 낸 돈은 얼마일까요?",
+     "choices": [
+      "3,000원",
+      "300원",
+      "30,000원"
+     ],
+     "answer": 0,
+     "explain": "three thousand는 3,000이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "질문과 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "How much is it?",
+       "It's six hundred won."
+      ],
+      [
+       "Is it an eraser?",
+       "Yes, it is."
+      ],
+      [
+       "What's that?",
+       "It's a doll."
+      ],
+      [
+       "This is for you.",
+       "Oh, thank you."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want that soccer ball. How much is it?",
+     "ko": "나는 저 축구공을 원해. 얼마예요?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "인형",
+     "answers": [
+      "doll"
+     ],
+     "hint": "d _ l l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "팔백(800)",
+     "answers": [
+      "eight hundred"
+     ],
+     "hint": "e _ _ h t h _ n d r e d"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's four thousand won. Good! I'll take it.",
+     "answer": "It's four thousand won. Good! I'll take it.",
+     "distractors": [
+      "hundred",
+      "much"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 이 필통이 마음에 들어. 얼마예요?",
+     "answer": "I like this pencil case. How much is it?",
+     "distractors": [
+      "that",
+      "many"
+     ],
+     "explain": "'이 ~'는 this, 가격을 물을 때는 'How much is it?'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A는 모자를 사기로 했어요. A의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I like this cap. How much is it?"
+      },
+      {
+       "who": "B",
+       "text": "It's six hundred won."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Where's my cap?",
+      "Great! I'll take it.",
+      "It's six hundred won."
+     ],
+     "answer": 1,
+     "explain": "사기로 했으면 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "가격표에 ₩9,000이라고 쓰여 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How much is it?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's nine hundred won.",
+      "It's ninety won.",
+      "It's nine thousand won."
+     ],
+     "answer": 2,
+     "explain": "9,000원은 nine thousand won이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bora and Kate go to a gift shop. Kate sees a doll. \"How much is it?\" \"It's four thousand won.\" \"Good! I'll take it.\" Juno buys two erasers. One is for Sam.",
+     "question": "준오는 지우개 하나를 누구에게 주었나요?",
+     "choices": [
+      "Kate",
+      "보라",
+      "Sam",
+      "Momo"
+     ],
+     "answer": 2,
+     "explain": "'One is for Sam.' 하나는 Sam을 위한 거예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Flea Market\ncomic book: 900 won\ntoy car: 800 won\nsoccer ball: 3,000 won\nMina has 1,000 won.",
+     "question": "Mina가 가진 돈으로 살 수 없는 물건은 무엇인가요?",
+     "choices": [
+      "comic book",
+      "toy car",
+      "soccer ball"
+     ],
+     "answer": 2,
+     "explain": "soccer ball은 3,000원이라서 1,000원으로 살 수 없어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I'll take it.'에서 I'll은 무엇을 줄인 말일까요?",
+     "choices": [
+      "I will",
+      "I am",
+      "I want"
+     ],
+     "answer": 0,
+     "explain": "I'll은 I will을 줄인 말이에요. will은 '~할 것이다'라는 뜻이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How much is it? It's six thousand won. I'll take it.",
+     "ko": "얼마예요? 6,000원이에요. 그것을 살게요."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "가격을 나타내는 문장 읽고 쓰기 / 'u'가 들어가는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "가격을 나타내는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /ʌ/와 철자 'u'의 관계를 이해하며 'u'가 들어가는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'만 원으로 물건 사기'의 협력 과업으로 가격을 나타내는 문장을 읽고 쓰며, 가격을 묻고 답하는 말과 물건을 살 때 하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 80~81쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "'How Much Is It?' 노래 부르기, 장난감 자동차 사진과 가격으로 'The toy car is three thousand won.' 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "가게 점원들이 가격을 말하는 그림을 보며 문장 읽기, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Match",
+     "desc": "문장을 읽고 알맞은 물건(가격표)을 찾아 연결하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Write / 스스로 다지기",
+     "desc": "대화를 듣고 가격을 숫자로 쓴 뒤 어구 완성하기, 사고 싶은 물건의 가격을 문장으로 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'u'가 들어가는 단어(hundred, run, sun) 소리 내어 읽고 쓰기, /ʌ/ 소리 구별하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "판매자와 구매자로 나누어 만 원으로 물건 네 개 사기, 물건 구입 표에 가격 문장 쓰고 발표하기 (전체)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "가격 문장 읽고 공중에 쓰기, 점원이 할 말과 알맞은 어구 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "The comic book is seven hundred won.",
+    "The pencil case is nine hundred won.",
+    "The soccer ball is five thousand won.",
+    "The toy car is two thousand won."
+   ],
+   "tip": "sun, run, hundred의 u는 짧게 /ʌ/(어) 소리가 나요. 입을 반쯤 벌리고 짧고 분명하게 소리 내요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 가격을 나타내는 문장을 읽고 이해하며 쓸 수 있는가? 소리 /ʌ/와 철자 'u'의 관계를 이해하며 단어를 읽고 쓸 수 있는가? '만 원으로 물건 사기'에 협력하며 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "comic book",
+       "📖"
+      ],
+      [
+       "pencil case",
+       "✏️"
+      ],
+      [
+       "soccer ball",
+       "⚽"
+      ],
+      [
+       "toy car",
+       "🚗"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🚗",
+     "choices": [
+      "comic book",
+      "toy car",
+      "soccer ball"
+     ],
+     "answer": 1,
+     "explain": "🚗는 장난감 자동차, toy car예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The pencil case is nine hundred won.",
+     "question": "필통의 가격은 얼마인가요?",
+     "choices": [
+      "₩900",
+      "₩9,000",
+      "₩90"
+     ],
+     "answer": 0,
+     "explain": "nine hundred는 900이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "bus",
+     "choices": [
+      "bus",
+      "bat",
+      "bed"
+     ],
+     "answer": 0,
+     "explain": "bus는 '버스'예요. 가운데 u가 /ʌ/ 소리를 내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "가운데 소리가 /ʌ/(u)인 단어를 고르세요.",
+     "choices": [
+      "hat",
+      "run",
+      "pen"
+     ],
+     "answer": 1,
+     "explain": "run은 u가 /ʌ/ 소리를 내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "☀️",
+     "choices": [
+      "sun",
+      "run",
+      "hundred"
+     ],
+     "answer": 0,
+     "explain": "☀️는 해, sun이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'달리다'를 영어로 하면?",
+     "emoji": "🏃",
+     "choices": [
+      "sun",
+      "cup",
+      "run"
+     ],
+     "answer": 2,
+     "explain": "'달리다'는 run이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The toy car is ___ thousand won.",
+     "ko": "그 장난감 자동차는 3,000원이야.",
+     "choices": [
+      "three",
+      "two",
+      "five"
+     ],
+     "answer": 0,
+     "explain": "3은 three예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The soccer ball is six thousand won.",
+     "question": "이 문장에 알맞은 가격표는?",
+     "choices": [
+      "⚽ ₩600",
+      "⚽ ₩6,000",
+      "🚗 ₩6,000"
+     ],
+     "answer": 1,
+     "explain": "soccer ball은 축구공, six thousand는 6,000이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "The comic book is seven hundred won.",
+     "choices": [
+      "📖 ₩700",
+      "📖 ₩7,000",
+      "🚗 ₩700"
+     ],
+     "answer": 0,
+     "explain": "comic book은 만화책, seven hundred는 700이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그 장난감 자동차는 2,000원이야.",
+     "answer": "The toy car is two thousand won.",
+     "distractors": [
+      "hundred",
+      "comic"
+     ],
+     "explain": "'그 ~는 …원이야.'는 'The ~ is … won.'이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "hundred, run, sun",
+     "ko": "백, 달리다, 해"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "필통",
+     "answers": [
+      "pencil case"
+     ],
+     "hint": "p e n c i l c _ _ e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "해, 태양",
+     "answers": [
+      "sun"
+     ],
+     "hint": "s _ n"
+    },
+    {
+     "type": "mc",
+     "prompt": "'u'가 들어가지 않는 단어를 고르세요.",
+     "choices": [
+      "sun",
+      "hundred",
+      "soccer"
+     ],
+     "answer": 2,
+     "explain": "soccer에는 u가 없어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 글자는? h_ndred (백)",
+     "choices": [
+      "a",
+      "u",
+      "o"
+     ],
+     "answer": 1,
+     "explain": "hundred의 u는 /ʌ/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The comic book is eight ___ won.",
+     "ko": "그 만화책은 800원이야.",
+     "choices": [
+      "thousand",
+      "hundred",
+      "eight"
+     ],
+     "answer": 1,
+     "explain": "100(백)은 hundred예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Clerk 1: The soccer ball is five thousand won.\nClerk 2: The comic book is seven hundred won.\nClerk 3: The pencil case is nine hundred won.",
+     "question": "만화책의 가격은 얼마인가요?",
+     "choices": [
+      "₩5,000",
+      "₩700",
+      "₩900"
+     ],
+     "answer": 1,
+     "explain": "'The comic book is seven hundred won.'이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "축구공 가격표에 ₩4,000이라고 쓰여 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How much is it?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "The soccer ball is four hundred won.",
+      "The toy car is four thousand won.",
+      "The soccer ball is four thousand won."
+     ],
+     "answer": 2,
+     "explain": "축구공은 soccer ball, 4,000은 four thousand예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그 필통은 500원이야.",
+     "answer": "The pencil case is five hundred won.",
+     "distractors": [
+      "thousand",
+      "toy"
+     ],
+     "explain": "필통은 pencil case, 500은 five hundred예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The comic book is one thousand won.",
+     "answer": "The comic book is one thousand won.",
+     "distractors": [
+      "hundred",
+      "car"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The pencil case is two hundred won.",
+     "ko": "그 필통은 200원이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그 만화책은 600원이야.",
+     "answers": [
+      "The comic book is six hundred won."
+     ],
+     "hint": "The c _ _ _ c book is six h _ _ _ _ _ d won."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축구공",
+     "answers": [
+      "soccer ball"
+     ],
+     "hint": "s o c c e r b _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "달리다",
+     "answers": [
+      "run"
+     ],
+     "hint": "r _ n"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I have ten thousand won. I buy a toy car. The toy car is two thousand won. I buy a soccer ball. The soccer ball is three thousand won.",
+     "question": "두 물건의 값을 합치면 얼마인가요?",
+     "choices": [
+      "₩3,000",
+      "₩5,000",
+      "₩10,000"
+     ],
+     "answer": 1,
+     "explain": "2,000원 + 3,000원 = 5,000원이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Price List\ncomic book: eight hundred won\ntoy car: two thousand won\npencil case: four hundred won\nsoccer ball: six thousand won",
+     "question": "6,000원짜리 물건은 무엇인가요?",
+     "choices": [
+      "comic book",
+      "toy car",
+      "pencil case",
+      "soccer ball"
+     ],
+     "answer": 3,
+     "explain": "soccer ball이 six thousand won(6,000원)이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The soccer ball is nine thousand won.",
+     "answer": "The soccer ball is nine thousand won.",
+     "distractors": [
+      "hundred",
+      "toy"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그 장난감 자동차는 400원이야.",
+     "answer": "The toy car is four hundred won.",
+     "distractors": [
+      "thousand",
+      "ball"
+     ],
+     "explain": "400은 four hundred예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "u가 모두 /ʌ/ 소리로 나는 단어끼리 묶인 것은?",
+     "choices": [
+      "sad - hat - cap",
+      "sun - run - bus",
+      "pen - bed - desk"
+     ],
+     "answer": 1,
+     "explain": "sun, run, bus의 u는 모두 /ʌ/ 소리가 나요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "필통 가격표에 ₩300이라고 쓰여 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How much is the pencil case?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "The pencil case is three thousand won.",
+      "The pencil case is three hundred won.",
+      "The comic book is three hundred won."
+     ],
+     "answer": 1,
+     "explain": "300은 three hundred예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The toy car is five hundred won. The pencil case is one thousand won.",
+     "ko": "그 장난감 자동차는 500원이야. 그 필통은 1,000원이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '빨간 모자' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 82~83쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "가격을 쓴 물건 그림 카드를 보고 'The comic book is seven hundred won.' 등의 문장을 읽고 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'빨간 모자' 원작 이야기하기, 그림 보고 이야기 추측, 만화 영화 보고 줄거리 이해, HOW ABOUT YOU?(늑대를 만나면 어떻게 할까?), 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 순서대로 번호 쓰기, 상황에 맞게 가격 묻고 답하기, 가격 문장 완성하기, 대화 장소 고르고 물건을 사는 이유 상상하여 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "1~4차시 성취도 점검, '정리해요' 쓰기, Special 4 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What day is it, Mom? - It's Saturday.",
+    "How much is it? - It's nine hundred won.",
+    "The toy car is five hundred won.",
+    "I'll take it."
+   ],
+   "tip": "역할극에서 물건과 가격을 바꾸어 말해 보세요. 실제 물건을 소품으로 쓰면 더 재미있어요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가, 단원평가(지필평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Little Red Riding Hood: What day is it, Mom?\nMom: It's Saturday. Put on your coat.",
+     "question": "오늘은 무슨 요일인가요?",
+     "choices": [
+      "금요일",
+      "토요일",
+      "일요일"
+     ],
+     "answer": 1,
+     "explain": "엄마가 'It's Saturday.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "필통은 900원이에요. 점원의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Red Riding Hood",
+       "text": "I like this pencil case. How much is it?"
+      },
+      {
+       "who": "Clerk",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's nine hundred won.",
+      "It's nine thousand won.",
+      "I'll take it."
+     ],
+     "answer": 0,
+     "explain": "900원은 nine hundred won이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "The toy car is five hundred won.",
+     "choices": [
+      "⚽ ₩500",
+      "🚗 ₩5,000",
+      "🚗 ₩500"
+     ],
+     "answer": 2,
+     "explain": "toy car는 장난감 자동차, five hundred는 500이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'apple'의 뜻으로 알맞은 것은?",
+     "emoji": "🍎",
+     "choices": [
+      "사과",
+      "배",
+      "포도"
+     ],
+     "answer": 0,
+     "explain": "apple은 사과예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "늑대가 문을 열어 줘요. 늑대의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Red Riding Hood",
+       "text": "Grandma, open the door, please."
+      },
+      {
+       "who": "Wolf",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Come in.",
+      "I'll take it.",
+      "It's Saturday."
+     ],
+     "answer": 0,
+     "explain": "'들어와.'는 'Come in.'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Put on your coat.",
+     "choices": [
+      "코트를 입어.",
+      "코트를 벗어.",
+      "코트를 사."
+     ],
+     "answer": 0,
+     "explain": "put on은 '(옷을) 입다'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have apples. Help ___.",
+     "ko": "사과가 있어요. 마음껏 드세요.",
+     "choices": [
+      "you",
+      "yourself",
+      "it"
+     ],
+     "answer": 1,
+     "explain": "음식을 권할 때 'Help yourself.'라고 해요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Open the door, please.",
+       "문을 열어 주세요."
+      ],
+      [
+       "Come in.",
+       "들어와."
+      ],
+      [
+       "Put on your coat.",
+       "코트를 입어."
+      ],
+      [
+       "I'll take it.",
+       "그것을 살게요."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Okay. Bye.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "미안해요.",
+      "고마워요.",
+      "알겠어요. 다녀올게요."
+     ],
+     "answer": 2,
+     "explain": "Okay는 '알겠어', Bye는 헤어질 때 하는 인사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I have apples.",
+     "choices": [
+      "🚗",
+      "🍎",
+      "🧥"
+     ],
+     "answer": 1,
+     "explain": "apples는 사과예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "할머니, 문 좀 열어 주세요.",
+     "answer": "Grandma, open the door, please.",
+     "distractors": [
+      "come",
+      "it"
+     ],
+     "explain": "부탁할 때 문장 끝에 please를 붙여요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What day is it, Mom? It's Saturday.",
+     "ko": "엄마, 무슨 요일이에요? 토요일이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "On Saturday, Red Riding Hood goes to Grandma's house. She buys a toy car. It's five hundred won. At Grandma's house, a wolf says, \"Come in.\" The wolf steps on the toy car. Oops!",
+     "question": "늑대가 미끄러진 이유는 무엇일까요?",
+     "choices": [
+      "사과를 먹어서",
+      "코트를 입어서",
+      "장난감 자동차를 밟아서"
+     ],
+     "answer": 2,
+     "explain": "'The wolf steps on the toy car.' 장난감 자동차를 밟았어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Red Riding Hood: How much is it?\nClerk: The toy car is five hundred won.\nRed Riding Hood: I'll take it.",
+     "question": "빨간 모자가 산 물건과 가격은 무엇인가요?",
+     "choices": [
+      "장난감 자동차 - 500원",
+      "필통 - 900원",
+      "만화책 - 500원"
+     ],
+     "answer": 0,
+     "explain": "장난감 자동차(toy car)가 500원(five hundred won)이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빨간 모자는 장난감 자동차를 사기로 했어요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "text": "The toy car is five hundred won."
+      },
+      {
+       "who": "Red Riding Hood",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Come in.",
+      "It's Saturday.",
+      "I'll take it."
+     ],
+     "answer": 2,
+     "explain": "사기로 했으면 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빨간 모자가 엄마에게 인사하고 나가요. 빨간 모자의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "It's Saturday. Put on your coat."
+      },
+      {
+       "who": "Red Riding Hood",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay. Bye.",
+      "How much is it?",
+      "Help yourself."
+     ],
+     "answer": 0,
+     "explain": "알겠다고 하고 인사할 때 'Okay. Bye.'라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ is it, Mom?",
+     "ko": "엄마, 무슨 요일이에요?",
+     "choices": [
+      "much",
+      "day",
+      "time"
+     ],
+     "answer": 1,
+     "explain": "요일을 물을 때 'What day is it?'이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like this pencil case. How much is it?",
+     "answer": "I like this pencil case. How much is it?",
+     "distractors": [
+      "many",
+      "that"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "토요일이야. 코트를 입어.",
+     "answer": "It's Saturday. Put on your coat.",
+     "distractors": [
+      "Sunday.",
+      "in"
+     ],
+     "explain": "'옷을 입다'는 put on이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "물건의 가격을 물을 때 하는 말은?",
+     "choices": [
+      "What day is it?",
+      "Where's my cap?",
+      "How much is it?"
+     ],
+     "answer": 2,
+     "explain": "가격은 'How much is it?'으로 물어요."
+    },
+    {
+     "type": "match",
+     "prompt": "질문과 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "How much is it?",
+       "It's nine hundred won."
+      ],
+      [
+       "What day is it?",
+       "It's Saturday."
+      ],
+      [
+       "Grandma, open the door, please.",
+       "Come in."
+      ],
+      [
+       "I have apples. Help yourself.",
+       "Thank you."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The toy car is five hundred won. I'll take it.",
+     "ko": "그 장난감 자동차는 500원이에요. 그것을 살게요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno: I want this comic book. How much is it?\nClerk: It's one thousand won.\nJuno: I'll take it.\nKate: How much is the pencil case?\nClerk: The pencil case is five hundred won.",
+     "question": "필통의 가격은 얼마인가요?",
+     "choices": [
+      "₩1,000",
+      "₩500",
+      "₩5,000",
+      "₩100"
+     ],
+     "answer": 1,
+     "explain": "점원이 'The pencil case is five hundred won.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A boy is at a sports shop.\nBoy: I like this soccer ball. How much is it?\nWoman: It's four thousand won.\nBoy: I'll take it.",
+     "question": "남자아이가 산 물건과 가격은 무엇인가요?",
+     "choices": [
+      "축구공 - 400원",
+      "만화책 - 4,000원",
+      "장난감 자동차 - 4,000원",
+      "축구공 - 4,000원"
+     ],
+     "answer": 3,
+     "explain": "축구공(soccer ball)이 four thousand won(4,000원)이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "장난감",
+     "answers": [
+      "toy"
+     ],
+     "hint": "t _ y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "천(1,000)",
+     "answers": [
+      "one thousand",
+      "a thousand"
+     ],
+     "hint": "one th _ _ _ _ _ d"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like this skirt. How much is it?",
+     "answer": "I like this skirt. How much is it?",
+     "distractors": [
+      "many",
+      "that"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그 만화책은 1,000원이야.",
+     "answer": "The comic book is one thousand won.",
+     "distractors": [
+      "hundred",
+      "ball"
+     ],
+     "explain": "1,000은 one thousand예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A는 필통을 사기로 했어요. A의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I like this pencil case. How much is it?"
+      },
+      {
+       "who": "B",
+       "text": "It's eight hundred won."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay. Bye.",
+      "Come in.",
+      "Good! I'll take it."
+     ],
+     "answer": 2,
+     "explain": "사기로 했으면 'I'll take it.'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 오늘 미술 수업이 있어서 같이 갈 수 없어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Let's go to the toy store."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'll take it.",
+      "It's five hundred won.",
+      "Sorry, I can't. I have an art class."
+     ],
+     "answer": 2,
+     "explain": "거절할 때 'Sorry, I can't.'라고 하고 이유를 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가장 큰 금액은?",
+     "choices": [
+      "nine hundred won",
+      "eight hundred won",
+      "two thousand won"
+     ],
+     "answer": 2,
+     "explain": "two thousand won(2,000원)이 가장 커요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like this comic book. How much is it? It's one thousand won. I'll take it.",
+     "ko": "나는 이 만화책이 마음에 들어. 얼마예요? 1,000원이에요. 그것을 살게요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "아이들이 재사용 가게에서 연필과 장난감 자동차의 가격을 물어봐요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "I like this pencil. How much is it?"
+    },
+    {
+     "who": "점원",
+     "text": "It's seven hundred won."
+    },
+    {
+     "who": "Eric",
+     "text": "It's nice. How much is it?"
+    },
+    {
+     "who": "점원",
+     "text": "It's two thousand won."
+    },
+    {
+     "who": "준오",
+     "text": "Oh, I have an idea."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "경복궁 기념품 가게에서 Kate는 한복 입은 인형을 사고, 준오는 Sam에게 지우개를 사 줘요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "How much is it?"
+    },
+    {
+     "who": "점원",
+     "text": "It's four thousand won."
+    },
+    {
+     "who": "Kate",
+     "text": "Good! I'll take it."
+    },
+    {
+     "who": "준오",
+     "text": "Two, please. This is for you."
+    },
+    {
+     "who": "Sam",
+     "text": "Oh, thank you."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "교실 바자회에서 Alice가 마음에 드는 물건의 가격을 묻고 사기로 해요.",
+   "lines": [
+    {
+     "who": "Alice",
+     "text": "It's nice. How much is it?"
+    },
+    {
+     "who": "하나",
+     "text": "It's three thousand won."
+    },
+    {
+     "who": "Alice",
+     "text": "I'll take it."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "할머니 댁에 가던 빨간 모자가 장난감 자동차를 사서 늑대를 골탕 먹여요.",
+   "lines": [
+    {
+     "who": "빨간 모자",
+     "text": "What day is it, Mom?"
+    },
+    {
+     "who": "엄마",
+     "text": "It's Saturday. Put on your coat."
+    },
+    {
+     "who": "빨간 모자",
+     "text": "How much is it?"
+    },
+    {
+     "who": "점원 2",
+     "text": "The toy car is five hundred won."
+    },
+    {
+     "who": "빨간 모자",
+     "text": "I'll take it."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 빨간 모자 (Little Red Riding Hood)",
+  "passage": "It's Saturday. Red Riding Hood puts on her coat and goes to Grandma's house. On the way, she visits a shop. \"How much is it?\" \"The pencil case is nine hundred won.\" Then she sees a toy car. It's five hundred won. \"I'll take it.\" At Grandma's house, a wolf is waiting! She puts the toy car on the floor. \"I have apples. Help yourself.\" The wolf steps on the car and falls down!",
+  "summaryKo": "토요일에 할머니 댁에 가던 빨간 모자가 가게에서 500원짜리 장난감 자동차를 사고, 할머니 댁에 있던 늑대가 그 자동차를 밟고 미끄러지게 만들어요."
+ },
+ "writing": {
+  "frame": [
+   "The ____ is ____ hundred won.",
+   "The ____ is ____ thousand won."
+  ],
+  "model": "The comic book is seven hundred won. The soccer ball is three thousand won."
+ },
+ "project": "반 전체를 판매자 팀과 구매자 팀으로 나누어, 판매자는 물건 그림 카드 뒷면에 3,000원 이하의 가격을 쓰고 구매자는 만 원으로 물건 네 개를 사며 'How much is it?' 'It's ... won.' 'I'll take it.'을 주고받은 뒤, 물건 구입 표에 가격 문장을 써서 발표한다(역할을 바꾸어 한 번 더).",
+ "special": {
+  "no": 4,
+  "kind": "CULTURE · PROJECT",
+  "pages": "교과서 84~85쪽",
+  "title": "세계 여러 나라의 화폐 단위를 알아봐요 · 나의 일정표 만들기",
+  "summaryKo": "CULTURE에서는 Momo와 함께 미국의 달러, 중국의 위안, 프랑스의 유로, 일본의 엔 등 나라마다 다른 화폐 단위를 알아보고 나라와 화폐를 연결한 뒤, 모둠별로 우리 반 화폐의 이름과 액수를 정해 화폐를 만들어 소개해요. 'Let's Try!'에서는 그림 사전을 완성하며 7·8단원 어구를 복습하고, PROJECT에서는 붙임쪽지에 원하는 방과 후 수업을 그리고 써서 월요일~일요일 일정표를 만든 뒤 'It's Monday. I have a cooking class.'처럼 발표해요.",
+  "facts": [
+   "나라마다 화폐의 모양과 단위가 달라요. 우리나라는 원(₩), 미국은 달러($), 중국은 위안(¥), 일본은 엔(¥), 프랑스는 유로(€)를 써요.",
+   "Momo가 다른 나라에서 가격을 들으면 'It's ten dollars.', 'It's one hundred yuan.', 'It's ten euros.', 'It's one thousand yen.'처럼 말해요.",
+   "달러는 캐나다, 홍콩, 싱가포르 등에서도 쓰는 화폐 단위지만, 흔히 '달러'라고 하면 미국 달러를 말해요. 미국 달러는 나라 사이의 거래에도 널리 쓰여요.",
+   "유로는 유럽 연합(EU)의 단일 화폐로 1999년부터 쓰이기 시작했고, EU에 가입한 20여 개 나라에서 함께 사용해요.",
+   "1달러, 1파운드, 1위안이 우리나라 돈으로 얼마인지는 인터넷으로 검색해 볼 수 있어요."
+  ],
+  "expressions": [
+   "How much is it? — It's ten dollars. / It's one thousand yen.",
+   "It's Monday. I have a cooking class.",
+   "I like this toy car. How much is it? — It's two thousand won."
+  ],
+  "exercises": []
+ }
+}

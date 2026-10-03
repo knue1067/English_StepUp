@@ -1,0 +1,3213 @@
+{
+ "id": "L04",
+ "no": 4,
+ "grade": 6,
+ "semester": 1,
+ "title": "Why Are You Happy?",
+ "emoji": "😊",
+ "rationale": "일상생활에서 친구의 감정이나 상태를 파악하여 이유를 묻고 위로하는 말을 하며 관심을 표현하게 된다. 감정이나 상태의 이유를 묻고 답하는 말과 위로하는 말을 익혀 다른 사람의 감정을 자연스럽게 이해하고, 이유를 묻고 답하며 위로하는 문자 메시지를 읽고 완성하며 타인을 배려하는 심성을 기르고자 한다.",
+ "topics": "학교생활 관련(교우 관계), 개인생활 관련(취미)",
+ "functions": [
+  {
+   "ko": "감정이나 상태의 이유 묻고 답하기",
+   "examples": [
+    "Why are you happy?",
+    "Because I got a black belt."
+   ]
+  },
+  {
+   "ko": "위로하기",
+   "examples": [
+    "Don't worry."
+   ]
+  }
+ ],
+ "forms": [
+  "Why are you sad? – Because I can't find my bike.",
+  "Don't worry. I'll help you."
+ ],
+ "newWords": [
+  {
+   "en": "because",
+   "ko": "~ 때문에"
+  },
+  {
+   "en": "belt",
+   "ko": "띠, 벨트 (black belt 검은 띠)"
+  },
+  {
+   "en": "birdhouse",
+   "ko": "새집"
+  },
+  {
+   "en": "break",
+   "ko": "부수다, 망가뜨리다 (과거형 broke)"
+  },
+  {
+   "en": "congratulation",
+   "ko": "축하 (Congratulations! 축하해!)"
+  },
+  {
+   "en": "test",
+   "ko": "시험"
+  },
+  {
+   "en": "why",
+   "ko": "왜"
+  },
+  {
+   "en": "worry",
+   "ko": "걱정하다 (Don't worry. 걱정하지 마.)"
+  },
+  {
+   "en": "wrong",
+   "ko": "잘못된 (What's wrong? 무슨 일이야?)"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "My dog is sick.",
+   "ko": "우리 개가 아파.",
+   "emoji": "🐶"
+  },
+  {
+   "en": "I have a math test.",
+   "ko": "나는 수학 시험이 있어.",
+   "emoji": "📝"
+  },
+  {
+   "en": "I got a black belt.",
+   "ko": "나는 검은 띠를 땄어.",
+   "emoji": "🥋"
+  },
+  {
+   "en": "I went to bed late.",
+   "ko": "나는 늦게 잤어.",
+   "emoji": "🌙"
+  },
+  {
+   "en": "I cleaned my house.",
+   "ko": "나는 집을 청소했어.",
+   "emoji": "🧹"
+  },
+  {
+   "en": "My brother broke my robot.",
+   "ko": "남동생이 내 로봇을 망가뜨렸어.",
+   "emoji": "🤖"
+  },
+  {
+   "en": "happy",
+   "ko": "행복한",
+   "emoji": "😊"
+  },
+  {
+   "en": "sad",
+   "ko": "슬픈",
+   "emoji": "😢"
+  },
+  {
+   "en": "angry",
+   "ko": "화난",
+   "emoji": "😠"
+  },
+  {
+   "en": "tired",
+   "ko": "피곤한",
+   "emoji": "😫"
+  },
+  {
+   "en": "sleepy",
+   "ko": "졸린",
+   "emoji": "🥱"
+  },
+  {
+   "en": "worried",
+   "ko": "걱정하는",
+   "emoji": "😟"
+  }
+ ],
+ "characters": [
+  "우주",
+  "Mohan",
+  "Linh",
+  "Tom",
+  "Amy",
+  "Mr. Smith",
+  "Olivia",
+  "Jesse",
+  "민우",
+  "Noah",
+  "나리",
+  "Uncle Fred",
+  "슈바이처 박사"
+ ],
+ "goals": {
+  "understand": [
+   "감정이나 상태의 이유를 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "위로하는 말을 듣고 이해할 수 있다.",
+   "감정이나 상태의 이유를 묻고 답하는 글을 읽고 이해할 수 있다.",
+   "감정이나 상태의 이유를 묻고 답하며 위로하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "감정이나 상태의 이유를 묻고 답하는 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "감정이나 상태의 이유를 묻고 답하는 말을 할 수 있다.",
+   "위로하는 말을 할 수 있다.",
+   "감정이나 상태의 이유를 묻고 답하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 감정이나 상태의 이유를 묻고 답하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-06",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "감정이나 상태의 이유 묻고 답하기",
+   "objectives": [
+    "감정이나 상태의 이유를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 49~51쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Sentences",
+     "desc": "슬퍼하는 아이 그림을 보고 이유 추측하기, 최근 가장 행복했던 때와 이유 이야기하기, 이유 문장 붙임딱지 붙이고 Sentence Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "교실에서 Mohan이 검은 띠를 따서 행복하고 Linh은 개가 아파서 슬픈 만화 영화 보고 이유 쓰기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Match / Practice 1",
+     "desc": "대화를 듣고 감정·상태의 이유 그림 연결하기, 여섯 가지 감정과 이유 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "징검다리에 표정 네 개를 그리고, 교사가 가리킨 감정의 이유를 묻고 들으며 같은 표정을 색칠하기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "교사의 표정을 보고 이유 묻기, 듣고 ○╳ 문제 풀기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Why are you happy?",
+    "Because I got a black belt.",
+    "Why are you sad?",
+    "Because my dog is sick."
+   ],
+   "tip": "이유를 물을 때는 'Why are you + 감정?', 답할 때는 'Because + 이유.'로 말해요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 감정이나 상태의 이유를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "감정을 나타내는 말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "happy",
+       "행복한"
+      ],
+      [
+       "sad",
+       "슬픈"
+      ],
+      [
+       "angry",
+       "화난"
+      ],
+      [
+       "tired",
+       "피곤한"
+      ],
+      [
+       "sleepy",
+       "졸린"
+      ],
+      [
+       "worried",
+       "걱정하는"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I got a black belt.",
+       "나는 검은 띠를 땄어."
+      ],
+      [
+       "My dog is sick.",
+       "우리 개가 아파."
+      ],
+      [
+       "I went to bed late.",
+       "나는 늦게 잤어."
+      ],
+      [
+       "I have a math test.",
+       "나는 수학 시험이 있어."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'why'의 뜻은?",
+     "choices": [
+      "왜",
+      "언제",
+      "어디에",
+      "누가"
+     ],
+     "answer": 0,
+     "explain": "why는 '왜'예요. Why are you happy? = 너는 왜 행복하니?"
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 감정은?",
+     "emoji": "🥱",
+     "choices": [
+      "worried",
+      "angry",
+      "sleepy",
+      "happy"
+     ],
+     "answer": 2,
+     "explain": "하품하는 아이는 졸려요(sleepy)."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Why are you happy?",
+     "choices": [
+      "너는 언제 행복하니?",
+      "너는 왜 행복하니?",
+      "너는 행복하니?"
+     ],
+     "answer": 1,
+     "explain": "Why는 '왜'예요. 행복한 이유를 묻고 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 이유로 알맞은 것을 고르세요.",
+     "audio": "My dog is sick.",
+     "choices": [
+      "개가 아파서",
+      "개가 없어져서",
+      "개가 행복해서"
+     ],
+     "answer": 0,
+     "explain": "My dog is sick. = 우리 개가 아파."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan은 태권도 검은 띠를 따서 행복해요. Mohan의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Why are you happy?"
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because my dog is sick.",
+      "Because I got a black belt.",
+      "I'm very happy."
+     ],
+     "answer": 1,
+     "explain": "이유를 물으면 'Because ....'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 우주의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "?"
+      },
+      {
+       "who": "Linh",
+       "text": "Because my dog is sick."
+      }
+     ],
+     "choices": [
+      "What's your name?",
+      "Why are you happy?",
+      "Why are you sad?"
+     ],
+     "answer": 2,
+     "explain": "개가 아픈 것은 슬픈 이유예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ are you tired?",
+     "ko": "너는 왜 피곤하니?",
+     "choices": [
+      "When",
+      "Why",
+      "What"
+     ],
+     "answer": 1,
+     "explain": "'왜'는 Why예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 화가 났니?",
+     "answer": "Why are you angry?",
+     "distractors": [
+      "When",
+      "is"
+     ],
+     "explain": "Why are you + 감정?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Because I went to bed late.",
+     "answer": "Because I went to bed late.",
+     "distractors": [
+      "go",
+      "early."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you happy?",
+     "ko": "너는 왜 행복하니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "'Because I went to bed late.'는 어떤 상태의 이유일까요?",
+     "choices": [
+      "worried",
+      "happy",
+      "angry",
+      "sleepy"
+     ],
+     "answer": 3,
+     "explain": "늦게 자서 졸린(sleepy) 거예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 화가 난 이유를 고르세요.",
+     "audio": "Why are you angry? — Because my brother broke my robot.",
+     "choices": [
+      "🤖 로봇이 망가져서",
+      "📝 시험이 있어서",
+      "🐶 개가 아파서"
+     ],
+     "answer": 0,
+     "explain": "My brother broke my robot. = 남동생이 내 로봇을 망가뜨렸어."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you worried? — Because I have a math ___.",
+     "ko": "너는 왜 걱정하니? — 수학 시험이 있어서.",
+     "choices": [
+      "belt",
+      "robot",
+      "test"
+     ],
+     "answer": 2,
+     "explain": "시험 = test."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you sleepy? — ___ I went to bed late.",
+     "ko": "너는 왜 졸리니? — 늦게 자서.",
+     "choices": [
+      "Why",
+      "And",
+      "Because"
+     ],
+     "answer": 2,
+     "explain": "이유를 말할 때는 Because를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "I'm tired."
+      },
+      {
+       "who": "Girl",
+       "text": "Why are you tired?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because I got a black belt.",
+      "Yes, I am.",
+      "Because I cleaned my house."
+     ],
+     "answer": 2,
+     "explain": "집을 청소해서 피곤한 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "You look happy."
+      },
+      {
+       "who": "Mohan",
+       "text": "Yeah. I got a black belt in taekwondo. Look!"
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't be sad.",
+      "Why are you sad?",
+      "Wow, that's great. Congratulations!"
+     ],
+     "answer": 2,
+     "explain": "좋은 일이 생긴 친구에게 'Congratulations!(축하해!)'라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Linh, 너는 왜 슬프니?",
+     "answer": "Linh, why are you sad?",
+     "distractors": [
+      "When",
+      "is"
+     ],
+     "explain": "이름을 부른 뒤 Why are you sad?로 물어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 수학 시험이 있어서.",
+     "answer": "Because I have a math test.",
+     "distractors": [
+      "has",
+      "Why"
+     ],
+     "explain": "Because + 이유 문장."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you sleepy? Because I went to bed late.",
+     "answer": "Why are you sleepy? Because I went to bed late.",
+     "distractors": [
+      "When",
+      "go"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Because I got a black belt in taekwondo.",
+     "ko": "태권도 검은 띠를 땄기 때문이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "왜",
+     "answers": [
+      "why"
+     ],
+     "hint": "w _ y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 왜 졸리니?",
+     "answers": [
+      "Why are you sleepy?"
+     ],
+     "hint": "___ are you ______?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리 개가 아파서.",
+     "answers": [
+      "Because my dog is sick."
+     ],
+     "hint": "Because my ___ is ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 걱정하니? 수학 시험이 있어서.",
+     "answer": "Why are you worried? Because I have a math test.",
+     "distractors": [
+      "When",
+      "has"
+     ],
+     "explain": "Why are you ...? 다음 Because ....로 답해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you angry? Because my brother broke my robot.",
+     "answer": "Why are you angry? Because my brother broke my robot.",
+     "distractors": [
+      "sister",
+      "When"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mohan",
+       "text": "What's wrong, Linh? Are you sad?"
+      },
+      {
+       "who": "Linh",
+       "text": "Yes, I am. I'm very sad."
+      },
+      {
+       "who": "우주",
+       "text": "Why are you sad?"
+      },
+      {
+       "who": "Linh",
+       "text": "Because my dog is sick."
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't be sad, Linh. Your dog will be okay.",
+      "Congratulations, Linh!",
+      "Why are you happy?"
+     ],
+     "answer": 0,
+     "explain": "슬픈 친구에게 '슬퍼하지 마. 괜찮아질 거야.'라고 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ben is happy today because he got a black belt. Ann is tired. She cleaned her house. Kai is sleepy because he went to bed late.",
+     "question": "Ann이 피곤한 이유는?",
+     "choices": [
+      "검은 띠를 따서",
+      "집을 청소해서",
+      "늦게 자서"
+     ],
+     "answer": 1,
+     "explain": "'Ann is tired. She cleaned her house.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mom: You look angry, Jin. Why are you angry?\nJin: Because my little brother broke my robot.\nMom: Oh, that's too bad.",
+     "question": "Jin이 화가 난 이유는?",
+     "choices": [
+      "남동생이 아파서",
+      "로봇을 잃어버려서",
+      "남동생이 로봇을 망가뜨려서"
+     ],
+     "answer": 2,
+     "explain": "'my little brother broke my robot'이라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 'I'm worried.'라고 했어요. 이어서 할 질문으로 알맞은 것은?",
+     "choices": [
+      "Congratulations!",
+      "Why are you worried?",
+      "When are you worried?"
+     ],
+     "answer": 1,
+     "explain": "걱정하는 이유를 물어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you tired? Because I cleaned my house.",
+     "ko": "너는 왜 피곤하니? 집을 청소해서."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "감정이나 상태의 이유 묻고 답하기 / 위로하기",
+   "objectives": [
+    "감정이나 상태의 이유를 묻고 답하는 말을 할 수 있다.",
+    "위로하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 52~53쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "이유 그림 카드로 복습하기, 수학 시험을 걱정하는 아이 그림을 보고 위로하는 말 'Don't worry.' 알아보기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "목공예 체험장에서 새집을 만들며 만들기를 잘 못해 걱정하는 Amy를 Tom이 위로하는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "Olivia·Jesse·민우, Noah·나리의 동영상으로 표현 익히기, 짝과 감정 이유 묻고 답하며 위로하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "주사위를 굴려 나온 표정의 이유를 묻고 답하고, 슬프거나 걱정하는 그림이 나오면 'Don't worry.'라고 말하며 빙고 칸 색칠하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Why are you worried?",
+    "Because I'm not good at making things.",
+    "Don't worry."
+   ],
+   "tip": "걱정하거나 슬퍼하는 친구에게 'Don't worry.'라고 위로하고, 'I'll help you.'나 'Let's ... together.'를 덧붙여 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 감정이나 상태의 이유를 묻고 답하는 말을 할 수 있는가? 위로하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "worry",
+       "걱정하다"
+      ],
+      [
+       "wrong",
+       "잘못된"
+      ],
+      [
+       "birdhouse",
+       "새집"
+      ],
+      [
+       "test",
+       "시험"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Don't worry.'의 뜻은?",
+     "choices": [
+      "축하해.",
+      "기다려.",
+      "걱정하지 마.",
+      "잘했어."
+     ],
+     "answer": 2,
+     "explain": "Don't worry.는 걱정하는 사람을 위로하는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 걱정하고 있어요. 위로하는 말로 알맞은 것은?",
+     "emoji": "😟",
+     "choices": [
+      "Good job!",
+      "I can't wait!",
+      "Don't worry.",
+      "Congratulations!"
+     ],
+     "answer": 2,
+     "explain": "위로할 때 'Don't worry.'라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't worry.",
+     "choices": [
+      "화내지 마.",
+      "슬퍼하지 마.",
+      "걱정하지 마."
+     ],
+     "answer": 2,
+     "explain": "worry = 걱정하다."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 걱정하는 이유를 고르세요.",
+     "audio": "Why are you worried? — Because I'm not good at making things.",
+     "choices": [
+      "시험이 있어서",
+      "만들기를 잘 못해서",
+      "새를 좋아해서"
+     ],
+     "answer": 1,
+     "explain": "not good at making things = 만들기를 잘 못하다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Amy, what's wrong?"
+      },
+      {
+       "who": "Amy",
+       "text": "I'm worried."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Why are you happy?",
+      "Good job!",
+      "Why are you worried?"
+     ],
+     "answer": 2,
+     "explain": "걱정한다고 했으니 그 이유를 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom이 Amy를 위로하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Because I'm not good at making things."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. Let's make it together.",
+      "Why are you tired?",
+      "Congratulations!"
+     ],
+     "answer": 0,
+     "explain": "걱정하는 친구를 위로하고 함께하자고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___.",
+     "ko": "걱정하지 마.",
+     "choices": [
+      "worry",
+      "wait",
+      "wrong"
+     ],
+     "answer": 0,
+     "explain": "걱정하다 = worry."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What's ___, Amy?",
+     "ko": "무슨 일이야, Amy?",
+     "choices": [
+      "wrong",
+      "why",
+      "worry"
+     ],
+     "answer": 0,
+     "explain": "What's wrong? = 무슨 일 있니?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "걱정하지 마.",
+     "answer": "Don't worry.",
+     "distractors": [
+      "Do",
+      "worried."
+     ],
+     "explain": "Don't + worry."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's make birdhouses.",
+     "answer": "Let's make birdhouses.",
+     "distractors": [
+      "birdhouse.",
+      "made"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't worry.",
+     "ko": "걱정하지 마."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 위로하는 말이 아닌 것은?",
+     "choices": [
+      "Don't be sad.",
+      "You'll be okay.",
+      "Don't worry.",
+      "I can't wait!"
+     ],
+     "answer": 3,
+     "explain": "I can't wait!은 기대를 나타내는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 남자아이가 한 말을 고르세요.",
+     "audio": "Why are you worried? — Because I have a math test. — Don't worry. Let's study together.",
+     "choices": [
+      "함께 놀자고 했다",
+      "함께 공부하자고 했다",
+      "시험을 보지 말자고 했다"
+     ],
+     "answer": 1,
+     "explain": "Let's study together. = 같이 공부하자."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'll ___ you.",
+     "ko": "내가 도와줄게.",
+     "choices": [
+      "help",
+      "find",
+      "make"
+     ],
+     "answer": 0,
+     "explain": "돕다 = help."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You're really good ___ this.",
+     "ko": "너 이거 정말 잘한다.",
+     "choices": [
+      "in",
+      "on",
+      "at"
+     ],
+     "answer": 2,
+     "explain": "be good at ~ = ~을 잘하다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jesse는 집을 청소했어요. Jesse의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Olivia",
+       "text": "You look tired. Why are you tired?"
+      },
+      {
+       "who": "Jesse",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry.",
+      "Because I have a math test.",
+      "Because I cleaned my house."
+     ],
+     "answer": 2,
+     "explain": "집을 청소해서 피곤한 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Noah의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Noah",
+       "text": "Why are you worried?"
+      },
+      {
+       "who": "나리",
+       "text": "Because I have a math test."
+      },
+      {
+       "who": "Noah",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. Let's study together.",
+      "Congratulations!",
+      "Why are you angry?"
+     ],
+     "answer": 0,
+     "explain": "걱정하는 친구를 위로하는 말이 알맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "함께 만들자.",
+     "answer": "Let's make it together.",
+     "distractors": [
+      "Let",
+      "makes"
+     ],
+     "explain": "Let's + 동사 + together."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Amy, 무슨 일이야?",
+     "answer": "Amy, what's wrong?",
+     "distractors": [
+      "why",
+      "is"
+     ],
+     "explain": "무슨 일이 있는지 물을 때 What's wrong?이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Thank you. You can do it, too.",
+     "answer": "Thank you. You can do it, too.",
+     "distractors": [
+      "can't",
+      "it."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't worry. Let's study together.",
+     "ko": "걱정하지 마. 같이 공부하자."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "슬퍼하지 마.",
+     "answers": [
+      "Don't be sad.",
+      "Do not be sad."
+     ],
+     "hint": "Don't be ___."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 왜 슬프니?",
+     "answers": [
+      "Why are you sad?"
+     ],
+     "hint": "Why are you ___?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "걱정하지 마. 내가 도와줄게.",
+     "answers": [
+      "Don't worry. I'll help you.",
+      "Don't worry. I will help you."
+     ],
+     "hint": "Don't worry. I'll ____ you."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Because I'm not good at making things. It looks difficult.",
+     "answer": "Because I'm not good at making things. It looks difficult.",
+     "distractors": [
+      "bad",
+      "make"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 만들기를 잘 못해서.",
+     "answer": "Because I'm not good at making things.",
+     "distractors": [
+      "make",
+      "Why"
+     ],
+     "explain": "be not good at ~ing = ~을 잘 못하다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mina의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mina",
+       "text": "Why are you sad, Leo?"
+      },
+      {
+       "who": "Leo",
+       "text": "Because I can't find my cap."
+      },
+      {
+       "who": "Mina",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. I'll help you find it.",
+      "Good job!",
+      "Because I got a cap."
+     ],
+     "answer": 0,
+     "explain": "물건을 못 찾아 슬픈 친구를 위로하고 도와주겠다고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mr. Smith says, \"Let's make birdhouses.\" Amy is worried because she is not good at making things. Tom says, \"Don't worry. Let's make it together.\" Amy feels better.",
+     "question": "Tom이 Amy에게 한 일은?",
+     "choices": [
+      "Amy에게 축하한다고 했다",
+      "새집을 대신 만들어 주었다",
+      "함께 만들자고 위로했다"
+     ],
+     "answer": 2,
+     "explain": "'Don't worry. Let's make it together.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jesse is tired because he cleaned his house. Minu is angry because his brother broke his robot. Nari is worried. She has a math test.",
+     "question": "글의 내용과 맞지 않는 것은?",
+     "choices": [
+      "민우는 시험 때문에 걱정한다.",
+      "Jesse는 집을 청소해서 피곤하다.",
+      "나리는 수학 시험이 있다."
+     ],
+     "answer": 0,
+     "explain": "민우는 남동생이 로봇을 망가뜨려서 화가 났어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Uju가 Linh에게 'You're really good at this.'라고 했어요. 무슨 뜻일까요?",
+     "choices": [
+      "너 이거 정말 좋아하는구나.",
+      "너 이거 정말 어렵구나.",
+      "너 이거 정말 잘한다."
+     ],
+     "answer": 2,
+     "explain": "be good at ~ = ~을 잘하다."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you worried? Because I'm not good at making things.",
+     "ko": "너는 왜 걱정하니? 나는 만들기를 잘 못해서."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "감정이나 상태의 이유를 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "감정이나 상태의 이유를 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 감정이나 상태의 이유를 묻고 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 54~55쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화하기, 하품하는 아이 사진을 보며 'Because I went to bed late.' 단어별로 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "감정 이유를 묻고 답하는 말풍선을 읽고 빈 말풍선에 알맞은 문장을 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 어구를 골라 이유 문장 완성하기, 문장 읽고 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "회전판 그림에 맞게 이유 문장을 완성하고, 종이 집게를 돌려 나온 감정과 이유로 묻고 답하며 별 색칠하기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림을 보고 질문에 알맞은 답 고르기, 알맞은 감정 단어 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Why are you sad?",
+    "Because my dog is sick.",
+    "Why are you worried?",
+    "Because I have a math test."
+   ],
+   "tip": "because는 b-e-c-a-u-s-e, 철자를 기억해요. 이유 문장은 Because로 시작해요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 감정이나 상태의 이유를 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "질문과 알맞은 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Why are you sad?",
+       "Because my dog is sick."
+      ],
+      [
+       "Why are you worried?",
+       "Because I have a math test."
+      ],
+      [
+       "Why are you angry?",
+       "Because my brother broke my robot."
+      ],
+      [
+       "Why are you sleepy?",
+       "Because I went to bed late."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 아이가 검은 띠를 들고 웃고 있어요. 알맞은 문장은?",
+     "emoji": "🥋",
+     "choices": [
+      "Because I got a black belt.",
+      "Because my dog is sick.",
+      "Because I have a math test."
+     ],
+     "answer": 0,
+     "explain": "검은 띠를 따서 행복한 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "becuase",
+      "bicause",
+      "becaus",
+      "because"
+     ],
+     "answer": 3,
+     "explain": "because = b-e-c-a-u-s-e."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "worryed",
+      "worried",
+      "wurried",
+      "woried"
+     ],
+     "answer": 1,
+     "explain": "worried = w-o-r-r-i-e-d."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you ___? — Because I cleaned my house.",
+     "ko": "너는 왜 피곤하니? — 집을 청소해서.",
+     "choices": [
+      "tired",
+      "angry",
+      "happy"
+     ],
+     "answer": 0,
+     "explain": "청소를 해서 피곤해요(tired)."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Because I ___ a black belt.",
+     "ko": "검은 띠를 따서.",
+     "choices": [
+      "got",
+      "went",
+      "get"
+     ],
+     "answer": 0,
+     "explain": "땄다 = got."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 감정을 고르세요.",
+     "audio": "Why are you worried? Because I have a math test.",
+     "choices": [
+      "😠 화남",
+      "😊 행복",
+      "😟 걱정"
+     ],
+     "answer": 2,
+     "explain": "worried = 걱정하는."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 로봇이 망가져서 화가 났어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Why are you angry?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because I'm happy.",
+      "Because my brother broke my robot.",
+      "Because I got a black belt."
+     ],
+     "answer": 1,
+     "explain": "로봇이 망가져서 화가 났어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 피곤하니?",
+     "answer": "Why are you tired?",
+     "distractors": [
+      "When",
+      "tire"
+     ],
+     "explain": "Why are you tired?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 늦게 자서.",
+     "answer": "Because I went to bed late.",
+     "distractors": [
+      "go",
+      "early."
+     ],
+     "explain": "늦게 자다 = go to bed late (과거 went)."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you sad? Because my dog is sick.",
+     "answer": "Why are you sad? Because my dog is sick.",
+     "distractors": [
+      "cat",
+      "When"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you angry? Because my brother broke my robot.",
+     "ko": "너는 왜 화가 났니? 남동생이 내 로봇을 망가뜨려서."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you ___? — Because I went to bed late.",
+     "ko": "너는 왜 졸리니? — 늦게 자서.",
+     "choices": [
+      "happy",
+      "worried",
+      "sleepy"
+     ],
+     "answer": 2,
+     "explain": "늦게 자면 졸려요(sleepy)."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Because my ___ is sick.",
+     "ko": "우리 개가 아파서.",
+     "choices": [
+      "test",
+      "dog",
+      "robot"
+     ],
+     "answer": 1,
+     "explain": "개 = dog."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 말이 바르게 짝지어진 것은? 'Why are you ___? Because I have a math test.' / 'Why are you ___? Because I got a black belt.'",
+     "choices": [
+      "sad / tired",
+      "happy / worried",
+      "angry / sleepy",
+      "worried / happy"
+     ],
+     "answer": 3,
+     "explain": "시험이 있으면 걱정(worried), 검은 띠를 따면 행복(happy)해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Why are you sad?\nB: Because my cat is sick.\nA: Don't worry.",
+     "question": "B가 슬픈 이유는?",
+     "choices": [
+      "시험이 있어서",
+      "고양이가 아파서",
+      "개가 아파서"
+     ],
+     "answer": 1,
+     "explain": "'Because my cat is sick.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Why are you ___?\nB: Because I cleaned my house.",
+     "question": "빈칸에 알맞은 단어는?",
+     "choices": [
+      "tired",
+      "sleepy",
+      "happy"
+     ],
+     "answer": 0,
+     "explain": "청소를 해서 피곤해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Why are you happy?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because I have a math test.",
+      "Because it's my birthday.",
+      "Because my dog is sick."
+     ],
+     "answer": 1,
+     "explain": "생일이라서 행복한 거예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 졸리니?",
+     "answer": "Why are you sleepy?",
+     "distractors": [
+      "When",
+      "sleep"
+     ],
+     "explain": "Why are you sleepy?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 집을 청소해서.",
+     "answer": "Because I cleaned my house.",
+     "distractors": [
+      "clean",
+      "Why"
+     ],
+     "explain": "청소했다 = cleaned."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you happy? Because I got a black belt.",
+     "answer": "Why are you happy? Because I got a black belt.",
+     "distractors": [
+      "get",
+      "When"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you sleepy? Because I went to bed late.",
+     "ko": "너는 왜 졸리니? 늦게 자서."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "행복한",
+     "answers": [
+      "happy"
+     ],
+     "hint": "h _ p p y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "피곤한",
+     "answers": [
+      "tired"
+     ],
+     "hint": "t _ r _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 왜 화가 났니?",
+     "answers": [
+      "Why are you angry?"
+     ],
+     "hint": "Why are you _____?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리 고양이가 아파서.",
+     "answers": [
+      "Because my cat is sick."
+     ],
+     "hint": "Because my ___ is ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 행복하니? 새 자전거를 사서.",
+     "answer": "Why are you happy? Because I got a new bike.",
+     "distractors": [
+      "When",
+      "get"
+     ],
+     "explain": "Because I got a new bike. = 새 자전거가 생겨서."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you worried? Because I have a science test.",
+     "answer": "Why are you worried? Because I have a science test.",
+     "distractors": [
+      "math",
+      "has"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Feelings Wheel\n1 happy - I got a black belt.\n2 sad - My dog is sick.\n3 angry - My brother broke my robot.\n4 tired - I cleaned my house.\n5 sleepy - I went to bed late.\n6 worried - I have a math test.",
+     "question": "'Why are you worried?'에 알맞은 대답은?",
+     "choices": [
+      "Because I have a math test.",
+      "Because I got a black belt.",
+      "Because I went to bed late."
+     ],
+     "answer": 0,
+     "explain": "6번 worried의 이유는 수학 시험이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ted의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "You look sleepy, Ted."
+      },
+      {
+       "who": "Ted",
+       "text": "Yes, I am."
+      },
+      {
+       "who": "Coach",
+       "text": "Why are you sleepy?"
+      },
+      {
+       "who": "Ted",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because I played games late at night.",
+      "Because I got a black belt.",
+      "Because I'm happy."
+     ],
+     "answer": 0,
+     "explain": "밤늦게까지 게임을 해서 졸린 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 대화에서 어색한 것은?",
+     "choices": [
+      "A: Why are you happy? B: Because my dog is sick.",
+      "A: Why are you tired? B: Because I cleaned my house.",
+      "A: Why are you worried? B: Because I have a math test.",
+      "A: Why are you sad? B: Because my dog is sick."
+     ],
+     "answer": 0,
+     "explain": "개가 아픈 것은 행복한 이유가 아니에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you happy? Because I got a new bike.",
+     "ko": "너는 왜 행복하니? 새 자전거를 사서."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "감정이나 상태의 이유를 묻고 답하는 글 읽고 이해하기",
+   "objectives": [
+    "감정이나 상태의 이유를 묻고 답하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 56~57쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장을 듣고 그림 가리키기, 다양한 표정의 이모티콘을 보고 할 말 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "행복하거나 걱정했던 경험 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "자전거를 못 찾아 슬픈 남자아이와 엄마, 테니스 시합이 걱정되는 여자아이와 Fred 삼촌의 휴대 전화 문자 메시지를 듣고 따라 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "인물의 표정을 그리고 그 이유 쓰기, 야구 시합을 걱정하는 대화 읽고 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "로봇을 못 찾는 대화를 읽고 그림과 물건 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Why are you sad?",
+    "Because I can't find my bike.",
+    "Don't worry. I'll help you.",
+    "Because I have a tennis game next week."
+   ],
+   "tip": "문자 메시지의 이모티콘(😢, 😟)을 보면 인물의 감정을 짐작할 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 감정이나 상태의 이유를 묻고 답하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "library",
+       "도서관"
+      ],
+      [
+       "park",
+       "공원"
+      ],
+      [
+       "tomorrow",
+       "내일"
+      ],
+      [
+       "next week",
+       "다음 주"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Where are you now?",
+       "지금 어디니?"
+      ],
+      [
+       "I'll be there.",
+       "내가 거기로 갈게."
+      ],
+      [
+       "No problem.",
+       "천만에, 문제없어."
+      ],
+      [
+       "See you tomorrow.",
+       "내일 봐."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "문자 메시지에 😢 이모티콘이 있어요. 알맞은 감정은?",
+     "emoji": "😢",
+     "choices": [
+      "happy",
+      "sad",
+      "sleepy",
+      "angry"
+     ],
+     "answer": 1,
+     "explain": "우는 얼굴은 슬픔(sad)을 나타내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I can't find my bike.'의 뜻은?",
+     "choices": [
+      "내 자전거를 못 찾겠어.",
+      "내 자전거를 탈 수 없어.",
+      "내 자전거가 망가졌어."
+     ],
+     "answer": 0,
+     "explain": "can't find = 찾을 수 없다."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 이유를 고르세요.",
+     "audio": "I can't find my bike.",
+     "choices": [
+      "자전거를 잘 못 타",
+      "자전거가 망가졌어",
+      "자전거를 찾을 수 없어"
+     ],
+     "answer": 2,
+     "explain": "can't find my bike = 자전거를 못 찾다."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Son: Mom 😢\nMom: Why are you sad?\nSon: Because I can't find my bike.\nMom: Don't worry. I'll help you. Where are you now?\nSon: I'm at the library.\nMom: Okay, I'll be there. Let's find it together.\nSon: Thank you, Mom.",
+     "question": "아들이 슬픈 이유는?",
+     "choices": [
+      "도서관이 문을 닫아서",
+      "엄마가 아파서",
+      "자전거를 못 찾아서"
+     ],
+     "answer": 2,
+     "explain": "'Because I can't find my bike.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Son: Mom 😢\nMom: Why are you sad?\nSon: Because I can't find my bike.\nMom: Don't worry. I'll help you. Where are you now?\nSon: I'm at the library.\nMom: Okay, I'll be there. Let's find it together.\nSon: Thank you, Mom.",
+     "question": "아들은 지금 어디에 있나요?",
+     "choices": [
+      "집",
+      "도서관",
+      "공원"
+     ],
+     "answer": 1,
+     "explain": "'I'm at the library.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ella: Uncle Fred 😟\nUncle Fred: Why are you worried?\nElla: Because I have a tennis game next week.\nUncle Fred: Don't worry. I'll help you.\nElla: Thanks, Uncle Fred.\nUncle Fred: No problem. Let's meet at the park tomorrow.",
+     "question": "Ella가 걱정하는 이유는?",
+     "choices": [
+      "테니스 라켓을 잃어버려서",
+      "삼촌이 아파서",
+      "다음 주에 테니스 시합이 있어서"
+     ],
+     "answer": 2,
+     "explain": "'Because I have a tennis game next week.'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ the library.",
+     "ko": "나는 도서관에 있어요.",
+     "choices": [
+      "on",
+      "at",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "장소에 있을 때 at을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리 같이 그것을 찾자.",
+     "answer": "Let's find it together.",
+     "distractors": [
+      "finds",
+      "Let"
+     ],
+     "explain": "Let's + 동사 + together."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm at the library.",
+     "answer": "I'm at the library.",
+     "distractors": [
+      "on",
+      "park."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you sad?",
+     "ko": "너는 왜 슬프니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Son: Mom 😢\nMom: Why are you sad?\nSon: Because I can't find my bike.\nMom: Don't worry. I'll help you. Where are you now?\nSon: I'm at the library.\nMom: Okay, I'll be there. Let's find it together.\nSon: Thank you, Mom.",
+     "question": "엄마가 아들을 위해 하겠다고 한 일은?",
+     "choices": [
+      "새 자전거를 사 준다",
+      "도서관에 가서 함께 자전거를 찾는다",
+      "아빠에게 전화한다"
+     ],
+     "answer": 1,
+     "explain": "'I'll be there. Let's find it together.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ella: Uncle Fred 😟\nUncle Fred: Why are you worried?\nElla: Because I have a tennis game next week.\nUncle Fred: Don't worry. I'll help you.\nElla: Thanks, Uncle Fred.\nUncle Fred: No problem. Let's meet at the park tomorrow.",
+     "question": "Ella와 Fred 삼촌은 언제, 어디에서 만나기로 했나요?",
+     "choices": [
+      "오늘, 도서관",
+      "다음 주, 테니스장",
+      "내일, 공원"
+     ],
+     "answer": 2,
+     "explain": "'Let's meet at the park tomorrow.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ella: Uncle Fred 😟\nUncle Fred: Why are you worried?\nElla: Because I have a tennis game next week.\nUncle Fred: Don't worry. I'll help you.\nElla: Thanks, Uncle Fred.\nUncle Fred: No problem. Let's meet at the park tomorrow.",
+     "question": "Fred 삼촌이 Ella에게 한 말로 알맞은 것은?",
+     "choices": [
+      "Why are you sad?",
+      "Congratulations!",
+      "Don't worry. I'll help you."
+     ],
+     "answer": 2,
+     "explain": "걱정하는 Ella를 위로하며 도와주겠다고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "문자 메시지에 😟 이모티콘을 보낸 친구에게 할 말로 알맞은 것은?",
+     "choices": [
+      "Why are you happy?",
+      "Why are you worried?",
+      "Good job!"
+     ],
+     "answer": 1,
+     "explain": "😟은 걱정하는 얼굴이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's meet ___ the library.",
+     "ko": "도서관에서 만나자.",
+     "choices": [
+      "on",
+      "to",
+      "at"
+     ],
+     "answer": 2,
+     "explain": "장소 앞에 at을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Okay. See you ___.",
+     "ko": "알았어요. 내일 봬요.",
+     "choices": [
+      "tomorrow",
+      "library",
+      "yesterday"
+     ],
+     "answer": 0,
+     "explain": "내일 = tomorrow."
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Why are you sad?"
+      },
+      {
+       "who": "Son",
+       "text": "Because I can't find my bike."
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. I'll help you.",
+      "Good job!",
+      "I can't wait!"
+     ],
+     "answer": 0,
+     "explain": "걱정하는 아들을 위로하고 도와주겠다고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 다음 주에 테니스 시합이 있어서.",
+     "answer": "Because I have a tennis game next week.",
+     "distractors": [
+      "has",
+      "test"
+     ],
+     "explain": "next week = 다음 주."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where are you now? I'm at the library.",
+     "answer": "Where are you now? I'm at the library.",
+     "distractors": [
+      "on",
+      "park."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Thanks, Uncle Fred. See you tomorrow.",
+     "ko": "고마워요, Fred 삼촌. 내일 봬요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jun: Hey, Dami. Why are you worried? 🙂\nDami: Because I have a baseball game next week. 😟\nJun: Don't worry. I'll help you. Let's practice at the park.\nDami: Thanks, Jun! 😊",
+     "question": "Dami가 걱정하는 이유는?",
+     "choices": [
+      "야구공을 잃어버려서",
+      "다음 주에 야구 시합이 있어서",
+      "공원이 멀어서"
+     ],
+     "answer": 1,
+     "explain": "'Because I have a baseball game next week.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jun: Hey, Dami. Why are you worried? 🙂\nDami: Because I have a baseball game next week. 😟\nJun: Don't worry. I'll help you. Let's practice at the park.\nDami: Thanks, Jun! 😊",
+     "question": "Jun이 제안한 것은?",
+     "choices": [
+      "공원에서 함께 연습하기",
+      "야구 시합 보러 가기",
+      "도서관에서 공부하기"
+     ],
+     "answer": 0,
+     "explain": "'Let's practice at the park.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Why are you sad?\nB: Because I can't find my robot.\nA: Don't worry. I'll help you.\nB: Thank you, Dad.",
+     "question": "B가 찾지 못하는 물건은?",
+     "choices": [
+      "모자",
+      "로봇",
+      "자전거"
+     ],
+     "answer": 1,
+     "explain": "'I can't find my robot.'이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "슬픈",
+     "answers": [
+      "sad"
+     ],
+     "hint": "s _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "걱정하지 마. 우리 같이 연습하자.",
+     "answers": [
+      "Don't worry. Let's practice together."
+     ],
+     "hint": "Don't _____. Let's ________ together."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 내 자전거를 찾을 수 없어서.",
+     "answers": [
+      "Because I can't find my bike.",
+      "Because I cannot find my bike."
+     ],
+     "hint": "Because I can't ____ my bike."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내일 공원에서 만나자.",
+     "answer": "Let's meet at the park tomorrow.",
+     "distractors": [
+      "on",
+      "meets"
+     ],
+     "explain": "Let's meet + 장소 + 때."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "No problem. Let's meet at the park tomorrow.",
+     "answer": "No problem. Let's meet at the park tomorrow.",
+     "distractors": [
+      "on",
+      "today."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "아빠의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Lily, you look worried."
+      },
+      {
+       "who": "Lily",
+       "text": "I am. I have a piano contest tomorrow."
+      },
+      {
+       "who": "Dad",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. You can do it.",
+      "Congratulations, Lily!",
+      "Why are you happy?"
+     ],
+     "answer": 0,
+     "explain": "걱정하는 딸을 위로하고 격려해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you worried? Because I have a tennis game next week.",
+     "ko": "너는 왜 걱정하니? 다음 주에 테니스 시합이 있어서."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "감정이나 상태의 이유를 묻고 답하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 감정이나 상태의 이유를 묻고 답하는 내용의 글을 쓸 수 있다.",
+    "감정이나 상태의 이유를 묻고 답하며 위로하는 내용의 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 58~59쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "문자 메시지를 모둠별로 번갈아 읽기, 로봇이 망가져 화난 아이 그림을 보고 'Why are you angry?'와 이유 문장 완성하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림을 보고 이유 문장 완성하기(Sentences), 걱정하는 아이와의 대화 완성하기(Expressions)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "현재 자신의 감정과 이유를 고르고, 예시 문자 메시지를 참고하여 감정과 이유를 묻고 답하는 메시지를 쓰고 그림 그리기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "짝과 역할을 나눠 완성한 문자 메시지 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "영어 시험을 걱정하는 대화문 읽고 질문에 답하기, 그림을 보고 대화 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I'm worried.",
+    "Why are you worried?",
+    "Because I have a math test.",
+    "Don't worry. I'll help you."
+   ],
+   "tip": "단어나 문장 쓰기가 어려우면 이모티콘을 함께 넣어 감정을 표현해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 감정이나 상태의 이유를 묻고 답하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "앞부분과 뒷부분을 이어 문장을 완성해 보세요.",
+     "pairs": [
+      [
+       "My dog is",
+       "sick."
+      ],
+      [
+       "I cleaned",
+       "my house."
+      ],
+      [
+       "My brother broke",
+       "my robot."
+      ],
+      [
+       "I got a",
+       "black belt."
+      ],
+      [
+       "I went to bed",
+       "late."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 말은? 'I have a math ___.'",
+     "emoji": "📝",
+     "choices": [
+      "belt",
+      "test",
+      "robot",
+      "house"
+     ],
+     "answer": 1,
+     "explain": "수학 시험 = math test."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 말은? 'I went to bed ___.'",
+     "choices": [
+      "sick",
+      "test",
+      "belt",
+      "late"
+     ],
+     "answer": 3,
+     "explain": "늦게 자다 = go to bed late."
+    },
+    {
+     "type": "mc",
+     "prompt": "화가 난 아이의 그림이에요. 알맞은 문장은?",
+     "emoji": "😠",
+     "choices": [
+      "I'm angry.",
+      "I'm worried.",
+      "I'm sleepy.",
+      "I'm happy."
+     ],
+     "answer": 0,
+     "explain": "화난 = angry."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___. Because I have a math test.",
+     "ko": "나는 걱정돼. 수학 시험이 있어서.",
+     "choices": [
+      "sleepy",
+      "worried",
+      "happy"
+     ],
+     "answer": 1,
+     "explain": "시험 때문에 걱정돼요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you ___?",
+     "ko": "너는 왜 걱정하니?",
+     "choices": [
+      "wrong",
+      "worried",
+      "worry"
+     ],
+     "answer": 1,
+     "explain": "걱정하는 = worried."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "I'm happy. I got a new bike today.",
+     "choices": [
+      "자전거를 타서 피곤하다",
+      "자전거를 잃어버려서 슬프다",
+      "새 자전거가 생겨서 행복하다"
+     ],
+     "answer": 2,
+     "explain": "got a new bike = 새 자전거가 생겼다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아빠의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "I'm worried."
+      },
+      {
+       "who": "Dad",
+       "text": "Why are you worried?"
+      },
+      {
+       "who": "Girl",
+       "text": "Because I have a math test."
+      },
+      {
+       "who": "Dad",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't worry. I'll help you.",
+      "Why are you sad?",
+      "Good job!"
+     ],
+     "answer": 0,
+     "explain": "걱정하는 딸을 위로해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 걱정돼.",
+     "answer": "I'm worried.",
+     "distractors": [
+      "worry.",
+      "are"
+     ],
+     "explain": "I'm + 감정."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 행복하니?",
+     "answer": "Why are you happy?",
+     "distractors": [
+      "When",
+      "happily"
+     ],
+     "explain": "Why are you happy?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm happy. Why are you happy?",
+     "answer": "I'm happy. Why are you happy?",
+     "distractors": [
+      "sad.",
+      "When"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm worried. Because I have a math test.",
+     "ko": "나는 걱정돼. 수학 시험이 있어서."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "감정·이유 문자 메시지의 순서로 알맞은 것은?",
+     "choices": [
+      "위로하기 → 감정 말하기 → 이유 묻기",
+      "이유 답하기 → 감정 말하기 → 위로하기",
+      "감정 말하기 → 이유 묻기 → 이유 답하기 → 위로하기"
+     ],
+     "answer": 2,
+     "explain": "I'm worried. → Why are you worried? → Because .... → Don't worry. 순서예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: I'm ⓐ ___.\nB: Why are you tired?\nA: Because I cleaned my house.",
+     "question": "ⓐ에 알맞은 단어는?",
+     "choices": [
+      "happy",
+      "angry",
+      "tired"
+     ],
+     "answer": 2,
+     "explain": "B가 Why are you tired?라고 물었으니 A는 피곤해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: I'm worried.\nB: Why are you worried?\nA: ⓑ ___\nB: Don't worry. I'll help you.",
+     "question": "그림 속 아이가 수학 시험지를 보고 있어요. ⓑ에 알맞은 문장은?",
+     "choices": [
+      "Because I have a math test.",
+      "Because I got a black belt.",
+      "Because I cleaned my house."
+     ],
+     "answer": 0,
+     "explain": "수학 시험 때문에 걱정하고 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My ___ broke my robot.",
+     "ko": "남동생이 내 로봇을 망가뜨렸어.",
+     "choices": [
+      "test",
+      "brother",
+      "dog"
+     ],
+     "answer": 1,
+     "explain": "남동생 = (little) brother."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Because I ___ my house.",
+     "ko": "집을 청소해서.",
+     "choices": [
+      "clean",
+      "cleaned",
+      "cleans"
+     ],
+     "answer": 1,
+     "explain": "청소했다 = cleaned."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I'm angry."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      },
+      {
+       "who": "A",
+       "text": "Because my brother broke my robot."
+      }
+     ],
+     "choices": [
+      "Don't worry.",
+      "Why are you happy?",
+      "Why are you angry?"
+     ],
+     "answer": 2,
+     "explain": "화가 났다고 했으니 그 이유를 물어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 행복해. 새 자전거가 생겨서.",
+     "answer": "I'm happy. Because I got a new bike.",
+     "distractors": [
+      "sad.",
+      "get"
+     ],
+     "explain": "I'm happy. Because ...."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 졸리니? 늦게 자서.",
+     "answer": "Why are you sleepy? Because I went to bed late.",
+     "distractors": [
+      "When",
+      "go"
+     ],
+     "explain": "Why are you sleepy? Because I went to bed late."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm worried. Because I have an English test.",
+     "answer": "I'm worried. Because I have an English test.",
+     "distractors": [
+      "math",
+      "has"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you happy? Because I got a new bike.",
+     "ko": "너는 왜 행복하니? 새 자전거가 생겨서."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "졸린",
+     "answers": [
+      "sleepy"
+     ],
+     "hint": "s l _ _ p y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "걱정하는",
+     "answers": [
+      "worried"
+     ],
+     "hint": "w _ r r _ e d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 행복해.",
+     "answers": [
+      "I'm happy.",
+      "I am happy."
+     ],
+     "hint": "I'm _____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 왜 피곤하니?",
+     "answers": [
+      "Why are you tired?"
+     ],
+     "hint": "Why are you _____?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 화가 나. 남동생이 내 로봇을 망가뜨려서.",
+     "answer": "I'm angry. Because my brother broke my robot.",
+     "distractors": [
+      "happy.",
+      "break"
+     ],
+     "explain": "I'm angry. Because my brother broke my robot."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you sad? Because my cat is sick. Don't worry.",
+     "answer": "Why are you sad? Because my cat is sick. Don't worry.",
+     "distractors": [
+      "dog",
+      "happy?"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Minji: I'm sad. 😢\nTom: Why are you sad?\nMinji: Because my cat is sick.\nTom: Don't worry. Your cat will be okay.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Tom의 고양이가 아프다.",
+      "Minji는 화가 났다.",
+      "Minji의 고양이가 아프다."
+     ],
+     "answer": 2,
+     "explain": "'Because my cat is sick.'이라고 Minji가 말했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: I'm ⓐ ___.\nB: Why are you ⓐ ___?\nA: Because I got a black belt.\nB: Congratulations!",
+     "question": "ⓐ에 공통으로 들어갈 단어는?",
+     "choices": [
+      "worried",
+      "happy",
+      "sad"
+     ],
+     "answer": 1,
+     "explain": "검은 띠를 따서 행복하고, B가 축하해 주었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ann의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Leo",
+       "text": "I'm sleepy."
+      },
+      {
+       "who": "Ann",
+       "text": "Why are you sleepy?"
+      },
+      {
+       "who": "Leo",
+       "text": "Because I went to bed late."
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Congratulations!",
+      "Go to bed early tonight.",
+      "Let's play games late."
+     ],
+     "answer": 1,
+     "explain": "늦게 자서 졸린 친구에게 오늘은 일찍 자라고 조언해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm tired. Because I cleaned my house.",
+     "ko": "나는 피곤해. 집을 청소해서."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 60~61쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "짝과 문자 메시지를 역할을 나눠 읽고, 이유를 묻고 답하는 문장을 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "나의 여러 감정과 이유를 적고, A4 용지를 접어 겉면에 감정 문장·안쪽에 이유 문장을 쓴 감정·상태 그림책을 만들어 친구와 묻고 답하기 (개인)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 그림과 맞는지 ○╳ 하기, 감정의 이유 묻고 답하기, 과학 시험을 걱정하는 대화 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Why are you sad?",
+    "Because my cat is sick.",
+    "Because I have a science test.",
+    "Don't worry."
+   ],
+   "tip": "친구의 그림책을 보며 이유를 묻고, 슬프거나 걱정하는 친구에게는 위로하는 말도 해 줘요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 감정·상태 그림책을 만들고 이유를 묻고 답할 수 있는가? 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "감정을 나타내는 말과 표정을 짝지어 보세요.",
+     "pairs": [
+      [
+       "happy",
+       "😊"
+      ],
+      [
+       "sad",
+       "😢"
+      ],
+      [
+       "angry",
+       "😠"
+      ],
+      [
+       "sleepy",
+       "🥱"
+      ],
+      [
+       "worried",
+       "😟"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "because",
+       "~ 때문에"
+      ],
+      [
+       "why",
+       "왜"
+      ],
+      [
+       "break",
+       "부수다, 망가뜨리다"
+      ],
+      [
+       "belt",
+       "띠, 벨트"
+      ],
+      [
+       "congratulation",
+       "축하"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 태권도 검은 띠를 땄어요. 할 말로 알맞은 것은?",
+     "emoji": "🥋",
+     "choices": [
+      "Don't worry.",
+      "Congratulations!",
+      "Why are you sad?",
+      "I'm sorry."
+     ],
+     "answer": 1,
+     "explain": "좋은 일이 생긴 친구에게 'Congratulations!'라고 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 감정을 고르세요.",
+     "audio": "Why are you happy? — Because I got a black belt.",
+     "choices": [
+      "😠 화남",
+      "😢 슬픔",
+      "😊 행복"
+     ],
+     "answer": 2,
+     "explain": "검은 띠를 따서 행복해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 걱정하는 이유를 고르세요.",
+     "audio": "Why are you worried? — Because I have a science test.",
+     "choices": [
+      "과학 시험이 있어서",
+      "숙제가 많아서",
+      "수학 시험이 있어서"
+     ],
+     "answer": 0,
+     "explain": "science test = 과학 시험."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Why are you tired?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because I cleaned my house.",
+      "Don't worry.",
+      "Because I got a black belt."
+     ],
+     "answer": 0,
+     "explain": "청소를 해서 피곤해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Because my dog is sick."
+      }
+     ],
+     "choices": [
+      "Why are you sad?",
+      "Why are you happy?",
+      "When is your birthday?"
+     ],
+     "answer": 0,
+     "explain": "개가 아프다는 것은 슬픈 이유예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___. Let's study together.",
+     "ko": "걱정하지 마. 같이 공부하자.",
+     "choices": [
+      "wrong",
+      "worried",
+      "worry"
+     ],
+     "answer": 2,
+     "explain": "Don't worry."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ are you angry?",
+     "ko": "너는 왜 화가 났니?",
+     "choices": [
+      "When",
+      "Where",
+      "Why"
+     ],
+     "answer": 2,
+     "explain": "왜 = Why."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 슬프니?",
+     "answer": "Why are you sad?",
+     "distractors": [
+      "When",
+      "sadly"
+     ],
+     "explain": "Why are you sad?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you tired? Because I cleaned my house.",
+     "answer": "Why are you tired? Because I cleaned my house.",
+     "distractors": [
+      "When",
+      "clean"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you sad? Because my cat is sick.",
+     "ko": "너는 왜 슬프니? 고양이가 아파서."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Why are you worried?\nB: ⓐ ___\nA: Don't worry. Let's study together.",
+     "question": "B는 과학 시험 때문에 걱정해요. ⓐ에 알맞은 문장은?",
+     "choices": [
+      "Because I have a science test.",
+      "Because I got a black belt.",
+      "Because I have a math test."
+     ],
+     "answer": 0,
+     "explain": "과학 시험 = science test."
+    },
+    {
+     "type": "mc",
+     "prompt": "주어진 말을 바르게 배열한 것은? (have / I / Because / a science test.)",
+     "choices": [
+      "Because I have a science test.",
+      "I have because a science test.",
+      "Because have I a science test."
+     ],
+     "answer": 0,
+     "explain": "Because + I have a science test."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Why are you ___? Because I went to bed late.",
+     "ko": "너는 왜 졸리니? 늦게 자서.",
+     "choices": [
+      "happy",
+      "angry",
+      "sleepy"
+     ],
+     "answer": 2,
+     "explain": "늦게 자서 졸려요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "슈바이처 박사의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Reporter",
+       "text": "Dr. Schweitzer, why are you happy?"
+      },
+      {
+       "who": "Dr. Schweitzer",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Because my mom is sick.",
+      "Because I can help people.",
+      "Don't worry."
+     ],
+     "answer": 1,
+     "explain": "사람들을 도울 수 있어서 행복하다고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "슈바이처 박사의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Because my mom is sick."
+      },
+      {
+       "who": "Dr. Schweitzer",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Why are you happy?",
+      "Don't worry. I'll help you.",
+      "Congratulations!"
+     ],
+     "answer": 1,
+     "explain": "엄마가 아픈 아이를 위로하고 도와주겠다고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "I'm sleepy. — Why are you sleepy? — Because I went to bed late.",
+     "choices": [
+      "숙제를 해서 걱정된다",
+      "일찍 자서 피곤하다",
+      "늦게 자서 졸리다"
+     ],
+     "answer": 2,
+     "explain": "went to bed late = 늦게 잤다."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 걱정하니? 과학 시험이 있어서.",
+     "answer": "Why are you worried? Because I have a science test.",
+     "distractors": [
+      "When",
+      "math"
+     ],
+     "explain": "Why are you worried? Because ...."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리 엄마가 아프셔서.",
+     "answer": "Because my mom is sick.",
+     "distractors": [
+      "dog",
+      "Why"
+     ],
+     "explain": "Because my mom is sick."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Because I can help people.",
+     "answer": "Because I can help people.",
+     "distractors": [
+      "helps",
+      "can't"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't worry. Your dog will be okay.",
+     "ko": "걱정하지 마. 너희 개는 괜찮아질 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "화난",
+     "answers": [
+      "angry"
+     ],
+     "hint": "a _ g r y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 왜 걱정하니?",
+     "answers": [
+      "Why are you worried?"
+     ],
+     "hint": "Why are you _______?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 영어 시험이 있어서.",
+     "answers": [
+      "Because I have an English test."
+     ],
+     "hint": "Because I have an _______ test."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축하해!",
+     "answers": [
+      "Congratulations!",
+      "Congratulations"
+     ],
+     "hint": "C _ n g r a t u l a t i o n s!"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 왜 화가 났니? 남동생이 내 로봇을 망가뜨려서.",
+     "answer": "Why are you angry? Because my brother broke my robot.",
+     "distractors": [
+      "When",
+      "break"
+     ],
+     "explain": "Why are you angry? Because ...."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Why are you happy? Because I can help people.",
+     "answer": "Why are you happy? Because I can help people.",
+     "distractors": [
+      "When",
+      "sad?"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Feeling Book\nPage 1: I'm sad. 😢\nPage 2: Because my cat is sick.\nPage 3: Don't worry. My cat will be okay.",
+     "question": "그림책 주인이 슬픈 이유는?",
+     "choices": [
+      "개가 아파서",
+      "고양이가 아파서",
+      "고양이를 잃어버려서"
+     ],
+     "answer": 1,
+     "explain": "'Because my cat is sick.'이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The reporters look for Dr. Schweitzer on the train. He is not in the first car. He is not in the second car. He is in the third car. He is helping sick people. He is happy because he can help people.",
+     "question": "슈바이처 박사가 행복한 이유는?",
+     "choices": [
+      "일등실에 탈 수 있어서",
+      "기자들을 만나서",
+      "사람들을 도울 수 있어서"
+     ],
+     "answer": 2,
+     "explain": "'He is happy because he can help people.'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "I'm worried."
+      },
+      {
+       "who": "Tom",
+       "text": "Why are you worried?"
+      },
+      {
+       "who": "Amy",
+       "text": "Because I'm not good at making things."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "Amy",
+       "text": "Thank you, Tom."
+      }
+     ],
+     "choices": [
+      "Don't worry. Let's make it together.",
+      "Why are you happy?",
+      "Because I'm good at it."
+     ],
+     "answer": 0,
+     "explain": "Amy가 고맙다고 했으니 Tom이 위로하고 도와주겠다고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Why are you happy? Because I got a black belt. Congratulations!",
+     "ko": "너는 왜 행복하니? 검은 띠를 따서. 축하해!"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "아침 교실에서 우주가 행복해 보이는 Mohan과 슬퍼 보이는 Linh에게 그 이유를 물어요.",
+   "lines": [
+    {
+     "who": "우주",
+     "text": "Oh, you look happy."
+    },
+    {
+     "who": "우주",
+     "text": "Why are you happy?"
+    },
+    {
+     "who": "Mohan",
+     "text": "Because I got a black belt in taekwondo. Look!"
+    },
+    {
+     "who": "우주",
+     "text": "Wow, that's great, Mohan. Congratulations!"
+    },
+    {
+     "who": "우주",
+     "text": "Why are you sad?"
+    },
+    {
+     "who": "Linh",
+     "text": "Because my dog is sick."
+    },
+    {
+     "who": "Mohan",
+     "text": "Don't be sad, Linh. Your dog will be okay."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "목공예 체험장에서 새집을 만들 때, 만들기를 잘 못해 걱정하는 Amy를 Tom이 위로해요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Amy, what's wrong?"
+    },
+    {
+     "who": "Amy",
+     "text": "I'm worried."
+    },
+    {
+     "who": "Tom",
+     "text": "Why are you worried?"
+    },
+    {
+     "who": "Amy",
+     "text": "Because I'm not good at making things."
+    },
+    {
+     "who": "Tom",
+     "text": "Don't worry. Let's make it together."
+    },
+    {
+     "who": "Amy",
+     "text": "Thank you, Tom."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Olivia가 Jesse와 민우에게 피곤하고 화난 이유를 묻고, Noah가 수학 시험을 걱정하는 나리를 위로해요.",
+   "lines": [
+    {
+     "who": "Olivia",
+     "text": "You look tired. Why are you tired?"
+    },
+    {
+     "who": "Jesse",
+     "text": "Because I cleaned my house."
+    },
+    {
+     "who": "Noah",
+     "text": "Why are you worried?"
+    },
+    {
+     "who": "나리",
+     "text": "Because I have a math test."
+    },
+    {
+     "who": "Noah",
+     "text": "Don't worry. Let's study together."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "감정과 이유를 묻고 답하는 휴대 전화 문자 메시지",
+  "passage": "A boy sends his mom a sad message. She asks why, and he says he can't find his bike. His mom tells him not to worry. He is at the library, so she will go there and look for the bike with him. In another chat, a girl is worried about her tennis game next week. Uncle Fred says he will help, and they plan to meet at the park tomorrow.",
+  "summaryKo": "자전거를 못 찾아 슬픈 남자아이를 엄마가, 다음 주 테니스 시합이 걱정되는 여자아이를 Fred 삼촌이 위로하며 도와주겠다고 하는 문자 메시지예요."
+ },
+ "writing": {
+  "frame": [
+   "A: I'm ____.",
+   "B: Why are you ____?",
+   "A: Because ____.",
+   "B: Don't worry. I'll help you."
+  ],
+  "model": "A: I'm worried.\nB: Why are you worried?\nA: Because I have a piano contest tomorrow.\nB: Don't worry. I'll help you."
+ },
+ "project": "자신의 다양한 감정·상태와 그 이유를 적은 뒤 하나를 골라 A4 용지를 6등분으로 접어 겉면에는 감정 문장과 내 모습, 안쪽에는 이유 문장과 그림을 넣은 감정·상태 그림책을 만들고, 교실을 돌아다니며 친구의 그림책을 보고 이유를 묻고 답하며 위로한다(미술 교과 연계).",
+ "special": {
+  "no": 4,
+  "kind": "Into the History",
+  "title": "슈바이처 이야기",
+  "summaryKo": "엄마가 아파 슬퍼하는 여자아이에게 슈바이처 박사가 '걱정하지 마라, 내가 도와주마.'라고 말해요. 기자들은 기차의 일등실과 이등실에서 박사를 찾지 못하다가 삼등실에서 사람들을 돌보는 박사를 만나고, 박사는 사람들을 도울 수 있어서 행복하다고 대답해요.",
+  "facts": [
+   "슈바이처 박사는 1952년 노벨 평화상을 받으러 가는 길에 기차를 탔어요.",
+   "기자들은 특등실, 일등실, 이등실을 차례로 찾았지만 박사는 그곳에 없었어요.",
+   "박사는 가장 불편한 삼등실에서 가난한 사람들을 진료하고 있었어요.",
+   "박사는 편안한 곳이 아니라 자신을 필요로 하는 곳을 찾아간다고 말했어요."
+  ],
+  "expressions": [
+   "Why are you sad? — Because my mom is sick.",
+   "Don't worry. I'll help you.",
+   "Why are you happy? — Because I can help people."
+  ],
+  "exercises": []
+ }
+}

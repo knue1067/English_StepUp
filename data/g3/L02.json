@@ -1,0 +1,2215 @@
+{
+  "id": "L02",
+  "no": 2,
+  "grade": 3,
+  "semester": 1,
+  "title": "Hi, I'm Momo",
+  "emoji": "👋",
+  "rationale": "새 학년이 된 학생들은 새로운 선생님과 친구들을 만나 인사하고 자신을 소개하게 된다. 만나고 헤어질 때 하는 인사말, 자기를 소개하는 말, 안부를 묻고 답하는 말을 익혀 다른 사람과 원만한 인간관계를 맺는 의사소통의 바탕을 마련하고자 한다.",
+  "topics": "개인 생활 관련(오락), 학교생활 관련(학교 활동, 교우 관계)",
+  "functions": [
+    {
+      "ko": "만나고 헤어질 때의 인사하기",
+      "examples": [
+        "Hi. / Hello.",
+        "Bye."
+      ]
+    },
+    {
+      "ko": "자기소개하기",
+      "examples": [
+        "I'm Momo."
+      ]
+    },
+    {
+      "ko": "안부 묻고 답하기",
+      "examples": [
+        "How are you?",
+        "I'm fine."
+      ]
+    }
+  ],
+  "forms": [
+    "I'm Momo.",
+    "How are you? – I'm fine."
+  ],
+  "phonics": {
+    "focus": "h /h/",
+    "words": [
+      "hi",
+      "Hoa",
+      "hat"
+    ]
+  },
+  "newWords": [
+    {
+      "en": "be",
+      "ko": "~이다, ~에 있다 (I'm = I am)"
+    },
+    {
+      "en": "bye",
+      "ko": "잘 가, 안녕(헤어질 때)"
+    },
+    {
+      "en": "fine",
+      "ko": "좋은, 잘 지내는"
+    },
+    {
+      "en": "how",
+      "ko": "어떻게"
+    },
+    {
+      "en": "I",
+      "ko": "나"
+    },
+    {
+      "en": "you",
+      "ko": "너, 당신"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "hi",
+      "ko": "안녕(만날 때)",
+      "emoji": "🙋"
+    },
+    {
+      "en": "bye",
+      "ko": "잘 가(헤어질 때)",
+      "emoji": "👋"
+    },
+    {
+      "en": "fine",
+      "ko": "좋은, 잘 지내는",
+      "emoji": "😊"
+    }
+  ],
+  "characters": [
+    "Momo",
+    "준오(Juno)",
+    "보라(Bora)",
+    "Eric",
+    "Hoa",
+    "Kate",
+    "Sam",
+    "하나(Hana)",
+    "Danny",
+    "Cora",
+    "Paul",
+    "거인 Tom",
+    "Judy",
+    "John"
+  ],
+  "goals": {
+    "understand": [
+      "만나고 헤어질 때 하는 인사말, 자기를 소개하는 말, 안부를 묻고 답하는 말을 듣고 이해할 수 있다.",
+      "인사말과 안부를 나타내는 단어(bye, fine, hi)를 읽고 그 의미를 이해할 수 있다.",
+      "소리 /h/와 철자 ‘h’의 관계를 이해하며 ‘h’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+      "상대방의 안부에 관심을 가지며 다른 사람의 생각과 의견을 존중하고 이해하는 태도를 기를 수 있다."
+    ],
+    "express": [
+      "만나고 헤어질 때 하는 인사말, 자기를 소개하는 말, 안부를 묻고 답하는 말을 말할 수 있다.",
+      "인사말과 안부를 나타내는 단어(bye, fine, hi)를 따라 쓸 수 있다.",
+      "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "4영01-01",
+    "4영01-03",
+    "4영01-04",
+    "4영01-05",
+    "4영01-06",
+    "4영01-07",
+    "4영01-08",
+    "4영01-09",
+    "4영01-10",
+    "4영02-01",
+    "4영02-04",
+    "4영02-05",
+    "4영02-08",
+    "4영02-09",
+    "4영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "kind": "듣고 말하기 1",
+      "icon": "chat",
+      "studyPoint": "만나고 헤어질 때의 인사하기 / 자기소개하기",
+      "objectives": [
+        "만나고 헤어질 때 하는 인사말과 자기를 소개하는 말을 듣고 이해하며 말할 수 있다.",
+        "찬트 하기와 ‘손가락 인형을 이용하여 인사하며 자기소개하기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 26~27쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Let's Learn / My Study",
+          "desc": "새로 사귄 친구 이야기하기, 처음 만난 친구와 인사하고 자기소개한 경험 나누기, 단원 목표 확인과 학습 계획 세우기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "컴퓨터실에서 모니터 속 Momo가 튀어나와 아이들과 인사하고 이름을 소개하는 만화 영화 보기, 등장인물 이름 우리말로 쓰기, 표현 익히기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Chant and Do",
+          "desc": "인사 찬트를 하며 친구들이 인사한 순서대로 번호 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "손가락 인형을 끼우며 ‘Hello, I'm Momo.’, 빼면서 ‘Bye, Momo.’라고 말하기 (전체)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "주변 친구와 인사·자기소개로 복습, 대화 듣고 그림 고르기, 성취도 색칠과 복습 계획",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Hi. / Hello.",
+        "Bye.",
+        "I'm Momo."
+      ],
+      "tip": "Hello는 Hi보다 조금 더 예의 바른 인사예요. 친한 친구끼리는 Hi를 많이 써요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 만나고 헤어질 때 하는 인사말과 자기를 소개하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "영어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Hi.",
+              "안녕."
+            ],
+            [
+              "Hello.",
+              "안녕하세요."
+            ],
+            [
+              "Bye.",
+              "잘 가."
+            ],
+            [
+              "I'm Momo.",
+              "나는 모모야."
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "친구를 만났을 때 하는 인사말은 무엇일까요?",
+          "emoji": "🙋",
+          "choices": [
+            "Hello.",
+            "Bye."
+          ],
+          "answer": 0,
+          "explain": "만날 때는 ‘Hello.’나 ‘Hi.’라고 인사해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "친구와 헤어질 때 하는 인사말은 무엇일까요?",
+          "emoji": "👋",
+          "choices": [
+            "Hi.",
+            "Hello.",
+            "Bye."
+          ],
+          "answer": 2,
+          "explain": "헤어질 때는 ‘Bye.’라고 인사해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Hi, I'm Juno.",
+          "choices": [
+            "잘 가, 준오.",
+            "안녕, 나는 준오야.",
+            "안녕, 나는 보라야."
+          ],
+          "answer": 1,
+          "explain": "‘I'm Juno.’는 ‘나는 준오야.’라는 뜻이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Bye, Momo.",
+          "choices": [
+            "안녕, 나는 모모야.",
+            "잘 가, 모모.",
+            "안녕, 모모."
+          ],
+          "answer": 1,
+          "explain": "‘Bye’는 헤어질 때 하는 인사예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Juno의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Momo",
+              "text": "Hello, I'm Momo."
+            },
+            {
+              "who": "Juno",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi, I'm Juno.",
+            "Bye, Momo.",
+            "Bye."
+          ],
+          "answer": 0,
+          "explain": "처음 만나 인사하며 자기를 소개할 때는 ‘Hi, I'm Juno.’처럼 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Kate",
+              "text": "Bye, Eric."
+            },
+            {
+              "who": "Eric",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi, I'm Eric.",
+            "Bye, Kate.",
+            "Hello."
+          ],
+          "answer": 1,
+          "explain": "Kate가 ‘Bye’라고 했으니 Eric도 ‘Bye, Kate.’라고 인사해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, I'm Bora.",
+          "ko": "안녕, 나는 보라야.",
+          "choices": [
+            "Bye",
+            "Hi",
+            "Momo"
+          ],
+          "answer": 1,
+          "explain": "만날 때 인사는 ‘Hi’예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm ___.",
+          "ko": "나는 에릭이야.",
+          "choices": [
+            "Hi",
+            "Bye",
+            "Eric"
+          ],
+          "answer": 2,
+          "explain": "‘I'm’ 뒤에 자기 이름을 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 나는 모모야.",
+          "answer": "Hello, I'm Momo.",
+          "distractors": [
+            "Bye,"
+          ],
+          "explain": "‘Hello,’로 인사하고 ‘I'm Momo.’로 자기를 소개해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘나는 호아야.’를 영어로 하면?",
+          "choices": [
+            "Hi, Hoa.",
+            "Bye, Hoa.",
+            "I'm Hoa."
+          ],
+          "answer": 2,
+          "explain": "자기를 소개할 때는 ‘I'm + 이름’이라고 해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello, I'm Kate.",
+          "ko": "안녕, 나는 케이트야."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 말한 사람의 이름을 고르세요.",
+          "audio": "Hello, I'm Hoa.",
+          "choices": [
+            "Eric",
+            "Kate",
+            "Hoa"
+          ],
+          "answer": 2,
+          "explain": "‘I'm Hoa.’라고 했으니 말한 사람은 Hoa예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 어떤 상황인지 고르세요.",
+          "audio": "Bye, Bora.",
+          "choices": [
+            "처음 만났을 때",
+            "헤어질 때"
+          ],
+          "answer": 1,
+          "explain": "‘Bye’는 헤어질 때 하는 인사예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Hoa",
+              "text": "Hello, I'm Hoa."
+            },
+            {
+              "who": "Eric",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Bye, Hoa.",
+            "I'm Hoa.",
+            "Hello, I'm Eric."
+          ],
+          "answer": 2,
+          "explain": "Eric은 자기 이름을 넣어 ‘Hello, I'm Eric.’이라고 해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Juno가 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Juno",
+              "text": "?"
+            },
+            {
+              "who": "Kate",
+              "text": "Hi, Juno."
+            }
+          ],
+          "choices": [
+            "Bye, Kate.",
+            "Hi, Kate.",
+            "I'm Kate."
+          ],
+          "answer": 1,
+          "explain": "Kate가 ‘Hi, Juno.’라고 답했으니 Juno는 먼저 ‘Hi, Kate.’라고 인사했어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "잘 가, 보라.",
+          "answer": "Bye, Bora.",
+          "distractors": [
+            "Hi,",
+            "I'm"
+          ],
+          "explain": "헤어질 때는 ‘Bye, + 이름’이라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 나는 케이트야.",
+          "answer": "Hi, I'm Kate.",
+          "distractors": [
+            "Bye,",
+            "Hello"
+          ],
+          "explain": "‘Hi,’ 다음에 ‘I'm Kate.’를 이어서 말해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, I'm Sam.",
+          "answer": "Hi, I'm Sam.",
+          "distractors": [
+            "Bye,",
+            "Bora."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, Eric.",
+          "ko": "잘 가, 에릭.",
+          "choices": [
+            "Hi",
+            "Bye",
+            "I'm"
+          ],
+          "answer": 1,
+          "explain": "헤어질 때 인사는 ‘Bye’예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "친구를 처음 만나 자기를 소개할 때 알맞은 말은?",
+          "choices": [
+            "Bye, Mina.",
+            "Hi, I'm Mina.",
+            "Bye."
+          ],
+          "answer": 1,
+          "explain": "‘Hi, I'm + 이름.’으로 인사하며 자기를 소개해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Bye, Juno.",
+          "ko": "잘 가, 준오."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hello, I'm Mina.",
+          "answer": "Hello, I'm Mina.",
+          "distractors": [
+            "Hi,",
+            "Bye"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 에릭. 나는 샘이야.",
+          "answer": "Hi, Eric. I'm Sam.",
+          "distractors": [
+            "Bye,",
+            "Hello"
+          ],
+          "explain": "먼저 ‘Hi, Eric.’으로 인사하고 ‘I'm Sam.’으로 자기를 소개해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "잘 가. (헤어질 때)",
+          "answers": [
+            "Bye",
+            "Bye.",
+            "Goodbye",
+            "Goodbye."
+          ],
+          "hint": "B _ _"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "안녕. (만날 때)",
+          "answers": [
+            "Hi",
+            "Hi.",
+            "Hello",
+            "Hello."
+          ],
+          "hint": "H _"
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Kate: Hi, I'm Kate.\nEric: Hello, I'm Eric.\nKate: Bye, Eric.\nEric: Bye, Kate.",
+          "question": "먼저 인사한 아이의 이름은 무엇인가요?",
+          "choices": [
+            "Eric",
+            "Momo",
+            "Kate"
+          ],
+          "answer": 2,
+          "explain": "첫 줄에서 Kate가 ‘Hi, I'm Kate.’라고 먼저 인사했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Momo: Hello, I'm Momo.\nJuno: Hi, I'm Juno.\nMomo: Bye, Juno.\nJuno: Bye, Momo.",
+          "question": "두 친구가 마지막에 나눈 인사는 어떤 인사인가요?",
+          "choices": [
+            "만날 때 하는 인사",
+            "헤어질 때 하는 인사"
+          ],
+          "answer": 1,
+          "explain": "마지막에 ‘Bye’라고 했으니 헤어질 때 하는 인사예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "수업이 끝났어요. Hoa의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Ms. Kim",
+              "text": "Bye, Hoa."
+            },
+            {
+              "who": "Hoa",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Bye, Ms. Kim.",
+            "Hi, I'm Hoa.",
+            "Hello."
+          ],
+          "answer": 0,
+          "explain": "선생님이 ‘Bye’라고 했으니 Hoa도 ‘Bye, Ms. Kim.’이라고 인사해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "처음 만난 친구에게 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Minho",
+              "text": "?"
+            },
+            {
+              "who": "Sora",
+              "text": "Hello, I'm Sora."
+            }
+          ],
+          "choices": [
+            "Bye, Sora.",
+            "Bye.",
+            "Hello, I'm Minho."
+          ],
+          "answer": 2,
+          "explain": "Sora가 인사하며 자기를 소개했으니 Minho도 먼저 ‘Hello, I'm Minho.’라고 했어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Hello, ___ Juno.",
+          "ko": "안녕, 나는 준오야.",
+          "choices": [
+            "Bye",
+            "I'm",
+            "Hi"
+          ],
+          "answer": 1,
+          "explain": "‘나는 ~야’는 ‘I'm ~’이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello. Bye.",
+          "ko": "안녕하세요. 안녕히 가세요."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "kind": "듣고 말하기 2",
+      "icon": "mic",
+      "studyPoint": "만나고 헤어질 때의 인사하기 / 자기소개하기 / 안부 묻고 답하기",
+      "objectives": [
+        "만나고 헤어질 때 하는 인사말과 자기를 소개하는 말을 할 수 있다.",
+        "안부를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Hello’ 노래와 ‘ㄱ, ㄴ 빙고 놀이를 하며 인사하고 자기소개하기’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 28~29쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습·동기 유발 / Study Point",
+          "desc": "옆 친구에게 인사와 자기소개 하기, 안부를 묻고 답하는 사람들 사진 보며 추측하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "놀이터에서 친구들이 안부를 묻고 새 친구 Sam과 인사하는 만화 영화 보기, 질문에 답하며 내용 확인",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / My Turn",
+          "desc": "실생활 동영상으로 인사·안부 표현 익히기, 그림에 맞게 짝과 대화하고 ✓표 하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Song",
+          "desc": "‘Hello’ 노래를 부르고 친구 이름으로 노랫말 바꾸어 부르기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "ㄱ, ㄴ 빙고: 이름을 골라 ‘Hi, I'm ____. How are you?’라고 말하면 모둠원이 ‘I'm fine. Bye.’라고 답하며 표시하기 (모둠)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "안부 묻고 답하기로 복습, 그림 상황에 맞게 짝과 대화하기, 성취도 색칠",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "How are you?",
+        "I'm fine."
+      ],
+      "tip": "How are you?라고 물으면 I'm fine.이라고 답하고, 상대에게도 How are you?라고 되물어 보세요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가 — 인사말과 자기소개하는 말을 할 수 있는가? 안부를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가, 수준별 활동)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "영어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "How are you?",
+              "어떻게 지내?"
+            ],
+            [
+              "I'm fine.",
+              "나는 잘 지내."
+            ],
+            [
+              "Hello.",
+              "안녕하세요."
+            ],
+            [
+              "Bye.",
+              "잘 가."
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "‘어떻게 지내?’를 영어로 하면?",
+          "choices": [
+            "I'm fine.",
+            "How are you?",
+            "Bye."
+          ],
+          "answer": 1,
+          "explain": "안부를 물을 때는 ‘How are you?’라고 해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘How are you?’에 알맞은 대답은?",
+          "emoji": "😊",
+          "choices": [
+            "Bye.",
+            "I'm Bora.",
+            "I'm fine."
+          ],
+          "answer": 2,
+          "explain": "‘How are you?’에는 ‘I'm fine.(잘 지내.)’이라고 답해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "How are you?",
+          "choices": [
+            "나는 잘 지내.",
+            "어떻게 지내?",
+            "잘 가."
+          ],
+          "answer": 1,
+          "explain": "‘How are you?’는 안부를 묻는 말이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I'm fine.",
+          "choices": [
+            "나는 보라야.",
+            "나는 잘 지내.",
+            "안녕."
+          ],
+          "answer": 1,
+          "explain": "‘fine’은 ‘좋은, 잘 지내는’이라는 뜻이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Bora",
+              "text": "How are you?"
+            },
+            {
+              "who": "Eric",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine.",
+            "I'm Bora.",
+            "Bye, Bora."
+          ],
+          "answer": 0,
+          "explain": "안부를 물었으니 ‘I'm fine.’이라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Paul이 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Paul",
+              "text": "?"
+            },
+            {
+              "who": "Cora",
+              "text": "I'm fine."
+            }
+          ],
+          "choices": [
+            "How are you?",
+            "Bye, Cora.",
+            "I'm Paul."
+          ],
+          "answer": 0,
+          "explain": "‘I'm fine.’은 ‘How are you?’에 대한 대답이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "How ___ you?",
+          "ko": "어떻게 지내?",
+          "choices": [
+            "I'm",
+            "fine",
+            "are"
+          ],
+          "answer": 2,
+          "explain": "‘How are you?’로 안부를 물어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm ___.",
+          "ko": "나는 잘 지내.",
+          "choices": [
+            "how",
+            "fine",
+            "you"
+          ],
+          "answer": 1,
+          "explain": "‘잘 지내’는 ‘fine’이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "어떻게 지내?",
+          "answer": "How are you?",
+          "distractors": [
+            "fine."
+          ],
+          "explain": "‘How are you?’ 순서로 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Hoa의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Sam",
+              "text": "Hi, I'm Sam."
+            },
+            {
+              "who": "Hoa",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi, I'm Hoa.",
+            "I'm fine.",
+            "Bye, Sam."
+          ],
+          "answer": 0,
+          "explain": "Sam이 자기를 소개했으니 Hoa도 인사하며 자기를 소개해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "How are you?",
+          "ko": "어떻게 지내?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Hi, Cora. How are you?",
+          "choices": [
+            "안녕, 나는 코라야.",
+            "안녕, 코라. 어떻게 지내?",
+            "잘 가, 코라."
+          ],
+          "answer": 1,
+          "explain": "‘How are you?’는 안부를 묻는 말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Juno",
+              "text": "Hi, Hoa."
+            },
+            {
+              "who": "Hoa",
+              "text": "Hi."
+            },
+            {
+              "who": "Juno",
+              "text": "?"
+            },
+            {
+              "who": "Hoa",
+              "text": "I'm fine."
+            }
+          ],
+          "choices": [
+            "Bye, Hoa.",
+            "How are you, Hoa?",
+            "I'm Juno."
+          ],
+          "answer": 1,
+          "explain": "Hoa가 ‘I'm fine.’이라고 답했으니 Juno는 안부를 물었어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Sam의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Kate",
+              "text": "How are you?"
+            },
+            {
+              "who": "Sam",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Bye, Kate.",
+            "I'm fine. How are you?",
+            "Hello, I'm Kate."
+          ],
+          "answer": 1,
+          "explain": "잘 지낸다고 답하고 ‘How are you?’로 되물을 수 있어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 잘 지내, 폴.",
+          "answer": "I'm fine, Paul.",
+          "distractors": [
+            "How",
+            "you"
+          ],
+          "explain": "‘I'm fine.’은 ‘나는 잘 지내.’라는 뜻이에요. 끝에 이름을 붙일 수 있어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 보라. 어떻게 지내?",
+          "answer": "Hi, Bora. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ],
+          "explain": "인사한 뒤 ‘How are you?’로 안부를 물어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "How are you, Hoa?",
+          "answer": "How are you, Hoa?",
+          "distractors": [
+            "fine",
+            "I'm"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Hi, Paul. How are ___?",
+          "ko": "안녕, 폴. 어떻게 지내?",
+          "choices": [
+            "you",
+            "fine",
+            "I'm"
+          ],
+          "answer": 0,
+          "explain": "‘How are you?’로 안부를 물어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "친구 지호에게 안부를 물을 때 하는 말은?",
+          "choices": [
+            "Hello, I'm Jiho.",
+            "Bye, Jiho.",
+            "How are you, Jiho?"
+          ],
+          "answer": 2,
+          "explain": "안부를 물을 때는 ‘How are you?’라고 해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 어색한 대화는 무엇일까요?",
+          "choices": [
+            "A: Hello. B: Hi.",
+            "A: How are you? B: Bye.",
+            "A: Bye. B: Bye."
+          ],
+          "answer": 1,
+          "explain": "‘How are you?’에는 ‘Bye.’가 아니라 ‘I'm fine.’이라고 답해야 해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'm fine. How are you?",
+          "ko": "나는 잘 지내. 너는 어떻게 지내?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hello, I'm Lily. How are you?",
+          "answer": "Hello, I'm Lily. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ]
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "____ are you? (어떻게 지내?)",
+          "answers": [
+            "How"
+          ],
+          "hint": "H _ w"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "____, Juno. (잘 가, 준오.)",
+          "answers": [
+            "Bye",
+            "Goodbye"
+          ],
+          "hint": "B _ _"
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Juno: Hi, Kate. How are you?\nKate: I'm fine. How are you?\nJuno: I'm fine.",
+          "question": "Kate는 어떻게 지낸다고 했나요?",
+          "choices": [
+            "잘 지낸다고 했어요.",
+            "헤어진다고 했어요.",
+            "이름만 말했어요."
+          ],
+          "answer": 0,
+          "explain": "Kate는 ‘I'm fine.’이라고 했어요. 잘 지낸다는 뜻이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hana: Hello, I'm Hana.\nDanny: Hi, I'm Danny.\nHana: How are you, Danny?\nDanny: I'm fine.",
+          "question": "Hana가 Danny에게 물어본 것은 무엇인가요?",
+          "choices": [
+            "어떻게 지내는지",
+            "이름이 무엇인지",
+            "어디에 가는지"
+          ],
+          "answer": 0,
+          "explain": "‘How are you?’는 어떻게 지내는지 묻는 말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "할머니와 영상 통화를 해요. Juno의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "할머니",
+              "text": "Hi, Juno. How are you?"
+            },
+            {
+              "who": "Juno",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Bye, Juno.",
+            "I'm fine, Grandma.",
+            "I'm Grandma."
+          ],
+          "answer": 1,
+          "explain": "안부를 물었으니 ‘I'm fine.’이라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Minho",
+              "text": "Hi, Sujin."
+            },
+            {
+              "who": "Sujin",
+              "text": "Hi, Minho."
+            },
+            {
+              "who": "Minho",
+              "text": "?"
+            },
+            {
+              "who": "Sujin",
+              "text": "I'm fine."
+            }
+          ],
+          "choices": [
+            "Bye, Sujin.",
+            "I'm Minho.",
+            "How are you, Sujin?"
+          ],
+          "answer": 2,
+          "explain": "Sujin이 ‘I'm fine.’이라고 답했으니 Minho는 안부를 물었어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 나는 지호야. 어떻게 지내?",
+          "answer": "Hello, I'm Jiho. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ],
+          "explain": "인사하고, 자기를 소개하고, 안부를 물어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 만날 때 하는 말이 아닌 것은?",
+          "choices": [
+            "Hi.",
+            "Hello.",
+            "Bye."
+          ],
+          "answer": 2,
+          "explain": "‘Bye.’는 헤어질 때 하는 말이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello, Hana. How are you?",
+          "ko": "안녕, 하나. 어떻게 지내?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Talk · Phonics",
+      "kind": "읽고 쓰기",
+      "icon": "pencil",
+      "studyPoint": "인사말과 안부를 나타내는 단어 읽고 쓰기 / 알파벳 ‘h’로 시작하는 단어 소리 내어 읽기",
+      "objectives": [
+        "단어(bye, fine, hi)를 읽고 그 의미를 이해하며 따라 쓸 수 있다.",
+        "/h/ 소리를 식별하고 소리 /h/와 철자 ‘h’의 관계를 이해하며 단어(hi, Hoa, hat)를 소리 내어 읽을 수 있다.",
+        "‘인사하고 안부 묻는 이모티콘 만들기’의 협력 과업으로 단어를 읽고 쓰며, 인사말·자기소개·안부를 묻고 답하는 말을 할 수 있다."
+      ],
+      "pages": "교과서 30~31쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습·동기 유발 / Study Point",
+          "desc": "학생들과 안부 인사 주고받기, 칠판에 쓰는 A~Z를 소리 내어 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "그림 보며 단어(hi, bye, fine) 뜻 추측하고 따라 읽기, 신데렐라와 왕자 그림 보며 단어를 넣어 짝과 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Choose",
+          "desc": "친구의 하루 일과 그림에 어울리는 단어 골라 ○표 하기",
+          "min": 2
+        },
+        {
+          "phase": "전개",
+          "step": "Follow, Match and Write",
+          "desc": "길을 따라가 단어와 그림을 연결하고 따라 쓰기, 스스로 다지기·My Turn(단어 하나 골라 쓰기)",
+          "min": 3
+        },
+        {
+          "phase": "전개",
+          "step": "Phonics",
+          "desc": "/h/ 소리와 철자 h의 관계 익히기, hi·Hoa·hat 따라 읽기, 첫소리가 다른 단어 고르기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Work Together",
+          "desc": "모둠별로 hi·bye·fine 이모티콘을 그려 모바일 메신저 그림에 붙이고 단어를 따라 쓴 뒤 상황에 맞게 대화하기",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "단어 읽기 복습, h로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "hi",
+        "bye",
+        "fine",
+        "h /h/ — hi, Hoa, hat"
+      ],
+      "tip": "/h/는 목에서 ‘흐’ 하고 바람만 내보내는 소리예요. 목에 손을 대도 떨리지 않아요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Work Together 자기·상호·관찰 평가 — 단어(bye, fine, hi)를 읽고 의미를 이해하며 따라 쓸 수 있는가? /h/ 소리와 철자 h의 관계를 이해하며 단어를 소리 내어 읽을 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트, 포트폴리오 평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "hi",
+              "안녕(만날 때)"
+            ],
+            [
+              "bye",
+              "잘 가(헤어질 때)"
+            ],
+            [
+              "fine",
+              "좋은, 잘 지내는"
+            ],
+            [
+              "hat",
+              "모자"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "만날 때 손을 흔들며 하는 말을 나타내는 단어는?",
+          "emoji": "🙋",
+          "choices": [
+            "hi",
+            "bye",
+            "fine"
+          ],
+          "answer": 0,
+          "explain": "만날 때는 ‘hi’라고 해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘좋은, 잘 지내는’을 뜻하는 단어는?",
+          "emoji": "😊",
+          "choices": [
+            "fine",
+            "hi",
+            "bye"
+          ],
+          "answer": 0,
+          "explain": "‘fine’은 ‘좋은, 잘 지내는’이라는 뜻이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 단어를 고르세요.",
+          "audio": "bye",
+          "choices": [
+            "hi",
+            "bye",
+            "fine"
+          ],
+          "answer": 1,
+          "explain": "‘바이’라고 들렸으니 bye예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리에 알맞은 글자를 고르세요.",
+          "audio": "hat",
+          "choices": [
+            "b",
+            "c",
+            "h"
+          ],
+          "answer": 2,
+          "explain": "hat은 /h/ 소리로 시작해요. 글자는 h예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 첫소리가 /h/인 단어는?",
+          "choices": [
+            "bye",
+            "hat",
+            "fine",
+            "dog"
+          ],
+          "answer": 1,
+          "explain": "hat은 h로 시작해서 /h/ 소리가 나요."
+        },
+        {
+          "type": "mc",
+          "prompt": "그림을 나타내는 단어는 무엇일까요?",
+          "emoji": "🎩",
+          "choices": [
+            "hat",
+            "cat",
+            "dog"
+          ],
+          "answer": 0,
+          "explain": "모자는 hat이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, Momo.",
+          "ko": "잘 가, 모모.",
+          "choices": [
+            "Hi",
+            "Fine",
+            "Bye"
+          ],
+          "answer": 2,
+          "explain": "헤어질 때는 ‘Bye’라고 해요."
+        },
+        {
+          "type": "match",
+          "prompt": "첫 글자와 단어를 짝지어 보세요.",
+          "pairs": [
+            [
+              "h",
+              "hi"
+            ],
+            [
+              "b",
+              "ball"
+            ],
+            [
+              "c",
+              "cat"
+            ],
+            [
+              "d",
+              "dog"
+            ]
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "Juno의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Hoa",
+              "text": "Hi."
+            },
+            {
+              "who": "Juno",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Bye.",
+            "Hi.",
+            "Fine."
+          ],
+          "answer": 1,
+          "explain": "‘Hi.’라고 인사하면 ‘Hi.’라고 답해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "Hoa, hi, hat은 모두 어떤 글자로 시작할까요?",
+          "choices": [
+            "b",
+            "f",
+            "h"
+          ],
+          "answer": 2,
+          "explain": "세 단어 모두 h로 시작하고 /h/ 소리가 나요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "hi, Hoa, hat",
+          "ko": "안녕, 호아, 모자"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리가 같은 단어를 고르세요.",
+          "audio": "Hoa",
+          "choices": [
+            "hat",
+            "ball",
+            "egg"
+          ],
+          "answer": 0,
+          "explain": "Hoa와 hat은 둘 다 /h/ 소리로 시작해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리가 다른 하나를 고르세요.",
+          "audio": "hat, Hoa, bye",
+          "choices": [
+            "hat",
+            "Hoa",
+            "bye"
+          ],
+          "answer": 2,
+          "explain": "hat과 Hoa는 /h/, bye는 /b/ 소리로 시작해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 철자가 바른 것은?",
+          "choices": [
+            "fine",
+            "fien",
+            "fnie"
+          ],
+          "answer": 0,
+          "explain": "‘잘 지내는’은 f-i-n-e, fine이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "친구가 손을 흔들며 떠나요. 알맞은 단어는?",
+          "emoji": "🚶👋",
+          "choices": [
+            "bye",
+            "hi",
+            "fine"
+          ],
+          "answer": 0,
+          "explain": "헤어질 때는 ‘bye’예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 첫 글자를 고르세요.",
+          "sentence": "___at",
+          "ko": "🎩 모자",
+          "choices": [
+            "c",
+            "h",
+            "b"
+          ],
+          "answer": 1,
+          "explain": "모자는 hat! h로 시작해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕. 나는 잘 지내.",
+          "answer": "Hi. I'm fine.",
+          "distractors": [
+            "Bye.",
+            "how"
+          ],
+          "explain": "‘Hi.’로 인사하고 ‘I'm fine.’으로 잘 지낸다고 말해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, Hoa.",
+          "answer": "Hi, Hoa.",
+          "distractors": [
+            "Bye,",
+            "hat."
+          ]
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "안녕 (만날 때 하는 말)",
+          "answers": [
+            "hi",
+            "hello"
+          ],
+          "hint": "h _"
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, Juno.",
+          "ko": "안녕, 준오.",
+          "choices": [
+            "Bye",
+            "Fine",
+            "Hi"
+          ],
+          "answer": 2,
+          "explain": "만날 때 인사는 ‘Hi’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hi. Bye. I'm fine.",
+          "ko": "안녕. 잘 가. 나는 잘 지내."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "잘 가 (헤어질 때 하는 말)",
+          "answers": [
+            "bye",
+            "goodbye"
+          ],
+          "hint": "b _ _"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "How are you? – I'm ____. (잘 지내)",
+          "answers": [
+            "fine"
+          ],
+          "hint": "f _ _ e"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🎩 모자",
+          "answers": [
+            "hat"
+          ],
+          "hint": "_ a t"
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hoa: Hi, Juno.\nJuno: Hi, Hoa. How are you?\nHoa: I'm fine.\nJuno: Bye, Hoa.\nHoa: Bye.",
+          "question": "대화에 나오지 않는 단어는 무엇인가요?",
+          "choices": [
+            "hat",
+            "hi",
+            "fine",
+            "bye"
+          ],
+          "answer": 0,
+          "explain": "대화에는 hi, fine, bye가 나오지만 hat은 나오지 않아요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리가 같은 단어를 고르세요.",
+          "audio": "hi",
+          "choices": [
+            "bye",
+            "fine",
+            "hello"
+          ],
+          "answer": 2,
+          "explain": "hi와 hello는 둘 다 /h/ 소리로 시작해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Bye, Hoa. Bye, Juno.",
+          "answer": "Bye, Hoa. Bye, Juno.",
+          "distractors": [
+            "Hi,",
+            "fine."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 호아. 어떻게 지내?",
+          "answer": "Hi, Hoa. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ],
+          "explain": "‘Hi, Hoa.’로 인사하고 ‘How are you?’로 안부를 물어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "메신저로 대화해요. Mina의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Jiho",
+              "text": "How are you?"
+            },
+            {
+              "who": "Mina",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine. 😊",
+            "Hi, Jiho.",
+            "Bye."
+          ],
+          "answer": 0,
+          "explain": "안부를 물었으니 잘 지낸다고 답해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 첫소리가 /h/가 아닌 단어는?",
+          "choices": [
+            "bye",
+            "hi",
+            "hat",
+            "Hoa"
+          ],
+          "answer": 0,
+          "explain": "bye는 /b/ 소리로 시작해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hoa, hat, hello",
+          "ko": "호아, 모자, 안녕하세요"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Story Time · My Work",
+      "kind": "이야기·마무리",
+      "icon": "book",
+      "studyPoint": "역할극을 하며 배운 표현 활용하기 / 단원 정리",
+      "objectives": [
+        "‘Story Time’에서 ‘거인의 정원’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 32~33쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습 / Study Point",
+          "desc": "단어(hi, bye, fine)를 읽고 손가락으로 공중에 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Story Time",
+          "desc": "‘거인의 정원’ 원작 이야기 나누기, 그림과 말풍선 단어로 내용 추측, 만화 영화 보고 질문에 답하기, HOW ABOUT YOU?(거인과 하고 싶은 놀이), 모둠 역할극",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "대화 듣고 순서대로 번호 쓰기, 그림 보고 인사·안부 대화하기, 그림에 알맞은 단어 골라 쓰기, 캐릭터가 되어 짝과 대화하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / 정리해요 / Self Study",
+          "desc": "1~4차시 성취도 돌아보며 느낀 점과 복습 계획 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Hi, I'm Tom.",
+        "Hi, Tom. How are you?",
+        "I'm fine.",
+        "Bye."
+      ],
+      "tip": "역할극에서는 대사를 틀려도 괜찮아요. 표정과 몸짓으로 인물의 마음을 표현해 보세요!",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가 — 단원에서 학습한 내용을 문제를 풀며 정리할 수 있는가? (단원평가, 수행평가·지필평가)",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Giant: Hi, I'm Tom.\nJudy: Hi, I'm Judy.\nPaul: Hi, I'm Paul.",
+          "question": "거인(Giant)의 이름은 무엇인가요?",
+          "choices": [
+            "Judy",
+            "Tom",
+            "Paul"
+          ],
+          "answer": 1,
+          "explain": "거인이 ‘Hi, I'm Tom.’이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Paul: Hi, Tom. How are you?\nTom: I'm fine.",
+          "question": "Tom은 어떻게 지낸다고 했나요?",
+          "choices": [
+            "잘 지낸다",
+            "헤어진다",
+            "이름이 Paul이다"
+          ],
+          "answer": 0,
+          "explain": "Tom은 ‘I'm fine.(잘 지내.)’이라고 했어요."
+        },
+        {
+          "type": "match",
+          "prompt": "영어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Hi, I'm Tom.",
+              "안녕, 나는 톰이야."
+            ],
+            [
+              "Bye.",
+              "잘 가."
+            ],
+            [
+              "How are you?",
+              "어떻게 지내?"
+            ],
+            [
+              "I'm fine.",
+              "나는 잘 지내."
+            ]
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "거인의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Judy",
+              "text": "Hello."
+            },
+            {
+              "who": "Giant",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine.",
+            "How are you?",
+            "Hi."
+          ],
+          "answer": 2,
+          "explain": "‘Hello.’라고 인사하면 ‘Hi.’라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "John이 자기를 소개해요. 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "Hi, I'm Tom."
+            },
+            {
+              "who": "John",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm John.",
+            "Bye, Tom.",
+            "I'm fine."
+          ],
+          "answer": 0,
+          "explain": "John은 ‘I'm John.’이라고 자기를 소개해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 말한 사람의 이름을 고르세요.",
+          "audio": "Hi, I'm Judy.",
+          "choices": [
+            "Judy",
+            "Tom",
+            "John"
+          ],
+          "answer": 0,
+          "explain": "‘I'm Judy.’라고 했으니 Judy예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 대답을 고르세요.",
+          "audio": "Hi, Tom. How are you?",
+          "choices": [
+            "I'm Tom.",
+            "I'm fine.",
+            "Bye."
+          ],
+          "answer": 1,
+          "explain": "안부를 물었으니 ‘I'm fine.’이라고 답해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Hi, I'm ___.",
+          "ko": "안녕, 나는 폴이야.",
+          "choices": [
+            "fine",
+            "Paul",
+            "bye"
+          ],
+          "answer": 1,
+          "explain": "‘I'm’ 뒤에 이름을 써요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘Bye.’는 언제 하는 말일까요?",
+          "choices": [
+            "처음 만났을 때",
+            "헤어질 때",
+            "안부를 물을 때"
+          ],
+          "answer": 1,
+          "explain": "‘Bye.’는 헤어질 때 하는 인사예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 나는 주디야.",
+          "answer": "Hello, I'm Judy.",
+          "distractors": [
+            "Bye,",
+            "fine."
+          ],
+          "explain": "‘Hello,’로 인사하고 ‘I'm Judy.’로 자기를 소개해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘hi’와 뜻이 비슷한 인사말은?",
+          "emoji": "🙋",
+          "choices": [
+            "hello",
+            "bye",
+            "fine"
+          ],
+          "answer": 0,
+          "explain": "hi와 hello는 모두 만날 때 하는 인사예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hi, I'm Tom.",
+          "ko": "안녕, 나는 톰이야."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Judy: Hello.\nPaul: Bye.\nGiant: Hi!\nJohn: Bye!",
+          "question": "거인(Giant)이 한 말은 무엇인가요?",
+          "choices": [
+            "Bye!",
+            "Hello.",
+            "Hi!"
+          ],
+          "answer": 2,
+          "explain": "거인은 ‘Hi!’라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Tom: Hi, I'm Tom.\nJudy: Hi, I'm Judy.\nPaul: Hi, I'm Paul.\nJohn: I'm John.",
+          "question": "글에 나오는 이름이 아닌 것은 무엇인가요?",
+          "choices": [
+            "Tom",
+            "Momo",
+            "Judy",
+            "John"
+          ],
+          "answer": 1,
+          "explain": "글에는 Tom, Judy, Paul, John이 나와요. Momo는 나오지 않아요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Paul이 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Paul",
+              "text": "?"
+            },
+            {
+              "who": "Tom",
+              "text": "I'm fine."
+            }
+          ],
+          "choices": [
+            "Bye, Tom.",
+            "How are you, Tom?",
+            "I'm Paul."
+          ],
+          "answer": 1,
+          "explain": "Tom이 ‘I'm fine.’이라고 답했으니 Paul은 안부를 물었어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Tom의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Judy",
+              "text": "Bye, Tom."
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi, I'm Tom.",
+            "Bye, Judy.",
+            "I'm fine."
+          ],
+          "answer": 1,
+          "explain": "Judy가 ‘Bye’라고 했으니 Tom도 ‘Bye, Judy.’라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 존. 어떻게 지내?",
+          "answer": "Hello, John. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ],
+          "explain": "인사한 뒤 ‘How are you?’로 안부를 물어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Bye, Paul.",
+          "answer": "Bye, Paul.",
+          "distractors": [
+            "Hi,",
+            "fine."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are you?",
+          "ko": "어떻게 지내?",
+          "choices": [
+            "How",
+            "Bye",
+            "Hi"
+          ],
+          "answer": 0,
+          "explain": "안부를 물을 때는 ‘How are you?’예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Hello, I'm John.",
+          "choices": [
+            "잘 가, 존.",
+            "안녕, 나는 존이야.",
+            "존, 어떻게 지내?"
+          ],
+          "answer": 1,
+          "explain": "‘I'm John.’은 ‘나는 존이야.’라는 뜻이에요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "____, Tom. (잘 가, 톰.)",
+          "answers": [
+            "Bye",
+            "Goodbye"
+          ],
+          "hint": "B _ _"
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Bye, Tom. Bye, Judy.",
+          "ko": "잘 가, 톰. 잘 가, 주디."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Kids: Hello, Tom!\nTom: Hi! I'm Tom.\nJudy: Hi, Tom. I'm Judy. How are you?\nTom: I'm fine.",
+          "question": "Judy가 Tom에게 물어본 것은 무엇인가요?",
+          "choices": [
+            "어떻게 지내는지",
+            "이름이 무엇인지",
+            "어디에서 왔는지"
+          ],
+          "answer": 0,
+          "explain": "Judy는 ‘How are you?’라고 어떻게 지내는지 물었어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Momo: Hi, I'm Momo. How are you?\nSam: I'm fine.\nMomo: Bye, Sam.\nSam: Bye, Momo.",
+          "question": "Sam이 한 말이 아닌 것은 무엇인가요?",
+          "choices": [
+            "I'm fine.",
+            "Hi, I'm Momo.",
+            "Bye, Momo."
+          ],
+          "answer": 1,
+          "explain": "‘Hi, I'm Momo.’는 Momo가 한 말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "왕자(Prince)의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Cinderella",
+              "text": "Hi, I'm Cinderella."
+            },
+            {
+              "who": "Prince",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine.",
+            "Bye, Cinderella.",
+            "Hi."
+          ],
+          "answer": 2,
+          "explain": "처음 만나 인사했으니 ‘Hi.’라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Minho의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Sujin",
+              "text": "How are you, Minho?"
+            },
+            {
+              "who": "Minho",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm Minho.",
+            "Bye, Sujin.",
+            "I'm fine. How are you?"
+          ],
+          "answer": 2,
+          "explain": "잘 지낸다고 답하고 되물어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, I'm Tom. How are you?",
+          "answer": "Hi, I'm Tom. How are you?",
+          "distractors": [
+            "fine.",
+            "Bye,"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "잘 가, 수진.",
+          "answer": "Bye, Sujin.",
+          "distractors": [
+            "Hi,",
+            "fine."
+          ],
+          "explain": "헤어질 때는 ‘Bye, + 이름’이라고 해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "안녕. (만날 때)",
+          "answers": [
+            "hi",
+            "hello"
+          ],
+          "hint": "h _"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "How are you? – I'm ____.",
+          "answers": [
+            "fine"
+          ],
+          "hint": "f _ _ _"
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫 글자를 고르세요.",
+          "audio": "hat",
+          "choices": [
+            "f",
+            "h",
+            "b"
+          ],
+          "answer": 1,
+          "explain": "hat은 /h/ 소리로 시작해요. 글자는 h예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello! How are you? Bye!",
+          "ko": "안녕! 어떻게 지내? 잘 가!"
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "컴퓨터실에서 아바타를 만들던 아이들 앞에 모니터 속 Momo가 튀어나와 인사하고, 수업이 끝나자 헤어지는 인사를 해요.",
+      "lines": [
+        {
+          "who": "Momo",
+          "text": "Hello, I'm Momo."
+        },
+        {
+          "who": "준오",
+          "text": "Hi, I'm Juno."
+        },
+        {
+          "who": "보라",
+          "text": "Hi, I'm Bora."
+        },
+        {
+          "who": "아이들",
+          "text": "Bye, Momo."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "놀이터에서 친구들이 안부를 묻고, 처음 만난 Sam과 인사해요.",
+      "lines": [
+        {
+          "who": "보라",
+          "text": "How are you?"
+        },
+        {
+          "who": "Eric",
+          "text": "I'm fine."
+        },
+        {
+          "who": "보라",
+          "text": "Hello, I'm Bora."
+        },
+        {
+          "who": "Sam",
+          "text": "Hi, I'm Sam."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "Cora와 Paul이 만나 안부를 묻고 답해요.",
+      "lines": [
+        {
+          "who": "Cora",
+          "text": "Hi, Paul."
+        },
+        {
+          "who": "Paul",
+          "text": "Hi, Cora. How are you?"
+        },
+        {
+          "who": "Cora",
+          "text": "I'm fine."
+        }
+      ]
+    },
+    {
+      "name": "Story Time",
+      "period": 4,
+      "situation": "‘거인의 정원’: 거인 Tom이 정원에 돌아온 아이들과 인사하고 친구가 돼요.",
+      "lines": [
+        {
+          "who": "Tom",
+          "text": "Hi, I'm Tom."
+        },
+        {
+          "who": "Judy",
+          "text": "Hi, I'm Judy."
+        },
+        {
+          "who": "Paul",
+          "text": "Hi, Tom. How are you?"
+        },
+        {
+          "who": "Tom",
+          "text": "I'm fine."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "Story Time: 거인의 정원 (The Selfish Giant)",
+    "passage": "Kids play in a big garden. A giant comes. Judy says, \"Hello.\" The kids run. \"Bye!\" Later, the giant smiles. \"Hi, I'm Tom.\" \"Hi, I'm Judy.\" \"I'm Paul.\" \"I'm John.\" Flowers grow. Paul says, \"Hi, Tom. How are you?\" Tom says, \"I'm fine.\" They play together.",
+    "summaryKo": "무서워 보이던 거인 Tom이 아이들과 인사하고 자기를 소개하며 친구가 되자 정원에 꽃이 피어나요."
+  },
+  "writing": {
+    "frame": [
+      "hi",
+      "bye",
+      "fine",
+      "Hi, I'm ____.",
+      "I'm ____. (fine)"
+    ],
+    "model": "Hi, I'm Mina. How are you? – I'm fine. Bye!"
+  },
+  "project": "Work Together: 네 명이 한 모둠이 되어 hi 이모티콘 2개, bye·fine 이모티콘 1개씩을 나누어 그리고 모바일 메신저 그림에 붙여 단어를 따라 쓴 뒤, 그림 속 상황에 맞게 반 친구들과 인사·안부 대화를 한다.",
+  "special": {
+    "no": 1,
+    "kind": "CULTURE · PROJECT",
+    "title": "다른 나라에서는 어떻게 인사할까요? / 알파벳 애벌레 만들기",
+    "summaryKo": "1차시 CULTURE에서는 Momo가 인도·프랑스·이스라엘·뉴질랜드(마오리족) 어린이와 그 나라의 인사말과 인사법으로 인사하는 모습을 보고, 짝과 여권 도장 놀이를 하며 따라 해요. ‘Let's Try!’ 말판 놀이로 1~2단원을 복습해요. 2차시 PROJECT에서는 모둠원끼리 인사·자기소개를 한 뒤 알파벳 애벌레 도안에 대소문자를 나누어 쓰고 이어 붙여 함께 읽고, ‘Let's Check!’로 1~2단원 내용을 확인해요.",
+    "facts": [
+      "인도: “나마스테(Namaste).” 하면서 두 손을 가슴 앞에 모으고 고개를 숙여 인사해요.",
+      "프랑스: “봉주르(Bonjour).” 하면서 양쪽 볼을 번갈아 맞대고 ‘쪽쪽’ 소리를 내며 인사해요.",
+      "이스라엘: “샬롬(Shalom).” 하면서 마주 보고 서로 상대방의 어깨를 주무르며 인사한다고 소개해요.",
+      "뉴질랜드 마오리족: 악수를 하고 손을 잡은 채로 “키아 오라(Kia Ora).” 하면서 코를 두 번 부딪치며 인사해요.",
+      "그 밖에 스페인에서는 한쪽 뺨을 오른쪽부터 번갈아 맞대며 인사하고, 말레이시아에서는 오른손을 가슴에 대고 웃으며 인사해요."
+    ],
+    "expressions": [
+      "Hi. / Hello.",
+      "Bye.",
+      "Hi, I'm ____.",
+      "How are you? – I'm fine."
+    ],
+    "exercises": []
+  }
+}

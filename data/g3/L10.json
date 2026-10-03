@@ -1,0 +1,2280 @@
+{
+ "id": "L10",
+ "no": 10,
+ "grade": 3,
+ "semester": 2,
+ "title": "Can You Jump?",
+ "emoji": "🤸",
+ "rationale": "‘할 수 있다’는 자신감은 건강한 자아의식과 자기 효능감을 형성하는 데 중요하다. 할 수 있는 것을 묻고 답하는 말, 할 수 있는 것과 할 수 없는 것을 표현하는 말을 익혀 실생활에서 활용하고 자신감을 형성하도록 돕고자 한다.",
+ "topics": "개인 생활 관련(오락, 운동), 학교생활 관련(학교 일상), 민주시민 관련(협력)",
+ "functions": [
+  {
+   "ko": "할 수 있는 것 묻고 답하기",
+   "examples": [
+    "Can you skate?",
+    "Yes, I can.",
+    "No, I can't."
+   ]
+  },
+  {
+   "ko": "할 수 있는 것과 할 수 없는 것을 표현하기",
+   "examples": [
+    "I can dance.",
+    "I can't dance."
+   ]
+  }
+ ],
+ "forms": [
+  "Can you + 동작? – Yes, I can. / No, I can't.",
+  "I can / I can't + 동작."
+ ],
+ "phonics": {
+  "focus": "s /s/",
+  "words": [
+   "sing",
+   "skate",
+   "swim"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "can",
+   "ko": "~할 수 있다"
+  },
+  {
+   "en": "dance",
+   "ko": "춤추다"
+  },
+  {
+   "en": "go",
+   "ko": "가다 (Ready, go! 준비, 출발!)"
+  },
+  {
+   "en": "helmet",
+   "ko": "헬멧"
+  },
+  {
+   "en": "high",
+   "ko": "높은, 높이"
+  },
+  {
+   "en": "ready",
+   "ko": "준비된"
+  },
+  {
+   "en": "run",
+   "ko": "달리다"
+  },
+  {
+   "en": "sing",
+   "ko": "노래하다"
+  },
+  {
+   "en": "skate",
+   "ko": "스케이트를 타다"
+  },
+  {
+   "en": "swim",
+   "ko": "수영하다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "dance",
+   "ko": "춤추다",
+   "emoji": "💃"
+  },
+  {
+   "en": "jump",
+   "ko": "점프하다",
+   "emoji": "🦘"
+  },
+  {
+   "en": "run",
+   "ko": "달리다",
+   "emoji": "🏃"
+  },
+  {
+   "en": "sing",
+   "ko": "노래하다",
+   "emoji": "🎤"
+  },
+  {
+   "en": "skate",
+   "ko": "스케이트를 타다",
+   "emoji": "⛸️"
+  },
+  {
+   "en": "swim",
+   "ko": "수영하다",
+   "emoji": "🏊"
+  },
+  {
+   "en": "helmet",
+   "ko": "헬멧",
+   "emoji": "⛑️"
+  }
+ ],
+ "characters": [
+  "준오",
+  "Hoa",
+  "보라",
+  "Eric",
+  "Kate",
+  "Sam",
+  "Momo",
+  "선생님",
+  "하나",
+  "Paul",
+  "민우",
+  "Alice",
+  "토끼",
+  "거북이",
+  "사슴"
+ ],
+ "goals": {
+  "understand": [
+   "할 수 있는 것을 묻고 답하는 말, 할 수 있는 것과 할 수 없는 것을 표현하는 말을 듣고 이해할 수 있다.",
+   "동작을 나타내는 단어(dance, jump, run, sing, skate, swim)를 읽고 그 의미를 이해할 수 있다.",
+   "소리 /s/와 철자 ‘s’의 관계를 이해하며 ‘s’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+   "상대방을 응원하고 칭찬하며 이해하고 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "할 수 있는 것을 묻고 답하는 말, 할 수 있는 것과 할 수 없는 것을 표현하는 말을 할 수 있다.",
+   "동작을 나타내는 단어(dance, jump, run, sing, skate, swim)를 보고 쓸 수 있다.",
+   "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-04",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "할 수 있는 것을 묻고 답하기",
+   "objectives": [
+    "할 수 있는 것을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘사람 띠 빙고 놀이를 하며 할 수 있는 것 묻고 답하기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 98~99쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready / Let's Learn",
+     "desc": "손 인형끼리 ‘Can you sing?’ 묻고 답하는 모습 보기, 할 수 있는 동작과 없는 동작 이야기하기, 단원 목표 확인과 My Study 계획",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "아이스 링크에서 스케이트·점프를 할 수 있는지 묻고 답하는 만화 영화 보고 Hoa가 할 수 없는 동작에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 할 수 있는 것에 ○표, 할 수 없는 것에 ×표 하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "사람 띠 빙고 놀이: 선생님이 보여 준 카드를 보고 ‘Can you sing?’이라고 묻고, 양 끝의 같은 카드를 든 학생이 ‘Yes, I can.’ 하며 앉기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "동작 카드를 보며 짝과 묻고 답하기, 듣고 그림과 일치하는지 ○× 표시하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you skate?",
+    "Yes, I can.",
+    "No, I can't.",
+    "Look at me!"
+   ],
+   "tip": "할 수 있으면 ‘Yes, I can.’, 할 수 없으면 ‘No, I can't.’라고 답해요. can't는 can보다 조금 길고 힘 있게 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 할 수 있는 것을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "dance",
+       "💃"
+      ],
+      [
+       "run",
+       "🏃"
+      ],
+      [
+       "swim",
+       "🏊"
+      ],
+      [
+       "skate",
+       "⛸️"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sing",
+       "노래하다"
+      ],
+      [
+       "jump",
+       "점프하다"
+      ],
+      [
+       "dance",
+       "춤추다"
+      ],
+      [
+       "helmet",
+       "헬멧"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림의 동작을 영어로 하면?",
+     "emoji": "🏊",
+     "choices": [
+      "sing",
+      "swim",
+      "skate",
+      "run"
+     ],
+     "answer": 1,
+     "explain": "수영하다는 swim이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Can you skate?",
+     "choices": [
+      "너는 수영할 수 있니?",
+      "너는 스케이트가 있니?",
+      "너는 스케이트를 탈 수 있니?"
+     ],
+     "answer": 2,
+     "explain": "Can you ~?는 ‘너는 ~할 수 있니?’예요. skate는 스케이트를 타다예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "No, I can't.",
+     "choices": [
+      "응, 할 수 있어.",
+      "응, 있어.",
+      "아니, 못 해."
+     ],
+     "answer": 2,
+     "explain": "No, I can't.는 ‘아니, 할 수 없어.’라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "보라는 점프를 잘해요. 보라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Can you jump?"
+      },
+      {
+       "who": "보라",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can.",
+      "No, I can't.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "할 수 있으니까 ‘Yes, I can.’이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa는 스케이트를 탈 수 없어요. Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Can you skate?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can.",
+      "No, I can't.",
+      "No, it isn't."
+     ],
+     "answer": 1,
+     "explain": "할 수 없으니까 ‘No, I can't.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you ___?",
+     "ko": "너는 달릴 수 있니?",
+     "choices": [
+      "sing",
+      "swim",
+      "run"
+     ],
+     "answer": 2,
+     "explain": "달리다는 run이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 춤출 수 있니?",
+     "answer": "Can you dance?",
+     "distractors": [
+      "sing?",
+      "I"
+     ],
+     "explain": "‘너는 ~할 수 있니?’는 Can you ~?예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 묻는 동작을 고르세요.",
+     "audio": "Can you swim?",
+     "choices": [
+      "⛸️",
+      "🎤",
+      "🏃",
+      "🏊"
+     ],
+     "answer": 3,
+     "explain": "swim은 수영하다예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Do you have a helmet?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "너는 헬멧이 있니?",
+      "너는 헬멧을 쓸 수 있니?",
+      "그것은 헬멧이니?"
+     ],
+     "answer": 0,
+     "explain": "Do you have ~?는 ‘너는 ~을 가지고 있니?’예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you jump?",
+     "ko": "너는 점프할 수 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "B가 달리는 모습을 보여 줘요(🏃). A의 질문으로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Yes, I can."
+      }
+     ],
+     "choices": [
+      "Can you swim?",
+      "Do you have a helmet?",
+      "Can you run?"
+     ],
+     "answer": 2,
+     "explain": "달릴 수 있는지 물을 때는 ‘Can you run?’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오는 춤을 못 춰요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Can you dance, Juno?"
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. Sorry.",
+      "Yes, I can. Look!",
+      "No, I don't. Sorry."
+     ],
+     "answer": 0,
+     "explain": "춤을 못 추니까 ‘No, I can't.’라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, I ___.",
+     "ko": "응, 할 수 있어.",
+     "choices": [
+      "can't",
+      "can",
+      "do"
+     ],
+     "answer": 1,
+     "explain": "‘응, 할 수 있어.’는 Yes, I can.이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "No, I ___.",
+     "ko": "아니, 못 해.",
+     "choices": [
+      "can",
+      "can't",
+      "isn't"
+     ],
+     "answer": 1,
+     "explain": "‘아니, 할 수 없어.’는 No, I can't.예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 노래할 수 있니?",
+     "answer": "Can you sing?",
+     "distractors": [
+      "dance?",
+      "Do"
+     ],
+     "explain": "노래하다는 sing이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you skate, Hoa?",
+     "answer": "Can you skate, Hoa?",
+     "distractors": [
+      "swim,",
+      "I"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 동작을 나타내는 말이 아닌 것은?",
+     "choices": [
+      "run",
+      "sing",
+      "swim",
+      "helmet"
+     ],
+     "answer": 3,
+     "explain": "helmet은 머리에 쓰는 ‘헬멧’이에요. 나머지는 동작이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대답한 아이에 대해 알맞은 것을 고르세요.",
+     "audio": "Can you dance? No, I can't.",
+     "choices": [
+      "춤을 못 춰요.",
+      "춤을 잘 춰요.",
+      "노래를 못 해요.",
+      "수영을 못 해요."
+     ],
+     "answer": 0,
+     "explain": "dance는 춤추다, No, I can't.는 못 한다는 말이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bora is on the ice. Hoa asks, \"Can you skate?\" Bora says, \"Yes, I can.\"",
+     "question": "보라는 무엇을 할 수 있나요?",
+     "choices": [
+      "수영하기",
+      "노래하기",
+      "춤추기",
+      "스케이트 타기"
+     ],
+     "answer": 3,
+     "explain": "‘Can you skate?’에 ‘Yes, I can.’이라고 답했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have a helmet? Yes, I do.",
+     "ko": "너는 헬멧이 있니? 응, 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "수영하다",
+     "answers": [
+      "swim"
+     ],
+     "hint": "s w _ m"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "달리다",
+     "answers": [
+      "run"
+     ],
+     "hint": "r _ n"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you skate? No, I can't.",
+     "answer": "Can you skate? No, I can't.",
+     "distractors": [
+      "can.",
+      "swim?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 할 수 있어. 나를 봐!",
+     "answer": "Yes, I can. Look at me!",
+     "distractors": [
+      "can't.",
+      "you"
+     ],
+     "explain": "‘나를 봐!’는 ‘Look at me!’예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina asks Jun, \"Can you swim?\" Jun says, \"No, I can't.\" Mina asks, \"Can you run?\" Jun says, \"Yes, I can!\"",
+     "question": "Jun이 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "수영",
+      "스케이트",
+      "노래",
+      "달리기"
+     ],
+     "answer": 3,
+     "explain": "‘Can you run?’에 ‘Yes, I can!’이라고 답했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate가 마이크를 들고 멋지게 불렀어요(🎤). Eric이 할 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Can you sing, Kate?"
+      },
+      {
+       "who": "Kate",
+       "text": "Yes, I can."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm sorry.",
+      "Wow, great!",
+      "No, I can't."
+     ],
+     "answer": 1,
+     "explain": "멋지게 해낸 친구에게 ‘Wow, great!’라고 칭찬해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ you skate?",
+     "ko": "너는 스케이트를 탈 수 있니?",
+     "choices": [
+      "Do",
+      "Is",
+      "Can"
+     ],
+     "answer": 2,
+     "explain": "할 수 있는지 물을 때는 Can you ~?로 물어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Can you skate?’에 대한 대답이 될 수 없는 것은?",
+     "choices": [
+      "Yes, I do.",
+      "Yes, I can.",
+      "No, I can't."
+     ],
+     "answer": 0,
+     "explain": "Can you ~?에는 Yes, I can. / No, I can't.로 답해요. Yes, I do.는 Do you ~?에 하는 대답이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: Do you have a helmet, Sam? Sam: Yes, I do. Kate: Can you skate? Sam: Yes, I can!",
+     "question": "Sam에 대해 알맞은 것은?",
+     "choices": [
+      "헬멧이 있고, 스케이트를 탈 수 있어요.",
+      "헬멧이 없어요.",
+      "스케이트를 탈 수 없어요."
+     ],
+     "answer": 0,
+     "explain": "Sam은 헬멧이 있고(Yes, I do.), 스케이트도 탈 수 있어요(Yes, I can!)."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hoa, can you dance?",
+     "ko": "Hoa, 너는 춤출 수 있니?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "할 수 있는 것을 묻고 답하기 / 할 수 있는 것과 할 수 없는 것을 표현하기",
+   "objectives": [
+    "할 수 있는 것을 묻고 답하는 말을 할 수 있다.",
+    "할 수 있는 것과 할 수 없는 것을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘I Can Sing’ 노래와 ‘할 수 있는 것을 표현하며 계단 오르내리기’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 100~101쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "‘Can you swim?’ 질문에 손 들고 답하기, 토끼와 거북이 그림을 보며 ‘I can swim. Who am I?’ 맞히기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "운동장 체육 대회에서 춤·점프·달리기를 할 수 있는지 묻고 답하는 만화 영화 보고 이해하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 그림을 보며 할 수 있는 동작인지 짝과 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘I Can Sing’ 노래를 질문은 여학생, 대답은 남학생이 나누어 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "계단 오르내리기: 말이 놓인 계단의 동작을 ‘Can you ...?’로 묻고 ‘Yes, I can. I can ....’ / ‘No, I can't. I can't ....’로 답하기 (수준별: 공 전달하며 묻고 답하기 / 술래에게 다가가기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "동작을 하며 I can / I can't로 말하기, 상황에 알맞은 대화하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you dance?",
+    "No, I can't. I can't dance.",
+    "Yes, I can. I can jump.",
+    "You can do it!"
+   ],
+   "tip": "Yes, I can. 뒤에 I can jump.처럼 할 수 있는 것을 한 번 더 말하면 더 분명하게 전달돼요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 할 수 있는 것을 묻고 답하는 말을 할 수 있는가? 할 수 있는 것과 할 수 없는 것을 표현하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "영어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I can sing.",
+       "나는 노래할 수 있어."
+      ],
+      [
+       "I can't sing.",
+       "나는 노래할 수 없어."
+      ],
+      [
+       "I can swim.",
+       "나는 수영할 수 있어."
+      ],
+      [
+       "I can't swim.",
+       "나는 수영할 수 없어."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I can dance.",
+     "choices": [
+      "나는 춤출 수 없어.",
+      "너는 춤출 수 있니?",
+      "나는 춤출 수 있어."
+     ],
+     "answer": 2,
+     "explain": "I can ~.은 ‘나는 ~할 수 있어.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I can't jump.",
+     "choices": [
+      "나는 점프할 수 없어.",
+      "나는 점프할 수 있어.",
+      "나는 달릴 수 없어."
+     ],
+     "answer": 0,
+     "explain": "I can't ~.는 ‘나는 ~할 수 없어.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "달리기를 잘하는 아이가 할 말로 알맞은 것은?",
+     "emoji": "🏃",
+     "choices": [
+      "I can't run.",
+      "I can sing.",
+      "I can run."
+     ],
+     "answer": 2,
+     "explain": "‘나는 달릴 수 있어.’는 I can run.이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘can't’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "~할 수 있다",
+      "~할 수 없다",
+      "~을 좋아하다"
+     ],
+     "answer": 1,
+     "explain": "can't는 can not을 줄인 말로 ‘~할 수 없다’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ swim.",
+     "ko": "나는 수영할 수 없어.",
+     "choices": [
+      "can",
+      "do",
+      "can't"
+     ],
+     "answer": 2,
+     "explain": "‘~할 수 없다’는 can't예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can ___.",
+     "ko": "나는 노래할 수 있어.",
+     "choices": [
+      "sing",
+      "skate",
+      "run"
+     ],
+     "answer": 0,
+     "explain": "노래하다는 sing이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric은 점프를 잘해요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Eric, can you jump?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't jump.",
+      "Yes, I can. I can jump.",
+      "Yes, I can. I can run."
+     ],
+     "answer": 1,
+     "explain": "할 수 있으니까 ‘Yes, I can. I can jump.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오는 춤을 못 춰요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Can you dance?"
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can. I can dance.",
+      "No, I don't. I don't dance.",
+      "No, I can't. I can't dance."
+     ],
+     "answer": 2,
+     "explain": "못 하니까 ‘No, I can't. I can't dance.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 점프할 수 있어.",
+     "answer": "I can jump.",
+     "distractors": [
+      "can't",
+      "run."
+     ],
+     "explain": "‘나는 ~할 수 있어.’는 I can ~.이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Ready. Go!",
+     "choices": [
+      "준비, 출발!",
+      "이리 와!",
+      "나를 봐!"
+     ],
+     "answer": 0,
+     "explain": "Ready는 ‘준비된’, Go는 ‘가!’예요. 경주를 시작할 때 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can sing and dance.",
+     "ko": "나는 노래하고 춤출 수 있어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "하나는 sing(🎤)을 할 수 없어요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "I can sing. Can you sing, Hana?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can. I can sing.",
+      "No, I can't. I can't sing.",
+      "No, I can't. I can't dance."
+     ],
+     "answer": 1,
+     "explain": "노래를 못 하니까 ‘I can't sing.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나가 춤을 출 수 있대요. Alice의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "Can you dance?"
+      },
+      {
+       "who": "하나",
+       "text": "Yes, I can. I can dance."
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Great!",
+      "I'm sorry.",
+      "No, I can't."
+     ],
+     "answer": 0,
+     "explain": "‘Great!’는 ‘멋지다!’라는 칭찬이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can't ___.",
+     "ko": "나는 스케이트를 탈 수 없어.",
+     "choices": [
+      "swim",
+      "sing",
+      "skate"
+     ],
+     "answer": 2,
+     "explain": "스케이트를 타다는 skate예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 수영할 수 있어. 너는 수영할 수 있니?",
+     "answer": "I can swim. Can you swim?",
+     "distractors": [
+      "can't",
+      "dance?"
+     ],
+     "explain": "I can ~.으로 말하고 Can you ~?로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "No, I can't. I can't jump.",
+     "answer": "No, I can't. I can't jump.",
+     "distractors": [
+      "can.",
+      "run."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "수영을 못 하는 아이가 할 말로 알맞은 것은?",
+     "emoji": "🏊",
+     "choices": [
+      "I can swim.",
+      "I can't swim.",
+      "I don't swim."
+     ],
+     "answer": 1,
+     "explain": "‘나는 수영할 수 없어.’는 I can't swim.이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 말한 아이에 대해 알맞은 것을 고르세요.",
+     "audio": "I can sing. I can't dance.",
+     "choices": [
+      "춤은 출 수 있고, 노래는 못 해요.",
+      "노래도 춤도 할 수 있어요.",
+      "노래는 할 수 있고, 춤은 못 춰요."
+     ],
+     "answer": 2,
+     "explain": "I can sing.(노래할 수 있어.) I can't dance.(춤출 수 없어.)"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm Paul. I can swim. I can run. I can't skate.",
+     "question": "Paul이 할 수 없는 것은 무엇인가요?",
+     "choices": [
+      "수영하기",
+      "스케이트 타기",
+      "달리기"
+     ],
+     "answer": 1,
+     "explain": "‘I can't skate.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "넘어진 Eric이 다시 일어났어요. Eric은 달릴 수 있어요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "선생님",
+       "text": "Can you run?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't run.",
+      "Yes, I do.",
+      "Yes, I can. I can run."
+     ],
+     "answer": 2,
+     "explain": "달릴 수 있으니까 ‘Yes, I can. I can run.’이라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can sing. Can you sing?",
+     "ko": "나는 노래할 수 있어. 너는 노래할 수 있니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 노래할 수 있어.",
+     "answers": [
+      "I can sing."
+     ],
+     "hint": "I can ____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "점프하다",
+     "answers": [
+      "jump"
+     ],
+     "hint": "j _ m p"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Juno, can you dance?",
+     "answer": "Juno, can you dance?",
+     "distractors": [
+      "sing?",
+      "I"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 스케이트를 탈 수 없어.",
+     "answer": "I can't skate.",
+     "distractors": [
+      "can",
+      "swim."
+     ],
+     "explain": "‘나는 ~할 수 없어.’는 I can't ~.예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Sora. I can dance. I can sing. But I can't swim.",
+     "question": "소라에 대해 알맞은 것은?",
+     "choices": [
+      "춤을 못 춰요.",
+      "수영을 못 해요.",
+      "노래를 못 해요."
+     ],
+     "answer": 1,
+     "explain": "‘I can't swim.’이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "운동장에 높은 장애물이 있어요. Eric은 점프를 잘해요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Oh, it's high. Eric, can you jump?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. It's high.",
+      "Yes! I can jump high.",
+      "It's very small."
+     ],
+     "answer": 1,
+     "explain": "할 수 있으니까 ‘I can jump high.’라고 해요. high는 ‘높은, 높이’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___. Can you jump?",
+     "ko": "그것은 높아. 너는 점프할 수 있니?",
+     "choices": [
+      "high",
+      "small",
+      "ready"
+     ],
+     "answer": 0,
+     "explain": "‘높은’은 high예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 달리다가 넘어졌어요. 응원하는 말로 알맞은 것은?",
+     "choices": [
+      "You can do it!",
+      "I can't run.",
+      "It's small."
+     ],
+     "answer": 0,
+     "explain": "‘You can do it!’은 ‘너는 할 수 있어!’라는 응원의 말이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bora: Can you sing? Eric: No, I can't. I can't sing. But I can dance. Bora: Great!",
+     "question": "Eric이 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "노래하기",
+      "춤추기",
+      "수영하기"
+     ],
+     "answer": 1,
+     "explain": "‘But I can dance.’라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you swim? No, I can't. I can't swim.",
+     "ko": "너는 수영할 수 있니? 아니, 못 해. 나는 수영할 수 없어."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "동작을 나타내는 단어 읽고 쓰기 / 알파벳 ‘s’로 시작하는 단어 소리 내어 읽기",
+   "objectives": [
+    "단어(dance, jump, run, sing, skate, swim)를 읽고 그 의미를 이해하며, 보고 쓸 수 있다.",
+    "/s/ 소리를 식별하고, 소리 /s/와 철자 ‘s’의 관계를 이해하며 ‘s’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+    "‘동작 말판을 만들어 놀이하기’의 협력 과업으로 단어를 읽고 쓰며, 할 수 있는 것을 묻고 답하는 말, 할 수 있는 것과 할 수 없는 것을 표현하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 102~103쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "교사의 동작을 보고 ‘Can you swim?’ 묻고 답하기, 노래·스케이트 사진과 함께 sing, skate 철자 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "단어 읽고 뜻 추측하기, 예시 대화 따라 말하고 교사가 가리키는 단어로 짝과 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Choose / Read, Match and Write",
+     "desc": "규칙을 찾아 알맞은 동작 단어에 ○표 하기, 그림과 단어 연결하고 쓰기, 스스로 다지기(철자 고르고 쓰기·할 수 있는 동작 쓰기)",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "/s/ 소리와 철자 s의 관계 익히기(sing, skate, swim), 첫소리가 다른 단어 고르기, s로 시작하는 그림에 ○표",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 동작 말판에 단어를 써서 완성하고, 동전을 던져 도착한 칸의 단어로 ‘Can you ...?’ 묻고 웃는/찡그린 얼굴에 따라 답하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "단어 읽기, Ss 카드로 s로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "dance",
+    "jump",
+    "run",
+    "sing",
+    "skate",
+    "swim",
+    "sing, skate, swim"
+   ],
+   "tip": "/s/는 이를 살짝 다물고 바람을 ‘스—’ 하고 내보내는 소리예요. /z/(zebra)와 헷갈리지 않게 목이 떨리지 않도록 말해요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가, 포트폴리오(동작 말판) — 단어를 읽고 의미를 이해하며 보고 쓸 수 있는가? /s/ 소리를 식별하고 s로 시작하는 단어를 읽을 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "dance",
+       "춤추다"
+      ],
+      [
+       "jump",
+       "점프하다"
+      ],
+      [
+       "run",
+       "달리다"
+      ],
+      [
+       "sing",
+       "노래하다"
+      ],
+      [
+       "skate",
+       "스케이트를 타다"
+      ],
+      [
+       "swim",
+       "수영하다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sing",
+       "🎤"
+      ],
+      [
+       "swim",
+       "🏊"
+      ],
+      [
+       "skate",
+       "⛸️"
+      ],
+      [
+       "run",
+       "🏃"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "💃",
+     "choices": [
+      "jump",
+      "sing",
+      "swim",
+      "dance"
+     ],
+     "answer": 3,
+     "explain": "춤추다는 dance예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 첫소리가 /s/인 단어는?",
+     "choices": [
+      "jump",
+      "run",
+      "dance",
+      "sing"
+     ],
+     "answer": 3,
+     "explain": "sing은 s(/s/)로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "skate",
+     "choices": [
+      "🏊",
+      "🎤",
+      "🏃",
+      "⛸️"
+     ],
+     "answer": 3,
+     "explain": "skate는 스케이트를 타다예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 첫소리에 해당하는 글자를 고르세요.",
+     "audio": "swim",
+     "choices": [
+      "z",
+      "j",
+      "r",
+      "s"
+     ],
+     "answer": 3,
+     "explain": "swim은 /s/ 소리로 시작해요. 글자는 s예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "jump",
+     "choices": [
+      "jump",
+      "dance",
+      "skate"
+     ],
+     "answer": 0,
+     "explain": "jump는 점프하다예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you ___?",
+     "ko": "너는 수영할 수 있니?",
+     "choices": [
+      "sing",
+      "swim",
+      "skate"
+     ],
+     "answer": 1,
+     "explain": "수영하다는 swim이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘run’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "노래하다",
+      "춤추다",
+      "점프하다",
+      "달리다"
+     ],
+     "answer": 3,
+     "explain": "run은 달리다예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 첫 글자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "sing",
+       "s"
+      ],
+      [
+       "jump",
+       "j"
+      ],
+      [
+       "run",
+       "r"
+      ],
+      [
+       "dance",
+       "d"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "규칙을 찾아 ?에 알맞은 단어를 고르세요. run – jump – swim – run – jump – ?",
+     "choices": [
+      "sing",
+      "dance",
+      "swim"
+     ],
+     "answer": 2,
+     "explain": "run, jump, swim이 차례로 반복돼요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "sing, skate, swim",
+     "ko": "노래하다, 스케이트를 타다, 수영하다"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "그림은 수영하는 모습이에요(🏊). 여자아이는 수영을 못 해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Can you swim?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can.",
+      "No, I can't.",
+      "No, it isn't."
+     ],
+     "answer": 1,
+     "explain": "못 하니까 ‘No, I can't.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림은 점프하는 모습이에요(🦘). 여자아이는 점프를 잘해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "Can you jump?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't.",
+      "Yes, it is.",
+      "Yes, I can."
+     ],
+     "answer": 2,
+     "explain": "할 수 있으니까 ‘Yes, I can.’이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "첫소리가 다른 하나를 고르세요.",
+     "choices": [
+      "sing",
+      "skate",
+      "swim",
+      "zebra"
+     ],
+     "answer": 3,
+     "explain": "sing, skate, swim은 /s/로, zebra는 /z/로 시작해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "___ing",
+     "ko": "노래하다",
+     "choices": [
+      "z",
+      "r",
+      "s"
+     ],
+     "answer": 2,
+     "explain": "노래하다는 sing이에요. 첫 글자는 s예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "노래하다",
+     "answers": [
+      "sing"
+     ],
+     "hint": "s _ n g"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you skate? Yes, I can.",
+     "answer": "Can you skate? Yes, I can.",
+     "distractors": [
+      "can't.",
+      "swim?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 달릴 수 있니?",
+     "answer": "Can you run?",
+     "distractors": [
+      "jump?",
+      "I"
+     ],
+     "explain": "달리다는 run이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "규칙을 찾아 ?에 알맞은 단어를 고르세요. sing – skate – dance – sing – skate – ?",
+     "choices": [
+      "dance",
+      "run",
+      "swim"
+     ],
+     "answer": 0,
+     "explain": "sing, skate, dance가 차례로 반복돼요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "run",
+     "choices": [
+      "💃",
+      "🎤",
+      "🏊",
+      "🏃"
+     ],
+     "answer": 3,
+     "explain": "run은 달리다예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you sing? Yes, I can.",
+     "ko": "너는 노래할 수 있니? 응, 할 수 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "스케이트를 타다",
+     "answers": [
+      "skate"
+     ],
+     "hint": "s k _ t e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "춤추다",
+     "answers": [
+      "dance"
+     ],
+     "hint": "d _ n c e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "수영하다 (철자를 바르게 배열해요: m s w i)",
+     "answers": [
+      "swim"
+     ],
+     "hint": "s _ _ m"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina reads the word \"swim.\" Her friends ask, \"Can you swim?\" Mina says, \"Yes, I can.\"",
+     "question": "Mina가 읽은 단어는 무엇인가요?",
+     "choices": [
+      "sing",
+      "skate",
+      "swim"
+     ],
+     "answer": 2,
+     "explain": "Mina는 ‘swim’을 읽었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina can dance. Jun can skate. Sora can sing. Tom can swim.",
+     "question": "스케이트를 탈 수 있는 친구는 누구인가요?",
+     "choices": [
+      "Mina",
+      "Sora",
+      "Tom",
+      "Jun"
+     ],
+     "answer": 3,
+     "explain": "‘Jun can skate.’라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 점프할 수 없어.",
+     "answer": "I can't jump.",
+     "distractors": [
+      "can",
+      "run."
+     ],
+     "explain": "‘나는 ~할 수 없어.’는 I can't ~.예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you swim? No, I can't.",
+     "answer": "Can you swim? No, I can't.",
+     "distractors": [
+      "can.",
+      "sing?"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 단어와 같은 소리로 시작하는 단어는?",
+     "emoji": "🎤",
+     "choices": [
+      "jump",
+      "run",
+      "zebra",
+      "skate"
+     ],
+     "answer": 3,
+     "explain": "sing과 skate는 둘 다 /s/ 소리로 시작해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "동작 말판의 ‘dance’ 칸에 찡그린 얼굴이 있어요(할 수 없음). S1의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "S2",
+       "text": "Can you dance?"
+      },
+      {
+       "who": "S1",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't dance.",
+      "Yes, I can. I can dance.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "찡그린 얼굴은 할 수 없다는 뜻이니까 ‘No, I can't.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Sing, skate, swim. I can swim!",
+     "ko": "노래하다, 스케이트를 타다, 수영하다. 나는 수영할 수 있어!"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·정리",
+   "icon": "book",
+   "studyPoint": "‘토끼와 거북이’ 역할극을 하며 배운 표현 활용하기 / ‘My Work’로 배운 내용을 확인하고 정리하기",
+   "objectives": [
+    "‘Story Time’에서 ‘토끼와 거북이’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 104~105쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "단어를 읽고 교과서에 쓴 뒤 그 동작을 할 수 있는지 짝과 묻고 답하기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "원작 소개와 이야기 추측하기, 만화 영화를 보며 줄거리 이해하기, HOW ABOUT YOU?(토끼에게 해 주고 싶은 말), 모둠별 역할극하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "Eric과 보라가 할 수 있는 동작에 연결하기, 동작을 할 수 있는지 묻고 답하기, 그림에 알맞은 단어 쓰기, 강당 그림을 보고 떠오르는 단어 두 개와 이유 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 성취도 점검과 ‘정리해요’ 쓰기, 단원 마무리 게임, Special 5 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you run?",
+    "No, I can't. I can't swim.",
+    "Yes, I can. I can swim.",
+    "Sit here."
+   ],
+   "tip": "이야기 속 토끼와 거북이가 되어 Can you ~?와 I can / I can't를 실감 나게 말해 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(역할극 참여), My Work 자기 평가, 단원평가(지필) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 단원 내용을 정리할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The hare and the tortoise meet. The hare asks, \"Can you run?\" The tortoise says, \"No, I can't.\"",
+     "question": "거북이는 달릴 수 있나요?",
+     "choices": [
+      "네, 잘 달려요.",
+      "네, 조금 달려요.",
+      "아니요, 달릴 수 없어요."
+     ],
+     "answer": 2,
+     "explain": "거북이는 ‘No, I can't.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The deer says, \"Ready, go!\" The hare runs and runs. Then the hare sees water.",
+     "question": "사슴이 한 말은 무엇인가요?",
+     "choices": [
+      "이리 와!",
+      "준비, 출발!",
+      "고마워!"
+     ],
+     "answer": 1,
+     "explain": "사슴은 ‘Ready, go!’라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "영어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "run",
+       "달리다"
+      ],
+      [
+       "swim",
+       "수영하다"
+      ],
+      [
+       "Ready, go!",
+       "준비, 출발!"
+      ],
+      [
+       "Sit here.",
+       "여기 앉아."
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "토끼는 수영을 못 해요. 토끼의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "사슴",
+       "text": "Can you swim?"
+      },
+      {
+       "who": "토끼",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't swim.",
+      "Yes, I can. I can swim.",
+      "No, I can't. I can't run."
+     ],
+     "answer": 0,
+     "explain": "수영을 못 하니까 ‘I can't swim.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "거북이는 수영을 잘해요. 거북이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "토끼",
+       "text": "Can you swim?"
+      },
+      {
+       "who": "거북이",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't swim.",
+      "Yes, I can. I can run.",
+      "Yes, I can. I can swim."
+     ],
+     "answer": 2,
+     "explain": "수영을 할 수 있으니까 ‘Yes, I can. I can swim.’이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Sit here.",
+     "choices": [
+      "여기 앉아.",
+      "일어나.",
+      "이리 와."
+     ],
+     "answer": 0,
+     "explain": "sit은 앉다, here는 여기예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm great.",
+     "choices": [
+      "나는 슬퍼.",
+      "나는 아주 좋아.",
+      "나는 미안해."
+     ],
+     "answer": 1,
+     "explain": "great는 ‘아주 좋은’이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "달리기 경주를 시작할 때 하는 말로 알맞은 것은?",
+     "choices": [
+      "Sit here.",
+      "Ready, go!",
+      "Thank you."
+     ],
+     "answer": 1,
+     "explain": "‘Ready, go!’는 ‘준비, 출발!’이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Come ___.",
+     "ko": "이리 와.",
+     "choices": [
+      "here",
+      "down",
+      "up"
+     ],
+     "answer": 0,
+     "explain": "‘이리 와.’는 Come here.예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "거북이가 토끼를 등에 태워 줬어요. 토끼가 할 말로 알맞은 것은?",
+     "choices": [
+      "Oh, thank you.",
+      "Oh, I'm sorry.",
+      "Ready, go!"
+     ],
+     "answer": 0,
+     "explain": "도움을 받으면 ‘Thank you.’라고 고마움을 표현해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕. 어떻게 지내?",
+     "answer": "Hi. How are you?",
+     "distractors": [
+      "Bye.",
+      "fine"
+     ],
+     "explain": "안부를 물을 때는 ‘How are you?’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you run? No, I can't.",
+     "ko": "너는 달릴 수 있니? 아니, 못 해."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "Can you dance, Eric? Yes, I can. I can dance.",
+     "choices": [
+      "Eric은 춤을 못 춰요.",
+      "Eric은 춤출 수 있어요.",
+      "Eric은 노래할 수 있어요."
+     ],
+     "answer": 1,
+     "explain": "Eric은 ‘I can dance.’라고 했어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "Can you swim, Bora? No, I can't.",
+     "choices": [
+      "보라는 수영을 잘해요.",
+      "보라는 스케이트를 못 타요.",
+      "보라는 수영을 못 해요."
+     ],
+     "answer": 2,
+     "explain": "보라는 ‘No, I can't.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림 속 아이는 스케이트를 잘 타요(⛸️). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you skate?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I can't. I can't skate.",
+      "Yes, I can. I can skate.",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "할 수 있으니까 ‘Yes, I can. I can skate.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 가수처럼 잘 불러요(🎤). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you sing?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I can. I can sing.",
+      "No, I can't. I can't sing.",
+      "Yes, it is."
+     ],
+     "answer": 0,
+     "explain": "할 수 있으니까 ‘Yes, I can. I can sing.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 노래할 수 있어. 나는 스케이트를 탈 수 없어.",
+     "answer": "I can sing. I can't skate.",
+     "distractors": [
+      "jump.",
+      "you"
+     ],
+     "explain": "할 수 있는 것은 I can, 할 수 없는 것은 I can't로 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you ___?",
+     "ko": "너는 노래할 수 있니?",
+     "choices": [
+      "swim",
+      "sing",
+      "skate"
+     ],
+     "answer": 1,
+     "explain": "노래하다는 sing이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 /s/ 소리로 시작하지 않는 단어는?",
+     "choices": [
+      "sing",
+      "skate",
+      "swim",
+      "jump"
+     ],
+     "answer": 3,
+     "explain": "jump는 /dʒ/(j) 소리로 시작해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Come here. Ready, go!",
+     "answer": "Come here. Ready, go!",
+     "distractors": [
+      "down.",
+      "Sit"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The hare can run. The tortoise can't run. But the tortoise can swim.",
+     "question": "거북이가 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "달리기",
+      "노래",
+      "스케이트",
+      "수영"
+     ],
+     "answer": 3,
+     "explain": "‘the tortoise can swim’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can swim. Sit here.",
+     "ko": "나는 수영할 수 있어. 여기 앉아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "점프하다 (철자를 바르게 배열해요: p m u j)",
+     "answers": [
+      "jump"
+     ],
+     "hint": "j _ _ p"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 달릴 수 있어.",
+     "answers": [
+      "I can run."
+     ],
+     "hint": "I can ___."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The hare stops at the water. \"I can't swim,\" says the hare. The tortoise comes. \"I can swim. Sit here.\" The hare says, \"Oh, thank you.\"",
+     "question": "거북이가 토끼에게 한 말은 무엇인가요?",
+     "choices": [
+      "나는 수영할 수 있어. 여기 앉아.",
+      "나는 달릴 수 있어. 이리 와.",
+      "준비, 출발!"
+     ],
+     "answer": 0,
+     "explain": "거북이는 ‘I can swim. Sit here.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Hoa. I can sing. I can run. I can't skate. Can you skate?",
+     "question": "Hoa가 못 하는 것은 무엇인가요?",
+     "choices": [
+      "노래하기",
+      "달리기",
+      "스케이트 타기"
+     ],
+     "answer": 2,
+     "explain": "‘I can't skate.’라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 할 수 있어. 여기 앉아.",
+     "answer": "Yes, I can. Sit here.",
+     "distractors": [
+      "can't.",
+      "Come"
+     ],
+     "explain": "‘여기 앉아.’는 ‘Sit here.’예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm great. Can you run?",
+     "answer": "I'm great. Can you run?",
+     "distractors": [
+      "fine.",
+      "swim?"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "미니 올림픽에서 친구가 아주 높이 점프했어요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you jump high?"
+      },
+      {
+       "who": "B",
+       "text": "Yes, I can. Look!"
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm sorry.",
+      "Wow, great!",
+      "No, I can't."
+     ],
+     "answer": 1,
+     "explain": "멋지게 해낸 친구에게 ‘Wow, great!’라고 칭찬해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I can't swim.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 수영할 수 있어.",
+      "너는 수영할 수 있니?",
+      "나는 수영할 수 없어."
+     ],
+     "answer": 2,
+     "explain": "can't는 ‘~할 수 없다’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ run. I can't swim.",
+     "ko": "나는 달릴 수 있어. 나는 수영할 수 없어.",
+     "choices": [
+      "can't",
+      "can",
+      "do"
+     ],
+     "answer": 1,
+     "explain": "할 수 있는 것은 can으로 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "You can do it!",
+     "ko": "너는 할 수 있어!"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "아이스 링크에서 친구들이 스케이트와 점프를 할 수 있는지 서로 물어봐요.",
+   "lines": [
+    {
+     "who": "보라",
+     "text": "Can you skate?"
+    },
+    {
+     "who": "Hoa",
+     "text": "No, I can't."
+    },
+    {
+     "who": "Hoa",
+     "text": "Can you skate?"
+    },
+    {
+     "who": "보라",
+     "text": "Yes, I can."
+    },
+    {
+     "who": "Eric",
+     "text": "Can you jump?"
+    },
+    {
+     "who": "보라",
+     "text": "Yes, I can. Look at me!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "운동장 체육 대회에서 춤, 점프, 달리기를 할 수 있는지 묻고 답해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Can you dance?"
+    },
+    {
+     "who": "준오",
+     "text": "No, I can't. I can't dance."
+    },
+    {
+     "who": "보라",
+     "text": "Eric, can you jump?"
+    },
+    {
+     "who": "Eric",
+     "text": "Yes, I can. I can jump."
+    },
+    {
+     "who": "선생님",
+     "text": "Can you run?"
+    },
+    {
+     "who": "Eric",
+     "text": "Yes, I can. I can run."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Alice와 하나가 노래와 춤을 할 수 있는지 이야기해요.",
+   "lines": [
+    {
+     "who": "Alice",
+     "text": "I can sing. Can you sing, Hana?"
+    },
+    {
+     "who": "하나",
+     "text": "No, I can't. I can't sing."
+    },
+    {
+     "who": "Alice",
+     "text": "Can you dance?"
+    },
+    {
+     "who": "하나",
+     "text": "Yes, I can. I can dance."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "경주 중 시냇물 앞에서 멈춘 토끼를 거북이가 도와줘요.",
+   "lines": [
+    {
+     "who": "사슴",
+     "text": "Can you swim?"
+    },
+    {
+     "who": "토끼",
+     "text": "No, I can't. I can't swim."
+    },
+    {
+     "who": "거북이",
+     "text": "Yes, I can. I can swim. Sit here."
+    },
+    {
+     "who": "토끼",
+     "text": "Oh, thank you."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "The Hare and the Tortoise (토끼와 거북이)",
+  "passage": "The hare and the tortoise have a race. The hare is fast. The tortoise can't run fast. The deer shouts, \"Ready, go!\" The hare runs far, but then it stops at a stream. It can't swim. The tortoise arrives and says, \"I can swim. Sit on my back.\" They cross the water together, and the hare says thank you.",
+  "summaryKo": "달리기 경주 중 시냇물 앞에서 멈춘 토끼를 수영할 수 있는 거북이가 등에 태워 함께 건너요."
+ },
+ "writing": {
+  "frame": [
+   "I can ____.",
+   "I can't ____."
+  ],
+  "model": "I can swim. I can't skate."
+ },
+ "project": "Work Together ‘동작 말판을 만들어 놀이하기’: 모둠별로 말판 그림에 동작 단어를 보고 써서 완성한 뒤, 동전을 던져 도착한 칸의 단어로 ‘Can you swim?’이라고 묻고 웃는 얼굴이면 ‘Yes, I can.’, 찡그린 얼굴이면 ‘No, I can't. I can't ....’로 답한다.",
+ "special": {
+  "no": 5,
+  "kind": "CULTURE · PROJECT",
+  "title": "각 나라를 대표하는 동물을 알아봐요 / 학급 미니 올림픽 하기",
+  "summaryKo": "CULTURE에서는 월드컵과 올림픽 마스코트를 보며 각 나라를 대표하는 동물을 알아보고, 모둠 마스코트를 만들어 그 마스코트가 할 수 있는 것을 발표해요. PROJECT에서는 swim, skate, run, jump, dance, sing 종목으로 학급 미니 올림픽을 하며 ‘Can you ...? – Yes, I can.’을 사용하고, Let's Try!·Let's Check!로 9, 10단원을 복습해요.",
+  "facts": [
+   "1966년 잉글랜드 월드컵 마스코트 윌리(Willie)는 영국을 대표하는 동물인 사자로 만든 월드컵 최초의 마스코트예요.",
+   "1998년 프랑스 월드컵 마스코트 푸틱스(Footix)는 프랑스를 대표하는 수탉으로 만들었어요.",
+   "2010년 남아프리카 공화국 월드컵 마스코트 자쿠미(Zakumi)는 표범으로 만들었어요.",
+   "2018년 평창 동계 올림픽 마스코트 수호랑(Soohorang)은 우리나라를 대표하는 백호(흰 호랑이)예요.",
+   "2022년 베이징 동계 올림픽 마스코트 빙둔둔(Bing Dwen Dwen)은 중국을 대표하는 판다예요.",
+   "미국을 대표하는 새는 흰머리독수리예요.",
+   "미니 올림픽 종목: swim(코 막고 숨 오래 참기), skate(발을 떼지 않고 미끄러지며 가기), run(제자리 뛰기), jump(점프해서 붙임쪽지 떼기), dance(한 발로 돌기), sing(한 음을 길게 내기)."
+  ],
+  "expressions": [
+   "Is it a lion? – No, it isn't. It's a cat.",
+   "Look at the elephant. – It's big.",
+   "Can you swim? – Yes, I can. I can swim.",
+   "Can you jump? – No, I can't. I can't jump."
+  ],
+  "exercises": []
+ }
+}

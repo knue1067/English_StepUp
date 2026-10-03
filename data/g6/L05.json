@@ -1,0 +1,3220 @@
+{
+ "id": "L05",
+ "no": 5,
+ "grade": 6,
+ "semester": 1,
+ "title": "Where Is ABC Library?",
+ "emoji": "🗺️",
+ "rationale": "일상생활에서 목적지를 찾아가거나 낯선 곳에서 위치를 묻는 상황을 자주 접하게 된다. 길을 묻고 답하는 말과 위치를 나타내는 말을 익히고, 길을 묻고 답하는 글을 읽고 쓰면서 정보를 탐색하고 전달하는 능력을 길러 실생활에서 활용하게 하고자 한다.",
+ "topics": "개인생활(관심사), 학교생활 관련(학교 활동, 진로)",
+ "functions": [
+  {
+   "ko": "길 묻고 답하기",
+   "examples": [
+    "Where is ABC Library?",
+    "Go straight one block and turn right at Nuri Bank."
+   ]
+  },
+  {
+   "ko": "위치 나타내기",
+   "examples": [
+    "It's next to the bank."
+   ]
+  }
+ ],
+ "forms": [
+  "Go straight two blocks and turn right at the restroom.",
+  "It's next to the library.",
+  "There is a small park in Hanok Town."
+ ],
+ "newWords": [
+  {
+   "en": "bank",
+   "ko": "은행"
+  },
+  {
+   "en": "block",
+   "ko": "블록, 구역"
+  },
+  {
+   "en": "hospital",
+   "ko": "병원"
+  },
+  {
+   "en": "hungry",
+   "ko": "배고픈"
+  },
+  {
+   "en": "left",
+   "ko": "왼쪽, 왼쪽으로"
+  },
+  {
+   "en": "restaurant",
+   "ko": "식당"
+  },
+  {
+   "en": "restroom",
+   "ko": "화장실"
+  },
+  {
+   "en": "stop",
+   "ko": "정류장; 멈추다"
+  },
+  {
+   "en": "store",
+   "ko": "가게, 상점"
+  },
+  {
+   "en": "straight",
+   "ko": "똑바로, 곧장"
+  },
+  {
+   "en": "town",
+   "ko": "마을"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "hospital",
+   "ko": "병원",
+   "emoji": "🏥"
+  },
+  {
+   "en": "restaurant",
+   "ko": "식당",
+   "emoji": "🍽️"
+  },
+  {
+   "en": "bank",
+   "ko": "은행",
+   "emoji": "🏦"
+  },
+  {
+   "en": "bus stop",
+   "ko": "버스 정류장",
+   "emoji": "🚏"
+  },
+  {
+   "en": "library",
+   "ko": "도서관",
+   "emoji": "📚"
+  },
+  {
+   "en": "restroom",
+   "ko": "화장실",
+   "emoji": "🚻"
+  },
+  {
+   "en": "go straight",
+   "ko": "직진하다",
+   "emoji": "⬆️"
+  },
+  {
+   "en": "turn left",
+   "ko": "왼쪽으로 돌다",
+   "emoji": "⬅️"
+  },
+  {
+   "en": "turn right",
+   "ko": "오른쪽으로 돌다",
+   "emoji": "➡️"
+  },
+  {
+   "en": "next to",
+   "ko": "~ 옆에",
+   "emoji": ""
+  }
+ ],
+ "characters": [
+  "우주",
+  "Tom",
+  "Amy",
+  "하나",
+  "행인",
+  "Green 선생님",
+  "직원",
+  "관광객",
+  "민우",
+  "나리",
+  "Noah",
+  "김정호"
+ ],
+ "goals": {
+  "understand": [
+   "길을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "위치를 나타내는 말을 듣고 이해할 수 있다.",
+   "길을 안내하는 글을 읽고 이해할 수 있다.",
+   "길을 묻고 답하며 위치를 나타내는 말을 하는 상황을 파악하며 집중하여 들을 수 있다.",
+   "길을 안내하는 글을 흥미를 가지고 읽을 수 있다."
+  ],
+  "express": [
+   "길을 묻고 답하는 말을 할 수 있다.",
+   "위치를 나타내는 말을 할 수 있다.",
+   "길을 묻고 답하는 문장, 위치를 나타내는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 길을 묻고 답하는 글을 쓸 수 있다.",
+   "개인 및 학교생활에 도움이 되는 영어 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-06",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-05",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "길 묻고 답하기",
+   "objectives": [
+    "길을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 63~65쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "지도를 보며 학교까지 가는 길 말하기, 길을 알려 준 경험 이야기하기, 단원 목표 확인, 장소 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "어린이날 행사를 보러 ABC 도서관을 찾아가는 우주·Tom·Amy·하나의 만화 영화를 보고 약도에 길 표시하기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "대화를 듣고 찾는 장소(화장실, 버스 정류장, K 식당, 병원)의 위치에 번호 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "주머니에서 장소 그림 카드를 뽑아 지도를 보고 위치를 바르게 묻고 답하기 (모둠)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 그림과 맞으면 ○, 틀리면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where is ABC Library?",
+    "Go straight one block and turn right at Nuri Bank."
+   ],
+   "tip": "길을 알려 줄 때는 출발점을 먼저 확인해요. 'Go straight → Turn left / Turn right' 순서로 말해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 길을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "장소 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bank",
+       "은행"
+      ],
+      [
+       "hospital",
+       "병원"
+      ],
+      [
+       "restaurant",
+       "식당"
+      ],
+      [
+       "restroom",
+       "화장실"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "bus stop",
+       "버스 정류장"
+      ],
+      [
+       "library",
+       "도서관"
+      ],
+      [
+       "go straight",
+       "직진하다"
+      ],
+      [
+       "turn left",
+       "왼쪽으로 돌다"
+      ],
+      [
+       "turn right",
+       "오른쪽으로 돌다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 장소는?",
+     "emoji": "🏥",
+     "choices": [
+      "hospital",
+      "bank",
+      "library",
+      "restroom"
+     ],
+     "answer": 0,
+     "explain": "🏥는 병원(hospital)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 장소는?",
+     "emoji": "🚏",
+     "choices": [
+      "restaurant",
+      "hospital",
+      "bank",
+      "bus stop"
+     ],
+     "answer": 3,
+     "explain": "🚏는 버스 정류장(bus stop)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'restaurant'의 뜻으로 알맞은 것은?",
+     "emoji": "🍽️",
+     "choices": [
+      "화장실",
+      "은행",
+      "식당",
+      "도서관"
+     ],
+     "answer": 2,
+     "explain": "restaurant는 '식당'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Where is the bank?",
+     "choices": [
+      "은행은 어디에 있나요?",
+      "병원은 어디에 있나요?",
+      "도서관은 어디에 있나요?"
+     ],
+     "answer": 0,
+     "explain": "bank는 '은행'이에요. Where is ...?는 위치를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 방향을 고르세요.",
+     "audio": "Turn right.",
+     "choices": [
+      "➡️",
+      "⬅️",
+      "⬆️"
+     ],
+     "answer": 0,
+     "explain": "turn right는 '오른쪽으로 돌다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom의 질문에 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Where is ABC Library?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn right at Nuri Bank.",
+      "I'm in the sixth grade.",
+      "It's on May 7th."
+     ],
+     "answer": 0,
+     "explain": "도서관이 어디 있는지 물었으니 가는 길을 알려 주는 말로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Tom의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "행인",
+       "text": "Go straight one block and turn right at the hospital."
+      }
+     ],
+     "choices": [
+      "When is your birthday?",
+      "What season do you like?",
+      "Where is Nuri Bank?"
+     ],
+     "answer": 2,
+     "explain": "행인이 길을 알려 주었으니 Tom은 장소가 어디인지 물었어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go ___ one block.",
+     "ko": "한 블록 직진하세요.",
+     "choices": [
+      "left",
+      "right",
+      "straight"
+     ],
+     "answer": 2,
+     "explain": "'직진하다'는 go straight예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "도서관은 어디에 있나요?",
+     "answer": "Where is the library?",
+     "distractors": [
+      "What",
+      "are"
+     ],
+     "explain": "장소의 위치를 물을 때는 'Where is the 장소?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where is the restroom?",
+     "ko": "화장실은 어디에 있나요?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Turn ___ at the bank.",
+     "ko": "은행에서 오른쪽으로 도세요.",
+     "choices": [
+      "left",
+      "right",
+      "straight"
+     ],
+     "answer": 1,
+     "explain": "'오른쪽으로 돌다'는 turn right예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight two ___ and turn left.",
+     "ko": "두 블록 직진해서 왼쪽으로 도세요.",
+     "choices": [
+      "block",
+      "banks",
+      "blocks"
+     ],
+     "answer": 2,
+     "explain": "두 블록은 two blocks예요. 둘 이상이면 -s를 붙여요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Go straight two blocks and turn left at the library.",
+     "choices": [
+      "한 블록 직진해서 도서관에서 오른쪽으로 도세요.",
+      "두 블록 직진해서 도서관에서 왼쪽으로 도세요.",
+      "두 블록 직진해서 은행에서 왼쪽으로 도세요."
+     ],
+     "answer": 1,
+     "explain": "two blocks(두 블록), turn left(왼쪽으로), at the library(도서관에서)를 잘 들어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 찾는 장소를 고르세요.",
+     "audio": "Where is the bus stop?",
+     "choices": [
+      "🏦",
+      "🚏",
+      "🏥"
+     ],
+     "answer": 1,
+     "explain": "bus stop은 버스 정류장이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "식당은 한 블록 직진해서 버스 정류장에서 왼쪽으로 돌면 있어요. Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Where is the restaurant?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn left at the bus stop.",
+      "Go straight one block and turn right at the bus stop.",
+      "Go straight two blocks and turn left at the bus stop."
+     ],
+     "answer": 0,
+     "explain": "한 블록(one block), 버스 정류장에서 왼쪽(turn left)이 맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "한 블록 직진해서 오른쪽으로 도세요.",
+     "answer": "Go straight one block and turn right.",
+     "distractors": [
+      "left.",
+      "blocks"
+     ],
+     "explain": "'한 블록 직진하다'는 go straight one block, '오른쪽으로 돌다'는 turn right예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where is the hospital?",
+     "answer": "Where is the hospital?",
+     "distractors": [
+      "What",
+      "bank?"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "길을 물을 때 하는 말로 알맞은 것은?",
+     "choices": [
+      "What grade are you in?",
+      "Where is the school?",
+      "Why are you happy?"
+     ],
+     "answer": 1,
+     "explain": "Where is ...?로 장소의 위치를 물어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "one block",
+       "한 블록"
+      ],
+      [
+       "two blocks",
+       "두 블록"
+      ],
+      [
+       "at the hospital",
+       "병원에서"
+      ],
+      [
+       "at the bank",
+       "은행에서"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Go straight two blocks and turn left at the bank.",
+     "ko": "두 블록 직진해서 은행에서 왼쪽으로 도세요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "은행",
+     "answers": [
+      "bank"
+     ],
+     "hint": "b _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "가게는 어디에 있나요?",
+     "answers": [
+      "Where is the store?"
+     ],
+     "hint": "Where is the ____?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "두 블록 직진해서 화장실에서 왼쪽으로 도세요.",
+     "answer": "Go straight two blocks and turn left at the restroom.",
+     "distractors": [
+      "right",
+      "one"
+     ],
+     "explain": "two blocks(두 블록), turn left(왼쪽으로), at the restroom(화장실에서) 순서로 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Start at the school.\nGo straight one block and turn right at the bank.\nYou can see the library there.",
+     "question": "도서관에 가려면 어디에서 오른쪽으로 돌아야 하나요?",
+     "choices": [
+      "학교",
+      "은행",
+      "병원"
+     ],
+     "answer": 1,
+     "explain": "'turn right at the bank' — 은행에서 오른쪽으로 돌아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Boy: Where is the bus stop?\nGirl: Go straight two blocks and turn left at the hospital.",
+     "question": "버스 정류장에 가는 방법으로 알맞은 것은?",
+     "choices": [
+      "두 블록 직진 → 병원에서 왼쪽",
+      "한 블록 직진 → 병원에서 왼쪽",
+      "두 블록 직진 → 병원에서 오른쪽"
+     ],
+     "answer": 0,
+     "explain": "two blocks(두 블록)를 가서 병원에서 왼쪽(turn left)으로 돌아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "K 식당은 두 블록 직진해서 도서관에서 오른쪽으로 돌면 있어요. 민우의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "관광객",
+       "text": "Excuse me. Where is K Restaurant?"
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight two blocks and turn left at the library.",
+      "Go straight one block and turn right at the library.",
+      "Go straight two blocks and turn right at the library."
+     ],
+     "answer": 2,
+     "explain": "두 블록(two blocks) 직진해서 도서관에서 오른쪽(right)이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight one block and turn left at the hospital.",
+     "answer": "Go straight one block and turn left at the hospital.",
+     "distractors": [
+      "right",
+      "two"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom이 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Hello, where is the park?"
+      },
+      {
+       "who": "행인",
+       "text": "Go straight one block and turn right at the bank."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't.",
+      "Thank you.",
+      "I can't wait!"
+     ],
+     "answer": 1,
+     "explain": "길을 알려 준 사람에게는 고맙다고 말해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "왼쪽으로 도세요.",
+     "answers": [
+      "Turn left."
+     ],
+     "hint": "T _ _ _  l _ _ _."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hello, where is the market?",
+     "ko": "안녕하세요, 시장은 어디에 있나요?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "길 묻고 답하기 / 위치 나타내기",
+   "objectives": [
+    "길을 묻고 답하는 말을 할 수 있다.",
+    "위치를 나타내는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 66~67쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Play 1 지도로 길 묻고 답하며 복습하기, 지도에 은행·병원 그림을 붙이고 '옆에 있는 건물' 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "직업 체험관에서 식당과 화장실을 찾는 아이들의 만화 영화 보기 (식당 가는 길, 화장실 옆 건물 찾기)",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "관광객에게 버스 정류장과 병원 가는 길을 알려 주는 민우·나리·Noah의 동영상 보기, 짝과 길 안내 연습, 관광객과 행인 되어 말하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "지도 A·B를 나눠 가지고 길을 묻고 답하며 짝의 지도를 똑같이 완성하기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "지도를 보고 알맞은 대화를 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where is the restaurant?",
+    "Go straight two blocks and turn left at the bank.",
+    "It's next to the bank."
+   ],
+   "tip": "'It's next to the ○○.'를 덧붙이면 위치를 더 정확하게 알려 줄 수 있어요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 길을 묻고 답하는 말을 할 수 있는가? 위치를 나타내는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "hungry",
+       "배고픈"
+      ],
+      [
+       "next to",
+       "~ 옆에"
+      ],
+      [
+       "restroom",
+       "화장실"
+      ],
+      [
+       "restaurant",
+       "식당"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'hungry'의 뜻으로 알맞은 것은?",
+     "emoji": "😋",
+     "choices": [
+      "배고픈",
+      "피곤한",
+      "행복한",
+      "목마른"
+     ],
+     "answer": 0,
+     "explain": "hungry는 '배고픈'이에요. I'm hungry. — 나는 배고파."
+    },
+    {
+     "type": "mc",
+     "prompt": "'It's next to the bank.'의 뜻은?",
+     "choices": [
+      "그것은 은행 옆에 있어요.",
+      "그것은 은행 안에 있어요.",
+      "그것은 은행에서 멀어요."
+     ],
+     "answer": 0,
+     "explain": "next to는 '~ 옆에'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's next to the store.",
+     "choices": [
+      "그것은 가게 앞에 있어요.",
+      "그것은 병원 옆에 있어요.",
+      "그것은 가게 옆에 있어요."
+     ],
+     "answer": 2,
+     "explain": "next to the store는 '가게 옆에'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm hungry. Let's eat lunch.",
+     "choices": [
+      "피곤해. 집에 가자.",
+      "배불러. 같이 놀자.",
+      "배고파. 점심 먹자."
+     ],
+     "answer": 2,
+     "explain": "hungry는 '배고픈', eat lunch는 '점심을 먹다'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ to the bank.",
+     "ko": "그것은 은행 옆에 있어요.",
+     "choices": [
+      "turn",
+      "go",
+      "next"
+     ],
+     "answer": 2,
+     "explain": "'~ 옆에'는 next to예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 말에 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "I'm hungry."
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Turn left at the bank.",
+      "It's next to the hospital.",
+      "Me, too. Let's eat lunch."
+     ],
+     "answer": 2,
+     "explain": "배고프다는 말에 '나도 그래. 점심 먹자.'라고 답하면 자연스러워요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "민우의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "관광객",
+       "text": "Hello, where is the bus stop?"
+      },
+      {
+       "who": "민우",
+       "text": "Go straight one block and turn left at the bank."
+      },
+      {
+       "who": "관광객",
+       "text": "Thank you."
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too.",
+      "You're welcome.",
+      "Good luck."
+     ],
+     "answer": 1,
+     "explain": "Thank you.에는 You're welcome.(천만에요.)으로 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어는?",
+     "emoji": "🚻",
+     "choices": [
+      "restroom",
+      "restaurant",
+      "bank",
+      "library"
+     ],
+     "answer": 0,
+     "explain": "🚻는 화장실(restroom)이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 병원 옆에 있어요.",
+     "answer": "It's next to the hospital.",
+     "distractors": [
+      "at",
+      "turn"
+     ],
+     "explain": "위치를 말할 때 'It's next to the 장소.'라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where is the restaurant?",
+     "answer": "Where is the restaurant?",
+     "distractors": [
+      "What",
+      "bank?"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's next to the restroom.",
+     "ko": "그것은 화장실 옆에 있어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "화장실은 한 블록 직진해서 식당에서 오른쪽으로 돌면 있어요. 행인의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Hello, where is the restroom?"
+      },
+      {
+       "who": "행인",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn left at the restaurant.",
+      "Go straight one block and turn right at the restaurant.",
+      "Go straight two blocks and turn right at the restaurant."
+     ],
+     "answer": 1,
+     "explain": "한 블록(one block) 직진해서 식당에서 오른쪽(right)이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight two blocks and turn left ___ the bank.",
+     "ko": "두 블록 직진해서 은행에서 왼쪽으로 도세요.",
+     "choices": [
+      "to",
+      "at",
+      "on"
+     ],
+     "answer": 1,
+     "explain": "'~에서 돌다'라고 할 때 at을 써요. turn left at the bank"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Go straight one block and turn right at the restaurant. It's next to the bank.",
+     "choices": [
+      "식당에서 오른쪽으로 돌면 은행 옆에 있어요.",
+      "식당에서 왼쪽으로 돌면 은행 옆에 있어요.",
+      "은행에서 오른쪽으로 돌면 식당 옆에 있어요."
+     ],
+     "answer": 0,
+     "explain": "turn right at the restaurant(식당에서 오른쪽), next to the bank(은행 옆)예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 학교 옆에 있어요.",
+     "answer": "It's next to the school.",
+     "distractors": [
+      "at",
+      "is"
+     ],
+     "explain": "next to the school — 학교 옆에"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight two blocks and turn right at the restaurant.",
+     "answer": "Go straight two blocks and turn right at the restaurant.",
+     "distractors": [
+      "left",
+      "one"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Noah가 덧붙일 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "행인",
+       "text": "Hello, where is the hospital?"
+      },
+      {
+       "who": "나리",
+       "text": "Go straight two blocks and turn right at the restaurant."
+      },
+      {
+       "who": "Noah",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on September 15th.",
+      "It's next to the library.",
+      "I'm from Canada."
+     ],
+     "answer": 1,
+     "explain": "위치를 더 알려 주는 말 'It's next to ...'가 알맞아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the bank?\nB: Go straight two blocks and turn right at the restroom. It's next to the restroom.",
+     "question": "은행은 무엇 옆에 있나요?",
+     "choices": [
+      "식당",
+      "화장실",
+      "버스 정류장"
+     ],
+     "answer": 1,
+     "explain": "'It's next to the restroom.' — 은행은 화장실 옆에 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "위치를 나타내는 말로 알맞은 것은?",
+     "choices": [
+      "Let's eat lunch.",
+      "It's next to the park.",
+      "Can you help me?"
+     ],
+     "answer": 1,
+     "explain": "next to는 '~ 옆에'라는 뜻으로 위치를 나타내요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Let's meet here at three.",
+       "3시에 여기서 만나자."
+      ],
+      [
+       "Me, too.",
+       "나도 그래."
+      ],
+      [
+       "You're welcome.",
+       "천만에요."
+      ],
+      [
+       "Let's try that.",
+       "저것을 해 보자."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Go straight one block and turn right at the hospital. It's next to the bank.",
+     "ko": "한 블록 직진해서 병원에서 오른쪽으로 도세요. 그것은 은행 옆에 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "두 블록 직진해서 은행에서 왼쪽으로 도세요. 그것은 식당 옆에 있어요.",
+     "answer": "Go straight two blocks and turn left at the bank. It's next to the restaurant.",
+     "distractors": [
+      "right",
+      "one"
+     ],
+     "explain": "길 안내(Go straight ... turn ... at ...) 다음에 위치(It's next to ...)를 말해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 시장 옆에 있어요.",
+     "answers": [
+      "It's next to the market.",
+      "It is next to the market."
+     ],
+     "hint": "It's n _ _ _ to the ____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 배고파요.",
+     "answers": [
+      "I'm hungry.",
+      "I am hungry."
+     ],
+     "hint": "I'm h _ _ _ _ y."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ms. Green: Let's meet here at three.\nHana: I'm hungry. Where is the restaurant?\nMan: Go straight two blocks and turn left at the bank.",
+     "question": "식당에 가려면 어디에서 왼쪽으로 돌아야 하나요?",
+     "choices": [
+      "병원",
+      "은행",
+      "도서관"
+     ],
+     "answer": 1,
+     "explain": "'turn left at the bank' — 은행에서 왼쪽으로 돌아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Map\n- The library is next to the bus stop.\n- The hospital is next to the bank.\n- The restroom is next to the restaurant.",
+     "question": "병원 옆에 있는 곳은?",
+     "choices": [
+      "버스 정류장",
+      "식당",
+      "은행"
+     ],
+     "answer": 2,
+     "explain": "'The hospital is next to the bank.' — 병원은 은행 옆에 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "도서관은 한 블록 직진해서 버스 정류장에서 왼쪽으로 돌면 버스 정류장 옆에 있어요. Mina의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Jake",
+       "text": "Excuse me. Where is the library?"
+      },
+      {
+       "who": "Mina",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn left at the bus stop. It's next to the bus stop.",
+      "Go straight one block and turn left at the bus stop. It's next to the bank.",
+      "Go straight one block and turn right at the bus stop. It's next to the bus stop."
+     ],
+     "answer": 0,
+     "explain": "버스 정류장에서 왼쪽(left), 버스 정류장 옆(next to the bus stop)이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight one block and turn left at the bank. It's on your right.",
+     "answer": "Go straight one block and turn left at the bank. It's on your right.",
+     "distractors": [
+      "left.",
+      "two"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Wow, this is fun! What time is it?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's two fifty.",
+      "It's next to the bank.",
+      "Go straight two blocks."
+     ],
+     "answer": 0,
+     "explain": "몇 시인지 물었으니 시각으로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the bus stop?\nB: Go straight two blocks and turn left. It's ___ the restaurant.",
+     "ko": "버스 정류장은 식당 옆에 있어요.",
+     "choices": [
+      "turn at",
+      "go to",
+      "next to"
+     ],
+     "answer": 2,
+     "explain": "'~ 옆에'는 next to예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hello, where is the hospital? I'm hungry, too.",
+     "ko": "안녕하세요, 병원은 어디에 있나요? 저도 배고파요."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "길을 묻고 답하는 문장, 위치를 나타내는 문장 읽고 쓰기",
+   "objectives": [
+    "길을 묻고 답하는 문장, 위치를 나타내는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 길을 묻고 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 68~69쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "지도를 보고 짝과 길 묻고 답하며 복습하기, 표지판 사진으로 go straight / turn right / turn left 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "관광객과 안내원, 지도를 보는 아이들의 말풍선을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 어구를 골라 대화 완성하기, 스스로 다지기(단어와 문장 읽고 쓰기)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "장소 그림을 오려 붙여 모둠 지도를 완성하고 길을 묻고 답한 뒤 길 안내 문장 쓰기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "지도를 보고 대화의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where is the bus stop?",
+    "Go straight one block and turn left at the hospital.",
+    "It's next to the restroom."
+   ],
+   "tip": "묻는 문장 끝에는 물음표(?), 안내하는 문장 끝에는 마침표(.)를 꼭 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 길을 묻고 답하는 문장, 위치를 나타내는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🏦",
+       "bank"
+      ],
+      [
+       "🏥",
+       "hospital"
+      ],
+      [
+       "📚",
+       "library"
+      ],
+      [
+       "🚏",
+       "bus stop"
+      ],
+      [
+       "🚻",
+       "restroom"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Go straight.'를 바르게 나타낸 그림은?",
+     "choices": [
+      "⬅️",
+      "➡️",
+      "⬆️"
+     ],
+     "answer": 2,
+     "explain": "go straight는 '직진하다(앞으로 곧장 가다)'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'turn right'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "왼쪽으로 돌다",
+      "오른쪽으로 돌다",
+      "곧장 가다"
+     ],
+     "answer": 1,
+     "explain": "right는 '오른쪽', turn은 '돌다'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "문장을 바르게 쓴 것은?",
+     "choices": [
+      "Where is the bus stop?",
+      "where is the bus stop?",
+      "Where is the bus stop."
+     ],
+     "answer": 0,
+     "explain": "문장의 첫 글자는 대문자로, 묻는 문장 끝에는 물음표(?)를 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Where is the library?",
+     "choices": [
+      "도서관은 어디에 있나요?",
+      "식당은 어디에 있나요?",
+      "버스 정류장은 어디에 있나요?"
+     ],
+     "answer": 0,
+     "explain": "library는 '도서관'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Go straight one block and turn left at the hospital.",
+     "choices": [
+      "한 블록 직진해서 병원에서 오른쪽으로 도세요.",
+      "두 블록 직진해서 병원에서 왼쪽으로 도세요.",
+      "한 블록 직진해서 병원에서 왼쪽으로 도세요."
+     ],
+     "answer": 2,
+     "explain": "one block(한 블록), turn left(왼쪽으로)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Where ___ the library?",
+     "ko": "도서관은 어디에 있나요?",
+     "choices": [
+      "is",
+      "are",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "장소 하나의 위치를 물을 때는 Where is ...?예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight one block and turn ___ at the restaurant.",
+     "ko": "한 블록 직진해서 식당에서 오른쪽으로 도세요.",
+     "choices": [
+      "left",
+      "next",
+      "right"
+     ],
+     "answer": 2,
+     "explain": "'오른쪽으로'는 right예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "M",
+       "text": "Where is the bus stop?"
+      },
+      {
+       "who": "W",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's twelve.",
+      "Go straight one block and turn left at the hospital.",
+      "I'm hungry."
+     ],
+     "answer": 1,
+     "explain": "버스 정류장이 어디인지 물었으니 가는 길을 알려 줘요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "버스 정류장은 어디에 있나요?",
+     "answer": "Where is the bus stop?",
+     "distractors": [
+      "What",
+      "are"
+     ],
+     "explain": "Where is the 장소? 순서로 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Go straight one block and turn right at the restaurant.\nIt's next to the restaurant.",
+     "question": "이 장소는 무엇 옆에 있나요?",
+     "choices": [
+      "은행",
+      "식당",
+      "병원"
+     ],
+     "answer": 1,
+     "explain": "'It's next to the restaurant.' — 식당 옆에 있어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Go straight one block and turn right at the bank.",
+     "ko": "한 블록 직진해서 은행에서 오른쪽으로 도세요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the library?\nB: Go straight two blocks and turn right ___ the park.",
+     "ko": "두 블록 직진해서 공원에서 오른쪽으로 도세요.",
+     "choices": [
+      "at",
+      "to",
+      "in"
+     ],
+     "answer": 0,
+     "explain": "'~에서 돌다'는 turn ... at the 장소예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the ___?\nB: Go straight one block and turn left at the bus stop. It's next to the restroom.",
+     "ko": "은행은 어디에 있나요?",
+     "choices": [
+      "bus stop",
+      "restroom",
+      "bank"
+     ],
+     "answer": 2,
+     "explain": "은행은 bank예요. 길을 묻는 장소가 은행이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "한 블록 직진해서 화장실에서 왼쪽으로 도세요.",
+     "answer": "Go straight one block and turn left at the restroom.",
+     "distractors": [
+      "right",
+      "two"
+     ],
+     "explain": "one block, turn left, at the restroom 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where is the school?",
+     "answer": "Where is the school?",
+     "distractors": [
+      "What",
+      "bank?"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's on your left.",
+     "choices": [
+      "그것은 오른쪽에 있어요.",
+      "왼쪽으로 도세요.",
+      "그것은 왼쪽에 있어요."
+     ],
+     "answer": 2,
+     "explain": "on your left는 '(당신의) 왼쪽에'라는 뜻이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Go straight two blocks and turn left at the bank.\nIt's next to the bank.\nYou can eat lunch there.",
+     "question": "이 글이 안내하는 장소로 알맞은 것은?",
+     "choices": [
+      "library",
+      "hospital",
+      "restaurant"
+     ],
+     "answer": 2,
+     "explain": "'You can eat lunch there.' — 점심을 먹을 수 있는 곳은 식당(restaurant)이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "학교는 두 블록 직진해서 시장에서 왼쪽으로 돌면 있어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Where is the school?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight two blocks and turn right at the market.",
+      "It's next to the hospital.",
+      "Go straight two blocks and turn left at the market."
+     ],
+     "answer": 2,
+     "explain": "학교는 두 블록 직진해서 시장(market)에서 왼쪽이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은? '___ one block and ___ at the bank.' (직진 / 오른쪽으로 돌기)",
+     "choices": [
+      "Turn right — go straight",
+      "Go straight — turn left",
+      "Go straight — turn right"
+     ],
+     "answer": 2,
+     "explain": "직진은 Go straight, 오른쪽으로 돌기는 turn right예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Go straight",
+       "직진하세요"
+      ],
+      [
+       "Turn left",
+       "왼쪽으로 도세요"
+      ],
+      [
+       "Turn right",
+       "오른쪽으로 도세요"
+      ],
+      [
+       "next to",
+       "~ 옆에"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where is the hospital? It's next to the bank.",
+     "ko": "병원은 어디에 있나요? 그것은 은행 옆에 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "도서관",
+     "answers": [
+      "library"
+     ],
+     "hint": "l i _ r _ r y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "화장실",
+     "answers": [
+      "restroom"
+     ],
+     "hint": "r e s t r _ _ m"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "오른쪽으로 도세요.",
+     "answers": [
+      "Turn right."
+     ],
+     "hint": "T _ _ _  r _ _ _ _."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "식당은 어디에 있나요?",
+     "answers": [
+      "Where is the restaurant?"
+     ],
+     "hint": "Where is the r _ _ _ _ _ _ _ _ _?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "두 블록 직진해서 시장에서 오른쪽으로 도세요. 그것은 오른쪽에 있어요.",
+     "answer": "Go straight two blocks and turn right at the market. It's on your right.",
+     "distractors": [
+      "left.",
+      "one"
+     ],
+     "explain": "길 안내 다음에 It's on your right.(오른쪽에 있어요)를 덧붙여요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the hospital?\nB: Go straight two blocks and turn right at the bus stop. It's next to the bank.",
+     "question": "병원에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "은행 옆에 있다.",
+      "버스 정류장에서 왼쪽으로 돈다.",
+      "한 블록만 직진한다."
+     ],
+     "answer": 0,
+     "explain": "two blocks(두 블록), turn right(오른쪽), next to the bank(은행 옆)예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Roll a die!\n1: Go straight one block and turn right at the school. It's on your left. (bank)\n2: Go straight two blocks and turn left at the park. It's next to the park. (hospital)",
+     "question": "주사위 2가 나왔을 때 찾아가는 장소는?",
+     "choices": [
+      "은행",
+      "공원",
+      "병원"
+     ],
+     "answer": 2,
+     "explain": "2번 문장 끝에 (hospital)이라고 적혀 있어요. 공원 옆에 있는 병원이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight one block and turn right at the school. It's on your right.",
+     "answer": "Go straight one block and turn right at the school. It's on your right.",
+     "distractors": [
+      "left.",
+      "two"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "은행은 화장실 옆에 있어요. Jun의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Bomi",
+       "text": "Where is the bank?"
+      },
+      {
+       "who": "Jun",
+       "text": "Go straight one block and turn left at the bus stop."
+      },
+      {
+       "who": "Bomi",
+       "text": "Is it next to the bus stop?"
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Turn left at the bank.",
+      "No. It's next to the restroom.",
+      "Go straight two blocks."
+     ],
+     "answer": 1,
+     "explain": "은행이 화장실 옆에 있다면 'No. It's next to the restroom.'이라고 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Go straight two blocks and turn left at the park. It's next to the park.",
+     "ko": "두 블록 직진해서 공원에서 왼쪽으로 도세요. 그것은 공원 옆에 있어요."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "길을 안내하는 글 읽고 이해하기",
+   "objectives": [
+    "길을 안내하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 70~71쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 그림으로 복습하기, 친구나 가족과 길을 찾아본 경험 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "은행과 도서관 그림을 보고 'Where is the bank? It's next to the library.' 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "한옥 마을의 탈춤 공원과 비단 한복으로 가는 길을 안내하는 글을 듣고 따라 읽기, 짝과 번갈아 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "알맞은 단어를 골라 한옥 마을 길 안내 문장 완성하기, 스스로 다지기(식당 가는 길 그리고 문장 완성)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "대화를 읽고 찾는 장소와 위치 고르기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "There is a small park in Hanok Town.",
+    "Start from the bus stop.",
+    "It's on your left.",
+    "It's next to the library."
+   ],
+   "tip": "글을 읽을 때 손가락으로 출발점부터 길을 따라가 보면 위치를 쉽게 찾을 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 길을 안내하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Hanok Town! There is a small park here. You can see Talchum in the park. Start from the bus stop. Go straight two blocks and turn right at the restroom. The park is on your left.",
+     "question": "작은 공원에서 무엇을 볼 수 있나요?",
+     "choices": [
+      "탈춤",
+      "한복",
+      "영화"
+     ],
+     "answer": 0,
+     "explain": "'You can see Talchum in the park.' — 공원에서 탈춤을 볼 수 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Hanok Town! There is a small park here. You can see Talchum in the park. Start from the bus stop. Go straight two blocks and turn right at the restroom. The park is on your left.",
+     "question": "공원에 가려면 어디에서 출발하나요?",
+     "choices": [
+      "도서관",
+      "가나다 상점",
+      "버스 정류장"
+     ],
+     "answer": 2,
+     "explain": "'Start from the bus stop.' — 버스 정류장에서 출발해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Hanok Town! There is a small park here. You can see Talchum in the park. Start from the bus stop. Go straight two blocks and turn right at the restroom. The park is on your left.",
+     "question": "공원은 어느 쪽에 있나요?",
+     "choices": [
+      "오른쪽",
+      "왼쪽",
+      "뒤쪽"
+     ],
+     "answer": 1,
+     "explain": "'The park is on your left.' — 공원은 왼쪽에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know hanbok? Visit Bidan Hanbok. You can wear hanbok and take pictures there. Start from the Ganada store. Go straight two blocks and turn right at the library. It's next to the library.",
+     "question": "비단 한복에서 할 수 있는 것은?",
+     "choices": [
+      "탈춤 보기",
+      "한복 입고 사진 찍기",
+      "점심 먹기"
+     ],
+     "answer": 1,
+     "explain": "'You can wear hanbok and take pictures there.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Do you know hanbok? Visit Bidan Hanbok. You can wear hanbok and take pictures there. Start from the Ganada store. Go straight two blocks and turn right at the library. It's next to the library.",
+     "question": "비단 한복은 무엇 옆에 있나요?",
+     "choices": [
+      "화장실",
+      "도서관",
+      "버스 정류장"
+     ],
+     "answer": 1,
+     "explain": "'It's next to the library.' — 도서관 옆에 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'town'의 뜻으로 알맞은 것은?",
+     "emoji": "🏘️",
+     "choices": [
+      "마을",
+      "가게",
+      "공원",
+      "학교"
+     ],
+     "answer": 0,
+     "explain": "town은 '마을'이에요. Hanok Town — 한옥 마을"
+    },
+    {
+     "type": "mc",
+     "prompt": "'store'의 뜻으로 알맞은 것은?",
+     "emoji": "🏪",
+     "choices": [
+      "가게",
+      "정류장",
+      "마을",
+      "식당"
+     ],
+     "answer": 0,
+     "explain": "store는 '가게, 상점'이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Where is the bank?'에 대한 대답으로 알맞은 것은?",
+     "choices": [
+      "It's on May 7th.",
+      "I like fall.",
+      "It's next to the hospital."
+     ],
+     "answer": 2,
+     "explain": "장소를 물었으니 위치를 알려 줘요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "There is a park.",
+       "공원이 있어요."
+      ],
+      [
+       "Start from the school.",
+       "학교에서 출발하세요."
+      ],
+      [
+       "It's on your left.",
+       "그것은 왼쪽에 있어요."
+      ],
+      [
+       "Have fun.",
+       "즐거운 시간 보내세요."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "There is a small park in Hanok Town.",
+     "choices": [
+      "한옥 마을에는 큰 가게가 있어요.",
+      "한옥 마을 옆에 작은 공원이 있어요.",
+      "한옥 마을에는 작은 공원이 있어요."
+     ],
+     "answer": 2,
+     "explain": "There is ...는 '~이 있다'는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You can ___ hanbok there.",
+     "ko": "거기에서 한복을 입을 수 있어요.",
+     "choices": [
+      "see",
+      "turn",
+      "wear"
+     ],
+     "answer": 2,
+     "explain": "옷을 '입다'는 wear예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "There are many fun places in Hanok Town.",
+     "ko": "한옥 마을에는 재미있는 장소가 많아요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Where is the restaurant? Go straight two blocks and turn right at the hospital. There is a bank. It's next to the bank.",
+     "question": "식당은 무엇 옆에 있나요?",
+     "choices": [
+      "은행",
+      "병원",
+      "도서관"
+     ],
+     "answer": 0,
+     "explain": "'There is a bank. It's next to the bank.' — 식당은 은행 옆에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Where is the restaurant? Go straight two blocks and turn right at the hospital. There is a bank. It's next to the bank.",
+     "question": "식당에 가려면 어디에서 오른쪽으로 도나요?",
+     "choices": [
+      "병원",
+      "은행",
+      "버스 정류장"
+     ],
+     "answer": 0,
+     "explain": "'turn right at the hospital' — 병원에서 오른쪽으로 돌아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the bus stop?\nB: Go straight one block and turn left at the bank. There is a library. It's next to the library.",
+     "question": "A가 찾는 장소는?",
+     "choices": [
+      "도서관",
+      "은행",
+      "버스 정류장"
+     ],
+     "answer": 2,
+     "explain": "'Where is the bus stop?' — 버스 정류장을 찾고 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello! This is Mina's town. There is a big store. Start from my house. Go straight one block and turn left at the school. The store is on your right.",
+     "question": "가게에 가려면 어디에서 왼쪽으로 도나요?",
+     "choices": [
+      "가게",
+      "집",
+      "학교"
+     ],
+     "answer": 2,
+     "explain": "'turn left at the school' — 학교에서 왼쪽으로 돌아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight two blocks and turn ___ at the restroom. It's on your left.",
+     "ko": "화장실에서 오른쪽으로 돌면 왼쪽에 있어요.",
+     "choices": [
+      "left",
+      "right",
+      "straight"
+     ],
+     "answer": 1,
+     "explain": "오른쪽으로 도는 것은 turn right예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight (one block / two blocks) and turn right at the library.\n→ Go straight ___ and turn right at the library.",
+     "ko": "두 블록 직진해서 도서관에서 오른쪽으로 도세요.",
+     "choices": [
+      "one block",
+      "two blocks",
+      "two block"
+     ],
+     "answer": 1,
+     "explain": "'두 블록'은 two blocks예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Start from the Ganada store.",
+     "choices": [
+      "가나다 상점으로 오세요.",
+      "가나다 상점은 왼쪽에 있어요.",
+      "가나다 상점에서 출발하세요."
+     ],
+     "answer": 2,
+     "explain": "start from은 '~에서 출발하다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "관광객",
+       "text": "Where can I see Talchum?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "There is a small park. You can see Talchum there.",
+      "You can wear hanbok there.",
+      "I'm hungry."
+     ],
+     "answer": 0,
+     "explain": "탈춤을 볼 수 있는 곳(작은 공원)을 알려 줘요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Have fun in Hanok Town.",
+     "answer": "Have fun in Hanok Town.",
+     "distractors": [
+      "fan",
+      "on"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Visit Bidan Hanbok. It's next to the library.",
+     "ko": "비단 한복에 방문해 보세요. 그것은 도서관 옆에 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Green Town!\nDo you like books? Visit Star Library. Start from the bus stop. Go straight one block and turn left at the hospital. It's next to the hospital.\nAre you hungry? Visit Yummy Restaurant. Go straight two blocks and turn right at the bank. It's on your left.",
+     "question": "Star Library는 무엇 옆에 있나요?",
+     "choices": [
+      "은행",
+      "병원",
+      "버스 정류장"
+     ],
+     "answer": 1,
+     "explain": "'It's next to the hospital.' — 도서관은 병원 옆에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Green Town!\nDo you like books? Visit Star Library. Start from the bus stop. Go straight one block and turn left at the hospital. It's next to the hospital.\nAre you hungry? Visit Yummy Restaurant. Go straight two blocks and turn right at the bank. It's on your left.",
+     "question": "배가 고플 때 갈 곳으로 알맞은 것은?",
+     "choices": [
+      "Star Library",
+      "Yummy Restaurant",
+      "the bus stop"
+     ],
+     "answer": 1,
+     "explain": "'Are you hungry? Visit Yummy Restaurant.' — 식당에 가요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Welcome to Green Town!\nDo you like books? Visit Star Library. Start from the bus stop. Go straight one block and turn left at the hospital. It's next to the hospital.\nAre you hungry? Visit Yummy Restaurant. Go straight two blocks and turn right at the bank. It's on your left.",
+     "question": "Yummy Restaurant에 가는 방법으로 알맞은 것은?",
+     "choices": [
+      "두 블록 직진 → 은행에서 오른쪽 → 왼쪽에 있음",
+      "한 블록 직진 → 병원에서 왼쪽 → 병원 옆",
+      "두 블록 직진 → 은행에서 왼쪽 → 오른쪽에 있음"
+     ],
+     "answer": 0,
+     "explain": "two blocks, turn right at the bank, on your left를 차례로 확인해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kim's Town Tour\nThere is a small park in Kim's Town. ___ Go straight one block and turn right at the store. It's next to the store.",
+     "question": "빈칸에 들어갈 문장으로 알맞은 것은?",
+     "choices": [
+      "Start from the bus stop.",
+      "Turn left the bus stop.",
+      "Next to the bus stop start."
+     ],
+     "answer": 0,
+     "explain": "출발 지점은 'Start from the 장소.'로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "도서관에서 출발하세요.",
+     "answer": "Start from the library.",
+     "distractors": [
+      "at",
+      "go"
+     ],
+     "explain": "'~에서 출발하다'는 start from이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "거기에서 사진을 찍을 수 있어요.",
+     "answer": "You can take pictures there.",
+     "distractors": [
+      "wear",
+      "are"
+     ],
+     "explain": "'사진을 찍다'는 take pictures예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "마을",
+     "answers": [
+      "town"
+     ],
+     "hint": "t _ _ n"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 오른쪽에 있어요.",
+     "answers": [
+      "It's on your right.",
+      "It is on your right."
+     ],
+     "hint": "It's on your ____."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "There is a bank. It's next to the bank.",
+     "answer": "There is a bank. It's next to the bank.",
+     "distractors": [
+      "are",
+      "at"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you like Talchum? Visit the small park.",
+     "ko": "탈춤을 좋아하세요? 작은 공원에 가 보세요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "길을 묻고 답하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 길을 묻고 답하는 글을 쓸 수 있다.",
+    "길을 묻고 답하는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 72~73쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "한옥 마을 글을 짝과 번갈아 읽기, 지도를 보고 길 안내 문장의 빈칸(Go straight / turn right / next to) 채우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림을 보고 장소 단어의 철자 완성하기(Words), 알맞은 어구를 골라 길 안내 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "지도에서 길을 안내하고 싶은 장소를 골라 예시문(화장실 가는 길)을 참고하여 길을 묻고 답하는 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "식당 가는 길 대화를 공책에 완성하기, 지도에 맞게 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where is the restroom?",
+    "Go straight two blocks and turn right at the hospital.",
+    "There is a bus stop.",
+    "It's next to the bus stop."
+   ],
+   "tip": "restaurant, hospital처럼 긴 단어는 소리 나는 덩어리(res-tau-rant)로 나눠 쓰면 철자를 기억하기 쉬워요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 길을 묻고 답하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 철자는? 'r e s t _ u r a n t'",
+     "emoji": "🍽️",
+     "choices": [
+      "o",
+      "a",
+      "e",
+      "i"
+     ],
+     "answer": 1,
+     "explain": "restaurant(식당)의 철자는 r-e-s-t-a-u-r-a-n-t예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 철자는? 'h o s p _ t a l'",
+     "emoji": "🏥",
+     "choices": [
+      "i",
+      "e",
+      "a",
+      "o"
+     ],
+     "answer": 0,
+     "explain": "hospital(병원)의 철자는 h-o-s-p-i-t-a-l이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "철자가 바른 것은?",
+     "emoji": "📚",
+     "choices": [
+      "libary",
+      "library",
+      "liberry",
+      "laibrary"
+     ],
+     "answer": 1,
+     "explain": "도서관은 library예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "restaurant",
+       "식당"
+      ],
+      [
+       "bus stop",
+       "버스 정류장"
+      ],
+      [
+       "restroom",
+       "화장실"
+      ],
+      [
+       "hospital",
+       "병원"
+      ],
+      [
+       "bank",
+       "은행"
+      ],
+      [
+       "library",
+       "도서관"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight two blocks and ___ left at the park.",
+     "ko": "두 블록 직진해서 공원에서 왼쪽으로 도세요.",
+     "choices": [
+      "turn",
+      "go",
+      "next"
+     ],
+     "answer": 0,
+     "explain": "'돌다'는 turn이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "There is a bank. It's ___ to the bank.",
+     "ko": "은행이 있어요. 그것은 은행 옆에 있어요.",
+     "choices": [
+      "next",
+      "turn",
+      "on"
+     ],
+     "answer": 0,
+     "explain": "'~ 옆에'는 next to예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Where is the restroom?",
+     "choices": [
+      "식당은 어디에 있나요?",
+      "은행은 어디에 있나요?",
+      "화장실은 어디에 있나요?"
+     ],
+     "answer": 2,
+     "explain": "restroom은 '화장실'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "There is a bus stop.",
+     "choices": [
+      "버스 정류장으로 가세요.",
+      "버스 정류장이 있어요.",
+      "버스 정류장은 어디에 있나요?"
+     ],
+     "answer": 1,
+     "explain": "There is a ...는 '~이 있어요'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Where is the restroom?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on September 29th.",
+      "She has blue eyes.",
+      "Go straight two blocks and turn right at the hospital."
+     ],
+     "answer": 2,
+     "explain": "화장실이 어디인지 물었으니 가는 길을 알려 줘요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "버스 정류장이 있어요.",
+     "answer": "There is a bus stop.",
+     "distractors": [
+      "are",
+      "It's"
+     ],
+     "explain": "'~이 있다'는 There is ...예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the restroom?\nB: Go straight two blocks and turn right at the hospital. There is a bus stop. It's next to the bus stop.",
+     "question": "화장실은 무엇 옆에 있나요?",
+     "choices": [
+      "병원",
+      "공원",
+      "버스 정류장"
+     ],
+     "answer": 2,
+     "explain": "'It's next to the bus stop.' — 화장실은 버스 정류장 옆에 있어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "There is a bus stop. It's next to the bus stop.",
+     "ko": "버스 정류장이 있어요. 그것은 버스 정류장 옆에 있어요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Go straight one block and turn right at the school. There is a ___. It's next to the bank.",
+     "ko": "은행이 있어요. 그것은 은행 옆에 있어요.",
+     "choices": [
+      "store",
+      "park",
+      "bank"
+     ],
+     "answer": 2,
+     "explain": "뒤 문장에 the bank가 나오니 앞에서도 bank가 있다고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the ___?\nB: Go straight two blocks and turn left at the bus stop.",
+     "ko": "식당은 어디에 있나요?",
+     "choices": [
+      "restroom",
+      "hospital",
+      "restaurant"
+     ],
+     "answer": 2,
+     "explain": "식당은 restaurant예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "병원에서 오른쪽으로 도세요.",
+     "answer": "Turn right at the hospital.",
+     "distractors": [
+      "left",
+      "to"
+     ],
+     "explain": "Turn right at the 장소. 순서예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "두 블록 직진해서 공원에서 왼쪽으로 도세요. 그것은 오른쪽에 있어요.",
+     "answer": "Go straight two blocks and turn left at the park. It's on your right.",
+     "distractors": [
+      "one",
+      "left."
+     ],
+     "explain": "turn left(왼쪽으로 돌다)와 on your right(오른쪽에)를 헷갈리지 않게 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight one block and turn right at the school.",
+     "answer": "Go straight one block and turn right at the school.",
+     "distractors": [
+      "left",
+      "two"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the hospital?\nB: Go straight one block and turn left at the bus stop. It's next to the library.",
+     "question": "대화의 내용과 맞는 것은?",
+     "choices": [
+      "병원은 은행 옆에 있다.",
+      "병원은 도서관 옆에 있다.",
+      "버스 정류장에서 오른쪽으로 돈다."
+     ],
+     "answer": 1,
+     "explain": "'It's next to the library.' — 병원은 도서관 옆이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Map\n1. restaurant\n2. bus stop\n3. restroom\n4. hospital\n5. bank\n6. library",
+     "question": "목록에서 돈을 맡기거나 찾는 곳은 몇 번인가요?",
+     "choices": [
+      "2번",
+      "5번",
+      "6번"
+     ],
+     "answer": 1,
+     "explain": "돈을 맡기거나 찾는 곳은 은행(bank)이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Where is the bank?"
+      },
+      {
+       "who": "Me",
+       "text": "Go straight one block and turn right at the school."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too.",
+      "Thank you.",
+      "Of course."
+     ],
+     "answer": 1,
+     "explain": "길을 알려 준 사람에게 고맙다고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "글을 쓸 때 바르지 않은 것은?",
+     "choices": [
+      "Go straight two blocks and turn left.",
+      "Where is the bank?",
+      "go straight two blocks and turn left."
+     ],
+     "answer": 2,
+     "explain": "문장의 첫 글자는 대문자로 써야 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where is the library? Go straight one block and turn right at the school.",
+     "ko": "도서관은 어디에 있나요? 한 블록 직진해서 학교에서 오른쪽으로 도세요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "식당",
+     "answers": [
+      "restaurant"
+     ],
+     "hint": "r e s t _ _ r _ n t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "병원",
+     "answers": [
+      "hospital"
+     ],
+     "hint": "h _ s p _ t a l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "버스 정류장",
+     "answers": [
+      "bus stop"
+     ],
+     "hint": "b _ s  s t _ p"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "두 블록 직진하세요.",
+     "answers": [
+      "Go straight two blocks."
+     ],
+     "hint": "Go s _ _ _ _ _ _ _ two blocks."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "학교가 있어요. 그것은 학교 옆에 있어요.",
+     "answers": [
+      "There is a school. It's next to the school.",
+      "There is a school. It is next to the school."
+     ],
+     "hint": "There is a ____. It's next to the ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "가게는 어디에 있나요? 한 블록 직진해서 은행에서 왼쪽으로 도세요.",
+     "answer": "Where is the store? Go straight one block and turn left at the bank.",
+     "distractors": [
+      "right",
+      "two"
+     ],
+     "explain": "묻는 문장 다음에 길을 안내하는 문장을 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the ___?\nB: Go straight two blocks and turn right at the bus stop. There is a restroom. It's next to the restroom.\n(지도: 버스 정류장에서 오른쪽으로 돌면 화장실 옆에 병원이 있어요.)",
+     "question": "빈칸에 알맞은 단어는?",
+     "choices": [
+      "restroom",
+      "hospital",
+      "bus stop"
+     ],
+     "answer": 1,
+     "explain": "화장실 옆에 있는 곳은 병원이에요. 병원을 찾고 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "은행은 한 블록 직진해서 가게에서 왼쪽으로 돌면 병원 옆에 있어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tourist",
+       "text": "Excuse me. Where is the bank?"
+      },
+      {
+       "who": "You",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn right at the store. There is a hospital. It's next to the hospital.",
+      "Go straight one block and turn left at the store. There is a hospital. It's next to the hospital.",
+      "Go straight one block and turn left at the store. There is a hospital. It's next to the library."
+     ],
+     "answer": 1,
+     "explain": "가게에서 왼쪽(left), 병원 옆(next to the hospital)이 맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "There is a library. It's next to the library.",
+     "answer": "There is a library. It's next to the library.",
+     "distractors": [
+      "are",
+      "bank."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where is the bank? Go straight one block and turn left at the store.",
+     "ko": "은행은 어디에 있나요? 한 블록 직진해서 가게에서 왼쪽으로 도세요."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 74~75쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Let's Write 예시문을 읽고 교사가 말하는 문장 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "살고 싶은 마을을 떠올려 모둠별로 마을 지도를 그리고, 지도를 보며 길을 묻고 답하는 대화를 만들어 발표하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 찾는 장소에 번호 쓰기, 상황에 맞게 길 묻고 답하기, 대화문 읽고 빈칸 채우기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where is the hospital?",
+    "Go straight two blocks and turn right at the bus stop.",
+    "There is a restroom.",
+    "It's next to the restroom."
+   ],
+   "tip": "마을 지도를 그릴 때 park, school, market처럼 전에 배운 장소도 넣어 길을 안내해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단원의 새 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "block",
+       "블록, 구역"
+      ],
+      [
+       "store",
+       "가게"
+      ],
+      [
+       "town",
+       "마을"
+      ],
+      [
+       "hungry",
+       "배고픈"
+      ],
+      [
+       "straight",
+       "똑바로, 곧장"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 장소는?",
+     "emoji": "📚",
+     "choices": [
+      "bank",
+      "library",
+      "restaurant",
+      "bus stop"
+     ],
+     "answer": 1,
+     "explain": "📚 책을 빌리는 곳은 도서관(library)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 장소는?",
+     "emoji": "🏦",
+     "choices": [
+      "hospital",
+      "restroom",
+      "store",
+      "bank"
+     ],
+     "answer": 3,
+     "explain": "🏦는 은행(bank)이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 찾는 장소를 고르세요.",
+     "audio": "Where is the bank?",
+     "choices": [
+      "🏦",
+      "🍽️",
+      "🚏"
+     ],
+     "answer": 0,
+     "explain": "bank는 은행이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Go straight one block and turn left. It's on your left.",
+     "choices": [
+      "한 블록 직진해서 왼쪽으로 돌면 왼쪽에 있어요.",
+      "한 블록 직진해서 오른쪽으로 돌면 왼쪽에 있어요.",
+      "두 블록 직진해서 왼쪽으로 돌면 오른쪽에 있어요."
+     ],
+     "answer": 0,
+     "explain": "one block, turn left, on your left를 들어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the restaurant?\nB: Go straight two blocks and turn right at the bus stop. There is a hospital. It's ___ to the hospital.",
+     "ko": "그것은 병원 옆에 있어요.",
+     "choices": [
+      "turn",
+      "next",
+      "go"
+     ],
+     "answer": 1,
+     "explain": "'~ 옆에'는 next to예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "W",
+       "text": "Where is the bus stop?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's two fifty.",
+      "I'm hungry.",
+      "Go straight one block and turn right at the bank. It's on your left."
+     ],
+     "answer": 2,
+     "explain": "버스 정류장 위치를 물었으니 길을 알려 줘요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hana",
+       "text": "?"
+      },
+      {
+       "who": "Man",
+       "text": "Go straight one block and turn right at the hospital."
+      }
+     ],
+     "choices": [
+      "Hello, how are you?",
+      "Hello, what time is it?",
+      "Hello, where is the bank?"
+     ],
+     "answer": 2,
+     "explain": "길을 알려 주는 대답이니 장소를 묻는 말이 알맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "공원은 어디에 있나요?",
+     "answer": "Where is the park?",
+     "distractors": [
+      "What",
+      "are"
+     ],
+     "explain": "Where is the 장소? 순서예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the library?\nB: Go straight one block and turn left at the restaurant. It's next to the bank.",
+     "question": "도서관은 무엇 옆에 있나요?",
+     "choices": [
+      "식당",
+      "은행",
+      "병원"
+     ],
+     "answer": 1,
+     "explain": "'It's next to the bank.' — 은행 옆이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "길을 알려 준 사람에게 할 말로 알맞은 것은?",
+     "choices": [
+      "Thank you.",
+      "You're welcome.",
+      "I'm hungry."
+     ],
+     "answer": 0,
+     "explain": "도움을 받으면 'Thank you.'라고 고마움을 표현해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Go straight two blocks and turn right at the bus stop.",
+     "ko": "두 블록 직진해서 버스 정류장에서 오른쪽으로 도세요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "두 블록 직진해서 공원에서 오른쪽으로 도세요. 그것은 도서관 옆에 있어요.",
+     "answer": "Go straight two blocks and turn right at the park. It's next to the library.",
+     "distractors": [
+      "left",
+      "one"
+     ],
+     "explain": "길 안내 문장 다음에 위치를 알려 주는 문장을 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where is the bus stop? Go straight two blocks and turn left at the hospital.",
+     "answer": "Where is the bus stop? Go straight two blocks and turn left at the hospital.",
+     "distractors": [
+      "right",
+      "one"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "A: Where is the library?\nB: Go straight two blocks and turn ___ at the bus stop.",
+     "ko": "도서관은 두 블록 직진해서 버스 정류장에서 오른쪽으로 돌면 있어요.",
+     "choices": [
+      "left",
+      "right",
+      "next"
+     ],
+     "answer": 1,
+     "explain": "버스 정류장에서 '오른쪽으로' 도니까 right예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Dream Town\nThere is a big park in our town. There is a library, too. Start from the school. Go straight one block and turn right at the park. The library is next to the park.",
+     "question": "도서관은 무엇 옆에 있나요?",
+     "choices": [
+      "공원",
+      "학교",
+      "은행"
+     ],
+     "answer": 0,
+     "explain": "'The library is next to the park.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Dream Town\nThere is a big park in our town. There is a library, too. Start from the school. Go straight one block and turn right at the park. The library is next to the park.",
+     "question": "이 마을에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "큰 공원이 있다.",
+      "학교가 없다.",
+      "도서관은 학교 옆에 있다."
+     ],
+     "answer": 0,
+     "explain": "'There is a big park in our town.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "식당은 도서관 옆에 있어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Where is the restaurant?"
+      },
+      {
+       "who": "Boy",
+       "text": "Go straight two blocks and turn right at the park."
+      },
+      {
+       "who": "Girl",
+       "text": "Is it next to the bank?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it's two fifty.",
+      "Turn left, please.",
+      "No. It's next to the library."
+     ],
+     "answer": 2,
+     "explain": "식당이 도서관 옆에 있다면 'No. It's next to the library.'라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "모둠이 그린 마을 지도를 소개할 때 쓸 수 있는 말로 알맞지 않은 것은?",
+     "choices": [
+      "There is a big park.",
+      "The bank is next to the store.",
+      "I'm in the sixth grade."
+     ],
+     "answer": 2,
+     "explain": "마을 지도에 대한 설명이 아니에요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Where is the store?",
+       "가게는 어디에 있나요?"
+      ],
+      [
+       "It's on your right.",
+       "그것은 오른쪽에 있어요."
+      ],
+      [
+       "Turn left at the store.",
+       "가게에서 왼쪽으로 도세요."
+      ],
+      [
+       "There is a hospital.",
+       "병원이 있어요."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm hungry. Where is the restaurant?",
+     "choices": [
+      "배가 고파서 병원을 찾고 있어요.",
+      "배가 고파서 식당을 찾고 있어요.",
+      "배가 불러서 집에 가고 있어요."
+     ],
+     "answer": 1,
+     "explain": "hungry(배고픈), restaurant(식당)를 들어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "There is a big park in our town.",
+     "ko": "우리 마을에는 큰 공원이 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "가게",
+     "answers": [
+      "store"
+     ],
+     "hint": "s t _ _ e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "한 블록 직진해서 오른쪽으로 도세요.",
+     "answers": [
+      "Go straight one block and turn right."
+     ],
+     "hint": "Go straight one ____ and turn ____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 화장실 옆에 있어요.",
+     "answers": [
+      "It's next to the restroom.",
+      "It is next to the restroom."
+     ],
+     "hint": "It's next to the ________."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리 마을에는 작은 도서관이 있어요.",
+     "answer": "There is a small library in our town.",
+     "distractors": [
+      "are",
+      "big"
+     ],
+     "explain": "There is a ... in our town. — 우리 마을에는 ~이 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Where is the hospital?\nB: Go straight two blocks and turn right at the bus stop. There is a restroom. It's next to the restroom.",
+     "question": "A가 찾는 곳과 그 위치가 바르게 짝지어진 것은?",
+     "choices": [
+      "화장실 — 병원 옆",
+      "병원 — 화장실 옆",
+      "버스 정류장 — 병원 옆"
+     ],
+     "answer": 1,
+     "explain": "A는 병원(hospital)을 찾고, 병원은 화장실 옆에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jun's Town Map\nStart from the school.\n- Bank: Go straight one block and turn left. It's on your left.\n- Restaurant: Go straight two blocks and turn right at the park. It's next to the library.",
+     "question": "식당은 무엇 옆에 있나요?",
+     "choices": [
+      "공원",
+      "도서관",
+      "학교"
+     ],
+     "answer": 1,
+     "explain": "Restaurant 줄을 보면 'It's next to the library.'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "병원은 한 블록 직진해서 은행에서 왼쪽으로 돌면 은행 옆에 있어요. 민우의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Woman",
+       "text": "Where is the hospital? My son is sick."
+      },
+      {
+       "who": "Minu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Go straight one block and turn left at the bank. It's next to the bank.",
+      "Go straight one block and turn left at the bank. It's next to the store.",
+      "Sorry, but I can't."
+     ],
+     "answer": 0,
+     "explain": "병원은 은행 옆에 있으니 'It's next to the bank.'가 맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Go straight one block and turn right at the store. It's next to the bank.",
+     "answer": "Go straight one block and turn right at the store. It's next to the bank.",
+     "distractors": [
+      "left",
+      "two"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "시장은 직진해서 식당에서 오른쪽으로 돌면 있어요. 김정호가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "선비",
+       "text": "Where is the market?"
+      },
+      {
+       "who": "Woman",
+       "text": "Go straight and turn left at the restaurant."
+      },
+      {
+       "who": "김정호",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "You're welcome.",
+      "Me, too. Let's eat lunch.",
+      "That's not right. Go straight and turn right at the restaurant."
+     ],
+     "answer": 2,
+     "explain": "시장은 식당에서 오른쪽에 있으니 틀린 말을 바로잡아요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where is the library? Go straight two blocks and turn left. It's next to the school.",
+     "ko": "도서관은 어디에 있나요? 두 블록 직진해서 왼쪽으로 도세요. 그것은 학교 옆에 있어요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "어린이날 행사 포스터를 본 아이들이 ABC 도서관에 가려고 지도를 보며 길을 묻고, 길을 잃자 행인에게 누리 은행 위치를 물어요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Where is ABC Library?"
+    },
+    {
+     "who": "하나",
+     "text": "Go straight one block and turn right at Nuri Bank."
+    },
+    {
+     "who": "하나",
+     "text": "Where is Nuri Bank? I can't find it."
+    },
+    {
+     "who": "Tom",
+     "text": "Hello, where is Nuri Bank?"
+    },
+    {
+     "who": "행인",
+     "text": "Go straight one block and turn right at the hospital."
+    },
+    {
+     "who": "Tom",
+     "text": "Thank you."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "직업 체험관에 간 아이들이 직원에게 식당 가는 길을, Tom이 행인에게 화장실 위치를 물어요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Let's eat lunch. I'm hungry."
+    },
+    {
+     "who": "Amy",
+     "text": "Me, too. Hello, where is the restaurant?"
+    },
+    {
+     "who": "직원",
+     "text": "Go straight two blocks and turn left at the bank."
+    },
+    {
+     "who": "Tom",
+     "text": "Hello, where is the restroom?"
+    },
+    {
+     "who": "행인",
+     "text": "Go straight one block and turn right at the restaurant. It's next to the bank."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 관광객에게 버스 정류장 가는 길을, 나리와 Noah가 행인에게 병원 위치를 알려 줘요.",
+   "lines": [
+    {
+     "who": "관광객",
+     "text": "Hello, where is the bus stop?"
+    },
+    {
+     "who": "민우",
+     "text": "Go straight one block and turn left at the bank."
+    },
+    {
+     "who": "관광객",
+     "text": "Thank you."
+    },
+    {
+     "who": "민우",
+     "text": "You're welcome."
+    },
+    {
+     "who": "행인",
+     "text": "Hello, where is the hospital?"
+    },
+    {
+     "who": "나리",
+     "text": "Go straight two blocks and turn right at the restaurant."
+    },
+    {
+     "who": "Noah",
+     "text": "It's next to the library."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "한옥 마을의 길을 안내하는 글 (Welcome to Hanok Town)",
+  "passage": "Hanok Town has many fun places. Do you want to watch Talchum? Go to the small park. From the bus stop, go straight two blocks and turn right at the restroom. You will see the park on your left. Do you want to wear hanbok? Visit Bidan Hanbok and take pictures. From the Ganada store, go straight two blocks and turn right at the library. The shop is next to the library. Enjoy Hanok Town!",
+  "summaryKo": "한옥 마을에서 탈춤을 볼 수 있는 작은 공원과 한복을 입고 사진을 찍는 비단 한복으로 가는 길을 안내해요."
+ },
+ "writing": {
+  "frame": [
+   "A: Where is the ____?",
+   "B: Go straight ____ and turn ____ at the ____.",
+   "There is a ____.",
+   "It's next to the ____."
+  ],
+  "model": "A: Where is the bank? B: Go straight one block and turn left at the school. There is a store. It's next to the store."
+ },
+ "project": "모둠별로 살고 싶은 마을을 떠올려 도화지에 길과 장소(병원, 식당, 공원 등)를 그려 마을 지도를 완성하고, 지도를 보여 주며 'Where is ...? – Go straight ... and turn ... at the .... It's next to ....' 대화를 만들어 발표한다.",
+ "special": {
+  "no": 5,
+  "kind": "Into the History",
+  "title": "대동여지도를 만든 김정호",
+  "summaryKo": "1800년대 조선, 시장을 찾던 사람이 길을 물었지만 지도가 틀려서 잘못된 길을 안내받아요. 지도를 보던 김정호가 'That's not right.'라며 바른 길을 알려 주고 좋은 지도를 만들겠다고 다짐해요. 몇 년 뒤 김정호는 대동여지도를 완성해요.",
+  "facts": [
+   "대동여지도는 1861년 김정호가 손수 만들고 목판에 새겨 펴낸 우리나라 전국 지도예요.",
+   "전국을 22층으로 나누어 책으로 묶었기 때문에 접고 펼 수 있어 들고 다니기 편했어요.",
+   "22권을 모두 펼쳐 이으면 세로 약 6.7m, 가로 약 3.8m의 아주 큰 지도가 돼요.",
+   "산줄기와 물줄기를 자세히 그리고, 길에는 10리마다 점을 찍어 거리를 알 수 있게 했어요. 오늘날 지도처럼 기호도 사용했어요."
+  ],
+  "expressions": [
+   "Where is the market? — Go straight and turn left at the restaurant.",
+   "That's not right. Go straight and turn right at the restaurant.",
+   "Can I help you? — Yes, please.",
+   "Hello, where is the restaurant? — Go straight and turn left. It's next to the school."
+  ],
+  "exercises": []
+ }
+}

@@ -1,0 +1,3194 @@
+{
+ "id": "L08",
+ "no": 8,
+ "grade": 6,
+ "semester": 2,
+ "title": "It's Taller Than the Tree",
+ "emoji": "🦒",
+ "rationale": "일상생활에서 어떤 내용이나 사실을 설명할 때 비교 표현을 자주 쓰고, 상대방의 말이 옳지 않을 때는 부인하는 말을 하게 된다. 사물이나 사람을 비교하는 표현과 부인하는 표현을 익히고, 비교 표현이 들어간 글을 읽고 써 보며 실생활에서 활용하게 하고자 한다.",
+ "topics": "일반교양 관련(동식물, 과학)",
+ "functions": [
+  {
+   "ko": "비교하기",
+   "examples": [
+    "It's taller than the tree."
+   ]
+  },
+  {
+   "ko": "부인하기",
+   "examples": [
+    "That's not right."
+   ]
+  }
+ ],
+ "forms": [
+  "My friend is taller than me."
+ ],
+ "newWords": [
+  {
+   "en": "always",
+   "ko": "항상"
+  },
+  {
+   "en": "baby",
+   "ko": "아기"
+  },
+  {
+   "en": "catch",
+   "ko": "잡다"
+  },
+  {
+   "en": "clock",
+   "ko": "시계"
+  },
+  {
+   "en": "dribble",
+   "ko": "드리블하다"
+  },
+  {
+   "en": "fast",
+   "ko": "빠른"
+  },
+  {
+   "en": "giraffe",
+   "ko": "기린"
+  },
+  {
+   "en": "give",
+   "ko": "주다"
+  },
+  {
+   "en": "goal",
+   "ko": "골, 목표"
+  },
+  {
+   "en": "heavy",
+   "ko": "무거운"
+  },
+  {
+   "en": "race",
+   "ko": "경주"
+  },
+  {
+   "en": "side",
+   "ko": "쪽, 옆"
+  },
+  {
+   "en": "strong",
+   "ko": "힘이 센"
+  },
+  {
+   "en": "than",
+   "ko": "~보다"
+  },
+  {
+   "en": "tower",
+   "ko": "탑"
+  },
+  {
+   "en": "win",
+   "ko": "이기다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "heavier",
+   "ko": "더 무거운",
+   "emoji": "🏋️"
+  },
+  {
+   "en": "taller",
+   "ko": "키가 더 큰",
+   "emoji": "🦒"
+  },
+  {
+   "en": "bigger",
+   "ko": "더 큰",
+   "emoji": "🐘"
+  },
+  {
+   "en": "faster",
+   "ko": "더 빠른",
+   "emoji": "🐆"
+  },
+  {
+   "en": "older",
+   "ko": "나이가 더 많은",
+   "emoji": "👴"
+  },
+  {
+   "en": "stronger",
+   "ko": "힘이 더 센",
+   "emoji": "💪"
+  }
+ ],
+ "characters": [
+  "Amy",
+  "우주",
+  "Mohan",
+  "안내원",
+  "Linh",
+  "Tom",
+  "하나",
+  "나리",
+  "Jesse",
+  "Noah",
+  "Jake",
+  "Taylor",
+  "Jack",
+  "Bobo",
+  "Coco"
+ ],
+ "goals": {
+  "understand": [
+   "비교하는 말을 듣고 이해할 수 있다.",
+   "부인하는 말을 듣고 이해할 수 있다.",
+   "두 인물을 비교하는 글을 읽고 이해할 수 있다.",
+   "비교하고 부인하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "두 인물을 비교하는 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "비교하는 말을 할 수 있다.",
+   "부인하는 말을 할 수 있다.",
+   "비교하는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 캐릭터를 비교하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-04",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "비교하기",
+   "objectives": [
+    "비교하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 107~109쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "사자와 개 사진을 보며 크기 비교하기, 짝과 누가 더 힘이 센지 비교하기, 단원 목표 확인, 단어 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "동물원에서 기린과 아기 코끼리를 보며 비교하는 Amy·우주·Mohan의 만화 영화 보고 키가 더 큰 것 고르기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "동물을 비교하는 말을 듣고 들은 순서대로 번호 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 'I'm ... than you.'라고 말하면 그림을 보고 누구인지 추측해 '우주' 또는 '하나' 이름 종이 들기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "듣고 그림과 맞으면 ○, 틀리면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "It's taller than the tree.",
+    "The elephant is heavier than Uju."
+   ],
+   "tip": "big은 bigger, heavy는 heavier처럼 철자가 바뀌는 말을 조심해요. '~보다'는 than이에요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 비교하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "비교하는 말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bigger",
+       "더 큰"
+      ],
+      [
+       "faster",
+       "더 빠른"
+      ],
+      [
+       "heavier",
+       "더 무거운"
+      ],
+      [
+       "older",
+       "나이가 더 많은"
+      ],
+      [
+       "taller",
+       "키가 더 큰"
+      ],
+      [
+       "stronger",
+       "힘이 더 센"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "giraffe",
+       "기린"
+      ],
+      [
+       "elephant",
+       "코끼리"
+      ],
+      [
+       "tiger",
+       "호랑이"
+      ],
+      [
+       "baby",
+       "아기"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 동물은?",
+     "emoji": "🦒",
+     "choices": [
+      "giraffe",
+      "elephant",
+      "tiger",
+      "lion"
+     ],
+     "answer": 0,
+     "explain": "🦒는 기린(giraffe)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'taller'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "더 무거운",
+      "더 빠른",
+      "나이가 더 많은",
+      "키가 더 큰"
+     ],
+     "answer": 3,
+     "explain": "tall(키가 큰)에 -er을 붙이면 '키가 더 큰'이 돼요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The tiger is faster than the lion.",
+     "choices": [
+      "사자는 호랑이보다 더 빨라요.",
+      "호랑이는 사자보다 더 빨라요.",
+      "호랑이는 사자보다 더 커요."
+     ],
+     "answer": 1,
+     "explain": "A is faster than B. — A가 B보다 더 빨라요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The giraffe is taller than the lion.",
+     "choices": [
+      "기린은 사자보다 키가 더 커요.",
+      "사자는 기린보다 키가 더 커요.",
+      "기린은 사자보다 나이가 더 많아요."
+     ],
+     "answer": 0,
+     "explain": "taller than은 '~보다 키가 더 큰'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "기린이 나무보다 키가 커요. 우주가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Look at the giraffe. It's tall."
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wow, it's taller than the tree.",
+      "Oh, it's on your left.",
+      "Sorry, but I can't."
+     ],
+     "answer": 0,
+     "explain": "기린이 나무보다 키가 크니 'It's taller than the tree.'라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The elephant is ___ than Uju.",
+     "ko": "코끼리는 우주보다 더 무거워요.",
+     "choices": [
+      "heavier",
+      "taller",
+      "faster"
+     ],
+     "answer": 0,
+     "explain": "'더 무거운'은 heavier예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The pig is bigger ___ the dog.",
+     "ko": "돼지는 개보다 더 커요.",
+     "choices": [
+      "to",
+      "and",
+      "than"
+     ],
+     "answer": 2,
+     "explain": "'~보다'는 than이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 나무보다 키가 더 커요.",
+     "answer": "It's taller than the tree.",
+     "distractors": [
+      "tall",
+      "then"
+     ],
+     "explain": "It's + 비교하는 말 + than + 비교 대상. 순서예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "코끼리가 곰보다 힘이 더 세요. 알맞은 문장은?",
+     "emoji": "🐘",
+     "choices": [
+      "The bear is stronger than the elephant.",
+      "The elephant is older than the bear.",
+      "The elephant is stronger than the bear."
+     ],
+     "answer": 2,
+     "explain": "'힘이 더 센'은 stronger예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The elephant is heavier than Uju.",
+     "ko": "코끼리는 우주보다 더 무거워요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The dog is ___ than the cat.",
+     "ko": "개는 고양이보다 나이가 더 많아요.",
+     "choices": [
+      "bigger",
+      "older",
+      "faster"
+     ],
+     "answer": 1,
+     "explain": "'나이가 더 많은'은 older예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The cow is ___ than the pig.",
+     "ko": "소는 돼지보다 더 커요.",
+     "choices": [
+      "biger",
+      "big",
+      "bigger"
+     ],
+     "answer": 2,
+     "explain": "big은 g를 하나 더 써서 bigger가 돼요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The bear is stronger than the tiger.",
+     "choices": [
+      "호랑이는 곰보다 힘이 더 세요.",
+      "곰은 호랑이보다 힘이 더 세요.",
+      "곰은 호랑이보다 더 커요."
+     ],
+     "answer": 1,
+     "explain": "stronger than은 '~보다 힘이 더 센'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "She's older than me.",
+     "choices": [
+      "그녀는 나보다 키가 더 커.",
+      "그녀는 나보다 나이가 더 많아.",
+      "나는 그녀보다 나이가 더 많아."
+     ],
+     "answer": 1,
+     "explain": "older than me — 나보다 나이가 더 많은"
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mohan은 12살이에요. Mohan이 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "안내원",
+       "text": "This is Haneul. Today is her 20th birthday."
+      },
+      {
+       "who": "Mohan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "20th birthday? She's older than me.",
+      "20th birthday? I'm older than her.",
+      "Look to the right side."
+     ],
+     "answer": 0,
+     "explain": "기린 하늘이는 20살이고 Mohan은 12살이니 하늘이가 나이가 더 많아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "사자는 고양이보다 더 빨라요.",
+     "answer": "The lion is faster than the cat.",
+     "distractors": [
+      "fast",
+      "then"
+     ],
+     "explain": "The lion is faster than the cat. 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The elephant is heavier than the pig.",
+     "answer": "The elephant is heavier than the pig.",
+     "distractors": [
+      "heavy",
+      "then"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Zoo Note\n- Giraffe: 5 m tall\n- Elephant: 3 m tall\n- Lion: 1 m tall",
+     "question": "메모를 보고 알맞은 문장을 고르세요.",
+     "choices": [
+      "The lion is taller than the giraffe.",
+      "The giraffe is taller than the elephant.",
+      "The elephant is taller than the giraffe."
+     ],
+     "answer": 1,
+     "explain": "기린(5 m)이 코끼리(3 m)보다 키가 더 커요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Look to the right side.",
+       "오른쪽을 보세요."
+      ],
+      [
+       "We'll stop here.",
+       "여기서 멈출 거예요."
+      ],
+      [
+       "Give some carrots to her.",
+       "그녀에게 당근을 좀 주세요."
+      ],
+      [
+       "Congratulations!",
+       "축하해요!"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The bear is bigger than the dog.",
+     "ko": "곰은 개보다 더 커요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "기린",
+     "answers": [
+      "giraffe"
+     ],
+     "hint": "g i r _ f f e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "더 빠른",
+     "answers": [
+      "faster"
+     ],
+     "hint": "f _ s t e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "호랑이는 사자보다 힘이 더 세요.",
+     "answers": [
+      "The tiger is stronger than the lion."
+     ],
+     "hint": "The tiger is ________ than the lion."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아기 코끼리는 80킬로그램이에요. 그것은 우주보다 더 무거워요.",
+     "answer": "The baby elephant is 80 kilograms. It's heavier than Uju.",
+     "distractors": [
+      "heavy",
+      "then"
+     ],
+     "explain": "무게를 말한 다음 'It's heavier than ...'으로 비교해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the zoo, we saw a giraffe. Her name is Haneul. Today is her 20th birthday. She is older than me! She loves carrots, so we gave some carrots to her.",
+     "question": "하늘이에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "당근을 싫어한다.",
+      "오늘이 20번째 생일이다.",
+      "글쓴이보다 나이가 적다."
+     ],
+     "answer": 1,
+     "explain": "'Today is her 20th birthday.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Animal Cards\n- Tiger: 200 kg\n- Lion: 190 kg\n- Bear: 300 kg",
+     "question": "카드를 보고 알맞은 문장을 고르세요.",
+     "choices": [
+      "The bear is heavier than the tiger.",
+      "The lion is heavier than the bear.",
+      "The tiger is heavier than the bear."
+     ],
+     "answer": 0,
+     "explain": "곰(300 kg)이 호랑이(200 kg)보다 더 무거워요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "소가 돼지보다 더 커요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Which is bigger, the cow or the pig?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "The pig is bigger than the cow.",
+      "The cow is older than the pig.",
+      "The cow is bigger than the pig."
+     ],
+     "answer": 2,
+     "explain": "소가 더 크니 'The cow is bigger than the pig.'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The baby elephant is drinking water.",
+     "answer": "The baby elephant is drinking water.",
+     "distractors": [
+      "drinks",
+      "milk."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben의 형은 Ben보다 키가 더 커요. Ben의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Who is taller, you or your brother?"
+      },
+      {
+       "who": "Ben",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm taller than my brother.",
+      "My brother is taller than me.",
+      "My brother is faster than me."
+     ],
+     "answer": 1,
+     "explain": "키를 물었고 형이 더 크니 'My brother is taller than me.'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Wow, the giraffe is taller than the tree!",
+     "ko": "와, 기린이 나무보다 키가 더 커!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "비교하기 / 부인하기",
+   "objectives": [
+    "비교하는 말을 할 수 있다.",
+    "부인하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 110~111쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "동물 그림 카드로 비교하는 말 복습하기, 반려견 나이를 비교하며 틀린 말 바로잡기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "무선 조종 자동차 경주 대회에 나간 하나를 응원하는 Linh과 Tom의 만화 영화 보기 (어느 자동차가 더 빠른지, Tom이 한 말 찾기)",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "팔씨름을 하는 Jesse와 Noah, 동물 무게를 비교하는 Jake와 Taylor의 동영상 보기, 짝과 비교하고 부인하는 말 연습, 짝과 물건 비교하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "주사위를 굴려 토끼와 거북이 경주 말판의 그림에 맞게 비교하는 말 하기, 틀리면 'That's not right.'로 바로잡기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "그림에 알맞은 대화를 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "The red car is faster than Hana's car.",
+    "That's not right.",
+    "Hana's car is faster than the red car."
+   ],
+   "tip": "상대의 말이 틀렸을 때는 'That's not right.'라고 말한 뒤 바른 문장을 덧붙여 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 비교하는 말을 할 수 있는가? 부인하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "race",
+       "경주"
+      ],
+      [
+       "win",
+       "이기다"
+      ],
+      [
+       "fast",
+       "빠른"
+      ],
+      [
+       "strong",
+       "힘이 센"
+      ],
+      [
+       "heavy",
+       "무거운"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'That's not right.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그건 오른쪽에 있어.",
+      "그 말이 맞아.",
+      "그건 맞지 않아."
+     ],
+     "answer": 2,
+     "explain": "상대방의 말이 틀렸을 때 'That's not right.'라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림과 관계있는 단어는?",
+     "emoji": "🏎️",
+     "choices": [
+      "race",
+      "goal",
+      "tower",
+      "clock"
+     ],
+     "answer": 0,
+     "explain": "🏎️ 자동차 경주는 race예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "That's not right.",
+     "choices": [
+      "그건 맞지 않아.",
+      "그거 좋다.",
+      "그건 내 거야."
+     ],
+     "answer": 0,
+     "explain": "That's not right.는 상대의 말이 틀렸다고 말할 때 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Noah is stronger than Jesse.",
+     "choices": [
+      "Jesse가 Noah보다 힘이 더 세요.",
+      "Noah가 Jesse보다 더 빨라요.",
+      "Noah가 Jesse보다 힘이 더 세요."
+     ],
+     "answer": 2,
+     "explain": "stronger는 '힘이 더 센'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 자동차가 빨간 자동차보다 더 빨라요. Tom이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "Oh, no! The red car is faster than Hana's car."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. The red car is faster.",
+      "Congratulations, Linh!",
+      "That's not right. Hana's car is faster than the red car."
+     ],
+     "answer": 2,
+     "explain": "Linh의 말이 틀렸으니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "Join the race, Hana. You can win the race."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's not right.",
+      "It's taller than the tree.",
+      "Okay. I'll try."
+     ],
+     "answer": 2,
+     "explain": "경주에 나가 보라는 말에 '알았어. 해 볼게.'라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "That's not ___.",
+     "ko": "그건 맞지 않아.",
+     "choices": [
+      "left",
+      "next",
+      "right"
+     ],
+     "answer": 2,
+     "explain": "부인할 때는 That's not right.라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm faster ___ you.",
+     "ko": "나는 너보다 더 빨라.",
+     "choices": [
+      "then",
+      "than",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "'~보다'는 than이에요. then과 헷갈리지 않게 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그건 맞지 않아.",
+     "answer": "That's not right.",
+     "distractors": [
+      "is",
+      "left."
+     ],
+     "explain": "That's not right. — 그건 맞지 않아."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Taylor의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Jake",
+       "text": "The cat is heavier than the pig."
+      },
+      {
+       "who": "Taylor",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. The cat is heavier than the pig.",
+      "Oh, I see. Good job!",
+      "That's not right. The pig is heavier than the cat."
+     ],
+     "answer": 2,
+     "explain": "돼지가 고양이보다 무거우니 부인하고 바르게 고쳐 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "That's not right.",
+     "ko": "그건 맞지 않아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My cup is ___ than your cup.",
+     "ko": "내 컵이 네 컵보다 더 커.",
+     "choices": [
+      "heavier",
+      "faster",
+      "bigger"
+     ],
+     "answer": 2,
+     "explain": "'더 큰'은 bigger예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My bag is ___ than your bag.",
+     "ko": "내 가방이 네 가방보다 더 무거워.",
+     "choices": [
+      "heavyer",
+      "heavy",
+      "heavier"
+     ],
+     "answer": 2,
+     "explain": "heavy는 y를 i로 바꾸고 -er을 붙여 heavier가 돼요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm taller than you.",
+     "choices": [
+      "내가 너보다 키가 더 커.",
+      "네가 나보다 키가 더 커.",
+      "내가 너보다 나이가 더 많아."
+     ],
+     "answer": 0,
+     "explain": "I'm taller than you. — 내가 너보다 키가 더 커."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The green car is faster than the red car.",
+     "choices": [
+      "빨간색 자동차가 초록색 자동차보다 더 빨라요.",
+      "초록색 자동차가 빨간색 자동차보다 더 빨라요.",
+      "초록색 자동차가 빨간색 자동차보다 더 커요."
+     ],
+     "answer": 1,
+     "explain": "green car(초록색 자동차)가 더 빨라요(faster)."
+    },
+    {
+     "type": "dialog",
+     "prompt": "G2가 G1보다 더 빨라요. G2의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G1",
+       "text": "I'm faster than you."
+      },
+      {
+       "who": "G2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. You're faster than me.",
+      "That's not right. I'm faster than you.",
+      "I'm taller than you."
+     ],
+     "answer": 1,
+     "explain": "G2가 더 빠르니 G1의 말을 부인해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "팔씨름에서 Noah가 이겼어요. 나리가 다시 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "나리",
+       "text": "Jesse is stronger than Noah."
+      },
+      {
+       "who": "나리",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, Noah is stronger than Jesse.",
+      "Oh, Jesse is faster than Noah.",
+      "Congratulations, Jesse!"
+     ],
+     "answer": 0,
+     "explain": "팔씨름에서 Noah가 이겼으니 Noah가 더 힘이 세요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내가 너보다 힘이 더 세.",
+     "answer": "I'm stronger than you.",
+     "distractors": [
+      "strong",
+      "then"
+     ],
+     "explain": "I'm + 비교하는 말 + than you."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "That's not right. My cup is bigger than your cup.",
+     "answer": "That's not right. My cup is bigger than your cup.",
+     "distractors": [
+      "big",
+      "then"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Congratulations!",
+       "축하해!"
+      ],
+      [
+       "Good job!",
+       "잘했어!"
+      ],
+      [
+       "You can do it.",
+       "너는 할 수 있어."
+      ],
+      [
+       "I'll try.",
+       "해 볼게."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The yellow bag is bigger than the red bag.",
+     "ko": "노란색 가방이 빨간색 가방보다 더 커."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "경주",
+     "answers": [
+      "race"
+     ],
+     "hint": "r _ c e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그건 맞지 않아. 내가 너보다 나이가 더 많아.",
+     "answers": [
+      "That's not right. I'm older than you.",
+      "That is not right. I'm older than you.",
+      "That's not right. I am older than you.",
+      "That is not right. I am older than you."
+     ],
+     "hint": "That's not right. I'm ____ than you."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그건 맞지 않아. 초록색 가방이 노란색 가방보다 더 무거워.",
+     "answer": "That's not right. The green bag is heavier than the yellow bag.",
+     "distractors": [
+      "heavy",
+      "then"
+     ],
+     "explain": "부인하는 말 다음에 바르게 비교하는 말을 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The race starts. The red car is fast. Linh says, \"The red car is faster than Hana's car.\" Tom says, \"That's not right.\" At the end, Hana's yellow car wins the race!",
+     "question": "경주에서 이긴 자동차는?",
+     "choices": [
+      "빨간색 자동차",
+      "하나의 노란색 자동차",
+      "Tom의 자동차"
+     ],
+     "answer": 1,
+     "explain": "'Hana's yellow car wins the race!'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Arm Wrestling\nRound 1: Jesse vs. Noah — Noah wins.\nRound 2: Noah vs. Ben — Ben wins.",
+     "question": "세 사람 중 가장 힘이 센 사람은?",
+     "choices": [
+      "Noah",
+      "Ben",
+      "Jesse"
+     ],
+     "answer": 1,
+     "explain": "Noah가 Jesse보다, Ben이 Noah보다 힘이 더 세니 Ben이 가장 힘이 세요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jane이 Eric보다 키가 더 커요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Eric is taller than Jane."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. Eric is taller than Jane.",
+      "That's not right. Jane is taller than Eric.",
+      "That's not right. Jane is older than Eric."
+     ],
+     "answer": 1,
+     "explain": "키를 비교했으니 '키가 더 큰(taller)'으로 바르게 고쳐요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "학생들의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Hodu is three years old. Nana is four years old. Hodu is older than Nana. Am I right?"
+      },
+      {
+       "who": "Students",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes. Hodu is older than Nana.",
+      "No. That's not right. Nana is older than Hodu.",
+      "No. Hodu is bigger than Nana."
+     ],
+     "answer": 1,
+     "explain": "4살인 나나가 3살인 호두보다 나이가 더 많아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look! We can race cars here.",
+     "answer": "Look! We can race cars here.",
+     "distractors": [
+      "races",
+      "there."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 경주에서 이길 수 있어.",
+     "answer": "You can win the race.",
+     "distractors": [
+      "wins",
+      "goal"
+     ],
+     "explain": "can + win(이기다) — 이길 수 있어."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good job! Your car is very fast.",
+     "ko": "잘했어! 네 자동차는 정말 빨라."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "비교하는 문장 읽고 쓰기",
+   "objectives": [
+    "비교하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 비교하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 112~113쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "달리기하는 두 아이 그림으로 비교·부인하는 대화 복습하기, 'heavier' 앞뒤에 말을 붙여 비교 문장 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "엄마 오리가 새끼 오리 Mimi와 Didi를 비교하는 말풍선을 읽고 빈 말풍선에 알맞은 문장 골라 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 단어를 골라 비교 문장 완성하기(기차·자동차, 농구공·야구공, 수박·사과), 스스로 다지기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "모둠별로 동물 캐릭터를 만들어 프로필을 쓰고, 상대 모둠 캐릭터와 비교하는 말을 하며 소개하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 문장과 단어 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Mimi is faster than Didi.",
+    "Mimi is bigger than Didi.",
+    "Didi is stronger than Mimi."
+   ],
+   "tip": "문장의 첫 글자와 사람 이름의 첫 글자는 대문자로 써요. than과 then을 헷갈리지 않게 해요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 비교하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🚂",
+       "train"
+      ],
+      [
+       "🚗",
+       "car"
+      ],
+      [
+       "🏀",
+       "basketball"
+      ],
+      [
+       "⚾",
+       "baseball"
+      ],
+      [
+       "🍉",
+       "watermelon"
+      ],
+      [
+       "🍎",
+       "apple"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "문장을 바르게 쓴 것은?",
+     "choices": [
+      "mimi is faster than Didi.",
+      "Mimi is faster then Didi.",
+      "Mimi is faster than Didi."
+     ],
+     "answer": 2,
+     "explain": "이름의 첫 글자는 대문자로, '~보다'는 than으로 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'heavy'를 비교하는 말로 바르게 쓴 것은?",
+     "choices": [
+      "heavier",
+      "heavyer",
+      "heavyier"
+     ],
+     "answer": 0,
+     "explain": "heavy는 y를 i로 바꾸고 -er을 붙여요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Mimi is bigger than Didi.",
+     "choices": [
+      "Mimi는 Didi보다 더 커요.",
+      "Didi는 Mimi보다 더 커요.",
+      "Mimi는 Didi보다 더 빨라요."
+     ],
+     "answer": 0,
+     "explain": "bigger than은 '~보다 더 큰'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The train is faster than the car.",
+     "choices": [
+      "자동차는 기차보다 더 빨라요.",
+      "기차는 자동차보다 더 무거워요.",
+      "기차는 자동차보다 더 빨라요."
+     ],
+     "answer": 2,
+     "explain": "train(기차)이 faster(더 빠른)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The watermelon is ___ than the apple.",
+     "ko": "수박은 사과보다 더 무거워요.",
+     "choices": [
+      "faster",
+      "older",
+      "heavier"
+     ],
+     "answer": 2,
+     "explain": "'더 무거운'은 heavier예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The basketball is bigger ___ the baseball.",
+     "ko": "농구공은 야구공보다 더 커요.",
+     "choices": [
+      "then",
+      "than",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "'~보다'는 than이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mommy Duck: Mimi is older than Didi. Didi is stronger than Mimi.",
+     "question": "힘이 더 센 오리는?",
+     "choices": [
+      "Didi",
+      "Mimi",
+      "Mommy Duck"
+     ],
+     "answer": 0,
+     "explain": "'Didi is stronger than Mimi.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mimi가 Didi보다 나이가 더 많아요. 엄마 오리의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Baby Duck",
+       "text": "Who is older, Mimi or Didi?"
+      },
+      {
+       "who": "Mommy Duck",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Mimi is older than Didi.",
+      "Didi is older than Mimi.",
+      "Mimi is heavier than Didi."
+     ],
+     "answer": 0,
+     "explain": "Mimi가 나이가 더 많으니 'Mimi is older than Didi.'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Didi는 Mimi보다 더 무거워요.",
+     "answer": "Didi is heavier than Mimi.",
+     "distractors": [
+      "heavy",
+      "then"
+     ],
+     "explain": "A is heavier than B. 순서예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'big'을 비교하는 말로 바르게 쓴 것은?",
+     "choices": [
+      "biger",
+      "bigest",
+      "bigger"
+     ],
+     "answer": 2,
+     "explain": "big은 g를 한 번 더 쓰고 -er을 붙여요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Mimi is taller than Didi.",
+     "ko": "Mimi는 Didi보다 키가 더 커요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The tree is ___ than the house.",
+     "ko": "나무는 집보다 키가 더 커요.",
+     "choices": [
+      "taller",
+      "heavier",
+      "older"
+     ],
+     "answer": 0,
+     "explain": "'키가 더 큰'은 taller예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The car is faster ___ the bike.",
+     "ko": "자동차는 자전거보다 더 빨라요.",
+     "choices": [
+      "then",
+      "that",
+      "than"
+     ],
+     "answer": 2,
+     "explain": "'~보다'는 than이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "수박은 사과보다 더 무거워요.",
+     "answer": "The watermelon is heavier than the apple.",
+     "distractors": [
+      "heavy",
+      "then"
+     ],
+     "explain": "The watermelon is heavier than the apple. 순서예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The basketball is bigger than the baseball.",
+     "answer": "The basketball is bigger than the baseball.",
+     "distractors": [
+      "big",
+      "then"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Character Profiles\n- Jojo: 100 m run 15 seconds / 60 kg\n- Kiki: 100 m run 12 seconds / 30 kg",
+     "question": "프로필을 보고 알맞은 문장을 고르세요.",
+     "choices": [
+      "Jojo is faster than Kiki.",
+      "Kiki is faster than Jojo.",
+      "Kiki is heavier than Jojo."
+     ],
+     "answer": 1,
+     "explain": "100 m를 더 짧은 시간(12초)에 달린 Kiki가 더 빨라요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Character Profiles\n- Jojo: 100 m run 15 seconds / 60 kg\n- Kiki: 100 m run 12 seconds / 30 kg",
+     "question": "Jojo에 대한 문장으로 알맞은 것은?",
+     "choices": [
+      "Jojo is faster than Kiki.",
+      "Jojo is heavier than Kiki.",
+      "Kiki is heavier than Jojo."
+     ],
+     "answer": 1,
+     "explain": "Jojo(60 kg)가 Kiki(30 kg)보다 더 무거워요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Didi is stronger than Mimi.",
+     "choices": [
+      "Didi는 Mimi보다 힘이 더 세요.",
+      "Mimi는 Didi보다 힘이 더 세요.",
+      "Didi는 Mimi보다 키가 더 커요."
+     ],
+     "answer": 0,
+     "explain": "stronger는 '힘이 더 센'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kiki가 Jojo보다 더 빨라요. 2모둠의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Group 1",
+       "text": "Jojo is faster than Kiki."
+      },
+      {
+       "who": "Group 2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. Jojo is faster.",
+      "Kiki is bigger than Jojo.",
+      "That's not right. Kiki is faster than Jojo."
+     ],
+     "answer": 2,
+     "explain": "Kiki가 더 빠르니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'fast'를 비교하는 말로 바르게 쓴 것은?",
+     "choices": [
+      "fastter",
+      "fastier",
+      "faster"
+     ],
+     "answer": 2,
+     "explain": "fast에 -er만 붙여요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "The basketball is bigger than the soccer ball.",
+     "ko": "농구공은 축구공보다 더 커요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "더 무거운",
+     "answers": [
+      "heavier"
+     ],
+     "hint": "h e _ v _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "더 큰",
+     "answers": [
+      "bigger"
+     ],
+     "hint": "b i _ _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "버스는 자전거보다 더 커요.",
+     "answers": [
+      "The bus is bigger than the bike."
+     ],
+     "hint": "The bus is ______ than the bike."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Coco는 Bobo보다 키가 더 커요.",
+     "answers": [
+      "Coco is taller than Bobo."
+     ],
+     "hint": "Coco is ______ than Bobo."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나무는 집보다 키가 더 커요. 집은 나무보다 더 무거워요.",
+     "answer": "The tree is taller than the house. The house is heavier than the tree.",
+     "distractors": [
+      "tall",
+      "then"
+     ],
+     "explain": "두 문장 모두 'A is ...er than B.' 형태예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Character: Popo\nPopo is bigger than Kiki.\nPopo is stronger than Kiki.\nBut Kiki is faster than Popo.",
+     "question": "Kiki가 Popo보다 나은 점은?",
+     "choices": [
+      "더 크다.",
+      "힘이 더 세다.",
+      "더 빠르다."
+     ],
+     "answer": 2,
+     "explain": "'Kiki is faster than Popo.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mommy Duck has two babies, Mimi and Didi. Mimi is faster and taller than Didi. But Didi is stronger and heavier than Mimi.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Didi는 Mimi보다 더 빠르다.",
+      "Mimi는 Didi보다 힘이 더 세다.",
+      "Didi는 Mimi보다 더 무겁다."
+     ],
+     "answer": 2,
+     "explain": "'Didi is stronger and heavier than Mimi.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "태양은 지구보다 훨씬 커요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Which is bigger, the sun or the earth?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "The earth is bigger than the sun.",
+      "The earth is older than the sun.",
+      "The sun is bigger than the earth."
+     ],
+     "answer": 2,
+     "explain": "태양이 지구보다 훨씬 커요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The car is faster than the bike.",
+     "answer": "The car is faster than the bike.",
+     "distractors": [
+      "fast",
+      "then"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My cat is older than my dog.",
+     "ko": "내 고양이는 내 개보다 나이가 더 많아요."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "두 인물을 비교하는 글 읽고 이해하기",
+   "objectives": [
+    "두 인물을 비교하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 114~115쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Mimi와 Didi 문장을 읽고 그림 짚기, 4학년 Billy와 6학년 Tom 사진을 보며 비교하는 말 하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "'Tom is taller than Kate.' 'Kate is faster than Tom.'을 읽고 알맞은 그림 고르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "이름이 같은 두 친구 Tall Jack과 Fast Jack을 비교하는 글을 듣고 따라 읽기, 짝과 번갈아 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 표(별명, 좋아하는 것, 잘하는 것) 완성하기, 스스로 다지기(Alice와 나 비교하는 글)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "미나와 친구를 비교하는 글을 읽고 문제 풀기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "My friend is taller than me.",
+    "I'm faster than my friend.",
+    "We always play together."
+   ],
+   "tip": "비교하는 글을 읽을 때는 '누가 + 무엇이 더 ~한지'를 표로 정리하면 이해하기 쉬워요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 두 인물을 비교하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Two Jacks\nI'm Jack, and my best friend is Jack, too! We both love basketball. Every day after school, we practice together. My friend is taller than me, so he catches the ball well. I'm faster than him, so I'm good at dribbling. We always play on the same team. We are a great team!",
+     "question": "두 Jack이 함께 좋아하는 운동은?",
+     "choices": [
+      "농구",
+      "축구",
+      "야구"
+     ],
+     "answer": 0,
+     "explain": "'We both love basketball.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Two Jacks\nI'm Jack, and my best friend is Jack, too! We both love basketball. Every day after school, we practice together. My friend is taller than me, so he catches the ball well. I'm faster than him, so I'm good at dribbling. We always play on the same team. We are a great team!",
+     "question": "키가 더 큰 친구 Jack이 잘하는 것은?",
+     "choices": [
+      "드리블하기",
+      "달리기",
+      "공 잡기"
+     ],
+     "answer": 2,
+     "explain": "'My friend is taller than me, so he catches the ball well.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Two Jacks\nI'm Jack, and my best friend is Jack, too! We both love basketball. Every day after school, we practice together. My friend is taller than me, so he catches the ball well. I'm faster than him, so I'm good at dribbling. We always play on the same team. We are a great team!",
+     "question": "글쓴이 Jack이 잘하는 것은?",
+     "choices": [
+      "공 잡기",
+      "드리블하기",
+      "슛하기"
+     ],
+     "answer": 1,
+     "explain": "'I'm faster than him, so I'm good at dribbling.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Two Jacks\nI'm Jack, and my best friend is Jack, too! We both love basketball. Every day after school, we practice together. My friend is taller than me, so he catches the ball well. I'm faster than him, so I'm good at dribbling. We always play on the same team. We are a great team!",
+     "question": "두 Jack은 언제 함께 연습하나요?",
+     "choices": [
+      "매일 방과 후에",
+      "주말마다",
+      "아침마다"
+     ],
+     "answer": 0,
+     "explain": "'Every day after school, we practice together.'"
+    },
+    {
+     "type": "mc",
+     "prompt": "'catch'의 뜻으로 알맞은 것은?",
+     "emoji": "🤾",
+     "choices": [
+      "던지다",
+      "치다",
+      "달리다",
+      "잡다"
+     ],
+     "answer": 3,
+     "explain": "catch는 '잡다'예요. catch the ball — 공을 잡다"
+    },
+    {
+     "type": "mc",
+     "prompt": "'always'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "가끔",
+      "절대",
+      "항상",
+      "오늘"
+     ],
+     "answer": 2,
+     "explain": "always는 '항상'이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "catch the ball",
+       "공을 잡다"
+      ],
+      [
+       "dribble",
+       "드리블하다"
+      ],
+      [
+       "after school",
+       "방과 후에"
+      ],
+      [
+       "a good team",
+       "좋은 팀"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm faster than my friend.",
+     "choices": [
+      "내 친구는 나보다 더 빨라요.",
+      "나는 내 친구보다 더 빨라요.",
+      "나는 내 친구보다 키가 더 커요."
+     ],
+     "answer": 1,
+     "explain": "I'm faster than my friend. — 내가 더 빨라요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My friend is ___ than me.",
+     "ko": "내 친구는 나보다 키가 더 커요.",
+     "choices": [
+      "faster",
+      "older",
+      "taller"
+     ],
+     "answer": 2,
+     "explain": "'키가 더 큰'은 taller예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "Who is faster, Tall Jack or Fast Jack?"
+      },
+      {
+       "who": "Tall Jack",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Fast Jack is faster than me.",
+      "I'm faster than Fast Jack.",
+      "Fast Jack is taller than me."
+     ],
+     "answer": 0,
+     "explain": "별명처럼 Fast Jack이 더 빨라요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He catches the ball well.",
+     "choices": [
+      "그는 공을 잘 잡아요.",
+      "그는 공을 잘 던져요.",
+      "그는 드리블을 잘해요."
+     ],
+     "answer": 0,
+     "explain": "catch the ball well — 공을 잘 잡다"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We are a great team!",
+     "ko": "우리는 멋진 팀이에요!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm Sumi. My friend Alice and I like soccer. Alice is taller than me. But I'm faster than Alice. We practice soccer after school every day.",
+     "question": "수미와 Alice가 좋아하는 운동은?",
+     "choices": [
+      "농구",
+      "수영",
+      "축구"
+     ],
+     "answer": 2,
+     "explain": "'My friend Alice and I like soccer.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm Sumi. My friend Alice and I like soccer. Alice is taller than me. But I'm faster than Alice. We practice soccer after school every day.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "수미가 Alice보다 키가 더 크다.",
+      "Alice가 수미보다 더 빠르다.",
+      "수미가 Alice보다 더 빠르다."
+     ],
+     "answer": 2,
+     "explain": "'But I'm faster than Alice.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Mina. My friend is stronger than me. My friend is older than me. But I'm faster than my friend.",
+     "question": "미나가 친구보다 나은 점은?",
+     "choices": [
+      "힘이 더 세다.",
+      "나이가 더 많다.",
+      "더 빠르다."
+     ],
+     "answer": 2,
+     "explain": "'But I'm faster than my friend.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tom is taller than Kate.\nKate is faster than Tom.",
+     "question": "그림 설명으로 알맞은 것은?",
+     "choices": [
+      "Tom은 키가 더 크고, Kate는 더 빠르다.",
+      "Kate는 키가 더 크고, Tom은 더 빠르다.",
+      "Tom은 키도 더 크고 더 빠르다."
+     ],
+     "answer": 0,
+     "explain": "taller는 Tom, faster는 Kate예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm good at ___.",
+     "ko": "나는 드리블을 잘해요.",
+     "choices": [
+      "dribbling",
+      "catching",
+      "running"
+     ],
+     "answer": 0,
+     "explain": "드리블하기는 dribbling이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 항상 같이 경기해요.",
+     "answer": "We always play together.",
+     "distractors": [
+      "plays",
+      "never"
+     ],
+     "explain": "always(항상)는 play 앞에 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We practice basketball after school every day.",
+     "answer": "We practice basketball after school every day.",
+     "distractors": [
+      "practices",
+      "before"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What is Tall Jack good at?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He is faster than Fast Jack.",
+      "He likes soccer.",
+      "He is good at catching the ball."
+     ],
+     "answer": 2,
+     "explain": "Tall Jack은 키가 커서 공을 잘 잡아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "두 Jack이 좋은 팀인 까닭으로 알맞은 것은?",
+     "choices": [
+      "둘 다 키가 커서",
+      "둘 다 드리블만 잘해서",
+      "서로 잘하는 것이 달라서 함께 하면 잘한다."
+     ],
+     "answer": 2,
+     "explain": "한 명은 공을 잘 잡고, 한 명은 드리블을 잘해서 함께하면 좋은 팀이 돼요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We like soccer. We practice soccer every day.",
+     "ko": "우리는 축구를 좋아해요. 우리는 매일 축구를 연습해요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Sister and I\nI'm Yuri, and my sister is Yuna. She is older than me. She is taller than me, too. She is good at swimming. I'm not tall, but I'm faster than my sister. I'm good at running. We always help each other.",
+     "question": "유나에 대한 설명으로 알맞은 것은?",
+     "choices": [
+      "유리보다 더 빠르다.",
+      "유리보다 나이가 많고 키가 크다.",
+      "달리기를 잘한다."
+     ],
+     "answer": 1,
+     "explain": "'She is older than me. She is taller than me, too.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Sister and I\nI'm Yuri, and my sister is Yuna. She is older than me. She is taller than me, too. She is good at swimming. I'm not tall, but I'm faster than my sister. I'm good at running. We always help each other.",
+     "question": "유리가 잘하는 것은?",
+     "choices": [
+      "수영",
+      "달리기",
+      "농구"
+     ],
+     "answer": 1,
+     "explain": "'I'm good at running.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Sister and I\nI'm Yuri, and my sister is Yuna. She is older than me. She is taller than me, too. She is good at swimming. I'm not tall, but I'm faster than my sister. I'm good at running. We always help each other.",
+     "question": "빈칸에 알맞은 말은? 'Yuri is ___ than Yuna.'",
+     "choices": [
+      "taller",
+      "older",
+      "faster"
+     ],
+     "answer": 2,
+     "explain": "유리는 언니보다 더 빨라요(faster)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Fast Jack: I'm faster than Tall Jack.\nTall Jack: I'm taller than Fast Jack.\nFast Jack: Our team always wins!",
+     "question": "두 Jack의 팀에 대해 알 수 있는 것은?",
+     "choices": [
+      "항상 이긴다.",
+      "항상 진다.",
+      "같이 경기하지 않는다."
+     ],
+     "answer": 0,
+     "explain": "'Our team always wins!'"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "항상",
+     "answers": [
+      "always"
+     ],
+     "hint": "a l _ _ y s"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 드리블을 잘해요.",
+     "answers": [
+      "I'm good at dribbling.",
+      "I am good at dribbling."
+     ],
+     "hint": "I'm good at ________."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Alice는 나보다 키가 더 커요.",
+     "answer": "Alice is taller than me.",
+     "distractors": [
+      "tall",
+      "I"
+     ],
+     "explain": "비교 대상이 '나'일 때는 than me라고 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Fast Jack의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Reporter",
+       "text": "You two have the same name! Who is taller?"
+      },
+      {
+       "who": "Fast Jack",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm taller than my friend.",
+      "My friend is taller than me.",
+      "My friend is faster than me."
+     ],
+     "answer": 1,
+     "explain": "Fast Jack보다 친구(Tall Jack)가 키가 더 커요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We make a good basketball team.",
+     "answer": "We make a good basketball team.",
+     "distractors": [
+      "makes",
+      "bad"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She is good at swimming. I'm good at running.",
+     "ko": "그녀는 수영을 잘해요. 나는 달리기를 잘해요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "캐릭터를 비교하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 캐릭터를 비교하는 글을 쓸 수 있다.",
+    "캐릭터를 비교하는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 116~117쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Tall Jack, Fast Jack 글을 모둠별로 번갈아 읽기, 빨간 집과 파란 집 그림을 보고 비교 문장 만들어 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "동물 학교 그림을 보고 비교하는 단어의 철자 완성하기(Words), 비교 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "마음에 드는 캐릭터를 하나 골라 예시문(헐크)을 참고하여 다른 캐릭터들과 비교하는 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "두 캐릭터 그림을 보고 비교 문장 자유롭게 쓰기, 엘사와 안나 글의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I like Hulk very much.",
+    "Hulk is heavier than Spider-Man.",
+    "Hulk is stronger than Superman."
+   ],
+   "tip": "글의 첫 문장에서 좋아하는 캐릭터를 소개하고, 그다음에 다른 캐릭터와 하나씩 비교해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 캐릭터를 비교하는 글을 쓸 수 있는가? 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 철자는? 's t r _ n g e r'",
+     "choices": [
+      "a",
+      "u",
+      "e",
+      "o"
+     ],
+     "answer": 3,
+     "explain": "stronger(힘이 더 센)의 철자는 s-t-r-o-n-g-e-r예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 철자는? 'h e _ v i e r'",
+     "choices": [
+      "e",
+      "a",
+      "o",
+      "i"
+     ],
+     "answer": 1,
+     "explain": "heavier(더 무거운)의 철자는 h-e-a-v-i-e-r예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "older",
+       "나이가 더 많은"
+      ],
+      [
+       "bigger",
+       "더 큰"
+      ],
+      [
+       "faster",
+       "더 빠른"
+      ],
+      [
+       "taller",
+       "키가 더 큰"
+      ],
+      [
+       "stronger",
+       "힘이 더 센"
+      ],
+      [
+       "heavier",
+       "더 무거운"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The giraffe is ___ than the rabbit.",
+     "ko": "기린은 토끼보다 키가 더 커요.",
+     "choices": [
+      "taller",
+      "heavier",
+      "older"
+     ],
+     "answer": 0,
+     "explain": "'키가 더 큰'은 taller예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like Hulk very ___.",
+     "ko": "나는 헐크를 아주 많이 좋아해요.",
+     "choices": [
+      "many",
+      "well",
+      "much"
+     ],
+     "answer": 2,
+     "explain": "very much는 '아주 많이'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Hulk is stronger than Superman.",
+     "choices": [
+      "헐크는 슈퍼맨보다 힘이 더 세요.",
+      "슈퍼맨은 헐크보다 힘이 더 세요.",
+      "헐크는 슈퍼맨보다 더 빨라요."
+     ],
+     "answer": 0,
+     "explain": "stronger than은 '~보다 힘이 더 센'이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like Hulk very much. Hulk is heavier than Spider-Man. Hulk is stronger than Superman. Hulk is bigger than Tinker Bell.",
+     "question": "글쓴이가 좋아하는 캐릭터는?",
+     "choices": [
+      "스파이더맨",
+      "팅커 벨",
+      "헐크"
+     ],
+     "answer": 2,
+     "explain": "'I like Hulk very much.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like Hulk very much. Hulk is heavier than Spider-Man. Hulk is stronger than Superman. Hulk is bigger than Tinker Bell.",
+     "question": "헐크와 팅커 벨을 비교한 내용은?",
+     "choices": [
+      "헐크가 팅커 벨보다 더 빠르다.",
+      "팅커 벨이 헐크보다 더 크다.",
+      "헐크가 팅커 벨보다 더 크다."
+     ],
+     "answer": 2,
+     "explain": "'Hulk is bigger than Tinker Bell.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Who is your favorite character?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like Spider-Man very much.",
+      "Spider-Man is in the sixth grade.",
+      "That's not right."
+     ],
+     "answer": 0,
+     "explain": "좋아하는 캐릭터를 물었으니 'I like ... very much.'로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 슈퍼맨을 아주 많이 좋아해요.",
+     "answer": "I like Superman very much.",
+     "distractors": [
+      "many",
+      "likes"
+     ],
+     "explain": "I like ○○ very much. — 나는 ○○를 아주 많이 좋아해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 보고 알맞은 문장을 고르세요. (🐘 > 🐻 : 무게)",
+     "choices": [
+      "The elephant is heavier than the bear.",
+      "The bear is heavier than the elephant.",
+      "The elephant is older than the bear."
+     ],
+     "answer": 0,
+     "explain": "코끼리가 곰보다 더 무거워요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like Hulk very much.",
+     "ko": "나는 헐크를 아주 많이 좋아해요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Spider-Man is ___ than Hulk.",
+     "ko": "스파이더맨은 헐크보다 더 빨라요.",
+     "choices": [
+      "faster",
+      "heavier",
+      "bigger"
+     ],
+     "answer": 0,
+     "explain": "'더 빠른'은 faster예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Elsa is older ___ Anna.",
+     "ko": "엘사는 안나보다 나이가 더 많아요.",
+     "choices": [
+      "than",
+      "then",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "'~보다'는 than이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like Elsa very much. Elsa is older than Anna. Elsa is stronger than Anna. Elsa is faster than Anna.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "안나는 엘사보다 힘이 더 세다.",
+      "안나는 엘사보다 더 빠르다.",
+      "엘사는 안나보다 나이가 더 많다."
+     ],
+     "answer": 2,
+     "explain": "'Elsa is older than Anna.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like Mulan very much. Mulan is faster than Superman. Mulan is stronger than Tinker Bell. Mulan is older than Spider-Man.",
+     "question": "물란이 슈퍼맨보다 나은 점은?",
+     "choices": [
+      "힘이 더 세다.",
+      "더 빠르다.",
+      "나이가 더 많다."
+     ],
+     "answer": 1,
+     "explain": "'Mulan is faster than Superman.'"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "헐크는 스파이더맨보다 더 무거워요.",
+     "answer": "Hulk is heavier than Spider-Man.",
+     "distractors": [
+      "heavy",
+      "then"
+     ],
+     "explain": "A is heavier than B. 순서예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "코끼리는 돼지보다 힘이 더 세요.",
+     "answer": "The elephant is stronger than the pig.",
+     "distractors": [
+      "strong",
+      "then"
+     ],
+     "explain": "The elephant is stronger than the pig."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Superman is taller than Tinker Bell.",
+     "answer": "Superman is taller than Tinker Bell.",
+     "distractors": [
+      "tall",
+      "then"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "캐릭터를 비교하는 글의 첫 문장으로 알맞은 것은?",
+     "choices": [
+      "Tinker Bell is a tower.",
+      "That's not right.",
+      "I like Mulan very much."
+     ],
+     "answer": 2,
+     "explain": "먼저 좋아하는 캐릭터를 소개해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "스파이더맨이 헐크보다 더 빨라요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Hulk is faster than Spider-Man."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. Hulk is faster than Spider-Man.",
+      "That's not right. Spider-Man is bigger than Hulk.",
+      "That's not right. Spider-Man is faster than Hulk."
+     ],
+     "answer": 2,
+     "explain": "빠르기를 비교했으니 faster로 바르게 고쳐요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Elsa is older than Anna.",
+     "ko": "엘사는 안나보다 나이가 더 많아요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "힘이 더 센",
+     "answers": [
+      "stronger"
+     ],
+     "hint": "s t r _ n g _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나이가 더 많은",
+     "answers": [
+      "older"
+     ],
+     "hint": "o _ d e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "기린은 토끼보다 키가 더 커요.",
+     "answers": [
+      "The giraffe is taller than the rabbit."
+     ],
+     "hint": "The giraffe is ______ than the rabbit."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 팅커 벨을 아주 많이 좋아해요. 팅커 벨은 헐크보다 더 빨라요.",
+     "answer": "I like Tinker Bell very much. Tinker Bell is faster than Hulk.",
+     "distractors": [
+      "many",
+      "fast"
+     ],
+     "explain": "좋아하는 캐릭터를 소개한 뒤 다른 캐릭터와 비교해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like Superman very much. Superman is ___ than Spider-Man. (그림: 슈퍼맨이 스파이더맨보다 키가 더 커요.)",
+     "question": "빈칸에 알맞은 말은?",
+     "choices": [
+      "heavier",
+      "older",
+      "taller"
+     ],
+     "answer": 2,
+     "explain": "키가 더 크니 taller예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "메모\n좋아하는 캐릭터: Wonder Woman\n- Superman보다 더 빠름\n- Tinker Bell보다 힘이 더 셈",
+     "question": "메모를 보고 쓴 글로 알맞은 것은?",
+     "choices": [
+      "I like Wonder Woman very much. Superman is faster than Wonder Woman. Wonder Woman is stronger than Tinker Bell.",
+      "I like Wonder Woman very much. Wonder Woman is faster than Superman. Tinker Bell is stronger than Wonder Woman.",
+      "I like Wonder Woman very much. Wonder Woman is faster than Superman. Wonder Woman is stronger than Tinker Bell."
+     ],
+     "answer": 2,
+     "explain": "누가 누구보다 더 빠르고 힘이 센지 순서를 잘 확인해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "헐크가 물란보다 더 무거워요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I like Mulan. Mulan is heavier than Hulk."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. Mulan is heavier.",
+      "That's not right. Hulk is heavier than Mulan.",
+      "I like Hulk very much."
+     ],
+     "answer": 1,
+     "explain": "헐크가 물란보다 더 무거우니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like Elsa very much. Elsa is stronger than Anna.",
+     "answer": "I like Elsa very much. Elsa is stronger than Anna.",
+     "distractors": [
+      "strong",
+      "likes"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 나보다 나이가 더 많아요.",
+     "answer": "She is older than me.",
+     "distractors": [
+      "old",
+      "I"
+     ],
+     "explain": "than 다음에 '나'는 me로 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Mulan is faster than Superman. Hulk is stronger than Mulan.",
+     "ko": "물란은 슈퍼맨보다 더 빨라요. 헐크는 물란보다 힘이 더 세요."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 118~119쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Ready to Write 비교 문장을 읽고 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "모둠별로 종목(손 크기, 가방 무게, 생일, 손가락 씨름, 까치발 키, 종 치기)에 나갈 도전자를 정해 도전장을 쓰고, 비교하고 부인하는 말을 하며 비교 올림픽 하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 들은 순서대로 번호 쓰기, 비교하고 부인하는 대화하기, 동물 비교 글 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Jiho is faster than Yuna.",
+    "That's not right. Yuna is faster than Jiho.",
+    "I'm faster than Jiho."
+   ],
+   "tip": "비교 올림픽에서 결과가 나오면 이긴 사람이 'I'm ...er than ○○.'라고 직접 말해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단원의 새 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "clock",
+       "시계"
+      ],
+      [
+       "tower",
+       "탑"
+      ],
+      [
+       "goal",
+       "골, 목표"
+      ],
+      [
+       "give",
+       "주다"
+      ],
+      [
+       "side",
+       "쪽, 옆"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어는?",
+     "emoji": "🕰️",
+     "choices": [
+      "tower",
+      "race",
+      "clock",
+      "goal"
+     ],
+     "answer": 2,
+     "explain": "🕰️는 시계(clock)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The cat is heavier than the dog.",
+     "choices": [
+      "개는 고양이보다 더 무거워요.",
+      "고양이는 개보다 더 무거워요.",
+      "고양이는 개보다 나이가 더 많아요."
+     ],
+     "answer": 1,
+     "explain": "heavier than — ~보다 더 무거운"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "My mom is taller than my dad.",
+     "choices": [
+      "아빠가 엄마보다 키가 더 커요.",
+      "엄마가 아빠보다 나이가 더 많아요.",
+      "엄마가 아빠보다 키가 더 커요."
+     ],
+     "answer": 2,
+     "explain": "My mom is taller than my dad."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The giraffe is taller than the lion. The lion is faster than the elephant. The elephant is bigger than the bear. I like all the animals very much.",
+     "question": "기린과 사자를 비교한 내용은?",
+     "choices": [
+      "사자가 기린보다 키가 더 크다.",
+      "기린이 사자보다 키가 더 크다.",
+      "기린이 사자보다 더 빠르다."
+     ],
+     "answer": 1,
+     "explain": "'The giraffe is taller than the lion.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The giraffe is taller than the lion. The lion is faster than the elephant. The elephant is bigger than the bear. I like all the animals very much.",
+     "question": "빠르기를 비교한 동물은?",
+     "choices": [
+      "기린과 사자",
+      "사자와 코끼리",
+      "코끼리와 곰"
+     ],
+     "answer": 1,
+     "explain": "'The lion is faster than the elephant.'"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The lion is ___ than the elephant.",
+     "ko": "사자는 코끼리보다 더 빨라요.",
+     "choices": [
+      "faster",
+      "bigger",
+      "heavier"
+     ],
+     "answer": 0,
+     "explain": "'더 빠른'은 faster예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빨간색 자동차가 초록색 자동차보다 더 빨라요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "The green car is faster than the red car."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. The green car is very fast.",
+      "Good job! You win.",
+      "That's not right. The red car is faster than the green car."
+     ],
+     "answer": 2,
+     "explain": "빨간색 자동차가 더 빠르니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이가 남자아이보다 힘이 더 세요. 여자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "B",
+       "text": "I'm stronger than you."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. I'm older than you.",
+      "That's not right. I'm stronger than you.",
+      "Congratulations!"
+     ],
+     "answer": 1,
+     "explain": "여자아이가 더 힘이 세니 부인해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 손이 네 손보다 더 커.",
+     "answer": "My hand is bigger than your hand.",
+     "distractors": [
+      "big",
+      "then"
+     ],
+     "explain": "My hand is bigger than your hand."
+    },
+    {
+     "type": "mc",
+     "prompt": "부인하는 말로 알맞은 것은?",
+     "choices": [
+      "That's not right.",
+      "That's great.",
+      "Thank you."
+     ],
+     "answer": 0,
+     "explain": "상대의 말이 틀렸을 때 That's not right.라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like all the animals very much.",
+     "ko": "나는 모든 동물을 아주 많이 좋아해요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Comparison Olympics\n- Hand size: Jiho vs. Yuna → bigger\n- Bag weight: Mina vs. Ben → heavier\n- Finger wrestling: Sora vs. Tom → stronger\n- Ring the bell: Jiho vs. Yuna → faster",
+     "question": "'손가락 씨름'에서 비교하는 말은?",
+     "choices": [
+      "stronger",
+      "heavier",
+      "faster"
+     ],
+     "answer": 0,
+     "explain": "힘을 겨루는 경기이니 stronger예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Comparison Olympics\n- Hand size: Jiho vs. Yuna → bigger\n- Bag weight: Mina vs. Ben → heavier\n- Finger wrestling: Sora vs. Tom → stronger\n- Ring the bell: Jiho vs. Yuna → faster",
+     "question": "'종 치기'에서 비교하는 것은?",
+     "choices": [
+      "누가 더 무거운가",
+      "누가 더 빠른가",
+      "누가 키가 더 큰가"
+     ],
+     "answer": 1,
+     "explain": "Ring the bell → faster(더 빠른)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My bag is heavier ___ your bag.",
+     "ko": "내 가방은 네 가방보다 더 무거워.",
+     "choices": [
+      "then",
+      "to",
+      "than"
+     ],
+     "answer": 2,
+     "explain": "'~보다'는 than이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The blue shirt is bigger than the white shirt.",
+     "choices": [
+      "흰색 셔츠가 파란색 셔츠보다 더 커요.",
+      "파란색 셔츠가 흰색 셔츠보다 더 무거워요.",
+      "파란색 셔츠가 흰색 셔츠보다 더 커요."
+     ],
+     "answer": 2,
+     "explain": "blue shirt가 bigger예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "유나가 지호보다 더 빨라요. S2의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "S1",
+       "text": "Jiho is faster than Yuna."
+      },
+      {
+       "who": "S2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's right. Jiho is faster than Yuna.",
+      "That's not right. Yuna is faster than Jiho.",
+      "Yuna is taller than Jiho."
+     ],
+     "answer": 1,
+     "explain": "유나가 더 빠르니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그건 맞지 않아. 흰색 셔츠가 파란색 셔츠보다 더 커.",
+     "answer": "That's not right. The white shirt is bigger than the blue shirt.",
+     "distractors": [
+      "big",
+      "then"
+     ],
+     "explain": "부인한 다음 바르게 비교하는 말을 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm faster than Jiho.",
+     "answer": "I'm faster than Jiho.",
+     "distractors": [
+      "fast",
+      "then"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'생일 비교하기'에서 생일이 더 빠른 사람이 할 말은?",
+     "choices": [
+      "I'm older than you.",
+      "I'm taller than you.",
+      "I'm heavier than you."
+     ],
+     "answer": 0,
+     "explain": "생일이 더 빠르면 나이가 더 많으니 older예요."
+    },
+    {
+     "type": "match",
+     "prompt": "비교하는 말과 종목을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bigger",
+       "손 크기 재기"
+      ],
+      [
+       "heavier",
+       "가방 무게 비교하기"
+      ],
+      [
+       "stronger",
+       "손가락 씨름 하기"
+      ],
+      [
+       "taller",
+       "까치발 키 재기"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My bag is heavier than your bag.",
+     "ko": "내 가방이 네 가방보다 더 무거워."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "탑",
+     "answers": [
+      "tower"
+     ],
+     "hint": "t _ w e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "주다",
+     "answers": [
+      "give"
+     ],
+     "hint": "g _ v e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 아빠는 내 엄마보다 나이가 더 많아요.",
+     "answers": [
+      "My dad is older than my mom.",
+      "My father is older than my mother."
+     ],
+     "hint": "My dad is _____ than my mom."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "사자는 코끼리보다 더 빨라요. 코끼리는 곰보다 더 커요.",
+     "answer": "The lion is faster than the elephant. The elephant is bigger than the bear.",
+     "distractors": [
+      "fast",
+      "then"
+     ],
+     "explain": "두 문장 모두 'A is ...er than B.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Big Ben is in London. It's 99 meters tall. It has a big clock. The Eiffel Tower is in Paris. It's 300 meters tall.",
+     "question": "글의 내용으로 알맞은 것은?",
+     "choices": [
+      "빅 벤이 에펠 탑보다 더 높다.",
+      "에펠 탑이 빅 벤보다 더 높다.",
+      "에펠 탑에 큰 시계가 있다."
+     ],
+     "answer": 1,
+     "explain": "300 m인 에펠 탑이 99 m인 빅 벤보다 더 높아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Big Ben is in London. It's 99 meters tall. It has a big clock. The Eiffel Tower is in Paris. It's 300 meters tall.",
+     "question": "알맞은 문장을 고르세요.",
+     "choices": [
+      "The Eiffel Tower is taller than Big Ben.",
+      "Big Ben is taller than the Eiffel Tower.",
+      "The Eiffel Tower is in London."
+     ],
+     "answer": 0,
+     "explain": "300 m > 99 m예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "에펠 탑이 빅 벤보다 더 높아요. Coco가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Bobo",
+       "text": "Big Ben is taller than the Eiffel Tower."
+      },
+      {
+       "who": "Coco",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's not right. The Eiffel Tower is taller than Big Ben.",
+      "That's right. Big Ben is taller.",
+      "Good job, Bobo! It's twelve."
+     ],
+     "answer": 0,
+     "explain": "에펠 탑이 더 높으니 부인하고 바르게 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빅 벤은 에펠 탑보다 더 오래되었어요. Coco가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Bobo",
+       "text": "Big Ben is older than the Eiffel Tower."
+      },
+      {
+       "who": "Coco",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's not right. Big Ben is taller.",
+      "Sorry, but I can't.",
+      "That's right. Good job, Bobo!"
+     ],
+     "answer": 2,
+     "explain": "빅 벤이 더 오래되었으니 맞다고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The giraffe is taller than the lion. I like all the animals.",
+     "answer": "The giraffe is taller than the lion. I like all the animals.",
+     "distractors": [
+      "tall",
+      "animal"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "That's not right. Yuna is taller than Jiho.",
+     "ko": "그건 맞지 않아. 유나가 지호보다 키가 더 커."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "동물원에 간 아이들이 기린과 나무를 비교하고, 시소에 앉아 아기 코끼리와 우주의 무게를 비교해요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "Look at the giraffe. It's tall."
+    },
+    {
+     "who": "우주",
+     "text": "Wow, it's taller than the tree."
+    },
+    {
+     "who": "안내원",
+     "text": "This is Haneul. Today is her 20th birthday."
+    },
+    {
+     "who": "Mohan",
+     "text": "20th birthday? She's older than me."
+    },
+    {
+     "who": "안내원",
+     "text": "It's 80 kilograms."
+    },
+    {
+     "who": "Mohan",
+     "text": "The elephant is heavier than Uju."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "무선 조종 자동차 경주에 나간 하나를 Linh과 Tom이 응원해요. Linh의 말이 틀리자 Tom이 바로잡아요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Hana, your car is very fast."
+    },
+    {
+     "who": "Linh",
+     "text": "Join the race, Hana. You can win the race."
+    },
+    {
+     "who": "하나",
+     "text": "Okay. I'll try."
+    },
+    {
+     "who": "Linh",
+     "text": "Oh, no! The red car is faster than Hana's car."
+    },
+    {
+     "who": "Tom",
+     "text": "That's not right. Hana's car is faster than the red car."
+    },
+    {
+     "who": "Linh",
+     "text": "Congratulations!"
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "나리가 팔씨름을 보며 누가 더 힘이 센지 말하고, Taylor가 Jake의 틀린 비교를 바로잡아요.",
+   "lines": [
+    {
+     "who": "나리",
+     "text": "Jesse is stronger than Noah."
+    },
+    {
+     "who": "나리",
+     "text": "Oh, Noah is stronger than Jesse."
+    },
+    {
+     "who": "Jake",
+     "text": "The cat is heavier than the pig."
+    },
+    {
+     "who": "Taylor",
+     "text": "That's not right. The pig is heavier than the cat."
+    },
+    {
+     "who": "Jake",
+     "text": "Oh, I see."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "두 인물을 비교하는 글 (Tall Jack, Fast Jack)",
+  "passage": "Two boys share the name Jack. Both of them love basketball, so they practice after school every day. One Jack is taller than the other, and he is great at catching the ball. The other Jack runs faster, and he dribbles very well. People call them Tall Jack and Fast Jack. They always play together, and they make a strong basketball team.",
+  "summaryKo": "이름이 같은 두 친구 중 키가 더 큰 Jack은 공을 잘 잡고, 더 빠른 Jack은 드리블을 잘해서 함께 좋은 농구 팀이 돼요."
+ },
+ "writing": {
+  "frame": [
+   "I like ____ very much.",
+   "____ is ____er than ____.",
+   "____ is ____er than ____."
+  ],
+  "model": "I like Wonder Woman very much. Wonder Woman is faster than Superman. Wonder Woman is stronger than Tinker Bell. Wonder Woman is taller than Mulan."
+ },
+ "project": "모둠별로 손 크기 재기(bigger), 가방 무게 비교하기(heavier), 생일 비교하기(older), 손가락 씨름(stronger), 까치발 키 재기(taller), 종 치기(faster)에 나갈 도전자를 정해 도전장을 쓰고, 상대 모둠과 비교하고 부인하는 말을 주고받은 뒤 비교 올림픽을 하고 우승자가 비교하는 말을 발표한다.",
+ "special": {
+  "no": 8,
+  "kind": "Into the World",
+  "title": "세계의 유명한 건물 비교",
+  "summaryKo": "Bobo와 Coco가 런던의 빅 벤과 파리의 에펠 탑을 구경해요. Bobo가 빅 벤이 에펠 탑보다 더 높다고 하자 Coco가 'That's not right.'라며 에펠 탑이 더 높다고 바로잡고, Bobo는 빅 벤이 더 오래되었다고 말해요.",
+  "facts": [
+   "빅 벤은 영국 런던에 있는 시계탑으로, 높이가 약 100 m(만화에서는 99 m)예요. 원래 시계탑 안의 큰 종 이름이 빅 벤이에요.",
+   "빅 벤은 2012년 '엘리자베스 타워'라는 공식 이름을 얻었고, 2017년부터 5년 동안 큰 수리를 했어요.",
+   "에펠 탑은 1889년 파리 만국 박람회 때 귀스타브 에펠이 약 7,300톤의 철로 만든 높이 약 300 m의 탑이에요.",
+   "에펠 탑은 지어질 당시 세계에서 가장 높은 탑이었고, 해 질 녘부터 매시 정각에 5분 동안 반짝이는 불빛이 켜져요."
+  ],
+  "expressions": [
+   "That is Big Ben. It's 99 meters tall.",
+   "Big Ben is taller than the Eiffel Tower. — That's not right.",
+   "The Eiffel Tower is taller than Big Ben.",
+   "Big Ben is older than the Eiffel Tower. — Good job, Bobo!"
+  ],
+  "exercises": []
+ }
+}

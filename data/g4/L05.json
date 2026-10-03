@@ -1,0 +1,2337 @@
+{
+ "id": "L05",
+ "no": 5,
+ "grade": 4,
+ "semester": 1,
+ "title": "I Want Chicken",
+ "emoji": "🍗",
+ "rationale": "음식은 학생들에게 가장 친근한 주제이면서 관심의 대상이다. 음식을 소재로 원하는 것을 묻고 답하는 표현을 익혀 자기 의사를 명확히 전달하게 하고, 다른 사람에게 음식을 권하는 말을 실생활에서 활용하게 하여 원만한 대인 관계 형성에 도움을 주고자 한다.",
+ "topics": "개인 생활 관련(여행, 오락), 가정생활 관련(음식)",
+ "functions": [
+  {
+   "ko": "원하는 음식 묻고 답하기",
+   "examples": [
+    "What do you want?",
+    "I want chicken."
+   ]
+  },
+  {
+   "ko": "음식 권하기",
+   "examples": [
+    "Help yourself."
+   ]
+  }
+ ],
+ "forms": [
+  "I want bread [chicken / ice cream / milk / pizza / salad]."
+ ],
+ "phonics": {
+  "focus": "d /d/ (끝소리)",
+  "words": [
+   "bread",
+   "salad",
+   "dad"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "bread",
+   "ko": "빵"
+  },
+  {
+   "en": "cream",
+   "ko": "크림"
+  },
+  {
+   "en": "help",
+   "ko": "돕다 (Help yourself. 마음껏 먹어.)"
+  },
+  {
+   "en": "hot",
+   "ko": "뜨거운, 매운"
+  },
+  {
+   "en": "ice",
+   "ko": "얼음"
+  },
+  {
+   "en": "milk",
+   "ko": "우유"
+  },
+  {
+   "en": "much",
+   "ko": "많이 (Thank you very much. 정말 고마워.)"
+  },
+  {
+   "en": "noodles",
+   "ko": "국수"
+  },
+  {
+   "en": "salad",
+   "ko": "샐러드"
+  },
+  {
+   "en": "soup",
+   "ko": "수프"
+  },
+  {
+   "en": "want",
+   "ko": "원하다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "bread",
+   "ko": "빵",
+   "emoji": "🍞"
+  },
+  {
+   "en": "chicken",
+   "ko": "치킨, 닭고기",
+   "emoji": "🍗"
+  },
+  {
+   "en": "ice cream",
+   "ko": "아이스크림",
+   "emoji": "🍦"
+  },
+  {
+   "en": "milk",
+   "ko": "우유",
+   "emoji": "🥛"
+  },
+  {
+   "en": "noodles",
+   "ko": "국수",
+   "emoji": "🍜"
+  },
+  {
+   "en": "pizza",
+   "ko": "피자",
+   "emoji": "🍕"
+  },
+  {
+   "en": "salad",
+   "ko": "샐러드",
+   "emoji": "🥗"
+  }
+ ],
+ "characters": [
+  "Sam",
+  "보라",
+  "보라 엄마",
+  "Kate",
+  "준오",
+  "Momo",
+  "Eric",
+  "Hoa",
+  "준오 할아버지",
+  "준오 할머니",
+  "민우",
+  "Paul",
+  "Alice",
+  "하나",
+  "나그네",
+  "남자",
+  "여자"
+ ],
+ "goals": {
+  "understand": [
+   "원하는 음식을 묻고 답하는 말, 음식을 권하는 말을 듣고 이해할 수 있다.",
+   "원하는 음식을 표현하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /d/와 철자 'd'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "원하는 음식을 묻고 답하는 말과 음식을 권하는 말을 들으며 상대방의 취향을 존중하고 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "원하는 음식을 묻고 답하는 말, 음식을 권하는 말을 할 수 있다.",
+   "원하는 음식을 표현하는 문장을 보고 쓸 수 있다.",
+   "소리 /d/와 철자 'd'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "대인 관계의 기초인 의사소통 표현을 익혀 타인을 배려하고 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "원하는 음식 묻고 답하기",
+   "objectives": [
+    "원하는 음식을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '원하는 음식 순서대로 줄 서기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 50~51쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "음식 사진을 보며 좋아하는 음식인지 묻기, 지금 먹고 싶은 음식 묻고 답하기, 단원 목표 확인, 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "푸드 트럭 앞에서 아이들이 원하는 음식을 고르는 만화 영화 보기, Sam과 보라가 원한 음식에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 음식 그림에 번호 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 말한 원하는 음식 순서대로 카드를 들고 줄 서기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "교사의 동작을 보고 원하는 음식 말하기, 대화 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What do you want?",
+    "I want chicken.",
+    "Me, too!",
+    "It's hot."
+   ],
+   "tip": "원하는 음식을 말할 때는 'I want + 음식 이름.'이라고 해요. 아이스크림은 ice cream, 두 단어로 말해요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 원하는 음식을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "음식 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bread",
+       "빵"
+      ],
+      [
+       "chicken",
+       "치킨, 닭고기"
+      ],
+      [
+       "milk",
+       "우유"
+      ],
+      [
+       "pizza",
+       "피자"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "음식 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "noodles",
+       "국수"
+      ],
+      [
+       "salad",
+       "샐러드"
+      ],
+      [
+       "ice cream",
+       "아이스크림"
+      ],
+      [
+       "water",
+       "물"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 음식 이름을 고르세요.",
+     "emoji": "🍕",
+     "choices": [
+      "pizza",
+      "salad",
+      "bread",
+      "milk"
+     ],
+     "answer": 0,
+     "explain": "🍕는 피자, pizza예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'우유'를 영어로 하면?",
+     "emoji": "🥛",
+     "choices": [
+      "noodles",
+      "chicken",
+      "ice cream",
+      "milk"
+     ],
+     "answer": 3,
+     "explain": "우유는 milk예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I want noodles, Dad.",
+     "choices": [
+      "🍞",
+      "🍜",
+      "🍗",
+      "🥗"
+     ],
+     "answer": 1,
+     "explain": "noodles는 국수예요. '나는 국수를 원해.'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I want ice cream.",
+     "choices": [
+      "나는 우유를 원해.",
+      "나는 피자를 원해.",
+      "나는 아이스크림을 원해."
+     ],
+     "answer": 2,
+     "explain": "ice cream은 아이스크림이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What do you want?",
+     "choices": [
+      "너는 무엇을 원하니?",
+      "이것은 무엇이니?",
+      "너는 행복하니?"
+     ],
+     "answer": 0,
+     "explain": "'What do you want?'는 원하는 것을 묻는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 피자를 원해요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora's mom",
+       "text": "What do you want?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want salad.",
+      "I'm happy.",
+      "I want pizza."
+     ],
+     "answer": 2,
+     "explain": "피자를 원하니까 'I want pizza.'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "?"
+      },
+      {
+       "who": "Kate",
+       "text": "I want bread."
+      }
+     ],
+     "choices": [
+      "What's this?",
+      "What do you want?",
+      "Are you happy?"
+     ],
+     "answer": 1,
+     "explain": "'I want bread.'는 'What do you want?'에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ chicken.",
+     "ko": "나는 치킨을 원해.",
+     "choices": [
+      "want",
+      "is",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "'~을 원해'는 'I want ~.'라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무엇을 원하니?",
+     "answer": "What do you want?",
+     "distractors": [
+      "is",
+      "Where"
+     ],
+     "explain": "원하는 것을 물을 때는 'What do you want?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want chicken.",
+     "ko": "나는 치킨을 원해."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "'It's hot.'의 뜻으로 알맞은 것은?",
+     "emoji": "🌶️",
+     "choices": [
+      "그것은 차가워.",
+      "그것은 뜨거워(매워).",
+      "그것은 맛있어."
+     ],
+     "answer": 1,
+     "explain": "hot은 '뜨거운, 매운'이라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Water, please!",
+     "choices": [
+      "🍕",
+      "🍞",
+      "💧"
+     ],
+     "answer": 2,
+     "explain": "'Water, please!'는 '물 주세요!'라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam도 치킨을 원해요. Sam의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Momo",
+       "text": "I want chicken."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too!",
+      "Don't sit here.",
+      "I'm fine."
+     ],
+     "answer": 0,
+     "explain": "'나도 그래!'는 'Me, too!'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오는 국수를 원해요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "I want pizza. What do you want, Juno?"
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want salad.",
+      "I want noodles.",
+      "I want pizza, too."
+     ],
+     "answer": 1,
+     "explain": "국수는 noodles예요. 'I want noodles.'라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What do you ___, Kate?",
+     "ko": "Kate, 너는 무엇을 원하니?",
+     "choices": [
+      "are",
+      "want",
+      "is"
+     ],
+     "answer": 1,
+     "explain": "'What do you want?'는 원하는 것을 묻는 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 샐러드를 원해.",
+     "answer": "I want salad.",
+     "distractors": [
+      "do",
+      "milk."
+     ],
+     "explain": "'I want + 음식'으로 원하는 음식을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What do you want, Sam?",
+     "answer": "What do you want, Sam?",
+     "distractors": [
+      "Where",
+      "is"
+     ]
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I want bread.",
+     "answer": "I want bread.",
+     "distractors": [
+      "You",
+      "pizza."
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I want milk.",
+       "나는 우유를 원해."
+      ],
+      [
+       "I want noodles.",
+       "나는 국수를 원해."
+      ],
+      [
+       "Me, too!",
+       "나도 그래!"
+      ],
+      [
+       "Let's go!",
+       "가자!"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What do you want, Bora?",
+     "ko": "보라야, 너는 무엇을 원하니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "피자",
+     "answers": [
+      "pizza"
+     ],
+     "hint": "p _ z z a"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 우유를 원해.",
+     "answers": [
+      "I want milk."
+     ],
+     "hint": "I want m _ _ k."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 피자를 원해. 너는 무엇을 원하니?",
+     "answer": "I want pizza. What do you want?",
+     "distractors": [
+      "are",
+      "milk."
+     ],
+     "explain": "먼저 원하는 음식을 말하고, 상대에게 'What do you want?'라고 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look! I want ice cream.",
+     "answer": "Look! I want ice cream.",
+     "distractors": [
+      "milk.",
+      "Me,"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mina는 우유를 원해요. Mina의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "text": "What do you want?"
+      },
+      {
+       "who": "Tom",
+       "text": "I want bread."
+      },
+      {
+       "who": "Clerk",
+       "text": "What do you want, Mina?"
+      },
+      {
+       "who": "Mina",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too!",
+      "I want bread.",
+      "I want milk."
+     ],
+     "answer": 2,
+     "explain": "Mina는 우유를 원하니까 'I want milk.'라고 해요. 'Me, too!'는 빵을 원한다는 뜻이 돼요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Four friends are at a food truck. Tom says, \"I want pizza.\" Yuna says, \"I want noodles.\" Ben says, \"I want chicken.\" Mia says, \"Me, too!\"",
+     "question": "Mia가 원하는 음식은 무엇인가요?",
+     "choices": [
+      "피자",
+      "국수",
+      "샐러드",
+      "치킨"
+     ],
+     "answer": 3,
+     "explain": "Mia는 치킨을 원하는 Ben의 말에 'Me, too!'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Momo wants chicken. Bora says, \"Oh, Momo! It's hot.\" Momo eats the chicken. Momo's face is red! Momo says, \"Oh, water, please!\"",
+     "question": "Momo는 치킨을 먹고 무엇을 달라고 했나요?",
+     "choices": [
+      "물",
+      "우유",
+      "아이스크림",
+      "빵"
+     ],
+     "answer": 0,
+     "explain": "'Water, please!'는 물을 달라는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스럽지 않은 것은?",
+     "choices": [
+      "A: What do you want? B: I want salad.",
+      "A: I want pizza. B: Me, too!",
+      "A: What do you want? B: Yes, I am."
+     ],
+     "answer": 2,
+     "explain": "'What do you want?'에는 'I want ~.'로 원하는 것을 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Mom, I want ice ___.",
+     "ko": "엄마, 나는 아이스크림을 원해요.",
+     "choices": [
+      "cream",
+      "milk",
+      "bread"
+     ],
+     "answer": 0,
+     "explain": "아이스크림은 ice cream이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want noodles. What do you want?",
+     "ko": "나는 국수를 원해. 너는 무엇을 원하니?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "원하는 음식 묻고 답하기 / 음식 권하기",
+   "objectives": [
+    "원하는 음식을 묻고 답하는 말을 할 수 있다.",
+    "음식을 권하는 말을 듣고 이해하며 말할 수 있다.",
+    "'What Do You Want?' 노래와 '원하는 음식 붙임딱지를 모아 식탁 완성하기' 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 52~53쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "음식 그림 카드로 원하는 음식 말하기, 우리나라 음식 사진을 보며 외국인이 좋아할 음식 생각하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "준오의 조부모님 댁에서 불고기와 잡채를 권하는 만화 영화 보기, 장면별로 다시 듣고 이해 점검",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 짝과 함께 원하는 음식 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'What Do You Want?' 노래를 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "가위바위보 후 원하는 음식을 묻고 'Help yourself.'라며 붙임딱지를 주어 식탁 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 대화를 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What do you want?",
+    "I want bread.",
+    "Help yourself.",
+    "Thanks.",
+    "Here you are."
+   ],
+   "tip": "음식을 권할 때는 'Help yourself.(마음껏 먹어.)'라고 하고, 권해 주면 'Thanks.'라고 고마움을 표현해요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 원하는 음식을 묻고 답하는 말을 할 수 있는가? 음식을 권하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Help yourself.",
+       "마음껏 먹어."
+      ],
+      [
+       "Here you are.",
+       "여기 있어."
+      ],
+      [
+       "Thank you very much.",
+       "정말 고마워."
+      ],
+      [
+       "Come here.",
+       "이리 와."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Here you are.'는 언제 하는 말일까요?",
+     "choices": [
+      "사과할 때",
+      "물건을 건넬 때",
+      "헤어질 때"
+     ],
+     "answer": 1,
+     "explain": "'Here you are.'는 '여기 있어.'라는 뜻으로 물건을 건넬 때 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Help yourself, Eric.",
+     "choices": [
+      "Eric, 조심해.",
+      "Eric, 마음껏 먹어.",
+      "Eric, 미안해."
+     ],
+     "answer": 1,
+     "explain": "'Help yourself.'는 음식을 권하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 원하는 음식을 고르세요.",
+     "audio": "I want bulgogi.",
+     "choices": [
+      "불고기",
+      "잡채",
+      "샐러드"
+     ],
+     "answer": 0,
+     "explain": "bulgogi는 불고기예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "할머니가 음식을 권해요. 아이들의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Grandma",
+       "text": "Help yourself."
+      },
+      {
+       "who": "Kids",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm sorry.",
+      "Be careful.",
+      "Thank you very much."
+     ],
+     "answer": 2,
+     "explain": "음식을 권하면 'Thank you very much.'처럼 고맙다고 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오가 불고기를 건네며 하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "What do you want?"
+      },
+      {
+       "who": "Eric",
+       "text": "I want bulgogi."
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Here you are.",
+      "I'm tired.",
+      "Sounds good."
+     ],
+     "answer": 0,
+     "explain": "물건을 건넬 때는 'Here you are.(여기 있어.)'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오가 Hoa에게 잡채를 권해요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "What's that?"
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want japchae.",
+      "It's japchae. Help yourself.",
+      "Me, too."
+     ],
+     "answer": 1,
+     "explain": "잡채라고 알려 주고 'Help yourself.'라고 권해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Help ___.",
+     "ko": "마음껏 먹어.",
+     "choices": [
+      "yourself",
+      "you",
+      "me"
+     ],
+     "answer": 0,
+     "explain": "음식을 권하는 말은 'Help yourself.'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Hoa가 샐러드를 좋아한다고 말해요. 알맞은 말은?",
+     "emoji": "🥗",
+     "choices": [
+      "I want pizza.",
+      "I like salad!",
+      "I'm sad."
+     ],
+     "answer": 1,
+     "explain": "'나는 샐러드를 좋아해!'는 'I like salad!'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여기 있어.",
+     "answer": "Here you are.",
+     "distractors": [
+      "is",
+      "it"
+     ],
+     "explain": "물건을 건넬 때 'Here you are.'라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Thank you very much.",
+     "answer": "Thank you very much.",
+     "distractors": [
+      "yourself.",
+      "good"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Here you are. Help yourself.",
+     "ko": "여기 있어. 마음껏 먹어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come here.",
+     "choices": [
+      "가자.",
+      "이리 와.",
+      "앉지 마."
+     ],
+     "answer": 1,
+     "explain": "'Come here.'는 '이리 와.'라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Alice가 빵을 건네며 하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "What do you want, Hana?"
+      },
+      {
+       "who": "Hana",
+       "text": "I want bread."
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      },
+      {
+       "who": "Hana",
+       "text": "Thanks."
+      }
+     ],
+     "choices": [
+      "What do you want?",
+      "Help yourself, Hana.",
+      "I want bread."
+     ],
+     "answer": 1,
+     "explain": "음식을 건네며 권할 때 'Help yourself.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul은 아이스크림을 원해요. Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Minu",
+       "text": "What do you want, Paul?"
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want milk.",
+      "Here you are.",
+      "I want ice cream."
+     ],
+     "answer": 2,
+     "explain": "아이스크림은 ice cream이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate도 샐러드를 좋아해요. Kate의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "I like salad!"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too. It's good.",
+      "No, I'm not.",
+      "Don't push."
+     ],
+     "answer": 0,
+     "explain": "'나도 그래. 맛있어.'는 'Me, too. It's good.'이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___. I like it!",
+     "ko": "이건 잡채야. 나는 이게 좋아!",
+     "choices": [
+      "japchae",
+      "pizza",
+      "milk"
+     ],
+     "answer": 0,
+     "explain": "잡채는 japchae라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무엇을 원하니, Hana?",
+     "answer": "What do you want, Hana?",
+     "distractors": [
+      "is",
+      "yourself."
+     ],
+     "explain": "원하는 것을 물을 때 'What do you want?'라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이건 불고기야. 마음껏 먹어.",
+     "answer": "It's bulgogi. Help yourself.",
+     "distractors": [
+      "want",
+      "you"
+     ],
+     "explain": "음식 이름을 말하고 'Help yourself.'로 권해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, I like it!",
+     "answer": "Wow, I like it!",
+     "distractors": [
+      "want",
+      "is"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "상황에 알맞은 말을 짝지어 보세요.",
+     "pairs": [
+      [
+       "음식을 권할 때",
+       "Help yourself."
+      ],
+      [
+       "물건을 건넬 때",
+       "Here you are."
+      ],
+      [
+       "원하는 것을 물을 때",
+       "What do you want?"
+      ],
+      [
+       "고마울 때",
+       "Thanks."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Come here. Help yourself.",
+     "ko": "이리 와. 마음껏 먹어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Kate, 마음껏 먹어.",
+     "answers": [
+      "Help yourself, Kate.",
+      "Kate, help yourself."
+     ],
+     "hint": "Help y _ _ _ s _ l f, Kate."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 빵을 원해.",
+     "answers": [
+      "I want bread."
+     ],
+     "hint": "I want b _ _ _ d."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What do you want? I want salad.",
+     "answer": "What do you want? I want salad.",
+     "distractors": [
+      "yourself.",
+      "is"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이리 와. 너는 무엇을 원하니?",
+     "answer": "Come here. What do you want?",
+     "distractors": [
+      "yourself.",
+      "is"
+     ],
+     "explain": "'Come here.'는 '이리 와.', 'What do you want?'는 원하는 것을 묻는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아빠가 음식을 권해요. 지수의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Come here, Jisu. Help yourself."
+      },
+      {
+       "who": "Jisu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm angry.",
+      "Thank you, Dad.",
+      "Be careful."
+     ],
+     "answer": 1,
+     "explain": "음식을 권해 주면 'Thank you.'라고 고맙다고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom이 김치를 먹어 보고 마음에 들었어요. Tom의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "What's that?"
+      },
+      {
+       "who": "Mina",
+       "text": "It's kimchi. Help yourself."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Thanks. Wow, I like it!",
+      "Yes, I am.",
+      "It's a dog."
+     ],
+     "answer": 0,
+     "explain": "고맙다고 말하고 'I like it!'으로 마음에 든다고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno's grandma makes many foods. \"Help yourself,\" she says. Eric wants bulgogi. Hoa and Kate like salad. Hoa looks at the japchae. \"What's that?\" \"It's japchae,\" says Juno. Hoa eats it. \"Wow, I like it!\"",
+     "question": "Eric이 원한 음식은 무엇인가요?",
+     "choices": [
+      "샐러드",
+      "잡채",
+      "불고기",
+      "국수"
+     ],
+     "answer": 2,
+     "explain": "'Eric wants bulgogi.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Minu's family is at the table. Mom says, \"Help yourself.\" Minu says, \"I want noodles.\" His sister says, \"I want pizza.\" Dad says, \"I want salad.\" Everyone says, \"Thank you very much!\"",
+     "question": "아빠가 원한 음식은 무엇인가요?",
+     "choices": [
+      "국수",
+      "피자",
+      "치킨",
+      "샐러드"
+     ],
+     "answer": 3,
+     "explain": "아빠는 'I want salad.'라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Help yourself.'라고 음식을 권하는 말에 알맞은 대답은?",
+     "choices": [
+      "Thanks.",
+      "Help yourself.",
+      "What do you want?"
+     ],
+     "answer": 0,
+     "explain": "음식을 권해 주면 'Thanks.'라고 고마움을 표현해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want bulgogi. Thank you very much.",
+     "ko": "나는 불고기를 원해. 정말 고마워."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "원하는 음식을 표현하는 문장 읽고 쓰기 / 'd'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "원하는 음식을 표현하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /d/와 철자 'd'의 관계를 이해하며 'd'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'메뉴판과 주문서 만들기'의 협력 과업으로 원하는 음식을 표현하는 문장을 읽고 쓰며, 원하는 음식을 묻고 답하는 말과 음식을 권하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 54~55쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "짝이 원하는 음식을 그려 주며 'Help yourself.' 말하기, 영어 단어가 쓰인 음식 포장 용기 사진 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "뷔페 그림을 보며 말풍선 문장 읽기, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Match",
+     "desc": "문장을 읽고 가족들이 원하는 음식 그림에 연결하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Write and Say / 스스로 다지기",
+     "desc": "그림을 보고 'I want ....' 문장 완성하기, 원하는 음식을 골라 문장으로 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'d'로 끝나는 단어(bread, salad, dad) 소리 내어 읽고 쓰기, 끝소리 구별하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "주인 팀은 메뉴판, 손님 팀은 주문서를 만들어 음식 주문 놀이하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "주문서 문장 읽기, 그림에 알맞은 문장과 단어 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I want bread.",
+    "I want chicken.",
+    "I want ice cream.",
+    "I want milk.",
+    "I want pizza.",
+    "I want salad."
+   ],
+   "tip": "bread, salad, dad처럼 끝 글자 d는 /d/ 소리가 나요. 끝소리 /d/는 첫소리보다 약하게, 뒤에 '으' 소리를 붙이지 않고 발음해요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 원하는 음식을 표현하는 문장을 읽고 이해하며 쓸 수 있는가? 소리 /d/와 철자 'd'의 관계를 이해하며 단어를 읽고 쓸 수 있는가? '메뉴판과 주문서 만들기'에 협력하며 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bread",
+       "🍞"
+      ],
+      [
+       "chicken",
+       "🍗"
+      ],
+      [
+       "salad",
+       "🥗"
+      ],
+      [
+       "pizza",
+       "🍕"
+      ],
+      [
+       "milk",
+       "🥛"
+      ],
+      [
+       "ice cream",
+       "🍦"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장을 고르세요.",
+     "emoji": "🍦",
+     "choices": [
+      "I want milk.",
+      "I want bread.",
+      "I want ice cream."
+     ],
+     "answer": 2,
+     "explain": "🍦는 아이스크림이에요. 'I want ice cream.'"
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🍞",
+     "choices": [
+      "dad",
+      "milk",
+      "bread",
+      "pizza"
+     ],
+     "answer": 2,
+     "explain": "🍞는 빵, bread예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "bad",
+     "choices": [
+      "bat",
+      "bag",
+      "bad"
+     ],
+     "answer": 2,
+     "explain": "bad는 끝소리가 /d/예요. 끝소리를 잘 들어 보세요."
+    },
+    {
+     "type": "mc",
+     "prompt": "끝소리가 /d/인 단어를 고르세요.",
+     "choices": [
+      "want",
+      "milk",
+      "bread"
+     ],
+     "answer": 2,
+     "explain": "bread는 끝 글자 d가 /d/ 소리를 내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "끝소리가 다른 하나를 고르세요.",
+     "choices": [
+      "salad",
+      "dad",
+      "hat"
+     ],
+     "answer": 2,
+     "explain": "salad, dad는 /d/로 끝나고, hat은 /t/로 끝나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I want ___.",
+     "ko": "나는 치킨을 원해.",
+     "choices": [
+      "pizza",
+      "chicken",
+      "salad"
+     ],
+     "answer": 1,
+     "explain": "치킨은 chicken이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dad: I want chicken.\nMom: I want salad.\nTom: I want milk.",
+     "question": "엄마가 원하는 음식은 무엇인가요?",
+     "choices": [
+      "치킨",
+      "샐러드",
+      "우유"
+     ],
+     "answer": 1,
+     "explain": "엄마는 'I want salad.'라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "dad",
+       "아빠"
+      ],
+      [
+       "bread",
+       "빵"
+      ],
+      [
+       "salad",
+       "샐러드"
+      ],
+      [
+       "milk",
+       "우유"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I want milk.",
+     "choices": [
+      "🍗",
+      "🍕",
+      "🍦",
+      "🥛"
+     ],
+     "answer": 3,
+     "explain": "milk는 우유예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 아이스크림을 원해.",
+     "answer": "I want ice cream.",
+     "distractors": [
+      "bread.",
+      "is"
+     ],
+     "explain": "아이스크림은 ice cream, 두 단어로 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "bread, salad, dad",
+     "ko": "빵, 샐러드, 아빠"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "빵",
+     "answers": [
+      "bread"
+     ],
+     "hint": "b r e a _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "샐러드",
+     "answers": [
+      "salad"
+     ],
+     "hint": "s a l a _"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "salad",
+     "choices": [
+      "sad",
+      "salad",
+      "dad"
+     ],
+     "answer": 1,
+     "explain": "salad는 '샐러드'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'dad'와 끝소리가 같은 단어는?",
+     "choices": [
+      "meet",
+      "milk",
+      "bread"
+     ],
+     "answer": 2,
+     "explain": "dad와 bread는 모두 /d/ 소리로 끝나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Mom, I ___ chicken.",
+     "ko": "엄마, 나는 치킨을 원해요.",
+     "choices": [
+      "want",
+      "is",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "원하는 것을 말할 때 'I want ~.'라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dad says, \"I want pizza.\" Mom says, \"I want salad.\" Jina says, \"I want milk.\"",
+     "question": "Jina가 원하는 것은 무엇인가요?",
+     "choices": [
+      "피자",
+      "샐러드",
+      "치킨",
+      "우유"
+     ],
+     "answer": 3,
+     "explain": "Jina는 'I want milk.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 국수를 원해요(🍜). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What do you want?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want bread.",
+      "I want noodles.",
+      "I want pizza."
+     ],
+     "answer": 1,
+     "explain": "국수는 noodles예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아빠, 나는 피자를 원해요.",
+     "answer": "I want pizza, Dad.",
+     "distractors": [
+      "milk,",
+      "do"
+     ],
+     "explain": "부르는 말 Dad는 문장 끝에 쉼표와 함께 쓸 수 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I want salad, Mom.",
+     "answer": "I want salad, Mom.",
+     "distractors": [
+      "bread.",
+      "Dad"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want bread. I want milk.",
+     "ko": "나는 빵을 원해. 나는 우유를 원해."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 피자를 원해.",
+     "answers": [
+      "I want pizza."
+     ],
+     "hint": "I want p _ _ _ a."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 샐러드를 원해.",
+     "answers": [
+      "I want salad."
+     ],
+     "hint": "I want s _ _ _ d."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아빠",
+     "answers": [
+      "dad",
+      "Dad"
+     ],
+     "hint": "d a _"
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 알맞은 글자는? sala_ (샐러드)",
+     "choices": [
+      "t",
+      "d",
+      "p"
+     ],
+     "answer": 1,
+     "explain": "salad는 d로 끝나요. 끝소리 /d/를 떠올려 보세요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Menu: pizza, chicken, salad, ice cream\nYuna: I want chicken.\nMax: I want pizza.\nLeo: I want ice cream.",
+     "question": "피자를 원하는 사람은 누구인가요?",
+     "choices": [
+      "Yuna",
+      "Max",
+      "Leo"
+     ],
+     "answer": 1,
+     "explain": "Max가 'I want pizza.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Order Form\nI want bread.\nI want milk.\n- Kate",
+     "question": "Kate가 주문한 것 두 가지는 무엇인가요?",
+     "choices": [
+      "빵과 우유",
+      "피자와 샐러드",
+      "치킨과 우유",
+      "빵과 샐러드"
+     ],
+     "answer": 0,
+     "explain": "Kate는 bread(빵)와 milk(우유)를 주문했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What do you want? I want pizza.",
+     "answer": "What do you want? I want pizza.",
+     "distractors": [
+      "yourself.",
+      "milk."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아빠, 나는 아이스크림을 원해요.",
+     "answer": "Dad, I want ice cream.",
+     "distractors": [
+      "milk.",
+      "do"
+     ],
+     "explain": "아이스크림은 ice cream이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "주문서에 🍞 bread라고 썼어요. 손님의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "text": "What do you want?"
+      },
+      {
+       "who": "Customer",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want milk.",
+      "I want bread.",
+      "I want salad."
+     ],
+     "answer": 1,
+     "explain": "bread는 빵이에요. 'I want bread.'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I want bread, salad, and milk.",
+     "ko": "나는 빵, 샐러드, 그리고 우유를 원해."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '돌멩이 수프' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 56~57쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "칠판에 쓴 'I want pizza.' 등의 문장을 읽고 공책에 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'돌멩이 수프' 원작 이야기하기, 그림 보고 이야기 추측, 만화 영화 보고 줄거리 이해, HOW ABOUT YOU?(수프에 넣고 싶은 재료), 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 음식 연결하기, 상황에 맞게 묻고 답하기, 문장 완성하기, 두 사람이 갈 식당 고르고 이유 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "1~4차시 성취도 점검, '정리해요' 쓰기, 단원 마무리 게임 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What's this? - It's soup.",
+    "Do you have some potatoes? - Yes, I do.",
+    "What do you want? - I want chicken.",
+    "Mmm, it's good. Help yourself!"
+   ],
+   "tip": "역할극을 할 때 등장인물의 표정과 목소리를 흉내 내 보세요. 수프에 넣을 재료를 바꾸어 이야기를 새롭게 만들어도 좋아요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가, 단원평가(지필평가)",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "'soup'의 뜻으로 알맞은 것은?",
+     "emoji": "🍲",
+     "choices": [
+      "국수",
+      "수프",
+      "샐러드"
+     ],
+     "answer": 1,
+     "explain": "soup는 수프예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "soup",
+       "수프"
+      ],
+      [
+       "potato",
+       "감자"
+      ],
+      [
+       "carrot",
+       "당근"
+      ],
+      [
+       "stone",
+       "돌멩이"
+      ]
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A man has a big pot. He puts a stone in it. \"What's this?\" asks a boy. \"It's soup!\" says the man.",
+     "question": "남자가 냄비에 넣은 것은 무엇인가요?",
+     "choices": [
+      "돌멩이",
+      "감자",
+      "닭고기"
+     ],
+     "answer": 0,
+     "explain": "'He puts a stone in it.' 돌멩이(stone)를 넣었어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I have some potatoes.",
+     "choices": [
+      "🥕",
+      "🥔",
+      "🍗"
+     ],
+     "answer": 1,
+     "explain": "potatoes는 감자예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자는 감자를 가지고 있어요. 남자의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Traveler",
+       "text": "Do you have some potatoes?"
+      },
+      {
+       "who": "Man",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm fine.",
+      "Don't push.",
+      "Yes, I do."
+     ],
+     "answer": 2,
+     "explain": "'Do you have ~?'에는 'Yes, I do.'나 'No, I don't.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나그네는 닭고기를 원해요. 나그네의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Woman",
+       "text": "What do you want?"
+      },
+      {
+       "who": "Traveler",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I have carrots.",
+      "I want chicken.",
+      "Help yourself."
+     ],
+     "answer": 1,
+     "explain": "원하는 것을 말할 때 'I want ~.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "수프가 맛있어요. 나그네가 사람들에게 수프를 권해요.",
+     "lines": [
+      {
+       "who": "Traveler",
+       "text": "Mmm, it's good."
+      },
+      {
+       "who": "Traveler",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What's this?",
+      "I want soup.",
+      "Help yourself!"
+     ],
+     "answer": 2,
+     "explain": "음식을 권할 때 'Help yourself!'라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ carrots.",
+     "ko": "나는 당근을 가지고 있어.",
+     "choices": [
+      "have",
+      "want",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "'~을 가지고 있어'는 'I have ~.'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Nice.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "미안해.",
+      "조심해.",
+      "좋아."
+     ],
+     "answer": 2,
+     "explain": "Nice.는 '좋아, 멋져.'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's stone soup.",
+     "choices": [
+      "그것은 돌멩이 수프야.",
+      "그것은 피자야.",
+      "그것은 우유야."
+     ],
+     "answer": 0,
+     "explain": "stone soup는 돌멩이 수프예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이것은 무엇이니?",
+     "answer": "What's this?",
+     "distractors": [
+      "want",
+      "do"
+     ],
+     "explain": "무엇인지 물을 때 'What's this?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's soup. Help yourself!",
+     "ko": "이건 수프야. 마음껏 먹어!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A traveler makes stone soup. A man gives potatoes. A woman gives carrots. The traveler tastes the soup. \"I want chicken,\" he says. Now the soup is good!",
+     "question": "여자가 준 재료는 무엇인가요?",
+     "choices": [
+      "감자",
+      "당근",
+      "닭고기",
+      "빵"
+     ],
+     "answer": 1,
+     "explain": "'A woman gives carrots.' 여자는 당근을 주었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ben: What do you want?\nAmy: I want soup.\nBen: Here you are. It's hot!\nAmy: Thank you.",
+     "question": "Amy가 원한 것은 무엇인가요?",
+     "choices": [
+      "수프",
+      "국수",
+      "우유",
+      "빵"
+     ],
+     "answer": 0,
+     "explain": "Amy는 'I want soup.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "나그네가 냄비 안의 것을 알려 줘요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Man",
+       "text": "What's this?"
+      },
+      {
+       "who": "Traveler",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I want soup.",
+      "Me, too.",
+      "It's soup."
+     ],
+     "answer": 2,
+     "explain": "'What's this?'에는 'It's ~.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자가 닭고기를 건네요. 나그네의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Man",
+       "text": "Here's chicken."
+      },
+      {
+       "who": "Traveler",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Thank you.",
+      "I'm sorry.",
+      "Be careful."
+     ],
+     "answer": 0,
+     "explain": "무언가를 받으면 'Thank you.'라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I have carrots and potatoes.",
+     "answer": "I have carrots and potatoes.",
+     "distractors": [
+      "want",
+      "chicken."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 닭고기를 좀 원해.",
+     "answer": "I want some chicken.",
+     "distractors": [
+      "have",
+      "soup."
+     ],
+     "explain": "'~을 좀 원해'는 'I want some ~.'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you have some ___?",
+     "ko": "감자 좀 있나요?",
+     "choices": [
+      "potatoes",
+      "carrots",
+      "chicken"
+     ],
+     "answer": 0,
+     "explain": "감자는 potatoes예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Yes, I do.'는 어떤 질문에 대한 대답일까요?",
+     "choices": [
+      "What do you want?",
+      "Do you have some potatoes?",
+      "What's this?"
+     ],
+     "answer": 1,
+     "explain": "'Do you have ~?'로 물으면 'Yes, I do.'라고 답할 수 있어요."
+    },
+    {
+     "type": "match",
+     "prompt": "질문과 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "What's this?",
+       "It's soup."
+      ],
+      [
+       "Do you have some potatoes?",
+       "Yes, I do."
+      ],
+      [
+       "What do you want?",
+       "I want chicken."
+      ],
+      [
+       "Here's chicken.",
+       "Thank you."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have some potatoes?",
+     "ko": "감자 좀 있나요?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate and Juno are at a food truck.\nKate: I want pizza. What do you want, Juno?\nJuno: I want noodles.\nKate: Look! Ice cream!\nJuno: Me, too! I want ice cream.",
+     "question": "두 사람이 함께 원한 음식은 무엇인가요?",
+     "choices": [
+      "피자",
+      "국수",
+      "아이스크림",
+      "치킨"
+     ],
+     "answer": 2,
+     "explain": "Kate가 아이스크림을 보고, 준오도 'Me, too! I want ice cream.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Grandma: Come here, Tom. Help yourself.\nTom: Wow, thank you! What's that?\nGrandma: It's bulgogi.\nTom: I want bulgogi. Mmm, it's good!",
+     "question": "Tom은 불고기를 먹고 어떻다고 했나요?",
+     "choices": [
+      "맛있다",
+      "맵다",
+      "싫다",
+      "뜨겁다"
+     ],
+     "answer": 0,
+     "explain": "'It's good!'은 맛있다는 뜻이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "수프",
+     "answers": [
+      "soup"
+     ],
+     "hint": "s _ _ p"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 무엇을 원하니?",
+     "answers": [
+      "What do you want?"
+     ],
+     "hint": "What _ _ you w _ _ _?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What do you want? I want chicken.",
+     "answer": "What do you want? I want chicken.",
+     "distractors": [
+      "have",
+      "soup."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 당근이 있어. 마음껏 먹어.",
+     "answer": "I have carrots. Help yourself.",
+     "distractors": [
+      "want",
+      "you"
+     ],
+     "explain": "'I have ~.'는 가지고 있는 것을, 'Help yourself.'는 권하는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "뜨거운 국수를 받았어요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What do you want?"
+      },
+      {
+       "who": "B",
+       "text": "I want noodles."
+      },
+      {
+       "who": "A",
+       "text": "Here you are. It's hot!"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Me, too.",
+      "What's this?",
+      "Thanks!"
+     ],
+     "answer": 2,
+     "explain": "음식을 받으면 'Thanks!'라고 고마움을 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B도 피자를 원해요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "I want pizza. What do you want?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Help yourself.",
+      "Me, too!",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "'나도 그래!'는 'Me, too!'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "끝소리가 /d/인 단어끼리 묶인 것은?",
+     "choices": [
+      "milk - pizza",
+      "want - meet",
+      "bread - dad"
+     ],
+     "answer": 2,
+     "explain": "bread와 dad는 모두 /d/ 소리로 끝나요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What do you want? I want salad. Help yourself.",
+     "ko": "너는 무엇을 원하니? 나는 샐러드를 원해. 마음껏 먹어."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "푸드 트럭 앞에서 아이들이 먹고 싶은 음식을 고르고, 매운 치킨을 먹은 Momo가 물을 찾아요.",
+   "lines": [
+    {
+     "who": "Sam",
+     "text": "Look! I want chicken."
+    },
+    {
+     "who": "보라",
+     "text": "Me, too! Let's go!"
+    },
+    {
+     "who": "보라 엄마",
+     "text": "What do you want?"
+    },
+    {
+     "who": "Kate",
+     "text": "I want pizza."
+    },
+    {
+     "who": "준오",
+     "text": "Mmm ... I want noodles."
+    },
+    {
+     "who": "Momo",
+     "text": "Oh, water, please!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "준오의 조부모님 댁에서 할머니가 음식을 권하고, 준오가 친구들에게 불고기와 잡채를 권해요.",
+   "lines": [
+    {
+     "who": "준오 할머니",
+     "text": "Help yourself."
+    },
+    {
+     "who": "준오",
+     "text": "What do you want?"
+    },
+    {
+     "who": "Eric",
+     "text": "I want bulgogi."
+    },
+    {
+     "who": "준오",
+     "text": "Here you are."
+    },
+    {
+     "who": "Hoa",
+     "text": "What's that?"
+    },
+    {
+     "who": "준오",
+     "text": "It's japchae. Help yourself."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Alice가 하나에게 원하는 음식을 묻고 빵을 권해요.",
+   "lines": [
+    {
+     "who": "Alice",
+     "text": "What do you want, Hana?"
+    },
+    {
+     "who": "하나",
+     "text": "I want bread."
+    },
+    {
+     "who": "Alice",
+     "text": "Help yourself."
+    },
+    {
+     "who": "하나",
+     "text": "Thanks."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "나그네가 돌멩이로 수프를 끓이자 마을 사람들이 재료를 하나씩 보태요.",
+   "lines": [
+    {
+     "who": "남자",
+     "text": "What's this?"
+    },
+    {
+     "who": "나그네",
+     "text": "It's soup."
+    },
+    {
+     "who": "나그네",
+     "text": "Do you have some potatoes?"
+    },
+    {
+     "who": "여자",
+     "text": "What do you want?"
+    },
+    {
+     "who": "나그네",
+     "text": "I want chicken."
+    },
+    {
+     "who": "나그네",
+     "text": "Mmm, it's good. Help yourself!"
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 돌멩이 수프 (Stone Soup)",
+  "passage": "A traveler puts a stone in a big pot. \"It's soup,\" he says. The people come and look. A man gives potatoes. A woman gives carrots. The traveler tastes the soup. It is not good yet. \"What do you want?\" asks the woman. \"I want chicken.\" Now the soup is good. \"Mmm, it's good. Help yourself!\" Everyone eats the soup together.",
+  "summaryKo": "나그네가 돌멩이로 수프를 끓이자 마을 사람들이 감자, 당근, 닭고기를 보태 맛있는 수프를 함께 나누어 먹어요."
+ },
+ "writing": {
+  "frame": [
+   "I want ____.",
+   "I want ____ and ____."
+  ],
+  "model": "I want pizza. I want salad. I want milk."
+ },
+ "project": "4명이 한 모둠이 되어 두 팀으로 나눈 뒤, 주인 팀은 음식 그림과 단어로 메뉴판을 만들고 손님 팀은 'I want ....' 문장으로 주문서를 써서, 'What do you want?' 'I want ....' 'Help yourself.'를 주고받으며 음식 주문 놀이를 한다(역할을 바꾸어 한 번 더)."
+}

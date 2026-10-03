@@ -1,0 +1,2326 @@
+{
+ "id": "L12",
+ "no": 12,
+ "grade": 3,
+ "semester": 2,
+ "title": "How's the Weather?",
+ "emoji": "☀️",
+ "rationale": "날씨는 일상생활에서 누구에게나 필요한 정보이며, 처음 만난 사람과의 대화 소재로도 자주 쓰인다. 날씨를 묻고 답하는 말과 날씨에 맞는 옷을 입도록 지시하는 말을 익혀 실제 상호 작용의 바탕을 마련하고 원만한 대인 관계를 형성하도록 하고자 한다.",
+ "topics": "개인 생활 관련(여행), 사회생활 관련(대인 관계), 문화 관련(다양한 문화권의 사람들과의 의사소통, 교류), 디지털·인공 지능 관련(디지털 기술의 활용), 일반교양 관련(날씨)",
+ "functions": [
+  {
+   "ko": "날씨를 묻고 답하기",
+   "examples": [
+    "How's the weather?",
+    "It's snowing."
+   ]
+  },
+  {
+   "ko": "행동을 지시하는 말 하기",
+   "examples": [
+    "Put on your coat.",
+    "Okay."
+   ]
+  }
+ ],
+ "forms": [
+  "How's the weather? – It's sunny / cloudy / windy / raining / snowing.",
+  "Put on your + 옷 (coat / cap / jacket)."
+ ],
+ "phonics": {
+  "focus": "w /w/",
+  "words": [
+   "windy",
+   "weather",
+   "wash"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "cap",
+   "ko": "(야구) 모자"
+  },
+  {
+   "en": "cloudy",
+   "ko": "흐린, 구름이 낀"
+  },
+  {
+   "en": "coat",
+   "ko": "코트"
+  },
+  {
+   "en": "jacket",
+   "ko": "재킷"
+  },
+  {
+   "en": "on",
+   "ko": "~ 위에 (put on 입다, 쓰다)"
+  },
+  {
+   "en": "put",
+   "ko": "놓다 (put on 입다, 쓰다)"
+  },
+  {
+   "en": "raining",
+   "ko": "비가 오는"
+  },
+  {
+   "en": "snowing",
+   "ko": "눈이 오는"
+  },
+  {
+   "en": "sunny",
+   "ko": "맑은, 화창한"
+  },
+  {
+   "en": "there",
+   "ko": "거기에"
+  },
+  {
+   "en": "wake",
+   "ko": "깨다 (wake up 일어나다)"
+  },
+  {
+   "en": "weather",
+   "ko": "날씨"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "cloudy",
+   "ko": "흐린",
+   "emoji": "☁️"
+  },
+  {
+   "en": "raining",
+   "ko": "비가 오는",
+   "emoji": "🌧️"
+  },
+  {
+   "en": "snowing",
+   "ko": "눈이 오는",
+   "emoji": "❄️"
+  },
+  {
+   "en": "sunny",
+   "ko": "맑은",
+   "emoji": "☀️"
+  },
+  {
+   "en": "windy",
+   "ko": "바람이 부는",
+   "emoji": "💨"
+  },
+  {
+   "en": "cap",
+   "ko": "야구 모자",
+   "emoji": "🧢"
+  },
+  {
+   "en": "coat",
+   "ko": "코트",
+   "emoji": "🧥"
+  },
+  {
+   "en": "jacket",
+   "ko": "재킷",
+   "emoji": ""
+  }
+ ],
+ "characters": [
+  "Eric",
+  "Hoa",
+  "Lily",
+  "Harry",
+  "Momo",
+  "Kate",
+  "보라",
+  "준오",
+  "Sam",
+  "Sam 아빠",
+  "Alice",
+  "Alice 엄마",
+  "Cora",
+  "민우",
+  "남자아이",
+  "여자아이",
+  "엄마",
+  "스노맨"
+ ],
+ "goals": {
+  "understand": [
+   "날씨를 묻고 답하는 말과 행동을 지시하는 말을 듣고 이해할 수 있다.",
+   "날씨를 나타내는 단어(cloudy, raining, snowing, sunny, windy)를 읽고 그 의미를 이해할 수 있다.",
+   "소리 /w/와 철자 ‘w’의 관계를 이해하며 ‘w’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+   "날씨 정보를 파악하여 실생활에 활용하는 지식정보처리 역량을 키울 수 있다."
+  ],
+  "express": [
+   "날씨를 묻고 답하는 말과 행동을 지시하는 말을 할 수 있다.",
+   "날씨를 나타내는 단어(cloudy, raining, snowing, sunny, windy)를 보고 쓸 수 있다.",
+   "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-04",
+  "4영02-06",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "날씨를 묻고 답하기",
+   "objectives": [
+    "날씨를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘날씨를 묻고 답하며 같은 카드 가진 친구 모으기’로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 116~117쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready / Let's Learn",
+     "desc": "사진 일부를 보고 날씨 추측하기(It's raining. / It's snowing.), 좋아하는 날씨와 오늘 날씨 이야기하기, 단원 목표 확인과 My Study 계획",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "Eric과 Hoa가 해외 친구 Harry, Lily와 화상 채팅으로 날씨를 묻고 답하는 만화 영화 보고, 날씨가 맞게 짝 지어진 그림에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 창문에 날씨 그리기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "날씨 카드를 들고 돌아다니며 ‘How's the weather?’로 묻고 답해 같은 카드를 가진 친구끼리 모이기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "짝과 오늘의 날씨 묻고 답하기, 듣고 그림과 일치하는지 ○× 표시하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "How's the weather?",
+    "It's raining.",
+    "It's sunny.",
+    "How's the weather there?"
+   ],
+   "tip": "지금 비가 오고 있으면 It's raining., 눈이 오고 있으면 It's snowing.이라고 해요. there를 붙이면 ‘거기는’이라는 뜻이에요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 날씨를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 날씨 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sunny",
+       "☀️"
+      ],
+      [
+       "cloudy",
+       "☁️"
+      ],
+      [
+       "raining",
+       "🌧️"
+      ],
+      [
+       "snowing",
+       "❄️"
+      ],
+      [
+       "windy",
+       "💨"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "weather",
+       "날씨"
+      ],
+      [
+       "sunny",
+       "맑은, 화창한"
+      ],
+      [
+       "cloudy",
+       "흐린"
+      ],
+      [
+       "windy",
+       "바람이 부는"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림의 날씨를 영어로 하면?",
+     "emoji": "☀️",
+     "choices": [
+      "cloudy",
+      "sunny",
+      "windy",
+      "snowing"
+     ],
+     "answer": 1,
+     "explain": "해가 쨍쨍한 날씨는 sunny예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "How's the weather?",
+     "choices": [
+      "너는 어떻게 지내?",
+      "그것은 무슨 색이니?",
+      "날씨가 어때?"
+     ],
+     "answer": 2,
+     "explain": "How's the weather?는 날씨를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날씨 그림을 고르세요.",
+     "audio": "It's raining.",
+     "choices": [
+      "☀️",
+      "🌧️",
+      "❄️",
+      "💨"
+     ],
+     "answer": 1,
+     "explain": "raining은 비가 오는 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "눈이 오는 날씨를 나타내는 말로 알맞은 것은?",
+     "emoji": "🌨️",
+     "choices": [
+      "It's sunny.",
+      "It's raining.",
+      "It's snowing."
+     ],
+     "answer": 2,
+     "explain": "눈이 오고 있을 때는 ‘It's snowing.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Harry가 있는 곳은 비가 와요(🌧️). Harry의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Harry, how's the weather?"
+      },
+      {
+       "who": "Harry",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's raining.",
+      "It's sunny.",
+      "I'm okay."
+     ],
+     "answer": 0,
+     "explain": "비가 오니까 ‘It's raining.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Lily가 있는 곳은 해가 쨍쨍해요(☀️). Lily의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Harry",
+       "text": "Lily, how's the weather there?"
+      },
+      {
+       "who": "Lily",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's snowing.",
+      "I'm fine.",
+      "It's sunny."
+     ],
+     "answer": 2,
+     "explain": "맑으니까 ‘It's sunny.’라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___.",
+     "ko": "흐려.",
+     "choices": [
+      "cloudy",
+      "windy",
+      "sunny"
+     ],
+     "answer": 0,
+     "explain": "흐린 날씨는 cloudy예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "How's the ___?",
+     "ko": "날씨가 어때?",
+     "choices": [
+      "sunny",
+      "it",
+      "weather"
+     ],
+     "answer": 2,
+     "explain": "날씨는 weather예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "날씨가 어때?",
+     "answer": "How's the weather?",
+     "distractors": [
+      "What",
+      "is"
+     ],
+     "explain": "날씨를 물을 때는 ‘How's the weather?’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How's the weather? It's sunny.",
+     "ko": "날씨가 어때? 맑아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "창밖에 바람이 세게 불어요(💨). B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's windy.",
+      "It's cloudy.",
+      "I'm okay."
+     ],
+     "answer": 0,
+     "explain": "바람이 부니까 ‘It's windy.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "구름이 잔뜩 꼈어요(☁️). 아이의 질문으로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "아이",
+       "text": "?"
+      },
+      {
+       "who": "엄마",
+       "text": "It's cloudy."
+      }
+     ],
+     "choices": [
+      "Mom, how are you?",
+      "Mom, how's the weather?",
+      "Mom, what's this?"
+     ],
+     "answer": 1,
+     "explain": "날씨를 물을 때는 ‘How's the weather?’라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Wow, it's ___.",
+     "ko": "와, 눈이 오고 있어.",
+     "choices": [
+      "raining",
+      "snowing",
+      "sunny"
+     ],
+     "answer": 1,
+     "explain": "눈이 오는 것은 snowing이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "날씨가 어때, Lily?",
+     "answer": "How's the weather, Lily?",
+     "distractors": [
+      "What's",
+      "sunny?"
+     ],
+     "explain": "이름을 부르며 날씨를 물을 수 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Harry, how's the weather?",
+     "answer": "Harry, how's the weather?",
+     "distractors": [
+      "What's",
+      "sunny?"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 날씨를 나타내는 말이 아닌 것은?",
+     "choices": [
+      "sunny",
+      "cloudy",
+      "windy",
+      "fine"
+     ],
+     "answer": 3,
+     "explain": "fine은 ‘좋은, 괜찮은’으로 기분을 말할 때 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날씨 그림을 고르세요.",
+     "audio": "How's the weather? It's cloudy.",
+     "choices": [
+      "☀️",
+      "🌧️",
+      "❄️",
+      "☁️"
+     ],
+     "answer": 3,
+     "explain": "cloudy는 흐린 날씨예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hoa and Eric talk to Lily. Lily says, \"It's sunny.\" Then Hoa looks outside. \"Wow, it's snowing!\"",
+     "question": "Hoa가 있는 곳의 날씨는 어떤가요?",
+     "choices": [
+      "맑아요.",
+      "비가 와요.",
+      "눈이 와요."
+     ],
+     "answer": 2,
+     "explain": "Hoa는 창밖을 보며 ‘Wow, it's snowing!’이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Harry가 있는 곳은 정말 비가 와요. Harry의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Harry",
+       "text": "It's raining."
+      },
+      {
+       "who": "Lily",
+       "text": "Raining?"
+      },
+      {
+       "who": "Harry",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, it isn't.",
+      "Yes, it is.",
+      "Yes, I can."
+     ],
+     "answer": 1,
+     "explain": "정말 비가 오니까 ‘Yes, it is.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! It's snowing.",
+     "ko": "봐! 눈이 와."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "맑은, 화창한",
+     "answers": [
+      "sunny"
+     ],
+     "hint": "s u n _ _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "바람이 부는",
+     "answers": [
+      "windy"
+     ],
+     "hint": "w _ n d y"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Lily, how's the weather there?",
+     "answer": "Lily, how's the weather there?",
+     "distractors": [
+      "What's",
+      "here?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "바람이 불어. 흐려.",
+     "answer": "It's windy. It's cloudy.",
+     "distractors": [
+      "sunny.",
+      "How's"
+     ],
+     "explain": "날씨는 It's ~.로 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Eric: Harry, how's the weather? Harry: It's raining. Eric: Lily, how's the weather? Lily: It's sunny.",
+     "question": "해가 쨍쨍한 곳에 있는 친구는 누구인가요?",
+     "choices": [
+      "Lily",
+      "Harry",
+      "Eric"
+     ],
+     "answer": 0,
+     "explain": "Lily가 ‘It's sunny.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Momo looks outside. It's snowing! Momo plays in the snow. Momo likes snow.",
+     "question": "Momo가 좋아하는 것은 무엇인가요?",
+     "choices": [
+      "비",
+      "바람",
+      "해",
+      "눈"
+     ],
+     "answer": 3,
+     "explain": "‘Momo likes snow.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A는 눈을 아주 좋아해요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How's the weather in Seoul?"
+      },
+      {
+       "who": "B",
+       "text": "It's snowing."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm sorry.",
+      "It's sunny.",
+      "I like snow!"
+     ],
+     "answer": 2,
+     "explain": "‘I like snow!’는 ‘나는 눈이 좋아!’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "How's the weather ___?",
+     "ko": "거기 날씨는 어때?",
+     "choices": [
+      "there",
+      "here",
+      "the"
+     ],
+     "answer": 0,
+     "explain": "there는 ‘거기’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 자연스러운 대화는?",
+     "choices": [
+      "A: How's the weather? B: It's windy.",
+      "A: How's the weather? B: I'm fine.",
+      "A: How are you? B: It's raining."
+     ],
+     "answer": 0,
+     "explain": "날씨를 물으면 It's ~.로 날씨를 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's raining here. How's the weather there?",
+     "ko": "여기는 비가 와. 거기 날씨는 어때?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "날씨를 묻고 답하기 / 행동을 지시하는 말 하기",
+   "objectives": [
+    "날씨를 묻고 답하는 말을 할 수 있다.",
+    "행동을 지시하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘How's the Weather?’ 노래와 ‘날씨와 의복 그림에 맞게 대화하여 두더지 잡기’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 118~119쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "날씨 그림을 보며 묻고 답하기, 눈 오는 날씨 그림을 보고 무엇을 입을지 말하며 ‘Put on your coat.’ 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "캠핑장에서 아침에 일어나 날씨를 묻고, 눈이 오자 Sam의 아빠가 코트를 입으라고 하는 만화 영화 보고 이해하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 날씨별로 입고 싶은 옷을 연결하고 짝과 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘How's the Weather?’ 노래를 부르고 다른 날씨로 노랫말 바꾸어 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "두더지 잡기: ‘How's the weather?’ 질문에 그림을 골라 ‘It's snowing. Put on your coat.’처럼 날씨와 옷을 모두 바르게 말하면 ○표 하기 (수준별: 날씨 회전판 돌려 눈사람 색칠하기 / 지우개 튕겨 날씨 놀이판 색칠하기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "날씨 카드를 보며 날씨와 지시하는 말 하기, 상황에 알맞은 대화하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Wake up!",
+    "How's the weather? – It's cloudy.",
+    "Put on your coat.",
+    "Put on your hat, too."
+   ],
+   "tip": "Put on your ~.은 ‘~을 입어/써.’라는 뜻이에요. 맑으면 cap, 바람이 불면 jacket, 눈이 오면 coat를 떠올려 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 날씨를 묻고 답하는 말을 할 수 있는가? 행동을 지시하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "coat",
+       "코트"
+      ],
+      [
+       "cap",
+       "야구 모자"
+      ],
+      [
+       "jacket",
+       "재킷"
+      ],
+      [
+       "hat",
+       "모자"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cap",
+       "🧢"
+      ],
+      [
+       "coat",
+       "🧥"
+      ],
+      [
+       "hat",
+       "👒"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Put on your coat.",
+     "choices": [
+      "코트를 벗어.",
+      "코트를 가져와.",
+      "코트를 입어."
+     ],
+     "answer": 2,
+     "explain": "Put on은 ‘입다, 쓰다’라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Wake up!",
+     "choices": [
+      "일어나!",
+      "앉아!",
+      "잘 자!"
+     ],
+     "answer": 0,
+     "explain": "Wake up!은 ‘일어나!’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘야구 모자를 써.’를 영어로 하면?",
+     "emoji": "🧢",
+     "choices": [
+      "Put on your coat.",
+      "Put on your cap.",
+      "Open the door."
+     ],
+     "answer": 1,
+     "explain": "야구 모자는 cap이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Put ___ your jacket.",
+     "ko": "재킷을 입어.",
+     "choices": [
+      "in",
+      "up",
+      "on"
+     ],
+     "answer": 2,
+     "explain": "‘입다, 쓰다’는 put on이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Put on your ___.",
+     "ko": "코트를 입어.",
+     "choices": [
+      "coat",
+      "cap",
+      "hat"
+     ],
+     "answer": 0,
+     "explain": "코트는 coat예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "눈이 오는데 Sam이 겉옷 없이 나가려고 해요. Sam 아빠의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Sam 아빠",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Okay. Thank you, dad!"
+      }
+     ],
+     "choices": [
+      "Sam! Wake up!",
+      "Sam! Put on your coat.",
+      "Sam! Come in."
+     ],
+     "answer": 1,
+     "explain": "추우니까 ‘Put on your coat.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아침이에요. 날씨는 흐려요(☁️). Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's cloudy.",
+      "It's snowing.",
+      "Okay."
+     ],
+     "answer": 0,
+     "explain": "흐리니까 ‘It's cloudy.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "모자를 써.",
+     "answer": "Put on your hat.",
+     "distractors": [
+      "coat.",
+      "off"
+     ],
+     "explain": "‘~을 써/입어.’는 Put on your ~.예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Put on your jacket.’이라는 말을 듣고 할 대답으로 알맞은 것은?",
+     "choices": [
+      "It's sunny.",
+      "Okay.",
+      "Who's she?"
+     ],
+     "answer": 1,
+     "explain": "지시하는 말에는 ‘Okay.’(알았어.)라고 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Put on your jacket, please.",
+     "ko": "재킷을 입어 줘."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Cora가 재킷 없이 나가려고 해요. 민우의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Cora",
+       "text": "How's the weather, Minu?"
+      },
+      {
+       "who": "민우",
+       "text": "It's snowing."
+      },
+      {
+       "who": "Cora",
+       "text": "I like snow!"
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wake up, Cora!",
+      "Put on your jacket, Cora!",
+      "Thank you, Cora!"
+     ],
+     "answer": 1,
+     "explain": "추우니까 재킷을 입으라고 ‘Put on your jacket.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "바람이 불어요(💨). 엄마가 날씨를 말하고 재킷을 입으라고 해요. 엄마의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "B",
+       "text": "How's the weather, mom?"
+      },
+      {
+       "who": "W",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "It's windy. Put on your jacket.",
+      "It's raining. Put on your jacket.",
+      "It's windy. Wake up."
+     ],
+     "answer": 0,
+     "explain": "바람이 부니까 ‘It's windy.’, 재킷을 입으라고 ‘Put on your jacket.’이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ up!",
+     "ko": "일어나!",
+     "choices": [
+      "Put",
+      "Look",
+      "Wake"
+     ],
+     "answer": 2,
+     "explain": "‘일어나!’는 Wake up!이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "코트를 입어. 눈이 와.",
+     "answer": "Put on your coat. It's snowing.",
+     "distractors": [
+      "cap.",
+      "raining."
+     ],
+     "explain": "Put on your coat.로 지시하고 It's snowing.으로 날씨를 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Okay. Thank you, dad!",
+     "answer": "Okay. Thank you, dad!",
+     "distractors": [
+      "mom!",
+      "Bye."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "Alice의 엄마가 ‘It's windy.’라고 했어요. 바깥 날씨는 어떤가요?",
+     "choices": [
+      "눈이 와요.",
+      "바람이 불어요.",
+      "비가 와요."
+     ],
+     "answer": 1,
+     "explain": "windy는 바람이 부는 날씨예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Put on your hat, too.",
+     "choices": [
+      "모자를 벗어.",
+      "코트도 입어.",
+      "모자도 써."
+     ],
+     "answer": 2,
+     "explain": "too는 ‘~도’, hat은 모자예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: Bora! Wake up! Bora: How's the weather? Kate: It's cloudy.",
+     "question": "보라가 일어났을 때 날씨는 어땠나요?",
+     "choices": [
+      "맑았어요.",
+      "눈이 왔어요.",
+      "흐렸어요."
+     ],
+     "answer": 2,
+     "explain": "Kate가 ‘It's cloudy.’라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 옷을 입으라고 말하는 문장은?",
+     "choices": [
+      "How's the weather?",
+      "Put on your jacket.",
+      "I like snow."
+     ],
+     "answer": 1,
+     "explain": "Put on your ~.은 ‘~을 입어/써.’예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Wake up! It's snowing!",
+     "ko": "일어나! 눈이 와!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "흐린",
+     "answers": [
+      "cloudy"
+     ],
+     "hint": "c l _ _ d y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "눈이 오는",
+     "answers": [
+      "snowing"
+     ],
+     "hint": "s n _ w i n g"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's sunny. Put on your cap.",
+     "answer": "It's sunny. Put on your cap.",
+     "distractors": [
+      "coat.",
+      "raining."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "날씨가 어때요, 아빠?",
+     "answer": "How's the weather, dad?",
+     "distractors": [
+      "What's",
+      "mom?"
+     ],
+     "explain": "날씨를 물을 때는 How's the weather?예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "밖에 눈이 와요. A는 친구에게 코트를 입으라고 말해요. A의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "A",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "Mina",
+       "text": "It's snowing."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Put on your cap, Mina.",
+      "It's sunny, Mina.",
+      "Put on your coat, Mina."
+     ],
+     "answer": 2,
+     "explain": "눈이 와서 추우니까 ‘Put on your coat.’라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's snowing. Sam wants to go out. Dad says, \"Sam! Put on your coat.\" Juno says, \"Put on your hat, too.\"",
+     "question": "Sam이 입거나 써야 하는 것 두 가지는 무엇인가요?",
+     "choices": [
+      "재킷과 야구 모자",
+      "코트와 모자",
+      "코트와 재킷"
+     ],
+     "answer": 1,
+     "explain": "아빠는 coat, 준오는 hat을 말했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Put on your ___, too.",
+     "ko": "재킷도 입어.",
+     "choices": [
+      "jacket",
+      "weather",
+      "sunny"
+     ],
+     "answer": 0,
+     "explain": "재킷은 jacket이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I like snow!’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 비가 싫어!",
+      "눈이 와!",
+      "나는 눈이 좋아!"
+     ],
+     "answer": 2,
+     "explain": "snow는 눈이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mom: How's the weather, Mina? Mina: It's raining. Mom: Okay. Put on your coat.",
+     "question": "지금 날씨는 어떤가요?",
+     "choices": [
+      "맑아요.",
+      "비가 와요.",
+      "바람이 불어요."
+     ],
+     "answer": 1,
+     "explain": "Mina가 ‘It's raining.’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How's the weather? It's windy. Put on your jacket.",
+     "ko": "날씨가 어때? 바람이 불어. 재킷을 입어."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "날씨를 나타내는 단어 읽고 쓰기 / 알파벳 ‘w’로 시작하는 단어 소리 내어 읽기",
+   "objectives": [
+    "단어(cloudy, raining, snowing, sunny, windy)를 읽고 그 의미를 이해하며, 쓸 수 있다.",
+    "/w/ 소리를 식별하고, 소리 /w/와 철자 ‘w’의 관계를 이해하며 ‘w’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+    "‘전국 날씨 조사표 완성하기’의 협력 과업으로 단어를 읽고 쓰며, 날씨를 묻고 답하는 말과 행동을 지시하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 120~121쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "‘How's the Weather?’ 노래를 날씨 카드에 맞게 바꾸어 부르기, windy가 적힌 그림을 보고 뜻 추측하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "날씨 단어 읽고 뜻 추측하기, 일기 예보 그림을 보며 예시 대화 따라 말하고 짝과 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Choose / Listen, Match and Write",
+     "desc": "그림에 알맞은 단어에 ○표 하고 읽기, 세계 각 지역의 날씨를 듣고 그림과 연결한 뒤 단어 골라 쓰기, 스스로 다지기(단어 찾아 쓰기·오늘 날씨 쓰기)",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "/w/ 소리와 철자 w의 관계 익히기(windy, weather, wash), 첫소리가 다른 단어 고르기, w로 시작하는 그림에 ○표",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 우리나라 네 지역을 정해 태블릿으로 날씨를 검색하고, 날씨를 묻고 답하며 입을 옷을 지시하는 말로 전국 날씨 조사표 완성하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "우산 등 물건 사진을 보고 알맞은 날씨 단어 읽기, Ww 카드로 w로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "cloudy",
+    "raining",
+    "snowing",
+    "sunny",
+    "windy",
+    "windy, weather, wash"
+   ],
+   "tip": "/w/는 입술을 작고 둥글게 오므렸다가 펴며 내는 소리예요. v(/v/)처럼 윗니로 입술을 물지 않아요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가, 포트폴리오(날씨 조사표) — 단어를 읽고 의미를 이해하며 쓸 수 있는가? /w/ 소리를 식별하고 w로 시작하는 단어를 소리 내어 읽을 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sunny",
+       "맑은"
+      ],
+      [
+       "cloudy",
+       "흐린"
+      ],
+      [
+       "windy",
+       "바람이 부는"
+      ],
+      [
+       "raining",
+       "비가 오는"
+      ],
+      [
+       "snowing",
+       "눈이 오는"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cloudy",
+       "☁️"
+      ],
+      [
+       "snowing",
+       "❄️"
+      ],
+      [
+       "sunny",
+       "☀️"
+      ],
+      [
+       "windy",
+       "💨"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🌧️",
+     "choices": [
+      "snowing",
+      "sunny",
+      "cloudy",
+      "raining"
+     ],
+     "answer": 3,
+     "explain": "비가 오는 날씨는 raining이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 첫소리가 /w/인 단어는?",
+     "choices": [
+      "sunny",
+      "cloudy",
+      "raining",
+      "windy"
+     ],
+     "answer": 3,
+     "explain": "windy는 w(/w/)로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 첫소리에 해당하는 글자를 고르세요.",
+     "audio": "weather",
+     "choices": [
+      "v",
+      "r",
+      "h",
+      "w"
+     ],
+     "answer": 3,
+     "explain": "weather는 /w/ 소리로 시작해요. 글자는 w예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "wash",
+     "choices": [
+      "🧢",
+      "☁️",
+      "❄️",
+      "🧼"
+     ],
+     "answer": 3,
+     "explain": "wash는 ‘씻다’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "cloudy",
+     "choices": [
+      "cloudy",
+      "snowing",
+      "sunny"
+     ],
+     "answer": 0,
+     "explain": "cloudy는 흐린이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___.",
+     "ko": "맑아.",
+     "choices": [
+      "windy",
+      "sunny",
+      "snowing"
+     ],
+     "answer": 1,
+     "explain": "맑은 날씨는 sunny예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘snowing’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "비가 오는",
+      "흐린",
+      "맑은",
+      "눈이 오는"
+     ],
+     "answer": 3,
+     "explain": "snowing은 눈이 오는 거예요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 첫 글자를 짝지어 보세요.",
+     "pairs": [
+      [
+       "windy",
+       "w"
+      ],
+      [
+       "sunny",
+       "s"
+      ],
+      [
+       "cloudy",
+       "c"
+      ],
+      [
+       "raining",
+       "r"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "우산이 필요한 날씨는?",
+     "emoji": "☂️",
+     "choices": [
+      "sunny",
+      "windy",
+      "raining"
+     ],
+     "answer": 2,
+     "explain": "비가 올 때(raining) 우산이 필요해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "windy, weather, wash",
+     "ko": "바람이 부는, 날씨, 씻다"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "그림 속 날씨는 흐려요(☁️). M2의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "W1",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "M2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's cloudy.",
+      "It's sunny.",
+      "It's snowing."
+     ],
+     "answer": 0,
+     "explain": "흐리니까 ‘It's cloudy.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "그림 속 날씨는 눈이 와요(❄️). M3의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "W1",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "M3",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's raining.",
+      "It's windy.",
+      "It's snowing."
+     ],
+     "answer": 2,
+     "explain": "눈이 오니까 ‘It's snowing.’이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "첫소리가 다른 하나를 고르세요.",
+     "choices": [
+      "weather",
+      "wash",
+      "windy",
+      "raining"
+     ],
+     "answer": 3,
+     "explain": "weather, wash, windy는 /w/로, raining은 /r/로 시작해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "___indy",
+     "ko": "바람이 부는",
+     "choices": [
+      "v",
+      "w",
+      "r"
+     ],
+     "answer": 1,
+     "explain": "바람이 부는은 windy예요. 첫 글자는 w예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "비가 오는",
+     "answers": [
+      "raining"
+     ],
+     "hint": "r a _ n i n g"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "How's the weather? It's windy.",
+     "answer": "How's the weather? It's windy.",
+     "distractors": [
+      "sunny.",
+      "What's"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "맑아. 야구 모자를 써.",
+     "answer": "It's sunny. Put on your cap.",
+     "distractors": [
+      "coat.",
+      "raining."
+     ],
+     "explain": "맑으면 야구 모자(cap)를 쓰라고 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "세계 날씨 지도에 ❄️가 그려진 곳의 날씨는?",
+     "emoji": "❄️",
+     "choices": [
+      "snowing",
+      "sunny",
+      "windy"
+     ],
+     "answer": 0,
+     "explain": "❄️는 눈이 오는 날씨(snowing)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날씨 그림을 고르세요.",
+     "audio": "It's sunny.",
+     "choices": [
+      "☁️",
+      "🌧️",
+      "❄️",
+      "☀️"
+     ],
+     "answer": 3,
+     "explain": "sunny는 맑은 날씨예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How's the weather? It's raining.",
+     "ko": "날씨가 어때? 비가 와."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "날씨 (w로 시작해요)",
+     "answers": [
+      "weather"
+     ],
+     "hint": "w e _ _ h e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "씻다 (w로 시작해요)",
+     "answers": [
+      "wash"
+     ],
+     "hint": "w _ s h"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Seoul: It's snowing. Jeju: It's windy. Busan: It's sunny.",
+     "question": "제주의 날씨는 어떤가요?",
+     "choices": [
+      "눈이 와요.",
+      "맑아요.",
+      "바람이 불어요."
+     ],
+     "answer": 2,
+     "explain": "‘Jeju: It's windy.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dokdo: It's sunny. Put on your cap!",
+     "question": "독도에 가면 무엇을 써야 하나요?",
+     "choices": [
+      "코트",
+      "야구 모자",
+      "재킷"
+     ],
+     "answer": 1,
+     "explain": "‘Put on your cap!’이라고 했어요. cap은 야구 모자예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "바람이 불어. 재킷을 입어.",
+     "answer": "It's windy. Put on your jacket.",
+     "distractors": [
+      "sunny.",
+      "coat."
+     ],
+     "explain": "바람이 불면 재킷(jacket)을 입으라고 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's cloudy. How's the weather there?",
+     "answer": "It's cloudy. How's the weather there?",
+     "distractors": [
+      "sunny.",
+      "What's"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 날씨와 같은 소리로 시작하는 단어는?",
+     "emoji": "💨",
+     "choices": [
+      "sunny",
+      "raining",
+      "cloudy",
+      "wash"
+     ],
+     "answer": 3,
+     "explain": "windy와 wash는 둘 다 /w/ 소리로 시작해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "S1이 조사한 강릉은 비가 와요(🌧️). S1의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "S2, S3, S4",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "S1",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's raining.",
+      "It's sunny.",
+      "It's cloudy."
+     ],
+     "answer": 0,
+     "explain": "비가 오니까 ‘It's raining.’이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ my hands.",
+     "ko": "나는 손을 씻어.",
+     "choices": [
+      "weather",
+      "windy",
+      "wash"
+     ],
+     "answer": 2,
+     "explain": "‘씻다’는 wash예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's windy in Jeju.",
+     "ko": "제주는 바람이 불어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·정리",
+   "icon": "book",
+   "studyPoint": "‘스노맨’ 역할극을 하며 배운 표현 활용하기 / ‘My Work’로 배운 내용을 확인하고 정리하기",
+   "objectives": [
+    "‘Story Time’에서 ‘스노맨’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 122~123쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "날씨 단어를 읽고 손가락으로 공중에 써 보기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "원작(눈사람 아저씨) 소개와 이야기 추측하기, 만화 영화를 보며 줄거리 이해하기, HOW ABOUT YOU?(내가 스노맨이라면 비가 올 때 어떻게 할까?), 모둠별 역할극하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 순서대로 번호 쓰기, 날씨를 묻고 답하며 지시하는 말 하기, 그림에 알맞은 날씨 단어 쓰고 대화하기, 가장 좋아하는 날씨와 이유 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 성취도 점검과 ‘정리해요’ 쓰기, 단원 마무리 게임, Special 6 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Mom! How's the weather?",
+    "It's snowing.",
+    "Put on your jacket.",
+    "Oh, it's raining. – Come here."
+   ],
+   "tip": "이야기 속 인물이 되어 날씨를 묻고, 날씨에 맞는 옷을 입으라고 실감 나게 말해 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(역할극 참여), My Work 자기 평가, 단원평가(지필) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 단원 내용을 정리할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A boy asks, \"Mom! How's the weather?\" Mom looks outside. \"It's snowing.\"",
+     "question": "엄마가 말한 날씨는 무엇인가요?",
+     "choices": [
+      "눈이 와요.",
+      "비가 와요.",
+      "맑아요."
+     ],
+     "answer": 0,
+     "explain": "엄마가 ‘It's snowing.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The girl says, \"Wow, great! I like snow.\"",
+     "question": "여자아이가 좋아하는 것은 무엇인가요?",
+     "choices": [
+      "비",
+      "눈",
+      "바람"
+     ],
+     "answer": 1,
+     "explain": "‘I like snow.’라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "snow",
+       "눈"
+      ],
+      [
+       "jacket",
+       "재킷"
+      ],
+      [
+       "big",
+       "큰"
+      ],
+      [
+       "sunny",
+       "맑은"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 실내복 차림으로 나가려고 해요. 엄마의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "엄마",
+       "text": "?"
+      },
+      {
+       "who": "남자아이",
+       "text": "Okay. Thank you, mom!"
+      }
+     ],
+     "choices": [
+      "Wake up.",
+      "It's sunny.",
+      "Put on your jacket."
+     ],
+     "answer": 2,
+     "explain": "추우니까 ‘Put on your jacket.’이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Here.",
+     "choices": [
+      "여기 있어.",
+      "이리 와.",
+      "안녕."
+     ],
+     "answer": 0,
+     "explain": "물건을 건네줄 때 ‘Here.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아이들이 만든 눈사람이 아주 커요. 여자아이의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "남자아이",
+       "text": "Look at the snowman!"
+      },
+      {
+       "who": "여자아이",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, it's small.",
+      "It's raining.",
+      "Wow! It's big."
+     ],
+     "answer": 2,
+     "explain": "큰 눈사람을 보고 ‘Wow! It's big.’이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Oh, it's raining.",
+     "choices": [
+      "오, 눈이 와.",
+      "오, 비가 와.",
+      "오, 맑아."
+     ],
+     "answer": 1,
+     "explain": "raining은 비가 오는 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "눈사람이 아이들을 부르며 할 말로 알맞은 것은?",
+     "choices": [
+      "Come here.",
+      "Wake up.",
+      "Put on your cap."
+     ],
+     "answer": 0,
+     "explain": "‘Come here.’는 ‘이리 와.’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Okay. Thank you, ___!",
+     "ko": "알았어요. 고마워요, 엄마!",
+     "choices": [
+      "dad",
+      "sister",
+      "mom"
+     ],
+     "answer": 2,
+     "explain": "엄마는 mom이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "구름 위로 올라가니 해가 쨍쨍해요. 남자아이가 할 말로 알맞은 것은?",
+     "emoji": "☀️",
+     "choices": [
+      "Wow! It's sunny.",
+      "Oh, it's raining.",
+      "It's snowing."
+     ],
+     "answer": 0,
+     "explain": "해가 쨍쨍하면 ‘It's sunny.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 눈이 좋아.",
+     "answer": "I like snow.",
+     "distractors": [
+      "rain.",
+      "It's"
+     ],
+     "explain": "‘나는 ~이 좋아.’는 I like ~.예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Mom! How's the weather?",
+     "ko": "엄마! 날씨가 어때요?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 날씨를 고르세요.",
+     "audio": "How's the weather, dad? It's raining.",
+     "choices": [
+      "맑아요.",
+      "비가 와요.",
+      "눈이 와요."
+     ],
+     "answer": 1,
+     "explain": "아빠가 ‘It's raining.’이라고 했어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 날씨 그림을 고르세요.",
+     "audio": "How's the weather, Harry? It's snowing.",
+     "choices": [
+      "☀️",
+      "🌧️",
+      "☁️",
+      "❄️"
+     ],
+     "answer": 3,
+     "explain": "snowing은 눈이 오는 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "바람이 불어요(💨). M의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "M",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's windy.",
+      "It's cloudy.",
+      "It's snowing."
+     ],
+     "answer": 0,
+     "explain": "바람이 부니까 ‘It's windy.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "맑은 날이에요(☀️). 엄마가 야구 모자를 쓰라고 해요. 엄마의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "B",
+       "text": "How's the weather?"
+      },
+      {
+       "who": "W",
+       "text": "It's sunny."
+      },
+      {
+       "who": "W",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Put on your cap.",
+      "Put on your coat.",
+      "Wake up."
+     ],
+     "answer": 0,
+     "explain": "맑은 날에는 ‘Put on your cap.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "(눈사람에게 목도리를 둘러 주며) 이것은 너를 위한 거야.",
+     "answer": "This is for you.",
+     "distractors": [
+      "Here",
+      "me."
+     ],
+     "explain": "선물을 줄 때는 ‘This is for you.’라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___.",
+     "ko": "흐려.",
+     "choices": [
+      "sunny",
+      "windy",
+      "cloudy"
+     ],
+     "answer": 2,
+     "explain": "흐린 날씨는 cloudy예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 /w/ 소리로 시작하지 않는 단어는?",
+     "choices": [
+      "windy",
+      "weather",
+      "wash",
+      "sunny"
+     ],
+     "answer": 3,
+     "explain": "sunny는 /s/ 소리로 시작해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Come here. It's raining.",
+     "answer": "Come here. It's raining.",
+     "distractors": [
+      "snowing.",
+      "Put"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look! It's snowing. I like snow. I can make a big snowman!",
+     "question": "글쓴이가 눈 오는 날 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "수영하기",
+      "큰 눈사람 만들기",
+      "노래하기"
+     ],
+     "answer": 1,
+     "explain": "‘I can make a big snowman!’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Wow, great! I like snow.",
+     "ko": "와, 신난다! 나는 눈이 좋아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "비가 오는 (철자를 바르게 배열해요: n i r a i g n)",
+     "answers": [
+      "raining"
+     ],
+     "hint": "r _ _ n _ n g"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "날씨가 어때?",
+     "answers": [
+      "How's the weather?",
+      "How is the weather?"
+     ],
+     "hint": "How's the _______?"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The kids play in the snow. Then it's raining! The snowman says, \"Come here.\" They fly up. Now it's sunny.",
+     "question": "마지막 장면의 날씨는 어떤가요?",
+     "choices": [
+      "비가 와요.",
+      "맑아요.",
+      "눈이 와요."
+     ],
+     "answer": 1,
+     "explain": "구름 위로 날아오르니 ‘Now it's sunny.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: How's the weather? Dad: It's windy. Mina: Okay. I can put on my jacket.",
+     "question": "Mina가 입을 옷은 무엇인가요?",
+     "choices": [
+      "재킷",
+      "코트",
+      "야구 모자"
+     ],
+     "answer": 0,
+     "explain": "‘I can put on my jacket.’이라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아빠, 거기 날씨는 어때요?",
+     "answer": "Dad, how's the weather there?",
+     "distractors": [
+      "What's",
+      "here?"
+     ],
+     "explain": "there는 ‘거기’예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Put on your coat, please. It's snowing.",
+     "answer": "Put on your coat, please. It's snowing.",
+     "distractors": [
+      "cap,",
+      "raining."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 눈사람에게 목도리를 둘러 줘요. 눈사람의 말로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "남자아이",
+       "text": "This is for you."
+      },
+      {
+       "who": "눈사람",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Wake up!",
+      "Thank you!",
+      "It's cloudy."
+     ],
+     "answer": 1,
+     "explain": "선물을 받으면 ‘Thank you!’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Put on your cap.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "야구 모자를 써.",
+      "코트를 입어.",
+      "모자를 벗어."
+     ],
+     "answer": 0,
+     "explain": "cap은 야구 모자, put on은 입다·쓰다예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Oh, it's ___. Come here.",
+     "ko": "오, 비가 와. 이리 와.",
+     "choices": [
+      "sunny",
+      "raining",
+      "snowing"
+     ],
+     "answer": 1,
+     "explain": "비가 오는 것은 raining이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How's the weather? It's snowing. Put on your jacket.",
+     "ko": "날씨가 어때? 눈이 와. 재킷을 입어."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "Eric과 Hoa가 해외에 사는 친구 Harry, Lily와 화상 채팅으로 날씨를 묻고 답해요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Harry, how's the weather?"
+    },
+    {
+     "who": "Harry",
+     "text": "It's raining."
+    },
+    {
+     "who": "Harry",
+     "text": "Lily, how's the weather there?"
+    },
+    {
+     "who": "Lily",
+     "text": "It's sunny."
+    },
+    {
+     "who": "Hoa",
+     "text": "Wow, it's snowing."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "캠핑장 텐트에서 아침에 일어난 아이들이 날씨를 묻고, 눈이 오자 Sam의 아빠가 코트를 입으라고 해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Bora! Wake up!"
+    },
+    {
+     "who": "보라",
+     "text": "How's the weather?"
+    },
+    {
+     "who": "Kate",
+     "text": "It's cloudy."
+    },
+    {
+     "who": "Sam 아빠",
+     "text": "Sam! Put on your coat."
+    },
+    {
+     "who": "Sam",
+     "text": "Okay. Thank you, dad!"
+    },
+    {
+     "who": "준오",
+     "text": "Put on your hat, too."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "눈 오는 날 Cora가 재킷 없이 나가려 하자 민우가 재킷을 입으라고 해요.",
+   "lines": [
+    {
+     "who": "Cora",
+     "text": "How's the weather, Minu?"
+    },
+    {
+     "who": "민우",
+     "text": "It's snowing."
+    },
+    {
+     "who": "Cora",
+     "text": "I like snow!"
+    },
+    {
+     "who": "민우",
+     "text": "Put on your jacket, Cora!"
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "눈 오는 날 아이들이 눈사람을 만들고, 비가 오자 눈사람이 아이들과 하늘로 날아올라요.",
+   "lines": [
+    {
+     "who": "남자아이",
+     "text": "Mom! How's the weather?"
+    },
+    {
+     "who": "엄마",
+     "text": "It's snowing."
+    },
+    {
+     "who": "엄마",
+     "text": "Put on your jacket."
+    },
+    {
+     "who": "여자아이",
+     "text": "Oh, it's raining."
+    },
+    {
+     "who": "스노맨",
+     "text": "Come here."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "The Snowman (스노맨)",
+  "passage": "A boy asks his mom about the weather. It's snowing! His sister loves snow. Mom tells the boy to put on his jacket before he goes out. The children build a big snowman and give it a hat and a scarf. The snowman blinks and says thank you. Suddenly it starts to rain. The snowman takes their hands, and they fly above the clouds, where it is sunny.",
+  "summaryKo": "눈 오는 날 아이들이 만든 눈사람이 살아나고, 비가 내리자 아이들과 함께 해가 빛나는 구름 위로 날아올라요."
+ },
+ "writing": {
+  "frame": [
+   "How's the weather?",
+   "It's ____.",
+   "Put on your ____."
+  ],
+  "model": "How's the weather? It's snowing. Put on your coat."
+ },
+ "project": "Work Together ‘전국 날씨 조사표 완성하기’: 모둠별로 우리나라 네 지역을 정해 태블릿으로 날씨를 검색하고, ‘How's the weather? – It's sunny. Put on your cap.’처럼 묻고 답하며 날씨 그림과 단어로 조사표를 완성한다.",
+ "special": {
+  "no": 6,
+  "kind": "CULTURE · PROJECT",
+  "title": "다른 나라의 날씨를 알아봐요 / 모둠별 역할극하기",
+  "summaryKo": "CULTURE에서는 같은 12월이라도 지구의 북쪽과 남쪽 나라의 날씨가 서로 다르다는 것을 알아보고, 태블릿으로 세계 도시의 날씨를 검색해 기상 캐스터 활동을 해요. PROJECT에서는 진우가 친구 조의 집에 놀러 가 가족을 만나는 만화로 역할극을 하고, Let's Try!·Let's Check!로 11, 12단원을 복습해요.",
+  "facts": [
+   "12월에 지구의 북쪽에 있는 서울과 뉴욕은 춥고 눈이 오지만, 지구의 남쪽에 있는 브라질리아와 시드니는 화창하고 따뜻해요.",
+   "뉴질랜드는 12월과 1월이 여름이라 따뜻하고 비가 적게 와요. 겨울인 6~8월은 춥고 비가 많이 와요.",
+   "기상 캐스터는 텔레비전에서 바람, 구름, 비 같은 날씨를 설명하고 앞으로의 날씨를 알려 주는 사람이에요.",
+   "기상청 날씨누리에서 세계 여러 도시의 날씨를 검색할 수 있어요.",
+   "PROJECT 만화: 진우가 조의 할머니를 보고 ‘Who's she?’라고 묻고, 할머니는 진우를 자꾸 ‘Minu’라고 불러요. 마지막에 할머니가 젊었을 때 체조 선수였다는 것을 알게 돼요."
+  ],
+  "expressions": [
+   "Hello, how's the weather? – It's snowing.",
+   "Hi, how's the weather? – It's sunny.",
+   "Who's she? – She's my grandmother.",
+   "Who's he? – He's my dad."
+  ],
+  "exercises": []
+ }
+}

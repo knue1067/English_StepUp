@@ -1,0 +1,3214 @@
+{
+  "id": "L10",
+  "no": 10,
+  "semester": 2,
+  "title": "What Time Do You Get Up?",
+  "emoji": "⏰",
+  "rationale": "학생들은 아침에 일어나 밤에 잠자리에 들 때까지 많은 일을 하며 하루를 보낸다. 이 단원에서는 일과를 묻고 답하는 말과 놀람을 표현하는 말을 배워 실생활에서 활용하게 하고, 일과를 소개하는 글을 읽고 쓰는 능력과 시간을 효율적으로 활용하는 능력을 기르고자 한다.",
+  "topics": "개인생활 관련 (생활 방식), 학교생활 관련 (학교 활동), 사회생활 관련 (근로, 면대면 대화)",
+  "functions": [
+    {
+      "ko": "일과 묻고 답하기",
+      "examples": [
+        "What time do you get up?",
+        "I get up at 8."
+      ]
+    },
+    {
+      "ko": "놀람 표현하기",
+      "examples": [
+        "Really?"
+      ]
+    }
+  ],
+  "forms": [
+    "I get up at 7.",
+    "She gets up at 5."
+  ],
+  "newWords": [
+    {
+      "en": "bake",
+      "ko": "(빵 등을) 굽다"
+    },
+    {
+      "en": "early",
+      "ko": "일찍, 이른"
+    },
+    {
+      "en": "fresh",
+      "ko": "신선한"
+    },
+    {
+      "en": "get",
+      "ko": "얻다 (get up: 일어나다)"
+    },
+    {
+      "en": "home",
+      "ko": "집, 집에"
+    },
+    {
+      "en": "hour",
+      "ko": "시간"
+    },
+    {
+      "en": "job",
+      "ko": "일, 직업"
+    },
+    {
+      "en": "practice",
+      "ko": "연습하다"
+    },
+    {
+      "en": "really",
+      "ko": "정말"
+    },
+    {
+      "en": "study",
+      "ko": "공부하다"
+    },
+    {
+      "en": "tonight",
+      "ko": "오늘 밤"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "get up",
+      "ko": "일어나다",
+      "emoji": "⏰"
+    },
+    {
+      "en": "eat breakfast",
+      "ko": "아침 식사를 하다",
+      "emoji": "🍳"
+    },
+    {
+      "en": "go to school",
+      "ko": "학교에 가다",
+      "emoji": "🏫"
+    },
+    {
+      "en": "study English",
+      "ko": "영어를 공부하다",
+      "emoji": "📖"
+    },
+    {
+      "en": "come home",
+      "ko": "집에 오다",
+      "emoji": "🏠"
+    },
+    {
+      "en": "go to bed",
+      "ko": "잠자리에 들다",
+      "emoji": "🛌"
+    }
+  ],
+  "characters": [
+    "우주",
+    "Amy",
+    "하나",
+    "Tom",
+    "Mohan",
+    "Mr. Baker",
+    "나리",
+    "Taylor",
+    "민우",
+    "Noah",
+    "Ella",
+    "Anna",
+    "Cookie",
+    "하준",
+    "칸트",
+    "보보",
+    "코코"
+  ],
+  "goals": {
+    "understand": [
+      "일과를 묻고 답하는 말을 듣고 이해할 수 있다.",
+      "놀람을 표현하는 말을 듣고 이해할 수 있다.",
+      "일과를 소개하는 글을 읽고 이해할 수 있다.",
+      "일과를 묻고 답하고 놀람을 표현하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "일과를 소개하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "일과를 묻고 답하는 말을 할 수 있다.",
+      "놀람을 표현하는 말을 할 수 있다.",
+      "일과를 나타내는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 일과를 소개하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-06",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "일과 묻고 답하기",
+      "objectives": [
+        "일과를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 1’으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 135~137쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "6시 30분 전자시계 사진으로 동기 유발, 자고 일어나는 시각 이야기하기, 단원 목표·My Study 계획, 일과 어구 붙임딱지 붙이기와 Word Chant",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "음악 발표회 아침 연습 시간을 정하는 만화 보고 우주가 자고 일어나는 시각 쓰기, 주요 표현 따라 말하기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Match / Practice 1",
+          "desc": "대화 듣고 그림(아침 식사, 등교, 영어 공부, 귀가)에 알맞은 시계 연결하기, 주요 표현 연습",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "일과 그림 카드를 먼저 짚고 'I ... at ....'로 답하기 (모둠)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "그림 카드로 복습, 듣고 ○/× 표시하기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What time do you get up?",
+        "I get up at 8.",
+        "What time do you go to bed?",
+        "I go to bed at 10."
+      ],
+      "tip": "시각은 숫자 그대로 읽어요. 8:40은 'eight forty'라고 말해요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 일과를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "get up",
+              "일어나다"
+            ],
+            [
+              "eat breakfast",
+              "아침 식사를 하다"
+            ],
+            [
+              "go to school",
+              "학교에 가다"
+            ],
+            [
+              "come home",
+              "집에 오다"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "What time do you eat breakfast?",
+              "I eat breakfast at 8."
+            ],
+            [
+              "What time do you go to school?",
+              "I go to school at 8:40."
+            ],
+            [
+              "What time do you study English?",
+              "I study English at 3."
+            ],
+            [
+              "What time do you come home?",
+              "I come home at 4:30."
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "'잠자리에 들다'를 영어로 하면?",
+          "emoji": "🛌",
+          "choices": [
+            "come home",
+            "get up",
+            "go to bed",
+            "go to school"
+          ],
+          "answer": 2,
+          "explain": "'go to bed'는 '잠자리에 들다'예요. 'get up'은 '일어나다'예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'study English'의 뜻은?",
+          "emoji": "📖",
+          "choices": [
+            "영어를 공부하다",
+            "집에 오다",
+            "아침 식사를 하다",
+            "학교에 가다"
+          ],
+          "answer": 0,
+          "explain": "study는 '공부하다'라는 뜻이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "What time do you get up?",
+          "choices": [
+            "너는 몇 시에 잠자리에 드니?",
+            "너는 몇 시에 일어나니?",
+            "너는 몇 시에 집에 오니?"
+          ],
+          "answer": 1,
+          "explain": "'get up'은 '일어나다'예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I go to school at 8:40.",
+          "choices": [
+            "나는 8시 40분에 집에 와.",
+            "나는 8시 40분에 학교에 가.",
+            "나는 4시 40분에 학교에 가."
+          ],
+          "answer": 1,
+          "explain": "'go to school'은 '학교에 가다', 8:40은 8시 40분이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "하나",
+              "text": "Great. How about at 7:50?"
+            },
+            {
+              "who": "우주",
+              "text": "Sorry, I can't. I can't get up early."
+            },
+            {
+              "who": "Amy",
+              "text": "What time do you get up?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I go to bed at 10.",
+            "I get up at 8.",
+            "Yes, I do."
+          ],
+          "answer": 1,
+          "explain": "몇 시에 일어나는지 물었으니 'I get up at ....'로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "What time do you go to bed?"
+            },
+            {
+              "who": "우주",
+              "text": "I go to bed at 10. I sleep for 10 hours."
+            },
+            {
+              "who": "Tom",
+              "text": "Go to bed at 9 tonight."
+            },
+            {
+              "who": "Amy",
+              "text": "That's a good idea. You can get up early tomorrow."
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I get up at 8.",
+            "Here you are.",
+            "Okay. I'll try."
+          ],
+          "answer": 2,
+          "explain": "친구들의 조언에 '알았어. 노력해 볼게.'라고 답하는 것이 자연스러워요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I go to ___ at 10.",
+          "ko": "나는 10시에 잠자리에 들어.",
+          "choices": [
+            "bed",
+            "school",
+            "home"
+          ],
+          "answer": 0,
+          "explain": "'잠자리에 들다'는 'go to bed'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 일어나니?",
+          "answer": "What time do you get up?",
+          "distractors": [
+            "go",
+            "Where"
+          ],
+          "explain": "몇 시인지 물을 때는 'What time do you ...?'로 시작해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I come home at 4:30.",
+          "answer": "I come home at 4:30.",
+          "distractors": [
+            "go",
+            "school"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What time do you go to bed?",
+          "ko": "너는 몇 시에 잠자리에 드니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What time do you study English?"
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I come home at 5:30.",
+            "I go to bed at 5:30.",
+            "I study English at 5:30."
+          ],
+          "answer": 2,
+          "explain": "영어 공부 시각을 물었으니 'I study English at ....'로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What time do you come home?"
+            },
+            {
+              "who": "Boy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I come home at 3:40.",
+            "I get up at 3:40.",
+            "I eat breakfast at 3:40."
+          ],
+          "answer": 0,
+          "explain": "집에 오는 시각을 물었으니 'I come home at ....'로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Amy, 너는 몇 시에 학교에 가니?",
+          "answer": "Amy, what time do you go to school?",
+          "distractors": [
+            "come",
+            "Where"
+          ],
+          "explain": "이름을 먼저 부르고 'what time do you go to school?'로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 7시 15분에 아침 식사를 해.",
+          "answer": "I eat breakfast at 7:15.",
+          "distractors": [
+            "get",
+            "lunch"
+          ],
+          "explain": "'아침 식사를 하다'는 'eat breakfast'예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Linh, what time do you go to bed?",
+          "answer": "Linh, what time do you go to bed?",
+          "distractors": [
+            "get",
+            "school"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ English at 6:10.",
+          "ko": "나는 6시 10분에 영어를 공부해.",
+          "choices": [
+            "eat",
+            "study",
+            "come"
+          ],
+          "answer": 1,
+          "explain": "'영어를 공부하다'는 'study English'예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What time do you ___ home?",
+          "ko": "너는 몇 시에 집에 오니?",
+          "choices": [
+            "get",
+            "come",
+            "eat"
+          ],
+          "answer": 1,
+          "explain": "'집에 오다'는 'come home'이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "영어로 읽은 시각과 숫자를 짝지어 보세요.",
+          "pairs": [
+            [
+              "seven fifteen",
+              "7시 15분"
+            ],
+            [
+              "eight forty",
+              "8시 40분"
+            ],
+            [
+              "nine thirty",
+              "9시 30분"
+            ],
+            [
+              "six fifty",
+              "6시 50분"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 것을 고르세요.",
+          "audio": "I eat breakfast at 7:10.",
+          "choices": [
+            "7시 10분에 학교에 간다.",
+            "7시 10분에 아침 식사를 한다.",
+            "8시 10분에 아침 식사를 한다."
+          ],
+          "answer": 1,
+          "explain": "'seven ten'은 7시 10분이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I go to bed at 9:30.",
+          "ko": "나는 9시 30분에 잠자리에 들어."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 6시 40분에 일어나.",
+          "answers": [
+            "I get up at 6:40."
+          ],
+          "hint": "I ____ ____ at 6:40."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "하나야, 너는 몇 시에 영어를 공부하니?",
+          "answers": [
+            "Hana, what time do you study English?",
+            "What time do you study English, Hana?"
+          ],
+          "hint": "Hana, what time do you ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 4시 50분에 집에 와.",
+          "answers": [
+            "I come home at 4:50."
+          ],
+          "hint": "I ____ ____ at 4:50."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What time do you eat breakfast, Mohan?",
+          "answer": "What time do you eat breakfast, Mohan?",
+          "distractors": [
+            "lunch",
+            "get"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I go to school at 8:25.",
+          "answer": "I go to school at 8:25.",
+          "distractors": [
+            "come",
+            "bed"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 10시 30분에 잠자리에 들어. 나는 7시에 일어나.",
+          "answer": "I go to bed at 10:30. I get up at 7.",
+          "distractors": [
+            "come",
+            "school"
+          ],
+          "explain": "두 문장을 차례로 만들어요. go to bed(잠자리에 들다), get up(일어나다)!"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "우주야, 너는 몇 시에 일어나니?",
+          "answer": "Uju, what time do you get up?",
+          "distractors": [
+            "go",
+            "Where"
+          ],
+          "explain": "이름을 부른 뒤 'what time do you get up?'으로 물어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "What time do you get up, Linh?"
+            },
+            {
+              "who": "Linh",
+              "text": "I get up at 6:30."
+            },
+            {
+              "who": "Mohan",
+              "text": "What time do you go to school?"
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I get up at 8:10.",
+            "I come home at 8:10.",
+            "I go to school at 8:10."
+          ],
+          "answer": 2,
+          "explain": "학교에 가는 시각을 물었어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Tom: What time do you go to bed, Mohan?\nMohan: I go to bed at 9:30.\nTom: What time do you get up?\nMohan: I get up at 6:30.",
+          "question": "Mohan이 일어나는 시각은?",
+          "choices": [
+            "6시 30분",
+            "9시 30분",
+            "8시"
+          ],
+          "answer": 0,
+          "explain": "'I get up at 6:30.'이라고 했어요. 9시 30분은 잠자리에 드는 시각이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I come home at 4:10.",
+          "ko": "나는 4시 10분에 집에 와."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "일과 묻고 답하기 / 놀람 표현하기",
+      "objectives": [
+        "일과를 묻고 답하는 말을 할 수 있다.",
+        "놀람을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 138~139쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "일과 그림 카드로 복습, 학생의 잠자는 시각을 묻고 'Really?'로 반응하며 동기 유발",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "빵집 주인 Baker 씨를 인터뷰하는 만화 보고 일어나는 시각(4시 30분)과 아침 메뉴(빵) 알아보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "실생활 동영상(나리·Taylor, 민우·Noah) 보며 표현 익히기, 짝과 일과 묻고 답하고 놀람 표현하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "윷놀이하며 말판 칸의 그림과 시각에 맞게 일과를 묻고 답하기, 물음표 칸에서는 'Really?' 말하기 (모둠)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "상황에 맞는 대화하기, 자기 평가, 복습 계획 세우기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What time do you eat breakfast?",
+        "I eat breakfast at 8.",
+        "Really?",
+        "Really? That's very early."
+      ],
+      "tip": "놀랐을 때는 'Really?'의 끝을 올려서 말해요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 일과를 묻고 답하는 말을 할 수 있는가? 놀람을 표현하는 말을 듣고 이해하며 말할 수 있는가?",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "하나",
+              "text": "What time do you get up?"
+            },
+            {
+              "who": "Mr. Baker",
+              "text": "I get up at 4:30."
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Okay. I'll try.",
+            "Really? That's very early.",
+            "Yes, please."
+          ],
+          "answer": 1,
+          "explain": "4시 30분은 아주 이른 시각이라 'Really?'로 놀람을 표현해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "Do you bake bread every day?"
+            },
+            {
+              "who": "Mr. Baker",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I get up at 4:30.",
+            "I like this job!",
+            "Yes, I do. I bake fresh bread every morning."
+          ],
+          "answer": 2,
+          "explain": "'Do you ...?'로 물으면 'Yes, I do.'로 답할 수 있어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Noah",
+              "text": "Do you like English?"
+            },
+            {
+              "who": "민우",
+              "text": "Yes, I do. I study English every day."
+            },
+            {
+              "who": "Noah",
+              "text": "?"
+            },
+            {
+              "who": "민우",
+              "text": "I study English at 4."
+            }
+          ],
+          "choices": [
+            "What time do you go to school?",
+            "Really? What time do you study English?",
+            "Do you want some bread?"
+          ],
+          "answer": 1,
+          "explain": "민우가 '4시에 영어를 공부해.'라고 답했으니 영어 공부 시각을 물어본 거예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 아침 식사를 하니?",
+          "answer": "What time do you eat breakfast?",
+          "distractors": [
+            "lunch",
+            "go"
+          ],
+          "explain": "'아침 식사를 하다'는 'eat breakfast'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 8시 30분에 학교에 가.",
+          "answer": "I go to school at 8:30.",
+          "distractors": [
+            "home",
+            "get"
+          ],
+          "explain": "'학교에 가다'는 'go to school', 시각 앞에는 at을 써요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 Baker 씨가 일어나는 시각을 고르세요.",
+          "audio": "I get up at 4:30.",
+          "choices": [
+            "4시 30분",
+            "8시",
+            "7시 50분"
+          ],
+          "answer": 0,
+          "explain": "'four thirty'는 4시 30분이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Really?",
+          "choices": [
+            "고마워.",
+            "정말?",
+            "좋은 생각이야."
+          ],
+          "answer": 1,
+          "explain": "'Really?'는 놀랐을 때 쓰는 말이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I eat breakfast at 8.",
+          "answer": "I eat breakfast at 8.",
+          "distractors": [
+            "bread",
+            "get"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Really? That's very ___.",
+          "ko": "정말? 그거 정말 이르다.",
+          "choices": [
+            "late",
+            "good",
+            "early"
+          ],
+          "answer": 2,
+          "explain": "'early'는 '일찍, 이른'이라는 뜻이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Really? That's very early.",
+          "ko": "정말? 그거 정말 이르다."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What time do you go to school?",
+          "ko": "너는 몇 시에 학교에 가니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What time do you go to bed?"
+            },
+            {
+              "who": "Boy",
+              "text": "I go to bed at 8."
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Here you are.",
+            "Really? At 8?",
+            "I'm fine, thanks."
+          ],
+          "answer": 1,
+          "explain": "친구가 아주 일찍 잔다고 해서 'Really?'로 놀람을 표현해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "Do you get up early?"
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No, thanks.",
+            "I like this job!",
+            "Yes, I do. I get up at 6."
+          ],
+          "answer": 2,
+          "explain": "'Do you ...?'로 물으면 'Yes, I do.'로 답할 수 있어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 매일 영어를 공부하니?",
+          "answer": "Do you study English every day?",
+          "distractors": [
+            "What",
+            "time"
+          ],
+          "explain": "'Do you + 하는 일 + every day?' 순서예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나리야, 우리 같이 학교에 가자.",
+          "answer": "Let's go to school together, Nari.",
+          "distractors": [
+            "come",
+            "home"
+          ],
+          "explain": "'Let's ~.'는 '~하자'라는 뜻이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Really? What time do you come home?",
+          "answer": "Really? What time do you come home?",
+          "distractors": [
+            "go",
+            "Where"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What time do you ___ dinner?",
+          "ko": "너는 몇 시에 저녁 식사를 하니?",
+          "choices": [
+            "go",
+            "eat",
+            "get"
+          ],
+          "answer": 1,
+          "explain": "'저녁 식사를 하다'는 'eat dinner'예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Do you ___ bread every day?",
+          "ko": "당신은 매일 빵을 구우세요?",
+          "choices": [
+            "bake",
+            "study",
+            "come"
+          ],
+          "answer": 0,
+          "explain": "'(빵을) 굽다'는 bake예요."
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Do you like English?",
+              "Yes, I do."
+            ],
+            [
+              "What time do you eat lunch?",
+              "I eat lunch at 12:30."
+            ],
+            [
+              "What time do you eat dinner?",
+              "I eat dinner at 7."
+            ],
+            [
+              "Do you want some bread?",
+              "Yes, please."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I study English at 6 in the morning.",
+          "choices": [
+            "나는 오후 6시에 영어를 공부해.",
+            "나는 오전 6시에 영어를 공부해.",
+            "나는 6시에 집에 와."
+          ],
+          "answer": 1,
+          "explain": "in the morning은 '오전(아침)'이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Really? What time do you get up?",
+          "ko": "정말? 너는 몇 시에 일어나니?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "정말? 그거 정말 늦다.",
+          "answers": [
+            "Really? That's very late.",
+            "Really? That is very late."
+          ],
+          "hint": "Really? That's very ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 6시 30분에 저녁 식사를 해.",
+          "answers": [
+            "I eat dinner at 6:30."
+          ],
+          "hint": "I eat ____ at 6:30."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Baker 씨, 몇 시에 일어나세요?",
+          "answers": [
+            "Mr. Baker, what time do you get up?",
+            "What time do you get up, Mr. Baker?"
+          ],
+          "hint": "Mr. Baker, what time do you ____ ____?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Really? I go to bed at 9, too.",
+          "answer": "Really? I go to bed at 9, too.",
+          "distractors": [
+            "get",
+            "early."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Do you bake cookies every day?",
+          "answer": "Do you bake cookies every day?",
+          "distractors": [
+            "What",
+            "eat"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Noah, 너는 몇 시에 영어를 공부하니?",
+          "answer": "Noah, what time do you study English?",
+          "distractors": [
+            "go",
+            "When"
+          ],
+          "explain": "이름을 부른 뒤 'what time do you study English?'로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 매일 아침 8시에 아침 식사를 해.",
+          "answer": "I eat breakfast at 8 every morning.",
+          "distractors": [
+            "lunch",
+            "get"
+          ],
+          "explain": "'every morning'은 문장 맨 끝에 와요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What time do you go to bed?"
+            },
+            {
+              "who": "Boy",
+              "text": "I go to bed at 9."
+            },
+            {
+              "who": "Girl",
+              "text": "?"
+            },
+            {
+              "who": "Boy",
+              "text": "Yes. I get up at 6."
+            }
+          ],
+          "choices": [
+            "Really? Do you get up early?",
+            "Really? That's very late.",
+            "What time do you eat lunch?"
+          ],
+          "answer": 0,
+          "explain": "남자아이가 'Yes. I get up at 6.'이라고 답했으니 일찍 일어나는지 물은 거예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Boy: Ms. White, what time do you get up?\nMs. White: I get up at 4:30. I bake bread every morning.\nBoy: What time do you eat breakfast?\nMs. White: I eat breakfast at 8. I eat my bread!",
+          "question": "White 씨가 아침으로 먹는 것은?",
+          "choices": [
+            "과일샐러드",
+            "쿠키",
+            "자신이 구운 빵"
+          ],
+          "answer": 2,
+          "explain": "'I eat my bread!'라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I study English at 7 every day.",
+          "ko": "나는 매일 7시에 영어를 공부해."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Talk / Read and Write",
+      "studyPoint": "일과 묻고 답하는 문장 읽고 쓰기",
+      "objectives": [
+        "일과를 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "‘Play 3’로 일과를 묻고 답하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 140~141쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Practice 2 그림으로 짝 대화 복습, 붙임쪽지 세 장을 붙여 'I get up at 7.' 문장 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "말풍선 문장 읽고 빈 말풍선에 알맞은 대답 골라 짝과 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림 보고 알맞은 어구 골라 문장 완성하기, 교과서 188쪽 어구·문장 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "일과 문장 찾아 달리기 — 칠판의 문장 카드를 읽고 모둠에 전달해 일과표 완성하기 (모둠)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "Play 3 일과표로 묻고 답하며 복습, 알맞은 어구·문장 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What time do you get up?",
+        "I get up at 7.",
+        "I study English at 3:30.",
+        "I go to bed at 10."
+      ],
+      "tip": "문장의 첫 글자와 'I'는 항상 대문자로 쓰고, 묻는 문장 끝에는 물음표(?)를 붙여요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가(포트폴리오 평가) — 일과를 묻고 답하는 문장을 읽고 의미를 이해하며 쓸 수 있는가? 강세·리듬·억양에 맞게 소리 내어 읽을 수 있는가?",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ at 7:30.",
+          "ko": "나는 7시 30분에 일어나요.",
+          "choices": [
+            "go to bed",
+            "get up",
+            "study English"
+          ],
+          "answer": 1,
+          "explain": "'일어나다'는 'get up'이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I study English ___ 4.",
+          "ko": "나는 4시에 영어를 공부해요.",
+          "choices": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 2,
+          "explain": "몇 시에 하는지 말할 때는 시각 앞에 at을 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What ___ do you go to bed?",
+          "ko": "너는 몇 시에 잠자리에 드니?",
+          "choices": [
+            "time",
+            "color",
+            "day"
+          ],
+          "answer": 0,
+          "explain": "'몇 시'를 물을 때는 'What time'을 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 9시 40분에 잠자리에 들어요.",
+          "answer": "I go to bed at 9:40.",
+          "distractors": [
+            "get",
+            "school"
+          ],
+          "explain": "'잠자리에 들다'는 'go to bed'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 영어를 공부하니?",
+          "answer": "What time do you study English?",
+          "distractors": [
+            "How",
+            "go"
+          ],
+          "explain": "'What time do you + 하는 일?' 순서로 써요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 7시에 일어나요.",
+          "answers": [
+            "I get up at 7.",
+            "I get up at seven.",
+            "I get up at 7:00."
+          ],
+          "hint": "I get up at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 8시에 학교에 가요.",
+          "answers": [
+            "I go to school at 8.",
+            "I go to school at eight.",
+            "I go to school at 8:00."
+          ],
+          "hint": "I go to school at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "너는 몇 시에 집에 오니?",
+          "answers": [
+            "What time do you come home?"
+          ],
+          "hint": "What time do you ____ ____?"
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "i eat breakfast at 7:20.",
+            "I eat breakfast at 7:20?",
+            "I Eat Breakfast At 7:20.",
+            "I eat breakfast at 7:20."
+          ],
+          "answer": 3,
+          "explain": "문장의 첫 글자는 대문자로 쓰고, 설명하는 문장은 마침표(.)로 끝내요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'I come home at 5.'의 뜻으로 알맞은 것은?",
+          "choices": [
+            "나는 5시에 학교에 가요.",
+            "나는 5시에 집에 와요.",
+            "나는 5시에 잠자리에 들어요.",
+            "나는 5시에 일어나요."
+          ],
+          "answer": 1,
+          "explain": "'come home'은 '집에 오다'예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I eat breakfast at 7:20.",
+          "answer": "I eat breakfast at 7:20.",
+          "distractors": [
+            "lunch",
+            "get"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Girl: What time do you get up?\nBoy: I get up at 7.\nGirl: What time do you study English?\nBoy: I study English at 3:30.\nGirl: What time do you go to bed?\nBoy: I go to bed at 10.",
+          "question": "남자아이는 몇 시에 영어를 공부하나요?",
+          "choices": [
+            "7시",
+            "3시 30분",
+            "10시"
+          ],
+          "answer": 1,
+          "explain": "'I study English at 3:30.'이라고 했어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ at 8:50.",
+          "ko": "나는 8시 50분에 학교에 가요.",
+          "choices": [
+            "come home",
+            "go to school",
+            "eat breakfast"
+          ],
+          "answer": 1,
+          "explain": "'학교에 가다'는 'go to school'이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What time do you ___ up?",
+          "ko": "너는 몇 시에 일어나니?",
+          "choices": [
+            "go",
+            "come",
+            "get"
+          ],
+          "answer": 2,
+          "explain": "'일어나다'는 'get up'이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I come home ___ 2:30.",
+          "ko": "나는 2시 30분에 집에 와요.",
+          "choices": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": 0,
+          "explain": "시각 앞에는 at을 써요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 6시 30분에 일어나요.",
+          "answers": [
+            "I get up at 6:30."
+          ],
+          "hint": "I get up at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 5시에 영어를 공부해요.",
+          "answers": [
+            "I study English at 5.",
+            "I study English at five.",
+            "I study English at 5:00."
+          ],
+          "hint": "I study English at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "너는 몇 시에 아침 식사를 하니?",
+          "answers": [
+            "What time do you eat breakfast?"
+          ],
+          "hint": "What time do you ____ ____?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 3시 30분에 집에 와요.",
+          "answer": "I come home at 3:30.",
+          "distractors": [
+            "go",
+            "bed"
+          ],
+          "explain": "'집에 오다'는 'come home'이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 학교에 가니?",
+          "answer": "What time do you go to school?",
+          "distractors": [
+            "come",
+            "at"
+          ],
+          "explain": "묻는 문장은 'What time do you ...?' 순서예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I go to bed at 10:30.",
+          "answer": "I go to bed at 10:30.",
+          "distractors": [
+            "get",
+            "school"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 알맞은 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "What time do you get up?",
+              "I get up at 6:50."
+            ],
+            [
+              "What time do you go to school?",
+              "I go to school at 8:05."
+            ],
+            [
+              "What time do you come home?",
+              "I come home at 2:50."
+            ],
+            [
+              "What time do you go to bed?",
+              "I go to bed at 9:20."
+            ]
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 7시 50분에 아침 식사를 해요.",
+          "answers": [
+            "I eat breakfast at 7:50."
+          ],
+          "hint": "I ____ ____ at 7:50."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 4시 40분에 집에 와요.",
+          "answers": [
+            "I come home at 4:40."
+          ],
+          "hint": "I ____ ____ at 4:40."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Amy, 너는 몇 시에 잠자리에 드니?",
+          "answers": [
+            "Amy, what time do you go to bed?",
+            "What time do you go to bed, Amy?"
+          ],
+          "hint": "Amy, what time do you ____ ____ ____?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What time do you study English? I study English at 4:20.",
+          "answer": "What time do you study English? I study English at 4:20.",
+          "distractors": [
+            "eat",
+            "go"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I get up at 6:50 in the morning.",
+          "answer": "I get up at 6:50 in the morning.",
+          "distractors": [
+            "go",
+            "afternoon."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 7시에 일어나요. 나는 8시에 학교에 가요.",
+          "answer": "I get up at 7. I go to school at 8.",
+          "distractors": [
+            "come",
+            "bed"
+          ],
+          "explain": "두 문장을 시간 순서대로 만들어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 집에 오니? 나는 3시에 집에 와.",
+          "answer": "What time do you come home? I come home at 3.",
+          "distractors": [
+            "go",
+            "bed"
+          ],
+          "explain": "질문 문장과 대답 문장을 차례로 만들어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What time do you go to school?"
+            },
+            {
+              "who": "Boy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I go to bed at 8:35.",
+            "I go to school at 8:35.",
+            "I come home at 8:35."
+          ],
+          "answer": 1,
+          "explain": "학교에 가는 시각을 물었으니 'I go to school at ....'예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My Schedule\nget up - 7:00\neat breakfast - 7:20\ngo to school - 8:30\nstudy English - 3:00\ncome home - 4:30\ngo to bed - 9:30",
+          "question": "이 일과표와 맞는 문장은?",
+          "choices": [
+            "I come home at 3.",
+            "I study English at 3.",
+            "I go to bed at 10."
+          ],
+          "answer": 1,
+          "explain": "일과표에서 영어 공부(study English)는 3:00이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I get up at 6:20. I go to school at 8:15.",
+          "ko": "나는 6시 20분에 일어나요. 나는 8시 15분에 학교에 가요."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "일과를 소개하는 글 읽고 이해하기",
+      "objectives": [
+        "일과를 소개하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 142~143쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "칠판 문장 읽고 질문에 알맞은 문장 골라 답하기, 'I go to bed at 10.'에 해당하는 학생 손 들기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "햄스터 사진 보고 생활 습성(주로 밤에 활동한다) 고르기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "여자아이와 햄스터 Cookie의 일과를 소개하는 글 듣고 읽기, 내용 확인 질문에 답하기, 짝과 번갈아 소리 내어 읽기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "여자아이의 일과를 일어난 순서대로 번호 쓰기, 교과서 188쪽 글 읽고 문장 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "햄스터 Ruby의 일과 글 읽고 문제 풀기, 자기 평가, 복습 계획",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "I get up at 7 in the morning.",
+        "She goes to bed at 7 in the morning.",
+        "She gets up at 5 in the afternoon."
+      ],
+      "tip": "다른 사람(She, He)의 일과를 말할 때는 gets up, goes, eats처럼 동사 끝에 -s나 -es를 붙여요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 일과를 소개하는 글을 읽고 이해할 수 있는가?",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I get up at 7 in the morning. I go to school at 8:20. At 5 in the afternoon, I study English. I go to bed at 10.",
+          "question": "글쓴이는 몇 시에 학교에 가나요?",
+          "choices": [
+            "오전 7시",
+            "오후 5시",
+            "8시 20분"
+          ],
+          "answer": 2,
+          "explain": "'I go to school at 8:20.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Meet Cookie, my hamster! She goes to bed at 7 in the morning. She gets up at 5 in the afternoon. She eats breakfast at 6 in the evening. Cookie and I play together at 8:30.",
+          "question": "Cookie는 몇 시에 일어나나요?",
+          "choices": [
+            "오후 5시",
+            "오전 7시",
+            "저녁 6시"
+          ],
+          "answer": 0,
+          "explain": "'She gets up at 5 in the afternoon.' — afternoon은 오후예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Meet Cookie, my hamster! She goes to bed at 7 in the morning. She gets up at 5 in the afternoon. She eats breakfast at 6 in the evening. Cookie and I play together at 8:30.",
+          "question": "글쓴이와 Cookie가 함께 노는 시각은?",
+          "choices": [
+            "오후 5시",
+            "8시 30분",
+            "저녁 6시"
+          ],
+          "answer": 1,
+          "explain": "'Cookie and I play together at 8:30.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hamsters sleep in the daytime. They are busy at night. My hamster Cookie goes to bed at 7 in the morning. She wakes up at 5 in the afternoon.",
+          "question": "Cookie가 아침에 잠자리에 드는 까닭으로 알맞은 것은?",
+          "choices": [
+            "햄스터는 주로 낮에 활동하기 때문에",
+            "학교에 가야 하기 때문에",
+            "햄스터는 주로 밤에 활동하기 때문에"
+          ],
+          "answer": 2,
+          "explain": "'They are busy at night.' — 햄스터는 밤에 바쁘게 활동해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "This is Ruby, my hamster. Ruby goes to bed at 6:30 in the morning. She gets up at 4:30 in the afternoon. She eats breakfast at 7 in the evening. We play together at 8.",
+          "question": "Ruby에 대한 설명으로 알맞은 것은?",
+          "choices": [
+            "Ruby는 오전 6시 30분에 일어난다.",
+            "Ruby는 저녁 7시에 아침 식사를 한다.",
+            "Ruby와 글쓴이는 8시에 잠자리에 든다."
+          ],
+          "answer": 1,
+          "explain": "Ruby는 오전 6시 30분에 '잠자리에 들고', 8시에는 함께 '놀아요'."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I go to bed at 9:30. I get up at 7:30 in the morning. I go to school at 8. I study English at 4:30 in the afternoon.",
+          "question": "글쓴이의 하루를 일어난 순서대로 바르게 나열한 것은?",
+          "choices": [
+            "일어나기 → 학교 가기 → 영어 공부 → 잠자기",
+            "학교 가기 → 일어나기 → 영어 공부 → 잠자기",
+            "일어나기 → 영어 공부 → 학교 가기 → 잠자기"
+          ],
+          "answer": 0,
+          "explain": "7:30 일어나기 → 8:00 학교 → 4:30 영어 공부 → 9:30 잠자기 순서예요. 글의 순서가 아니라 시각 순서로 생각해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'early'의 뜻은?",
+          "choices": [
+            "늦게",
+            "오늘 밤",
+            "정말",
+            "일찍, 이른"
+          ],
+          "answer": 3,
+          "explain": "'I can't get up early.'는 '나는 일찍 일어날 수 없어.'라는 뜻이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'bake'의 뜻으로 알맞은 것은?",
+          "emoji": "🍞",
+          "choices": [
+            "(빵 등을) 굽다",
+            "연습하다",
+            "공부하다",
+            "자다"
+          ],
+          "answer": 0,
+          "explain": "Baker 씨는 'I bake fresh bread every morning.'이라고 했어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'오늘 밤'을 영어로 하면?",
+          "emoji": "🌙",
+          "choices": [
+            "hour",
+            "home",
+            "tonight",
+            "job"
+          ],
+          "answer": 2,
+          "explain": "'Go to bed at 9 tonight.'에서 tonight은 '오늘 밤'이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "fresh",
+              "신선한"
+            ],
+            [
+              "hour",
+              "시간"
+            ],
+            [
+              "job",
+              "일, 직업"
+            ],
+            [
+              "practice",
+              "연습하다"
+            ],
+            [
+              "really",
+              "정말"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "She gets up at 5 in the afternoon.",
+          "choices": [
+            "그녀는 오전 5시에 일어나요.",
+            "그녀는 오후 5시에 일어나요.",
+            "그녀는 오후 5시에 잠자리에 들어요."
+          ],
+          "answer": 1,
+          "explain": "afternoon은 '오후', gets up은 '일어나다'예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "She ___ up at 5 in the afternoon.",
+          "ko": "Cookie는 오후 5시에 일어나요.",
+          "choices": [
+            "get",
+            "getting",
+            "gets"
+          ],
+          "answer": 2,
+          "explain": "She, He처럼 한 사람(동물)을 말할 때는 get에 -s를 붙여 gets라고 써요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "This is my cat, Nabi. She gets up at 6 in the morning. She eats breakfast at 6:30. She goes to bed at 9 in the evening.",
+          "question": "Nabi는 몇 시에 아침 식사를 하나요?",
+          "choices": [
+            "오전 6시",
+            "오전 6시 30분",
+            "저녁 9시"
+          ],
+          "answer": 1,
+          "explain": "'She eats breakfast at 6:30.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My brother Minho gets up at 7:30. He goes to school at 8:20. He studies English at 4 in the afternoon. He goes to bed at 9:30.",
+          "question": "민호가 영어를 공부하는 시각은?",
+          "choices": [
+            "8시 20분",
+            "9시 30분",
+            "오후 4시"
+          ],
+          "answer": 2,
+          "explain": "'He studies English at 4 in the afternoon.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hamsters like the night. My hamster Bori gets up at 6 in the evening. She eats breakfast at 7 in the evening. She plays at 10 at night.",
+          "question": "Bori가 일어나는 때는?",
+          "choices": [
+            "저녁 6시",
+            "오전 6시",
+            "밤 10시"
+          ],
+          "answer": 0,
+          "explain": "'gets up at 6 in the evening' — evening은 저녁이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I get up at 6:30 in the morning. My dog Max gets up at 7. We take a walk at 7:30. Then I go to school at 8:20.",
+          "question": "글쓴이와 Max가 함께 하는 일은?",
+          "choices": [
+            "7시에 일어나기",
+            "7시 30분에 산책하기",
+            "8시 20분에 학교 가기"
+          ],
+          "answer": 1,
+          "explain": "'We take a walk at 7:30.' — We는 글쓴이와 Max예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "He ___ to school at 8:20.",
+          "ko": "그는 8시 20분에 학교에 가요.",
+          "choices": [
+            "go",
+            "going",
+            "goes"
+          ],
+          "answer": 2,
+          "explain": "He가 주어일 때 go는 goes가 돼요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "She eats breakfast at 6 in the ___.",
+          "ko": "그녀는 저녁 6시에 아침 식사를 해요.",
+          "choices": [
+            "morning",
+            "evening",
+            "afternoon"
+          ],
+          "answer": 1,
+          "explain": "'저녁'은 evening이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "early",
+              "일찍"
+            ],
+            [
+              "tonight",
+              "오늘 밤"
+            ],
+            [
+              "bake",
+              "굽다"
+            ],
+            [
+              "study",
+              "공부하다"
+            ],
+            [
+              "home",
+              "집"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "He goes to bed at 9 in the evening.",
+          "choices": [
+            "그는 저녁 9시에 잠자리에 들어요.",
+            "그는 오전 9시에 잠자리에 들어요.",
+            "그는 저녁 9시에 일어나요."
+          ],
+          "answer": 0,
+          "explain": "in the evening은 '저녁', goes to bed는 '잠자리에 들다'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그녀는 오전 8시에 잠자리에 들어요.",
+          "answer": "She goes to bed at 8 in the morning.",
+          "distractors": [
+            "go",
+            "gets"
+          ],
+          "explain": "She가 주어일 때는 goes를 써요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My hamster gets up at 5 in the afternoon.",
+          "ko": "내 햄스터는 오후 5시에 일어나요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I get up at 7 in the morning and go to bed at 9:30 at night. Ddori is my owl. She goes to bed at 6 in the morning. She gets up at 7 in the evening. We look at the stars together at 8.",
+          "question": "글쓴이와 Ddori가 함께 별을 보는 시각은?",
+          "choices": [
+            "7시",
+            "8시",
+            "9시 30분"
+          ],
+          "answer": 1,
+          "explain": "'We look at the stars together at 8.'이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I get up at 7 in the morning and go to bed at 9:30 at night. Ddori is my owl. She goes to bed at 6 in the morning. She gets up at 7 in the evening. We look at the stars together at 8.",
+          "question": "글의 내용과 일치하는 것은?",
+          "choices": [
+            "Ddori는 오전 6시에 잠자리에 든다.",
+            "Ddori는 오전 7시에 일어난다.",
+            "글쓴이는 저녁 7시에 잠자리에 든다."
+          ],
+          "answer": 0,
+          "explain": "올빼미 Ddori는 아침 6시에 자고 저녁 7시에 일어나요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I go to bed at 10. I study English at 5 in the afternoon. I go to school at 8:30. I get up at 7 in the morning.",
+          "question": "글쓴이가 하루 중 가장 먼저 하는 일은?",
+          "choices": [
+            "학교 가기",
+            "영어 공부하기",
+            "일어나기"
+          ],
+          "answer": 2,
+          "explain": "시각 순서로 보면 오전 7시에 일어나는 일이 가장 먼저예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Mr. Kim works at night. He goes to bed at 9 in the morning. He gets up at 4 in the afternoon. He eats breakfast at 5.",
+          "question": "김 씨가 아침 식사를 하는 시각은?",
+          "choices": [
+            "오전 9시",
+            "오후 5시",
+            "오후 4시"
+          ],
+          "answer": 1,
+          "explain": "'He eats breakfast at 5.'라고 했어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그는 7시에 일어나요.",
+          "answers": [
+            "He gets up at 7.",
+            "He gets up at seven.",
+            "He gets up at 7:00."
+          ],
+          "hint": "He ____ up at 7."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그녀는 오후 4시에 영어를 공부해요.",
+          "answers": [
+            "She studies English at 4 in the afternoon.",
+            "She studies English at four in the afternoon."
+          ],
+          "hint": "She ____ English at 4 in the afternoon."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My cat goes to bed at 10 in the evening.",
+          "answer": "My cat goes to bed at 10 in the evening.",
+          "distractors": [
+            "go",
+            "morning."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "We play together at 7:30.",
+          "answer": "We play together at 7:30.",
+          "distractors": [
+            "plays",
+            "bed"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그는 오후 3시에 집에 와요.",
+          "answer": "He comes home at 3 in the afternoon.",
+          "distractors": [
+            "come",
+            "evening."
+          ],
+          "explain": "He가 주어이니 comes, '오후'는 in the afternoon이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Cookie and I are good friends.",
+          "ko": "Cookie와 나는 좋은 친구예요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "일과를 소개하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 일과를 소개하는 글을 쓸 수 있다.",
+        "일과를 소개하는 글을 발표하며 배운 내용을 활용할 수 있다."
+      ],
+      "pages": "교과서 144~145쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read 글을 모둠별로 번갈아 읽기, 시계를 든 여자아이 사진 보고 'I get up at 7.' 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "그림 보고 일과 어구 완성하기(Words), Ella와 언니의 일과로 I/She 문장 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "Anna의 일과표를 참고해 나의 일과표를 채우고 예시문처럼 일과를 소개하는 글 쓰기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "자신이 쓴 글을 모둠에서 돌아가며 읽기, 자기·상호 평가",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "일과 글 읽고 질문에 답하며 복습, 빈칸 ⓐ·ⓑ 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "I get up at 7.",
+        "I eat breakfast at 7:30.",
+        "She gets up at 8.",
+        "She comes home at 2:20."
+      ],
+      "tip": "글을 쓸 때는 하루를 시간 순서대로 써요. 내가 할 때는 get up, 그녀가 할 때는 gets up!",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 일과를 소개하는 글을 쓸 수 있는가? 글을 모둠원과 공유하는 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 7시 30분에 아침 식사를 해요.",
+          "answers": [
+            "I eat breakfast at 7:30."
+          ],
+          "hint": "I eat breakfast at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 8시 10분에 학교에 가요.",
+          "answers": [
+            "I go to school at 8:10."
+          ],
+          "hint": "I go to school at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 9시에 잠자리에 들어요.",
+          "answers": [
+            "I go to bed at 9.",
+            "I go to bed at nine.",
+            "I go to bed at 9:00."
+          ],
+          "hint": "I go to bed at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그녀는 8시에 일어나요.",
+          "answers": [
+            "She gets up at 8.",
+            "She gets up at eight.",
+            "She gets up at 8:00."
+          ],
+          "hint": "She ____ ____ at 8."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 3시 50분에 집에 와요.",
+          "answer": "I come home at 3:50.",
+          "distractors": [
+            "comes",
+            "school"
+          ],
+          "explain": "I(나)가 주인공일 때는 come을 그대로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그녀는 2시 20분에 집에 와요.",
+          "answer": "She comes home at 2:20.",
+          "distractors": [
+            "come",
+            "I"
+          ],
+          "explain": "She(그녀)가 주인공일 때는 comes처럼 -s를 붙여요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 7시에 일어나요.",
+          "answer": "I get up at 7.",
+          "distractors": [
+            "gets",
+            "bed"
+          ],
+          "explain": "I(나)일 때는 'get up'을 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "She ___ home at 2:20.",
+          "ko": "그녀는 2시 20분에 집에 와요.",
+          "choices": [
+            "comes",
+            "come",
+            "go"
+          ],
+          "answer": 0,
+          "explain": "She가 주어일 때는 come에 -s를 붙여 comes라고 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ breakfast at 7:30.",
+          "ko": "나는 7시 30분에 아침 식사를 해요.",
+          "choices": [
+            "go",
+            "eat",
+            "study"
+          ],
+          "answer": 1,
+          "explain": "'아침 식사를 하다'는 'eat breakfast'예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'i go to school at 8:30.'에서 바르게 고쳐야 할 곳은?",
+          "choices": [
+            "school → School",
+            "i → I",
+            "at → At"
+          ],
+          "answer": 1,
+          "explain": "'나'를 뜻하는 I는 언제나 대문자로 써요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Anna. I get up at 7. I eat breakfast at 7:30. I go to school at 8:10. I go to bed at 9.",
+          "question": "Anna는 몇 시에 학교에 가나요?",
+          "choices": [
+            "7시 30분",
+            "8시 10분",
+            "9시"
+          ],
+          "answer": 1,
+          "explain": "'I go to school at 8:10.'이라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I go to school at 8:10.",
+          "ko": "나는 8시 10분에 학교에 가요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 6시 45분에 일어나요.",
+          "answers": [
+            "I get up at 6:45."
+          ],
+          "hint": "I ____ ____ at 6:45."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 7시 5분에 아침 식사를 해요.",
+          "answers": [
+            "I eat breakfast at 7:05."
+          ],
+          "hint": "I ____ ____ at 7:05."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그녀는 3시에 집에 와요.",
+          "answers": [
+            "She comes home at 3.",
+            "She comes home at three.",
+            "She comes home at 3:00."
+          ],
+          "hint": "She ____ home at 3."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "He ___ up at 6:30.",
+          "ko": "그는 6시 30분에 일어나요.",
+          "choices": [
+            "get",
+            "go",
+            "gets"
+          ],
+          "answer": 2,
+          "explain": "He가 주어일 때는 gets를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ to bed at 10:10.",
+          "ko": "나는 10시 10분에 잠자리에 들어요.",
+          "choices": [
+            "go",
+            "goes",
+            "get"
+          ],
+          "answer": 0,
+          "explain": "I가 주어일 때는 go를 그대로 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "She ___ breakfast at 7:40.",
+          "ko": "그녀는 7시 40분에 아침 식사를 해요.",
+          "choices": [
+            "eat",
+            "eats",
+            "goes"
+          ],
+          "answer": 1,
+          "explain": "She가 주어일 때는 eats를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 8시 5분에 학교에 가요.",
+          "answer": "I go to school at 8:05.",
+          "distractors": [
+            "goes",
+            "home"
+          ],
+          "explain": "I + go to school + at + 시각이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그녀는 9시 30분에 잠자리에 들어요.",
+          "answer": "She goes to bed at 9:30.",
+          "distractors": [
+            "go",
+            "gets"
+          ],
+          "explain": "She가 주어일 때는 goes to bed예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "일과를 소개하는 글의 문장으로 바르게 쓴 것은?",
+          "choices": [
+            "I come home 4:10.",
+            "I comes home at 4:10.",
+            "I come home at 4:10.",
+            "i come home at 4:10."
+          ],
+          "answer": 2,
+          "explain": "I는 대문자, I 뒤에는 come, 시각 앞에는 at이 필요해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "She gets up at 6:15.",
+          "answer": "She gets up at 6:15.",
+          "distractors": [
+            "get",
+            "bed"
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 7시 20분에 일어나요. 나는 8시에 아침 식사를 해요.",
+          "answers": [
+            "I get up at 7:20. I eat breakfast at 8.",
+            "I get up at 7:20. I eat breakfast at 8:00."
+          ],
+          "hint": "I get up at ____. I eat breakfast at ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그는 4시 30분에 영어를 공부해요.",
+          "answers": [
+            "He studies English at 4:30."
+          ],
+          "hint": "He ____ English at 4:30."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 10시 20분에 잠자리에 들어요.",
+          "answers": [
+            "I go to bed at 10:20."
+          ],
+          "hint": "I ____ ____ ____ at 10:20."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I come home at 2:40. My sister comes home at 3.",
+          "answer": "I come home at 2:40. My sister comes home at 3.",
+          "distractors": [
+            "goes",
+            "bed"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My brother goes to school at 8:15.",
+          "answer": "My brother goes to school at 8:15.",
+          "distractors": [
+            "go",
+            "home"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내 이름은 서준이에요. 나는 7시에 일어나요.",
+          "answer": "My name is Seojun. I get up at 7.",
+          "distractors": [
+            "gets",
+            "bed"
+          ],
+          "explain": "자기소개를 먼저 하고 일과를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그녀는 6시 40분에 일어나요. 나는 7시 10분에 일어나요.",
+          "answer": "She gets up at 6:40. I get up at 7:10.",
+          "distractors": [
+            "go",
+            "eats"
+          ],
+          "explain": "She 뒤에는 gets, I 뒤에는 get을 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What time do you study English, Anna?"
+            },
+            {
+              "who": "Anna",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I go to school at 5:20.",
+            "I study English at 5:20.",
+            "She studies English at 5:20."
+          ],
+          "answer": 1,
+          "explain": "Anna 자신의 일과를 물었으니 'I study ...'로 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Jiu. I get up at 6:30. I eat breakfast at 7. My sister gets up at 7:30. She eats breakfast at 8. We go to school at 8:20.",
+          "question": "지우의 자매(sister)가 아침 식사를 하는 시각은?",
+          "choices": [
+            "7시",
+            "7시 30분",
+            "8시"
+          ],
+          "answer": 2,
+          "explain": "'She eats breakfast at 8.'이라고 했어요. She는 지우의 자매예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My sister gets up at 7:30. She goes to school at 8.",
+          "ko": "우리 언니(누나)는 7시 30분에 일어나요. 그녀는 8시에 학교에 가요."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project / My Work",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 146~147쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "Practice 2 그림(7시 50분 아침 식사) 보고 일과 문장 말하고 공책에 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "우리 모둠 일과표 만들기 → 일과 말판 놀이판 완성하기 → 동전 던지며 말판 놀이로 일과 묻고 답하기",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 순서 쓰기, 일과·놀람 표현 대화하기, 하준이의 일과 글 읽고 시각 쓰기와 대화 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 점검('정리해요'), 복습 계획, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What time do you get up?",
+        "I get up at 7:30.",
+        "Really? That's very early."
+      ],
+      "tip": "친구의 일과가 나와 많이 다르면 'Really?'라고 반응해 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 남자아이의 일과로 알맞은 것을 고르세요.",
+          "audio": "I go to bed at 8:30.",
+          "choices": [
+            "8시 30분에 일어난다.",
+            "8시에 잠자리에 든다.",
+            "8시 30분에 잠자리에 든다."
+          ],
+          "answer": 2,
+          "explain": "'go to bed'는 '잠자리에 들다', 8:30은 8시 30분이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Man",
+              "text": "What time do you go to bed?"
+            },
+            {
+              "who": "Boy",
+              "text": "I go to bed at 8:30."
+            },
+            {
+              "who": "Man",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Really? That's very early.",
+            "I'd like a beef steak.",
+            "Yes, please."
+          ],
+          "answer": 0,
+          "explain": "8시 30분에 자는 것은 이른 시각이라 놀람을 표현해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Hajun. I get up at 7:30 and go to school at 8:30. I eat lunch at 12. I come home at 4:20. Then I study English at 5.",
+          "question": "하준이는 몇 시에 집에 오나요?",
+          "choices": [
+            "5시",
+            "4시 20분",
+            "12시"
+          ],
+          "answer": 1,
+          "explain": "'I come home at 4:20.'이라고 했어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 4시 20분에 집에 와요.",
+          "answers": [
+            "I come home at 4:20."
+          ],
+          "hint": "I come home at ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 10시에 잠자리에 들어요.",
+          "answer": "I go to bed at 10.",
+          "distractors": [
+            "gets",
+            "school"
+          ],
+          "explain": "I + go to bed + at + 시각 순서예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What time do you ___ English?",
+          "ko": "너는 몇 시에 영어를 공부하니?",
+          "choices": [
+            "eat",
+            "go",
+            "study"
+          ],
+          "answer": 2,
+          "explain": "'영어를 공부하다'는 'study English'예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "놀람을 표현하는 말로 알맞은 것은?",
+          "choices": [
+            "Thank you.",
+            "Really?",
+            "Good idea.",
+            "See you."
+          ],
+          "answer": 1,
+          "explain": "'Really?'는 '정말?'이라는 뜻으로 놀랐을 때 써요."
+        },
+        {
+          "type": "match",
+          "prompt": "시각 표현과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "7 in the morning",
+              "오전 7시"
+            ],
+            [
+              "5 in the afternoon",
+              "오후 5시"
+            ],
+            [
+              "6 in the evening",
+              "저녁 6시"
+            ],
+            [
+              "10:30",
+              "10시 30분"
+            ]
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What time do you eat breakfast?",
+          "answer": "What time do you eat breakfast?",
+          "distractors": [
+            "lunch",
+            "get"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What time do you get up?",
+          "ko": "너는 몇 시에 일어나니?"
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "Jack, what time do you eat breakfast?"
+            },
+            {
+              "who": "Jack",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I eat breakfast at eight.",
+            "I go to bed at eight.",
+            "I like bread."
+          ],
+          "answer": 0,
+          "explain": "아침 식사 시각을 물었으니 'I eat breakfast at ....'로 답해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "'I get up at 7.'의 주인공을 She로 바꾼 문장으로 알맞은 것은?",
+          "choices": [
+            "She getting up at 7.",
+            "She get up at 7.",
+            "She gets up at 7."
+          ],
+          "answer": 2,
+          "explain": "She가 주어일 때는 gets up이라고 써요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What time do you eat breakfast, Minhui?"
+            },
+            {
+              "who": "Minhui",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I eat breakfast at seven.",
+            "I go to school at seven.",
+            "Yes, please."
+          ],
+          "answer": 0,
+          "explain": "아침 식사 시각을 물었으니 'I eat breakfast at ....'예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Boy",
+              "text": "What time do you get up?"
+            },
+            {
+              "who": "Girl",
+              "text": "I get up at 5."
+            },
+            {
+              "who": "Boy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "What time is it?",
+            "Really? At 5?",
+            "I'm sorry."
+          ],
+          "answer": 1,
+          "explain": "5시는 아주 이른 시각이라 놀람을 표현해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 몇 시에 점심 식사를 하니?",
+          "answer": "What time do you eat lunch?",
+          "distractors": [
+            "breakfast",
+            "go"
+          ],
+          "explain": "'점심 식사를 하다'는 'eat lunch'예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "하준이는 5시에 영어를 공부해요.",
+          "answer": "Hajun studies English at 5.",
+          "distractors": [
+            "study",
+            "goes"
+          ],
+          "explain": "한 사람(하준)이 주어일 때는 studies를 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I get up at 7:40 and eat breakfast at 8.",
+          "answer": "I get up at 7:40 and eat breakfast at 8.",
+          "distractors": [
+            "gets",
+            "school"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ time do you come home?",
+          "ko": "너는 몇 시에 집에 오니?",
+          "choices": [
+            "Where",
+            "How",
+            "What"
+          ],
+          "answer": 2,
+          "explain": "'몇 시'는 What time이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My dad ___ up at 5:30.",
+          "ko": "우리 아빠는 5시 30분에 일어나요.",
+          "choices": [
+            "get",
+            "gets",
+            "go"
+          ],
+          "answer": 1,
+          "explain": "My dad(한 사람)가 주어이니 gets를 써요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "She gets up.",
+              "그녀는 일어나요."
+            ],
+            [
+              "He goes to school.",
+              "그는 학교에 가요."
+            ],
+            [
+              "She comes home.",
+              "그녀는 집에 와요."
+            ],
+            [
+              "He studies English.",
+              "그는 영어를 공부해요."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 것을 고르세요.",
+          "audio": "My mom comes home at 6:30.",
+          "choices": [
+            "엄마는 6시 30분에 집에 오신다.",
+            "엄마는 6시 30분에 일어나신다.",
+            "엄마는 7시 30분에 집에 오신다."
+          ],
+          "answer": 0,
+          "explain": "comes home은 '집에 오다', 6:30은 6시 30분이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What time do you eat lunch? I eat lunch at 12:20.",
+          "ko": "너는 몇 시에 점심 식사를 하니? 나는 12시 20분에 점심 식사를 해."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "우리 엄마는 6시에 일어나요.",
+          "answers": [
+            "My mom gets up at 6.",
+            "My mom gets up at six.",
+            "My mom gets up at 6:00."
+          ],
+          "hint": "My mom ____ up at 6."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 12시 40분에 점심 식사를 해요.",
+          "answers": [
+            "I eat lunch at 12:40."
+          ],
+          "hint": "I ____ ____ at 12:40."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Linh, 너는 몇 시에 집에 오니?",
+          "answers": [
+            "Linh, what time do you come home?",
+            "What time do you come home, Linh?"
+          ],
+          "hint": "Linh, what time do you ____ ____?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hajun comes home at 4:20. He studies English at 5.",
+          "answer": "Hajun comes home at 4:20. He studies English at 5.",
+          "distractors": [
+            "come",
+            "goes"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What time do you go to bed, Mr. Kant?",
+          "answer": "What time do you go to bed, Mr. Kant?",
+          "distractors": [
+            "get",
+            "Where"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그는 8시 40분에 학교에 가요.",
+          "answer": "He goes to school at 8:40.",
+          "distractors": [
+            "go",
+            "home"
+          ],
+          "explain": "He가 주어이니 goes를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 오후 4시에 집에 와요. 나는 5시에 영어를 공부해요.",
+          "answer": "I come home at 4 in the afternoon. I study English at 5.",
+          "distractors": [
+            "comes",
+            "studies"
+          ],
+          "explain": "I가 주어일 때는 come, study를 그대로 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Girl",
+              "text": "What time do you go to bed, Tom?"
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            },
+            {
+              "who": "Girl",
+              "text": "Really? That's very late."
+            }
+          ],
+          "choices": [
+            "I get up at 11:40.",
+            "I go to bed at 11:40.",
+            "I go to bed at 8."
+          ],
+          "answer": 1,
+          "explain": "'정말? 정말 늦다.'라고 했으니 늦게 자는 시각이 알맞아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Linh. I get up at 6:30 and eat breakfast at 7. I go to school at 8:10. I come home at 3:20 and study English at 4. I go to bed at 9:40.",
+          "question": "Linh이 집에 오는 시각은?",
+          "choices": [
+            "3시 20분",
+            "4시",
+            "8시 10분"
+          ],
+          "answer": 0,
+          "explain": "'I come home at 3:20'이라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What time do you go to bed? Really? That's very late.",
+          "ko": "너는 몇 시에 잠자리에 드니? 정말? 그거 정말 늦다."
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "음악 발표회를 앞두고 아침 연습 시간을 정하는데, 우주가 일찍 일어나지 못한다고 해요.",
+      "lines": [
+        {
+          "who": "Tom",
+          "text": "Let's practice one more time tomorrow morning."
+        },
+        {
+          "who": "하나",
+          "text": "Great. How about at 7:50?"
+        },
+        {
+          "who": "우주",
+          "text": "Sorry, I can't. I can't get up early."
+        },
+        {
+          "who": "Amy",
+          "text": "What time do you get up?"
+        },
+        {
+          "who": "우주",
+          "text": "I get up at 8."
+        },
+        {
+          "who": "Tom",
+          "text": "What time do you go to bed?"
+        },
+        {
+          "who": "우주",
+          "text": "I go to bed at 10. I sleep for 10 hours."
+        },
+        {
+          "who": "Tom",
+          "text": "Go to bed at 9 tonight."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "아이들이 빵집에 가서 빵집 주인 Baker 씨를 인터뷰해요.",
+      "lines": [
+        {
+          "who": "Mohan",
+          "text": "Do you bake bread every day?"
+        },
+        {
+          "who": "Mr. Baker",
+          "text": "Yes, I do. I bake fresh bread every morning."
+        },
+        {
+          "who": "하나",
+          "text": "What time do you get up?"
+        },
+        {
+          "who": "Mr. Baker",
+          "text": "I get up at 4:30."
+        },
+        {
+          "who": "Amy",
+          "text": "Really? That's very early."
+        },
+        {
+          "who": "하나",
+          "text": "What time do you eat breakfast?"
+        },
+        {
+          "who": "Mr. Baker",
+          "text": "I eat breakfast at 8."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "나리와 Taylor는 등교 시각을, 민우와 Noah는 영어 공부 시각을 이야기해요.",
+      "lines": [
+        {
+          "who": "나리",
+          "text": "What time do you go to school?"
+        },
+        {
+          "who": "Taylor",
+          "text": "I go to school at 8:30."
+        },
+        {
+          "who": "나리",
+          "text": "Great. Let's go to school together."
+        },
+        {
+          "who": "민우",
+          "text": "Yes, I do. I study English every day."
+        },
+        {
+          "who": "Noah",
+          "text": "Really? What time do you study English?"
+        },
+        {
+          "who": "민우",
+          "text": "I study English at 4."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "나의 하루와 햄스터 Cookie의 하루",
+    "passage": "Hi! This is my day. I get up at 7 in the morning. I go to school at 8:20. At 5 in the afternoon, I study English. I go to bed at 10. Meet Cookie, my hamster! Her day is different. She goes to bed at 7 in the morning. She gets up at 5 in the afternoon and eats breakfast at 6 in the evening. We play together at 8:30. We are good friends.",
+    "summaryKo": "여자아이는 아침에 일어나 밤에 자지만, 밤에 활동하는 햄스터 Cookie는 아침에 자고 오후에 일어나요. 둘은 8시 30분에 함께 노는 좋은 친구예요."
+  },
+  "writing": {
+    "frame": [
+      "I get up at ____.",
+      "I eat breakfast at ____.",
+      "I go to school at ____.",
+      "I go to bed at ____."
+    ],
+    "model": "I get up at 7:10. I eat breakfast at 7:40. I go to school at 8:20. I go to bed at 9:30."
+  },
+  "project": "모둠원과 상의해 일과표용 그림 카드로 '우리 모둠 일과표'를 만들고, 그림·문장 카드를 붙여 일과 말판 놀이판을 완성한 뒤 동전을 던져 말판 놀이를 하며 일과를 묻고 답한다.",
+  "special": {
+    "no": 10,
+    "kind": "Into the History",
+    "title": "칸트의 규칙적인 생활",
+    "summaryKo": "보보와 코코가 철학자 칸트를 만나요. 칸트는 매일 같은 시각에 학교에 가고, 점심을 먹고, 산책을 하고, 잠자리에 들어요. 마을 사람들은 3시에 산책하는 칸트를 보고 시계를 맞출 정도였어요.",
+    "facts": [
+      "이마누엘 칸트(1724~1804)는 서양 근대 철학을 종합한 유명한 철학자예요.",
+      "칸트는 정해진 시각에 정확히 일어나고, 점심을 먹고, 산책을 했다고 해요.",
+      "칸트가 매일 3시에 산책을 나가서 마을 사람들이 그 모습을 보고 시계를 맞췄다는 이야기가 있어요.",
+      "칸트는 원래 몸이 약했지만, 시계처럼 정확한 습관을 지켜 강의와 연구, 글쓰기를 꾸준히 이어 갔어요."
+    ],
+    "expressions": [
+      "I go to school at 9.",
+      "He eats lunch at 12.",
+      "What time do you go to bed? — I go to bed at 10."
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "칸트는 어떤 일을 한 사람인가요?",
+        "emoji": "📜",
+        "choices": [
+          "철학자",
+          "화가",
+          "과학자",
+          "음악가"
+        ],
+        "answer": 0,
+        "explain": "칸트는 서양 근대 철학을 종합한 철학자예요."
+      },
+      {
+        "type": "mc",
+        "prompt": "만화에서 칸트는 몇 시에 산책을 가나요?",
+        "emoji": "🚶",
+        "choices": [
+          "9시",
+          "12시",
+          "3시",
+          "10시"
+        ],
+        "answer": 2,
+        "explain": "칸트는 'I take a walk at 3.'이라고 말했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "마을 사람이 칸트를 보고 회중시계를 맞춘 까닭은?",
+        "emoji": "⌚",
+        "choices": [
+          "칸트가 시계를 팔았기 때문에",
+          "칸트가 매일 같은 시각에 산책을 했기 때문에",
+          "칸트가 늦잠을 잤기 때문에"
+        ],
+        "answer": 1,
+        "explain": "칸트는 매일 3시에 산책을 해서 시계처럼 정확했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "칸트에 대한 설명으로 알맞은 것은?",
+        "choices": [
+          "매일 다른 시각에 일어났다.",
+          "점심을 먹지 않았다.",
+          "몸이 약했지만 규칙적인 습관을 지켜 연구를 계속했다."
+        ],
+        "answer": 2,
+        "explain": "칸트는 정해진 시각에 일어나고 점심을 먹는 규칙적인 생활을 했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "만화에서 칸트가 점심 식사를 하는 시각은?",
+        "emoji": "🍽️",
+        "choices": [
+          "12시",
+          "3시",
+          "9시",
+          "10시"
+        ],
+        "answer": 0,
+        "explain": "'He eats lunch at 12.'라고 했어요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "코코",
+            "text": "What time do you go to bed?"
+          },
+          {
+            "who": "Mr. Kant",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "I take a walk at 3.",
+          "I go to bed at 10.",
+          "It's 12."
+        ],
+        "answer": 1,
+        "explain": "잠자리에 드는 시각을 물었으니 'I go to bed at ....'로 답해요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "I take a walk at 3.",
+        "choices": [
+          "나는 3시에 점심을 먹는단다.",
+          "나는 3시에 산책을 간단다.",
+          "나는 3시에 학교에 간단다."
+        ],
+        "answer": 1,
+        "explain": "'take a walk'는 '산책하다'예요."
+      },
+      {
+        "type": "fill",
+        "prompt": "빈칸에 알맞은 말을 고르세요.",
+        "sentence": "He ___ lunch at 12.",
+        "ko": "그는 12시에 점심 식사를 해요.",
+        "choices": [
+          "eat",
+          "eats",
+          "goes"
+        ],
+        "answer": 1,
+        "explain": "He가 주어일 때는 eat에 -s를 붙여 eats라고 써요."
+      }
+    ]
+  }
+}

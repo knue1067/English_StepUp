@@ -1,0 +1,2271 @@
+{
+ "id": "L06",
+ "no": 6,
+ "grade": 3,
+ "semester": 1,
+ "title": "Do You Have a Pencil?",
+ "emoji": "✏️",
+ "rationale": "교실에서 학생들은 학용품을 가지고 있는지 묻고 답하는 일을 자연스럽게 경험한다. 물건을 가지고 있는지 묻고 답하는 말과 가지고 있는 물건과 가지고 있지 않은 물건을 표현하는 말을 익혀 정보를 교환하는 의사소통 능력을 기르고, 물건을 빌려주거나 나누어 쓰는 상황을 통해 서로 이해하고 배려하는 태도를 기르고자 한다.",
+ "topics": "개인 생활 관련(오락), 학교생활 관련(학교 활동), 민주시민 관련(협력), 일반교양 관련(심미적 심성)",
+ "functions": [
+  {
+   "ko": "물건을 가지고 있는지 묻고 답하기",
+   "examples": [
+    "Do you have a pencil?",
+    "Yes, I do.",
+    "No, I don't."
+   ]
+  },
+  {
+   "ko": "가지고 있는 물건과 가지고 있지 않은 물건을 표현하기",
+   "examples": [
+    "I have a brush.",
+    "I don't have a brush."
+   ]
+  }
+ ],
+ "forms": [
+  "Do you have an eraser? (모음 소리 앞에는 an)",
+  "I don't have tape. (tape 앞에는 a를 쓰지 않음)"
+ ],
+ "phonics": {
+  "focus": "p /p/",
+  "words": [
+   "pen",
+   "pencil",
+   "pig"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "at",
+   "ko": "~에, ~을 (Look at: ~을 보다)"
+  },
+  {
+   "en": "book",
+   "ko": "책"
+  },
+  {
+   "en": "brush",
+   "ko": "붓"
+  },
+  {
+   "en": "do",
+   "ko": "(질문·부정에 쓰는 말) / 하다"
+  },
+  {
+   "en": "eraser",
+   "ko": "지우개"
+  },
+  {
+   "en": "great",
+   "ko": "훌륭한, 멋진"
+  },
+  {
+   "en": "have",
+   "ko": "가지고 있다"
+  },
+  {
+   "en": "not",
+   "ko": "~ 않다 (don't = do not)"
+  },
+  {
+   "en": "pen",
+   "ko": "펜"
+  },
+  {
+   "en": "pencil",
+   "ko": "연필"
+  },
+  {
+   "en": "tape",
+   "ko": "테이프"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "book",
+   "ko": "책",
+   "emoji": "📕"
+  },
+  {
+   "en": "brush",
+   "ko": "붓",
+   "emoji": "🖌️"
+  },
+  {
+   "en": "eraser",
+   "ko": "지우개",
+   "emoji": ""
+  },
+  {
+   "en": "pen",
+   "ko": "펜",
+   "emoji": "🖊️"
+  },
+  {
+   "en": "pencil",
+   "ko": "연필",
+   "emoji": "✏️"
+  },
+  {
+   "en": "tape",
+   "ko": "테이프",
+   "emoji": ""
+  }
+ ],
+ "characters": [
+  "준오",
+  "Kate",
+  "보라",
+  "Eric",
+  "Momo",
+  "Hoa",
+  "하나",
+  "Paul",
+  "민우",
+  "Alice",
+  "Danny",
+  "피터 팬",
+  "팅커 벨",
+  "웬디",
+  "마이클"
+ ],
+ "goals": {
+  "understand": [
+   "물건을 가지고 있는지 묻고 답하는 말, 가지고 있는 물건과 가지고 있지 않은 물건을 표현하는 말을 듣고 이해할 수 있다.",
+   "물건을 나타내는 단어(book, pen, pencil, tape)를 읽고 그 의미를 이해할 수 있다.",
+   "소리 /p/와 철자 ‘p’의 관계를 이해하며 ‘p’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+   "필요한 물건을 가지고 있지 않은 친구에게 관심을 가지며 이해하고 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "물건을 가지고 있는지 묻고 답하는 말, 가지고 있는 물건과 가지고 있지 않은 물건을 표현하는 말을 할 수 있다.",
+   "물건을 나타내는 단어(book, pen, pencil, tape)를 따라 쓸 수 있다.",
+   "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-04",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "물건을 가지고 있는지 묻고 답하기",
+   "objectives": [
+    "물건을 가지고 있는지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘선생님이 가진 카드와 같은 카드 고르기’로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 62~63쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "책상 위 학용품 사진 보고 말하기, 교탁과 내 책상 위 물건 말하기, 단원 학습 목표 확인 및 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "모형 놀이터를 만들며 연필과 테이프를 빌리는 만화 영화 보고 빌린 물건 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 물건과 답(○, ×)을 알맞게 연결하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "선생님이 가진 카드와 같은 카드 고르기: 선생님 질문에 Yes, I do./No, I don't.로 답하고 일어서기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "그림 카드로 묻고 답하기, 대화 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you have a pencil?",
+    "Yes, I do.",
+    "No, I don't."
+   ],
+   "tip": "물건을 빌려줄 때는 ‘Here.’, 받을 때는 ‘Thanks.’라고 말해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 물건을 가지고 있는지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가, 수행평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "pencil",
+       "연필"
+      ],
+      [
+       "book",
+       "책"
+      ],
+      [
+       "pen",
+       "펜"
+      ],
+      [
+       "eraser",
+       "지우개"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "brush",
+       "붓"
+      ],
+      [
+       "tape",
+       "테이프"
+      ],
+      [
+       "Yes, I do.",
+       "응, 있어."
+      ],
+      [
+       "No, I don't.",
+       "아니, 없어."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어는?",
+     "emoji": "✏️",
+     "choices": [
+      "pen",
+      "pencil",
+      "book",
+      "brush"
+     ],
+     "answer": 1,
+     "explain": "연필은 pencil이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어는?",
+     "emoji": "📕",
+     "choices": [
+      "book",
+      "pen",
+      "brush",
+      "tape"
+     ],
+     "answer": 0,
+     "explain": "책은 book이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Do you have a pen, Sam?",
+     "choices": [
+      "Sam, 너는 연필을 가지고 있니?",
+      "Sam, 이것은 펜이니?",
+      "Sam, 너는 펜을 가지고 있니?"
+     ],
+     "answer": 2,
+     "explain": "Do you have ...?는 ‘너는 ~을 가지고 있니?’라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "No, I don't.",
+     "choices": [
+      "응, 있어.",
+      "맞아.",
+      "아니, 없어."
+     ],
+     "answer": 2,
+     "explain": "No, I don't.는 가지고 있지 않을 때 하는 대답이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 연필을 가지고 있어요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "준오",
+       "text": "Do you have a pencil?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do.",
+      "That's right."
+     ],
+     "answer": 1,
+     "explain": "연필을 가지고 있으면 ‘Yes, I do.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric은 테이프가 없어요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "보라",
+       "text": "Do you have tape?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do.",
+      "Thank you."
+     ],
+     "answer": 0,
+     "explain": "테이프가 없으면 ‘No, I don't.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you ___ a book?",
+     "ko": "너는 책을 가지고 있니?",
+     "choices": [
+      "many",
+      "have",
+      "look"
+     ],
+     "answer": 1,
+     "explain": "‘가지고 있다’는 have예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 붓을 가지고 있니?",
+     "answer": "Do you have a brush?",
+     "distractors": [
+      "pen?",
+      "an"
+     ],
+     "explain": "‘Do you have a + 물건?’으로 물어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "물건을 건네주며 '여기 있어.'라고 할 때 하는 말은?",
+     "choices": [
+      "Bye.",
+      "Wow.",
+      "Here."
+     ],
+     "answer": 2,
+     "explain": "물건을 줄 때 ‘Here.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have a book?",
+     "ko": "너는 책을 가지고 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you have ___ eraser?",
+     "ko": "너는 지우개를 가지고 있니?",
+     "choices": [
+      "an",
+      "a",
+      "many"
+     ],
+     "answer": 0,
+     "explain": "eraser처럼 모음 소리로 시작하는 말 앞에는 an을 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa는 연필✏️을 빌리고 싶어요. Hoa의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Yes, I do. Here."
+      }
+     ],
+     "choices": [
+      "Do you have a pencil?",
+      "How many pencils?",
+      "What's this?"
+     ],
+     "answer": 0,
+     "explain": "연필을 가지고 있는지 물을 때 ‘Do you have a pencil?’이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you have a book? Yes, I do.",
+     "answer": "Do you have a book? Yes, I do.",
+     "distractors": [
+      "pen?",
+      "don't."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 있어. 여기 있어.",
+     "answer": "Yes, I do. Here.",
+     "distractors": [
+      "don't.",
+      "No,"
+     ],
+     "explain": "가지고 있으면 ‘Yes, I do.’라고 답하고, 건네줄 때 ‘Here.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 테이프를 가지고 있니?",
+     "answer": "Do you have tape?",
+     "distractors": [
+      "a",
+      "pen?"
+     ],
+     "explain": "tape 앞에는 a를 쓰지 않아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate가 연필을 건네주었어요. 준오의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "준오",
+       "text": "Do you have a pencil?"
+      },
+      {
+       "who": "Kate",
+       "text": "Yes, I do. Here."
+      },
+      {
+       "who": "준오",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Bye.",
+      "No, I don't.",
+      "Thanks."
+     ],
+     "answer": 2,
+     "explain": "물건을 받으면 ‘Thanks.’라고 고마움을 표현해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 친구가 가지고 있는 물건을 고르세요.",
+     "audio": "Do you have an eraser? Yes, I do.",
+     "choices": [
+      "연필",
+      "지우개",
+      "붓"
+     ],
+     "answer": 1,
+     "explain": "eraser는 지우개예요. Yes, I do.라고 했으니 지우개가 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Do you have tape?'에 '없어.'라고 답하는 말은?",
+     "choices": [
+      "No, I don't.",
+      "Yes, I do.",
+      "That's right."
+     ],
+     "answer": 0,
+     "explain": "없을 때는 ‘No, I don't.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림의 물건을 가지고 있는지 묻는 말은?",
+     "emoji": "🖊️",
+     "choices": [
+      "Do you have a pencil?",
+      "Do you have a book?",
+      "Do you have a pen?"
+     ],
+     "answer": 2,
+     "explain": "펜은 pen이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Thanks.",
+     "ko": "고마워."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you have tape? No, I don't.",
+     "answer": "Do you have tape? No, I don't.",
+     "distractors": [
+      "do.",
+      "a"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 펜을 가지고 있니? 응, 있어.",
+     "answer": "Do you have a pen? Yes, I do.",
+     "distractors": [
+      "don't.",
+      "an"
+     ],
+     "explain": "‘Do you have a pen?’에 있으면 ‘Yes, I do.’로 답해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책 📕",
+     "answers": [
+      "book"
+     ],
+     "hint": "b _ _ k"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "준오: Do you have a pencil?\nKate: Yes, I do. Here.\n준오: Thanks.\n보라: Do you have tape?\nEric: No, I don't.",
+     "question": "테이프가 없는 사람은 누구인가요?",
+     "choices": [
+      "Kate",
+      "Eric",
+      "준오"
+     ],
+     "answer": 1,
+     "explain": "Eric이 ‘No, I don't.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam이 이번에는 Momo에게 붓이 있는지 물어요. Sam의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Do you have a brush, Hoa?"
+      },
+      {
+       "who": "Hoa",
+       "text": "No, I don't."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Do you have a brush, Momo?",
+      "How many brushes, Momo?",
+      "Bye, Momo."
+     ],
+     "answer": 0,
+     "explain": "붓이 있는지 다시 물으니 ‘Do you have a brush, Momo?’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, I ___.",
+     "ko": "응, 있어.",
+     "choices": [
+      "don't",
+      "do",
+      "have"
+     ],
+     "answer": 1,
+     "explain": "있을 때는 ‘Yes, I do.’라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 대답을 고르세요.",
+     "audio": "Kate, do you have a pencil?",
+     "choices": [
+      "No, I don't.",
+      "It's a pencil.",
+      "Two pencils."
+     ],
+     "answer": 0,
+     "explain": "Do you have ...?에는 Yes, I do. 또는 No, I don't.로 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대답한 친구에게 책이 있는지 고르세요.",
+     "audio": "Do you have a book? No, I don't.",
+     "choices": [
+      "없어요.",
+      "있어요."
+     ],
+     "answer": 0,
+     "explain": "No, I don't.는 ‘없어.’라는 뜻이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "펜 🖊️",
+     "answers": [
+      "pen"
+     ],
+     "hint": "p _ n"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have a brush? Yes, I do. Here.",
+     "ko": "너는 붓을 가지고 있니? 응, 있어. 여기 있어."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "물건을 가지고 있는지 묻고 답하기 / 가지고 있는 물건과 가지고 있지 않은 물건을 표현하기",
+   "objectives": [
+    "물건을 가지고 있는지 묻고 답하는 말을 할 수 있다.",
+    "가지고 있는 물건과 가지고 있지 않은 물건을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Do You Have a Pencil?’ 노래와 ‘같은 물건을 가지고 있는 친구 찾기’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 64~65쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "내 물건으로 가지고 있는지 묻고 답하기, 물건을 빌려주고 받는 아이들 사진 보기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "공방에서 머그잔에 그림을 그리며 지우개와 붓을 빌리는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상 보며 표현 익히기, 내가 가진 물건을 골라 짝과 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘Do You Have a Pencil?’ 노래를 짝과 질문·대답 역할을 나누어 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "같은 물건을 가지고 있는 친구 찾기: 물건 붙임딱지 4개를 붙이고 돌아다니며 묻고 답하기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "그림 보고 I have.../I don't have... 말하기, 상황에 맞는 대화 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I have an eraser.",
+    "I don't have a brush.",
+    "Do you have an eraser? – No, I don't."
+   ],
+   "tip": "eraser처럼 모음 소리로 시작하는 말 앞에는 a 대신 an을 써요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 물건을 가지고 있는지 묻고 답하는 말을 할 수 있는가? 가지고 있는 물건과 가지고 있지 않은 물건을 표현하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가, 수행평가)",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I have a brush.",
+     "choices": [
+      "나는 붓이 없어.",
+      "너는 붓이 있니?",
+      "나는 붓을 가지고 있어."
+     ],
+     "answer": 2,
+     "explain": "I have ...는 ‘나는 ~을 가지고 있어.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I don't have an eraser.",
+     "choices": [
+      "나는 지우개가 있어.",
+      "나는 지우개가 없어.",
+      "나는 연필이 없어."
+     ],
+     "answer": 1,
+     "explain": "I don't have ...는 ‘나는 ~이 없어.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'나는 책을 가지고 있어.'를 영어로 하면?",
+     "choices": [
+      "I have a book.",
+      "I don't have a book.",
+      "Do you have a book?"
+     ],
+     "answer": 0,
+     "explain": "가지고 있을 때는 ‘I have a book.’이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ have a pen.",
+     "ko": "나는 펜이 없어.",
+     "choices": [
+      "do",
+      "don't",
+      "many"
+     ],
+     "answer": 1,
+     "explain": "‘없다’고 할 때는 have 앞에 don't를 넣어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 지우개를 가지고 있어요. Kate의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "I don't have an eraser."
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't have an eraser.",
+      "How many erasers?",
+      "I have an eraser. Here."
+     ],
+     "answer": 2,
+     "explain": "지우개를 빌려줄 때 ‘I have an eraser. Here.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "보라가 붓을 건네주었어요. Hoa의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "I don't have a brush."
+      },
+      {
+       "who": "보라",
+       "text": "I have a brush."
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Thank you.",
+      "Bye.",
+      "No, I don't."
+     ],
+     "answer": 0,
+     "explain": "붓을 빌려준 친구에게 ‘Thank you.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 붓을 가지고 있어.",
+     "answer": "I have a brush.",
+     "distractors": [
+      "don't",
+      "pen."
+     ],
+     "explain": "‘I have a + 물건.’으로 말해요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "I have a pen.",
+       "나는 펜이 있어."
+      ],
+      [
+       "I don't have a pen.",
+       "나는 펜이 없어."
+      ],
+      [
+       "Do you have a pen?",
+       "너는 펜이 있니?"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "친구의 멋진 그림을 보고 칭찬하는 말은?",
+     "choices": [
+      "Great!",
+      "No, I don't.",
+      "Come here."
+     ],
+     "answer": 0,
+     "explain": "‘Great!’는 ‘훌륭해! 멋져!’라는 칭찬이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have ___ eraser.",
+     "ko": "나는 지우개가 있어.",
+     "choices": [
+      "a",
+      "two",
+      "an"
+     ],
+     "answer": 2,
+     "explain": "eraser 앞에는 an을 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 보고 '나는 이것이 있어.'라고 말해요.",
+     "emoji": "📕",
+     "choices": [
+      "I have a pen.",
+      "I have a book.",
+      "I don't have a book."
+     ],
+     "answer": 1,
+     "explain": "책은 book, 있다는 I have예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I don't have a brush.",
+     "ko": "나는 붓이 없어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Alice는 펜이 없어요. Alice의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "Do you have a pen?"
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      },
+      {
+       "who": "Danny",
+       "text": "I have a pen. Here."
+      }
+     ],
+     "choices": [
+      "No, I don't. I don't have a pen.",
+      "Yes, I do. I have a pen.",
+      "That's right."
+     ],
+     "answer": 0,
+     "explain": "Alice는 펜이 없어서 ‘No, I don't. I don't have a pen.’이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 테이프가 없어.",
+     "answer": "I don't have tape.",
+     "distractors": [
+      "a",
+      "do"
+     ],
+     "explain": "tape 앞에는 a를 쓰지 않아요. ‘I don't have tape.’"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I have a brush. Here.",
+     "answer": "I have a brush. Here.",
+     "distractors": [
+      "pen.",
+      "don't"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, I do. I ___ a pencil.",
+     "ko": "응, 있어. 나는 연필이 있어.",
+     "choices": [
+      "don't",
+      "do",
+      "have"
+     ],
+     "answer": 2,
+     "explain": "‘가지고 있다’는 have예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Do you have a brush?"
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      },
+      {
+       "who": "하나",
+       "text": "Thank you."
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Yes, I do. Here.",
+      "I don't have a brush."
+     ],
+     "answer": 1,
+     "explain": "하나가 고맙다고 했으니 Paul은 붓을 건네주었어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I don't have a pen.'과 같은 뜻은?",
+     "choices": [
+      "나는 펜이 없어.",
+      "나는 펜이 있어.",
+      "너는 펜이 있니?"
+     ],
+     "answer": 0,
+     "explain": "don't have는 ‘없다’는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대답한 친구에게 없는 물건을 고르세요.",
+     "audio": "Do you have a pencil? No, I don't. I don't have a pencil.",
+     "choices": [
+      "펜",
+      "연필",
+      "책"
+     ],
+     "answer": 1,
+     "explain": "pencil은 연필이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hoa: I don't have a brush.\n보라: I have a brush. Here.\nHoa: Thank you.",
+     "question": "붓을 가지고 있는 사람은 누구인가요?",
+     "choices": [
+      "보라",
+      "Hoa",
+      "아무도 없어요."
+     ],
+     "answer": 0,
+     "explain": "보라가 ‘I have a brush.’라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "연필이 없을 때 하는 말은?",
+     "choices": [
+      "I have a pencil.",
+      "Do you have a pen?",
+      "I don't have a pencil."
+     ],
+     "answer": 2,
+     "explain": "‘없다’고 할 때는 I don't have ....예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I don't have tape.",
+     "ko": "나는 테이프가 없어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 지우개가 없어. 너는 지우개가 있니?",
+     "answer": "I don't have an eraser. Do you have an eraser?",
+     "distractors": [
+      "a",
+      "many"
+     ],
+     "explain": "없다는 말 ‘I don't have ...’ 뒤에 ‘Do you have ...?’로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "No, I don't. I don't have a book.",
+     "answer": "No, I don't. I don't have a book.",
+     "distractors": [
+      "do.",
+      "pen."
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "연필 ✏️",
+     "answers": [
+      "pencil"
+     ],
+     "hint": "p _ n c _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "테이프",
+     "answers": [
+      "tape"
+     ],
+     "hint": "t _ p e"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: Do you have a pen?\nSam: No, I don't. I don't have a pen.\n준오: I have a pen. Here.\nKate: Thanks, Juno.",
+     "question": "Kate에게 펜을 준 사람은 누구인가요?",
+     "choices": [
+      "Sam",
+      "Kate",
+      "준오"
+     ],
+     "answer": 2,
+     "explain": "준오가 ‘I have a pen. Here.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 책이 있어요. 두 문장으로 답한 것을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you have a book?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't. I don't have a book.",
+      "Yes, I do. I have a book.",
+      "Yes, I do. I don't have a book."
+     ],
+     "answer": 1,
+     "explain": "책이 있으면 ‘Yes, I do. I have a book.’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 테이프가 없어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Do you have tape?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't. I don't have tape.",
+      "No, I don't. I have tape.",
+      "Yes, I do. I have tape."
+     ],
+     "answer": 0,
+     "explain": "테이프가 없으면 ‘No, I don't. I don't have tape.’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have a pencil. I don't ___ a pen.",
+     "ko": "나는 연필이 있어. 나는 펜은 없어.",
+     "choices": [
+      "do",
+      "have",
+      "don't"
+     ],
+     "answer": 1,
+     "explain": "I don't 뒤에 have를 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 말한 사람이 가진 물건을 고르세요.",
+     "audio": "I have a book. I don't have a pen.",
+     "choices": [
+      "펜",
+      "책과 펜",
+      "책"
+     ],
+     "answer": 2,
+     "explain": "‘I have a book.’ — 책만 있어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I don't have a pen. Do you have a pen?",
+     "ko": "나는 펜이 없어. 너는 펜이 있니?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk / Phonics",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "물건을 나타내는 단어 읽고 쓰기 / 알파벳 ‘p’로 시작하는 단어 소리 내어 읽기",
+   "objectives": [
+    "단어(book, pen, pencil, tape)를 읽고 그 의미를 이해하며, 따라 쓸 수 있다.",
+    "/p/ 소리를 식별하고, 소리 /p/와 철자 ‘p’의 관계를 이해하며 ‘p’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+    "‘짝의 가방 꾸미기’의 협력 과업으로 단어를 읽고 쓰며, 물건을 가지고 있는지 묻고 답하는 말과 가지고 있는 물건을 표현하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 66~67쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "물건이 있는지 묻고 답하며 복습, 이름표가 붙은 책·펜·연필·테이프 보며 이름 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "단어(book, pen, pencil, tape) 읽고 그 단어를 넣어 짝과 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read, Find and Match",
+     "desc": "단어를 읽고 그림 속 숨은 물건을 찾아 ○ 하고 연결하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Match and Write",
+     "desc": "그림 조각을 연결해 단어 완성하고 따라 쓰기, 스스로 다지기(서랍 속 물건 쓰기)",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "/p/ 소리와 철자 p의 관계 익히기(pen, pencil, pig), 확인 문제 풀기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "짝의 가방 꾸미기: 짝이 가진 물건을 묻고 답하며 단어를 따라 쓰고 가방 그림에 붙이기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "단어 읽기, Pp 카드 보고 p로 시작하는 단어 말하기, 그림에 알맞은 단어 고르고 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "book, pen, pencil, tape",
+    "pen, pencil, pig",
+    "Do you have tape? – No, I don't. I don't have tape."
+   ],
+   "tip": "p는 입술을 꼭 붙였다가 ‘퍼’ 하고 공기를 터뜨리며 소리 내요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가 — 단어(book, pen, pencil, tape)를 읽고 의미를 이해하며 따라 쓸 수 있는가? /p/ 소리와 철자 p의 관계를 이해하는가? 짝과 협력하는가? (수행평가·포트폴리오 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "book",
+       "📕"
+      ],
+      [
+       "pen",
+       "🖊️"
+      ],
+      [
+       "pencil",
+       "✏️"
+      ],
+      [
+       "pig",
+       "🐷"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🖊️",
+     "choices": [
+      "pen",
+      "pig",
+      "pencil",
+      "book"
+     ],
+     "answer": 0,
+     "explain": "펜은 pen이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "pencil",
+     "choices": [
+      "✏️",
+      "🖊️",
+      "📕"
+     ],
+     "answer": 0,
+     "explain": "pencil은 연필이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 첫소리 글자를 고르세요.",
+     "audio": "pig",
+     "choices": [
+      "b",
+      "d",
+      "p",
+      "t"
+     ],
+     "answer": 2,
+     "explain": "pig는 /p/ 소리로 시작해요. 철자는 p예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 첫소리가 /p/인 단어는?",
+     "choices": [
+      "book",
+      "pen",
+      "tape",
+      "dog"
+     ],
+     "answer": 1,
+     "explain": "pen은 p로 시작해서 /p/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "단어 'tape'의 뜻은?",
+     "choices": [
+      "테이프",
+      "연필",
+      "책",
+      "붓"
+     ],
+     "answer": 0,
+     "explain": "tape는 테이프예요."
+    },
+    {
+     "type": "match",
+     "prompt": "첫 글자와 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "p",
+       "pencil"
+      ],
+      [
+       "b",
+       "book"
+      ],
+      [
+       "t",
+       "tape"
+      ],
+      [
+       "d",
+       "dog"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 펜이 없어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Do you have a pen?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do. I have a pen.",
+      "No, I don't. I have a pen.",
+      "No, I don't. I don't have a pen."
+     ],
+     "answer": 2,
+     "explain": "펜이 없으면 ‘No, I don't. I don't have a pen.’이라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "pen  pencil  book  pen  tape  pen",
+     "question": "'pen'은 몇 번 나오나요?",
+     "choices": [
+      "2번",
+      "3번",
+      "4번"
+     ],
+     "answer": 1,
+     "explain": "pen은 첫째, 넷째, 여섯째에 있어요. pencil은 다른 단어예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "tape",
+     "choices": [
+      "tape",
+      "book",
+      "pen"
+     ],
+     "answer": 0,
+     "explain": "tape는 테이프예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you have a ___?",
+     "ko": "너는 책을 가지고 있니? 📕",
+     "choices": [
+      "pen",
+      "book",
+      "pig"
+     ],
+     "answer": 1,
+     "explain": "책은 book이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "pen, pencil, pig",
+     "ko": "펜, 연필, 돼지"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "펜 🖊️",
+     "answers": [
+      "pen"
+     ],
+     "hint": "p _ n"
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 글자는? _en (펜)",
+     "emoji": "🖊️",
+     "choices": [
+      "p",
+      "b",
+      "t",
+      "d"
+     ],
+     "answer": 0,
+     "explain": "펜은 pen, p로 시작해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "첫소리가 다른 하나는?",
+     "choices": [
+      "pencil",
+      "pen",
+      "tape"
+     ],
+     "answer": 2,
+     "explain": "pencil과 pen은 /p/, tape는 /t/ 소리로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 두 단어의 첫소리 글자를 고르세요.",
+     "audio": "pencil, pig",
+     "choices": [
+      "b",
+      "t",
+      "p"
+     ],
+     "answer": 2,
+     "explain": "pencil과 pig는 모두 p로 시작해요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "pen",
+       "펜"
+      ],
+      [
+       "pencil",
+       "연필"
+      ],
+      [
+       "pig",
+       "돼지"
+      ],
+      [
+       "tape",
+       "테이프"
+      ]
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 연필이 있니?",
+     "answer": "Do you have a pencil?",
+     "distractors": [
+      "pen?",
+      "an"
+     ],
+     "explain": "‘Do you have a pencil?’로 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 연필이 있어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Do you have a pencil?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't. I don't have a pencil.",
+      "Yes, I do. I have a pencil.",
+      "Yes, I do. I have a pen."
+     ],
+     "answer": 1,
+     "explain": "연필이 있으면 ‘Yes, I do. I have a pencil.’이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "보라: Do you have a book?\nSam: Yes, I do. I have a book.\n보라: Do you have tape?\nSam: No, I don't.",
+     "question": "Sam이 가지고 있는 것은?",
+     "choices": [
+      "책",
+      "테이프",
+      "책과 테이프"
+     ],
+     "answer": 0,
+     "explain": "Sam은 ‘I have a book.’이라고 했고, 테이프는 없다고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I have a pencil.",
+     "answer": "I have a pencil.",
+     "distractors": [
+      "pen.",
+      "don't"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have a pen? Yes, I do.",
+     "ko": "너는 펜이 있니? 응, 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책 📕",
+     "answers": [
+      "book"
+     ],
+     "hint": "b _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "연필 ✏️",
+     "answers": [
+      "pencil"
+     ],
+     "hint": "p _ n c _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "첫 글자를 넣어 단어를 완성해 보세요.",
+     "ko": "_ape (테이프)",
+     "answers": [
+      "tape"
+     ],
+     "hint": "t _ _ _"
+    },
+    {
+     "type": "type",
+     "prompt": "첫 글자를 넣어 단어를 완성해 보세요.",
+     "ko": "_ig (돼지 🐷)",
+     "answers": [
+      "pig"
+     ],
+     "hint": "p _ _"
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 p로 시작하지 않는 단어는?",
+     "choices": [
+      "pen",
+      "book",
+      "pig",
+      "pencil"
+     ],
+     "answer": 1,
+     "explain": "book은 b로 시작해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: Do you have a pen?\n준오: Yes, I do.\nKate: Do you have a book?\n준오: Yes, I do.\nKate: Do you have tape?\n준오: No, I don't.",
+     "question": "준오에게 없는 물건은?",
+     "choices": [
+      "펜",
+      "책",
+      "테이프"
+     ],
+     "answer": 2,
+     "explain": "테이프를 묻자 ‘No, I don't.’라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 책이 있어. 나는 펜이 없어.",
+     "answer": "I have a book. I don't have a pen.",
+     "distractors": [
+      "do",
+      "an"
+     ],
+     "explain": "있으면 I have, 없으면 I don't have예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you have a pencil? No, I don't.",
+     "answer": "Do you have a pencil? No, I don't.",
+     "distractors": [
+      "do.",
+      "pen?"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "보라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "준오",
+       "text": "Do you have a pen?"
+      },
+      {
+       "who": "보라",
+       "text": "?"
+      },
+      {
+       "who": "준오",
+       "text": "Thanks!"
+      }
+     ],
+     "choices": [
+      "Yes, I do. Here.",
+      "No, I don't.",
+      "I don't have a pen."
+     ],
+     "answer": 0,
+     "explain": "준오가 고맙다고 했으니 보라는 펜을 건네주었어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I have a pencil. I have a pen.",
+     "ko": "나는 연필이 있어. 나는 펜이 있어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time / My Work",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "‘Story Time’에서 ‘피터 팬’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 68~69쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Read and Talk 단어를 읽고 손가락으로 공중에 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "‘피터 팬’ 원작 소개, 이야기 추측하기·듣고 이해하기, HOW ABOUT YOU?(팅커 벨이라면 마법으로 무엇을 만들까?), 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 순서대로 번호 쓰기, 물건이 있는지 묻고 답하기, 단어 골라 따라 쓰고 I have/I don't have 말하기, 창의 서술",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 돌아보기(정리해요), 복습 계획 세우기, 다음 시간 Special 3 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Do you have a brush?",
+    "No, I don't. I don't have a brush.",
+    "Here. I have a brush.",
+    "What's that? – It's an egg."
+   ],
+   "tip": "역할극을 할 때는 연필이나 붓 같은 진짜 학용품을 들고 하면 더 재미있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가 (수행평가·지필평가: 단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "팅커 벨: Hi, Wendy. Hi, Michael.\n웬디, 마이클: Hello!",
+     "question": "팅커 벨이 인사한 사람은 누구인가요?",
+     "choices": [
+      "웬디와 마이클",
+      "피터 팬과 마이클",
+      "웬디와 피터 팬"
+     ],
+     "answer": 0,
+     "explain": "팅커 벨은 ‘Hi, Wendy. Hi, Michael.’이라고 인사했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "팅커 벨은 연필이 있어요. 팅커 벨의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "마이클",
+       "text": "Do you have a pencil?"
+      },
+      {
+       "who": "팅커 벨",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Hello!",
+      "Yes, I do."
+     ],
+     "answer": 2,
+     "explain": "연필이 있으니 ‘Yes, I do.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "피터 팬의 주머니에는 붓이 없어요. 피터 팬의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "웬디",
+       "text": "Do you have a brush?"
+      },
+      {
+       "who": "피터 팬",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do.",
+      "No, I don't.",
+      "It's an egg."
+     ],
+     "answer": 1,
+     "explain": "붓이 없으니 ‘No, I don't.’라고 답해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "피터 팬: I don't have a brush.\n팅커 벨: Here. I have a brush.",
+     "question": "붓을 가지고 있는 사람은 누구인가요?",
+     "choices": [
+      "팅커 벨",
+      "피터 팬",
+      "웬디"
+     ],
+     "answer": 0,
+     "explain": "팅커 벨이 ‘I have a brush.’라고 했어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "What's that? It's an egg.",
+     "choices": [
+      "✏️",
+      "🖌️",
+      "🥚"
+     ],
+     "answer": 2,
+     "explain": "egg는 알(달걀)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Oh, no!'는 언제 하는 말일까요?",
+     "choices": [
+      "고마울 때",
+      "깜짝 놀라거나 걱정될 때",
+      "인사할 때"
+     ],
+     "answer": 1,
+     "explain": "‘Oh, no!’는 ‘오, 이런!’ 하고 놀랄 때 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Nice!",
+     "choices": [
+      "멋지다!",
+      "미안해!",
+      "잘 가!"
+     ],
+     "answer": 0,
+     "explain": "Nice!는 ‘멋지다!’라는 칭찬이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Hello!",
+       "안녕!"
+      ],
+      [
+       "Here.",
+       "여기 있어."
+      ],
+      [
+       "Nice!",
+       "멋지다!"
+      ],
+      [
+       "Oh, no!",
+       "오, 이런!"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ a brush.",
+     "ko": "나는 붓이 있어.",
+     "choices": [
+      "do",
+      "have",
+      "don't"
+     ],
+     "answer": 1,
+     "explain": "‘가지고 있다’는 have예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말은?",
+     "emoji": "🥚",
+     "choices": [
+      "It's an egg.",
+      "It's a pencil.",
+      "It's a book."
+     ],
+     "answer": 0,
+     "explain": "알은 egg예요. egg 앞에는 an을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 붓이 있니?",
+     "answer": "Do you have a brush?",
+     "distractors": [
+      "pencil?",
+      "an"
+     ],
+     "explain": "붓이 있는지 물을 때 ‘Do you have a brush?’예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Here. I have a brush.",
+     "ko": "여기 있어. 나는 붓이 있어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+     "audio": "Do you have tape? No, I don't.",
+     "choices": [
+      "테이프가 있어요.",
+      "펜이 없어요.",
+      "테이프가 없어요."
+     ],
+     "answer": 2,
+     "explain": "tape는 테이프, No, I don't.는 ‘없어.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이가 붓을 건네주어요. 남자아이의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "I have a brush. Here."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I don't.",
+      "Do you have a brush?",
+      "Thank you."
+     ],
+     "answer": 2,
+     "explain": "물건을 받으면 ‘Thank you.’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 없어. 나는 펜이 없어.",
+     "answer": "No, I don't. I don't have a pen.",
+     "distractors": [
+      "do.",
+      "an"
+     ],
+     "explain": "없을 때는 ‘No, I don't. I don't have ....’라고 해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "테이프",
+     "answers": [
+      "tape"
+     ],
+     "hint": "t _ p e"
+    },
+    {
+     "type": "mc",
+     "prompt": "그림의 물건을 가지고 있다고 말할 때?",
+     "emoji": "✏️",
+     "choices": [
+      "I don't have a pencil.",
+      "I have a pencil.",
+      "I have a pen."
+     ],
+     "answer": 1,
+     "explain": "연필이 있다고 할 때는 ‘I have a pencil.’이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do ___ have a book?",
+     "ko": "너는 책이 있니?",
+     "choices": [
+      "you",
+      "I",
+      "it"
+     ],
+     "answer": 0,
+     "explain": "‘너는’은 you예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "준오: Do you have a pencil?\n보라: Yes, I do. I have a pencil.\n준오: Do you have a pen?\n보라: No, I don't.",
+     "question": "보라가 가지고 있지 않은 것은?",
+     "choices": [
+      "연필",
+      "펜",
+      "책"
+     ],
+     "answer": 1,
+     "explain": "펜을 묻자 보라는 ‘No, I don't.’라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I have a book. Here.",
+     "answer": "I have a book. Here.",
+     "distractors": [
+      "pen.",
+      "don't"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "How many cows?",
+       "젖소는 몇 마리니?"
+      ],
+      [
+       "Do you have a pen?",
+       "너는 펜이 있니?"
+      ],
+      [
+       "That's right.",
+       "맞아."
+      ],
+      [
+       "I don't have tape.",
+       "나는 테이프가 없어."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have a pencil? Yes, I do.",
+     "ko": "너는 연필이 있니? 응, 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책 📕",
+     "answers": [
+      "book"
+     ],
+     "hint": "b _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "연필 ✏️",
+     "answers": [
+      "pencil"
+     ],
+     "hint": "p _ n c _ l"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 붓이 없어. 너는 붓이 있니?",
+     "answer": "I don't have a brush. Do you have a brush?",
+     "distractors": [
+      "pen?",
+      "an"
+     ],
+     "explain": "없다고 말한 뒤 ‘Do you have a brush?’로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Yes, I do. I have a book.",
+     "answer": "Yes, I do. I have a book.",
+     "distractors": [
+      "don't.",
+      "pen."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "웬디: Do you have a book?\n마이클: No, I don't.\n피터 팬: I have a book. Here.\n웬디: Great!",
+     "question": "책이 없는 사람은 누구인가요?",
+     "choices": [
+      "피터 팬",
+      "웬디",
+      "마이클"
+     ],
+     "answer": 2,
+     "explain": "마이클이 ‘No, I don't.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 연필이 두 자루 있어서 하나를 빌려주려고 해요. 남자아이의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Do you have a pencil?"
+      },
+      {
+       "who": "Girl",
+       "text": "No, I don't."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I have a pencil. Here.",
+      "I don't have a pencil.",
+      "How many pencils?"
+     ],
+     "answer": 0,
+     "explain": "연필을 빌려줄 때 ‘I have a pencil. Here.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 A의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Two cows."
+      }
+     ],
+     "choices": [
+      "How many cows?",
+      "Do you have a cow?",
+      "What's this?"
+     ],
+     "answer": 0,
+     "explain": "‘Two cows.’는 젖소가 몇 마리인지 묻는 말의 대답이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Do you have a pencil?'에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "Yes, I do.",
+      "No, I don't.",
+      "Two pencils."
+     ],
+     "answer": 2,
+     "explain": "‘Do you have ...?’에는 Yes, I do. 또는 No, I don't.로 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 말한 사람이 원하는 것을 고르세요.",
+     "audio": "I don't have a pen. Do you have a pen?",
+     "choices": [
+      "펜을 주고 싶어요.",
+      "펜을 빌리고 싶어요.",
+      "펜이 몇 개인지 알고 싶어요."
+     ],
+     "answer": 1,
+     "explain": "펜이 없다고 하며 친구에게 펜이 있는지 물었어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you have tape? No, I don't. I don't have tape.",
+     "ko": "너는 테이프가 있니? 아니, 없어. 나는 테이프가 없어."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "교실에서 모형 놀이터를 만들다가 준오는 Kate에게 연필을, 보라는 테이프를 빌려요.",
+   "lines": [
+    {
+     "who": "준오",
+     "text": "Do you have a pencil?"
+    },
+    {
+     "who": "Kate",
+     "text": "Yes, I do. Here."
+    },
+    {
+     "who": "준오",
+     "text": "Thanks."
+    },
+    {
+     "who": "보라",
+     "text": "Do you have tape?"
+    },
+    {
+     "who": "Eric",
+     "text": "No, I don't."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "공방에서 머그잔에 그림을 그리다 Eric은 지우개가, Hoa는 붓이 없어 친구들에게 빌려요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Oh, I don't have an eraser. Do you have an eraser?"
+    },
+    {
+     "who": "준오",
+     "text": "No, I don't."
+    },
+    {
+     "who": "Kate",
+     "text": "I have an eraser. Here."
+    },
+    {
+     "who": "Hoa",
+     "text": "I don't have a brush."
+    },
+    {
+     "who": "보라",
+     "text": "I have a brush."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 Paul에게 붓을 빌리고, 민우는 펜이 없는 Alice 대신 Danny에게 펜을 빌려요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Do you have a brush?"
+    },
+    {
+     "who": "Paul",
+     "text": "Yes, I do. Here."
+    },
+    {
+     "who": "민우",
+     "text": "Do you have a pen?"
+    },
+    {
+     "who": "Alice",
+     "text": "No, I don't. I don't have a pen."
+    },
+    {
+     "who": "Danny",
+     "text": "I have a pen. Here."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "네버랜드에서 웬디와 마이클이 그림을 그리려고 연필과 붓이 있는지 물어요.",
+   "lines": [
+    {
+     "who": "마이클",
+     "text": "Do you have a pencil?"
+    },
+    {
+     "who": "팅커 벨",
+     "text": "Yes, I do."
+    },
+    {
+     "who": "웬디",
+     "text": "Do you have a brush?"
+    },
+    {
+     "who": "피터 팬",
+     "text": "No, I don't."
+    },
+    {
+     "who": "팅커 벨",
+     "text": "Here. I have a brush."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "피터 팬 (Story Time)",
+  "passage": "Tinker Bell meets Wendy and Michael. They want to draw on a big paper. \"Do you have a pencil?\" Michael asks. Tinker Bell has one. Wendy needs a brush, but Peter Pan's pocket is empty. \"I don't have a brush.\" Tinker Bell helps again: \"Here. I have a brush.\" Wendy paints a nice picture. Then Michael finds a big white egg. Crack! A crocodile comes out. \"Oh, no!\"",
+  "summaryKo": "그림을 그리려는 웬디와 마이클에게 팅커 벨이 연필과 붓을 빌려주는데, 마이클이 발견한 커다란 알에서 악어가 나와 모두 깜짝 놀라요."
+ },
+ "writing": {
+  "frame": [
+   "Do you have a ____?",
+   "I have a ____.",
+   "I don't have ____."
+  ],
+  "model": "I have a pencil. I don't have tape."
+ },
+ "project": "짝에게 어떤 물건(book, pen, pencil, tape)을 가지고 있는지 묻고 답한 뒤, 짝이 가지고 있다고 답한 물건 그림을 색칠하고 단어를 따라 써서 가방 그림에 붙여 ‘짝의 가방’을 꾸며 선물한다.",
+ "special": {
+  "no": 3,
+  "kind": "CULTURE·PROJECT",
+  "title": "손가락으로 수를 세는 방법이 다른 나라가 있어요 / 물물 교환",
+  "summaryKo": "Momo가 개가 몇 마리인지 묻자 미국, 중국, 프랑스 아이들이 각자 자기 나라 방식으로 손가락을 펴며 1부터 10까지 세어요. 이어서 손가락 숫자로 동물의 수를 묻고 답하는 놀이를 하고, PROJECT에서는 교실을 돌아다니며 ‘Do you have ...?’로 묻고 답하며 학용품을 서로 바꾸는 물물 교환을 해요.",
+  "facts": [
+   "나라마다 손가락으로 숫자를 나타내는 방법이 달라요. 만화에서는 미국, 중국, 프랑스 아이들이 각자의 방법으로 1부터 10까지 세어요.",
+   "중국에서는 한 손만으로 1부터 10까지 나타낼 수 있는 손가락 모양을 써요.",
+   "인도에서는 손가락 마디로 수를 세요. 새끼손가락 아래 마디에서 1을 세기 시작해 엄지손가락 끝이 19, 마지막에 주먹을 쥐어 20까지 한 손으로 셀 수 있어요.",
+   "물물 교환은 돈 없이 서로 필요한 물건을 바꾸는 거예요. 원하는 물건이 있는지 먼저 묻고 답한 뒤 바꿔요."
+  ],
+  "expressions": [
+   "How many dogs? – Six dogs.",
+   "How many cows? – Eight cows. – That's right.",
+   "Do you have tape? – Yes, I do. I have tape.",
+   "Do you have a pen? – No, I don't. I don't have a pen."
+  ],
+  "exercises": []
+ }
+}

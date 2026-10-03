@@ -1,0 +1,2323 @@
+{
+ "id": "L06",
+ "no": 6,
+ "grade": 4,
+ "semester": 1,
+ "title": "Where's My Cap?",
+ "emoji": "🧢",
+ "rationale": "학용품을 비롯한 물건은 학생들의 일상을 늘 함께한다. 물건의 위치를 묻고 답하는 말과 모르고 있음을 표현하는 말을 익혀 일상생활에서 활용하고 자신의 물건을 챙기는 자기관리에 도움을 주며, 친구의 물건 찾기를 돕는 과정을 통해 함께 살아가는 공동체의 소중함을 느끼게 하고자 한다.",
+ "topics": "학교생활 관련(학교 활동, 교우 관계), 민주시민 관련(평화, 애국심)",
+ "functions": [
+  {
+   "ko": "물건의 위치 묻고 답하기",
+   "examples": [
+    "Where's my cap?",
+    "It's on the table."
+   ]
+  },
+  {
+   "ko": "모르고 있음을 나타내는 표현하기",
+   "examples": [
+    "I don't know."
+   ]
+  }
+ ],
+ "forms": [
+  "It's in the box.",
+  "It's on [under] the bed [chair / desk / table]."
+ ],
+ "phonics": {
+  "focus": "p /p/ (끝소리)",
+  "words": [
+   "cap",
+   "cup",
+   "jump"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "bed",
+   "ko": "침대"
+  },
+  {
+   "en": "box",
+   "ko": "상자"
+  },
+  {
+   "en": "bus",
+   "ko": "버스"
+  },
+  {
+   "en": "chair",
+   "ko": "의자"
+  },
+  {
+   "en": "desk",
+   "ko": "책상"
+  },
+  {
+   "en": "fan",
+   "ko": "부채, 선풍기"
+  },
+  {
+   "en": "know",
+   "ko": "알다"
+  },
+  {
+   "en": "table",
+   "ko": "탁자"
+  },
+  {
+   "en": "under",
+   "ko": "~ 아래에"
+  },
+  {
+   "en": "where",
+   "ko": "어디에"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "bag",
+   "ko": "가방",
+   "emoji": "🎒"
+  },
+  {
+   "en": "ball",
+   "ko": "공",
+   "emoji": "⚽"
+  },
+  {
+   "en": "bed",
+   "ko": "침대",
+   "emoji": "🛏️"
+  },
+  {
+   "en": "book",
+   "ko": "책",
+   "emoji": "📕"
+  },
+  {
+   "en": "box",
+   "ko": "상자",
+   "emoji": "📦"
+  },
+  {
+   "en": "cap",
+   "ko": "모자",
+   "emoji": "🧢"
+  },
+  {
+   "en": "chair",
+   "ko": "의자",
+   "emoji": "🪑"
+  },
+  {
+   "en": "desk",
+   "ko": "책상",
+   "emoji": ""
+  },
+  {
+   "en": "doll",
+   "ko": "인형",
+   "emoji": "🪆"
+  },
+  {
+   "en": "fan",
+   "ko": "부채",
+   "emoji": "🪭"
+  },
+  {
+   "en": "pen",
+   "ko": "펜",
+   "emoji": "🖊️"
+  },
+  {
+   "en": "table",
+   "ko": "탁자",
+   "emoji": ""
+  },
+  {
+   "en": "tape",
+   "ko": "테이프",
+   "emoji": ""
+  }
+ ],
+ "characters": [
+  "Mr. Jones",
+  "Eric",
+  "보라",
+  "준오",
+  "Momo",
+  "Sam",
+  "Kate",
+  "Hoa",
+  "Danny",
+  "Paul",
+  "민우",
+  "하나",
+  "Alice",
+  "남자아이",
+  "할아버지",
+  "아저씨",
+  "여자아이"
+ ],
+ "goals": {
+  "understand": [
+   "물건의 위치를 묻고 답하는 말, 모르고 있음을 나타내는 표현을 듣고 이해할 수 있다.",
+   "동물이나 물건의 위치를 나타내는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /p/와 철자 'p'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "물건을 함께 찾는 과정을 통해 관찰력과 문제 해결 능력을 기를 수 있다."
+  ],
+  "express": [
+   "물건의 위치를 묻고 답하는 말, 모르고 있음을 나타내는 표현을 말할 수 있다.",
+   "동물이나 물건의 위치를 나타내는 문장을 보고 쓸 수 있다.",
+   "소리 /p/와 철자 'p'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "물건의 위치를 묻고 답하는 영어 의사소통 표현을 익혀 영어 학습에 대한 흥미와 자신감을 가지고 실생활에서 사용할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "물건의 위치 묻고 답하기",
+   "objectives": [
+    "물건의 위치를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '귓속말로 물건의 위치 알려 주기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 58~59쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "교사의 가방 위치 찾기, 학생들의 가방과 책이 어디 있는지 묻고 답하기, 단원 목표 확인, 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "수영 교육을 가기 전 아이들이 가방과 모자를 찾는 만화 영화 보기, Eric의 가방이 있는 곳에 ○표 하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 알맞은 위치의 물건 색칠하기 (in, on, under 손동작)",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 알려 준 물건의 위치를 모둠원에게 귓속말로 전달하기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "물건을 놓고 위치 말하기, 대화 듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where's my cap?",
+    "It's on the table.",
+    "It's under the chair.",
+    "It's in the box."
+   ],
+   "tip": "in은 '~ 안에', on은 '~ 위에', under는 '~ 아래에'예요. 손동작과 함께 익히면 쉽게 기억할 수 있어요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 물건의 위치를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bed",
+       "침대"
+      ],
+      [
+       "box",
+       "상자"
+      ],
+      [
+       "chair",
+       "의자"
+      ],
+      [
+       "desk",
+       "책상"
+      ],
+      [
+       "table",
+       "탁자"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "위치를 나타내는 말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "in",
+       "~ 안에"
+      ],
+      [
+       "on",
+       "~ 위에"
+      ],
+      [
+       "under",
+       "~ 아래에"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🛏️",
+     "choices": [
+      "bed",
+      "desk",
+      "box",
+      "bus"
+     ],
+     "answer": 0,
+     "explain": "🛏️는 침대, bed예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'의자'를 영어로 하면?",
+     "emoji": "🪑",
+     "choices": [
+      "table",
+      "cap",
+      "chair"
+     ],
+     "answer": 2,
+     "explain": "의자는 chair예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It's on the table.",
+     "choices": [
+      "탁자 위에 있어.",
+      "탁자 아래에 있어.",
+      "상자 안에 있어."
+     ],
+     "answer": 0,
+     "explain": "on은 '~ 위에'예요. 탁자 위에 있다는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 물건이 있는 곳을 고르세요.",
+     "audio": "It's under the chair.",
+     "choices": [
+      "의자 위",
+      "의자 아래",
+      "책상 아래"
+     ],
+     "answer": 1,
+     "explain": "under는 '~ 아래에'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Where's my bag?",
+     "choices": [
+      "이것은 네 가방이니?",
+      "내 가방은 어디에 있니?",
+      "가방은 무슨 색이니?"
+     ],
+     "answer": 1,
+     "explain": "'Where's my ~?'는 물건이 어디 있는지 묻는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric의 가방은 의자 아래에 있어요. 보라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Where's my bag?"
+      },
+      {
+       "who": "Bora",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the chair.",
+      "It's in the box.",
+      "It's under the chair."
+     ],
+     "answer": 2,
+     "explain": "의자 아래는 under the chair예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "It's on the desk."
+      }
+     ],
+     "choices": [
+      "What do you want?",
+      "What's this?",
+      "Where's my pen?"
+     ],
+     "answer": 2,
+     "explain": "'It's on the desk.'는 위치를 알려 주는 말이라서 'Where's my ~?'로 물어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ the box.",
+     "ko": "그것은 상자 안에 있어.",
+     "choices": [
+      "in",
+      "on",
+      "under"
+     ],
+     "answer": 0,
+     "explain": "'~ 안에'는 in이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 모자는 어디에 있니?",
+     "answer": "Where's my cap?",
+     "distractors": [
+      "What",
+      "is"
+     ],
+     "explain": "물건의 위치를 물을 때 'Where's my ~?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my cap? It's on the table.",
+     "ko": "내 모자는 어디에 있니? 탁자 위에 있어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ the bed.",
+     "ko": "그것은 침대 위에 있어.",
+     "choices": [
+      "under",
+      "on",
+      "in"
+     ],
+     "answer": 1,
+     "explain": "'~ 위에'는 on이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's under the ___.",
+     "ko": "그것은 책상 아래에 있어.",
+     "choices": [
+      "bed",
+      "chair",
+      "desk"
+     ],
+     "answer": 2,
+     "explain": "책상은 desk예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 인형이 있는 곳을 고르세요.",
+     "audio": "Where's my doll? It's in the box.",
+     "choices": [
+      "상자 안",
+      "침대 위",
+      "의자 아래"
+     ],
+     "answer": 0,
+     "explain": "in the box는 '상자 안에'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오의 모자는 탁자 위에 있어요. Momo의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "Where's my cap?"
+      },
+      {
+       "who": "Momo",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's under the table.",
+      "It's on the table. Here.",
+      "It's in the bag."
+     ],
+     "answer": 1,
+     "explain": "탁자 위는 on the table이에요. 'Here.'는 '여기 있어.'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Where's my ball?"
+      },
+      {
+       "who": "B",
+       "text": "It's under the bed."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's a ball.",
+      "I want milk.",
+      "Thank you."
+     ],
+     "answer": 2,
+     "explain": "위치를 알려 주면 'Thank you.'라고 고마움을 표현해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 의자 위에 있어.",
+     "answer": "It's on the chair.",
+     "distractors": [
+      "in",
+      "under"
+     ],
+     "explain": "'~ 위에'는 on이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 책은 어디에 있니?",
+     "answer": "Where's my book?",
+     "distractors": [
+      "What",
+      "in"
+     ],
+     "explain": "'Where's my + 물건?'으로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's under the desk.",
+     "answer": "It's under the desk.",
+     "distractors": [
+      "on",
+      "box."
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Where's my fan?",
+       "내 부채는 어디에 있니?"
+      ],
+      [
+       "It's in the box.",
+       "상자 안에 있어."
+      ],
+      [
+       "It's on the bed.",
+       "침대 위에 있어."
+      ],
+      [
+       "Here.",
+       "여기 있어."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my tape? It's on the desk.",
+     "ko": "내 테이프는 어디에 있니? 책상 위에 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "상자",
+     "answers": [
+      "box"
+     ],
+     "hint": "b _ x"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "탁자 위에",
+     "answers": [
+      "on the table"
+     ],
+     "hint": "on the t _ _ _ e"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where's my ball? It's under the chair.",
+     "answer": "Where's my ball? It's under the chair.",
+     "distractors": [
+      "on",
+      "bed."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 펜은 어디에 있니? 그것은 가방 안에 있어.",
+     "answer": "Where's my pen? It's in the bag.",
+     "distractors": [
+      "on",
+      "box."
+     ],
+     "explain": "'~ 안에'는 in이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "가방은 침대 아래에 있어요. 엄마의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Child",
+       "text": "Mom, where's my bag?"
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the bed.",
+      "It's under the table.",
+      "It's under the bed."
+     ],
+     "answer": 2,
+     "explain": "침대 아래는 under the bed예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Where are my things? My cap is on the bed. My ball is under the chair. My book is in the box.",
+     "question": "공은 어디에 있나요?",
+     "choices": [
+      "의자 아래",
+      "침대 위",
+      "상자 안",
+      "책상 위"
+     ],
+     "answer": 0,
+     "explain": "'My ball is under the chair.' 공은 의자 아래에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Eric: Where's my bag?\nBora: It's under the chair.\nJuno: Where's my cap?\nMomo: It's on the table. Here.",
+     "question": "준오의 모자는 어디에 있었나요?",
+     "choices": [
+      "탁자 위",
+      "의자 아래",
+      "상자 안",
+      "버스 안"
+     ],
+     "answer": 0,
+     "explain": "Momo가 'It's on the table.'이라고 했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "강아지가 상자 위에 올라가 있어요. 알맞은 말은?",
+     "emoji": "🐶📦",
+     "choices": [
+      "It's under the box.",
+      "It's on the box.",
+      "It's in the box."
+     ],
+     "answer": 1,
+     "explain": "상자 위는 on the box예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Where's ___ doll?",
+     "ko": "내 인형은 어디에 있니?",
+     "choices": [
+      "I",
+      "my",
+      "me"
+     ],
+     "answer": 1,
+     "explain": "'내 ~'는 my를 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my doll? It's under the bed.",
+     "ko": "내 인형은 어디에 있니? 침대 아래에 있어."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "물건의 위치 묻고 답하기 / 모르고 있음을 나타내는 표현하기",
+   "objectives": [
+    "물건의 위치를 묻고 답하는 말을 할 수 있다.",
+    "모르고 있음을 나타내는 표현을 듣고 이해하며 말할 수 있다.",
+    "'Where's My Ball?' 노래와 '주사위 놀이를 하며 방 꾸미기' 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 60~61쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "찬트로 복습하기, 사진 속 고양이 등의 위치를 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "태극기 목걸이와 무궁화를 만들며 펜과 테이프를 찾는 만화 영화 보기, 장면별로 다시 듣고 이해 점검",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상으로 표현 익히기, 원하는 방을 골라 짝과 물건의 위치 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'Where's My Ball?' 노래를 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "주사위를 굴려 나온 위치에 물건을 그리며 방 꾸미기, 이미 그려져 있으면 'I don't know.'라고 답하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 대화를 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Where's my pen?",
+    "I don't know.",
+    "It's on the desk.",
+    "Look! It's under the chair."
+   ],
+   "tip": "물건이 어디 있는지 모를 때는 'I don't know.'라고 해요. 앞에 'Sorry,'를 붙이면 더 친절하게 들려요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 물건의 위치를 묻고 답하는 말을 할 수 있는가? 모르고 있음을 나타내는 표현을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I don't know.",
+     "choices": [
+      "나는 몰라.",
+      "나는 좋아해.",
+      "나는 원해."
+     ],
+     "answer": 0,
+     "explain": "'I don't know.'는 '나는 몰라.'라는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "모르고 있을 때 하는 말은?",
+     "emoji": "🤷",
+     "choices": [
+      "I like it.",
+      "Help yourself.",
+      "Be careful.",
+      "I don't know."
+     ],
+     "answer": 3,
+     "explain": "모를 때는 'I don't know.'라고 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam은 펜이 어디 있는지 몰라요. Sam의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Where's my pen?"
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the desk.",
+      "Here you are.",
+      "I don't know."
+     ],
+     "answer": 2,
+     "explain": "모를 때는 'I don't know.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa가 의자 아래에 있는 테이프를 찾았어요. Hoa의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Where's my tape?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Look! It's under the chair.",
+      "I don't know.",
+      "It's on the chair."
+     ],
+     "answer": 0,
+     "explain": "'Look!'은 '봐!'예요. 의자 아래는 under the chair예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 물건이 있는 곳을 고르세요.",
+     "audio": "Look! It's on the table.",
+     "choices": [
+      "탁자 위",
+      "탁자 아래",
+      "상자 안"
+     ],
+     "answer": 0,
+     "explain": "on the table은 '탁자 위에'예요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Look!",
+       "봐!"
+      ],
+      [
+       "I don't know.",
+       "나는 몰라."
+      ],
+      [
+       "I love Korea!",
+       "나는 한국이 정말 좋아!"
+      ],
+      [
+       "It's nice.",
+       "멋지다."
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I don't ___.",
+     "ko": "나는 몰라.",
+     "choices": [
+      "want",
+      "know",
+      "like"
+     ],
+     "answer": 1,
+     "explain": "'알다'는 know예요. 'I don't know.'는 '나는 몰라.'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'soccer ball'의 뜻으로 알맞은 것은?",
+     "emoji": "⚽",
+     "choices": [
+      "농구공",
+      "야구공",
+      "축구공"
+     ],
+     "answer": 2,
+     "explain": "soccer는 축구, ball은 공이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "Paul, where's my soccer ball?",
+     "choices": [
+      "축구공이 어디 있는지 묻고 있어요.",
+      "축구를 하자고 해요.",
+      "축구공을 사고 싶어해요."
+     ],
+     "answer": 0,
+     "explain": "'Where's my ~?'는 위치를 묻는 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "몰라, 미안해.",
+     "answer": "I don't know. Sorry.",
+     "distractors": [
+      "want",
+      "do"
+     ],
+     "explain": "'나는 몰라.'는 'I don't know.'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul은 축구를 하고 싶어요. Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Minu",
+       "text": "Paul, let's play soccer."
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "Okay.",
+      "It's in the box."
+     ],
+     "answer": 1,
+     "explain": "제안에 동의할 때 'Okay.'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my pen? I don't know.",
+     "ko": "내 펜은 어디에 있니? 나는 몰라."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "민우가 침대 위에 있는 책을 찾았어요. 민우의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hana",
+       "text": "Where's my book?"
+      },
+      {
+       "who": "Alice",
+       "text": "I don't know."
+      },
+      {
+       "who": "Minu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's under the bed.",
+      "Look! It's on the bed.",
+      "It's a book."
+     ],
+     "answer": 1,
+     "explain": "침대 위는 on the bed예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "축구공은 상자 안에 있어요. Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Danny",
+       "text": "Paul, where's my soccer ball?"
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the box.",
+      "I want a soccer ball.",
+      "It's in the box."
+     ],
+     "answer": 2,
+     "explain": "상자 안은 in the box예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ my bag?",
+     "ko": "내 가방은 어디에 있니?",
+     "choices": [
+      "Where's",
+      "What's",
+      "It's"
+     ],
+     "answer": 0,
+     "explain": "위치를 물을 때는 Where's(Where is)를 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where's my soccer ball?",
+     "answer": "Where's my soccer ball?",
+     "distractors": [
+      "What's",
+      "on"
+     ]
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look! It's in the bag.",
+     "answer": "Look! It's in the bag.",
+     "distractors": [
+      "on",
+      "box."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안해, 나는 몰라.",
+     "answer": "Sorry, I don't know.",
+     "distractors": [
+      "want",
+      "do"
+     ],
+     "explain": "'미안해'는 Sorry, '나는 몰라'는 'I don't know.'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Where's my fan?'에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "It's on the desk.",
+      "I don't know.",
+      "I want a fan."
+     ],
+     "answer": 2,
+     "explain": "위치를 묻는 말에 'I want a fan.(나는 부채를 원해.)'은 어울리지 않아요."
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "in the box",
+       "상자 안에"
+      ],
+      [
+       "on the desk",
+       "책상 위에"
+      ],
+      [
+       "under the chair",
+       "의자 아래에"
+      ],
+      [
+       "under the table",
+       "탁자 아래에"
+      ],
+      [
+       "on the bed",
+       "침대 위에"
+      ]
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam: Where's my ball?\nMina: I don't know.\nDad: Look! It's under the table.",
+     "question": "공은 어디에 있었나요?",
+     "choices": [
+      "탁자 위",
+      "탁자 아래",
+      "상자 안"
+     ],
+     "answer": 1,
+     "explain": "아빠가 'It's under the table.'이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! It's under the table.",
+     "ko": "봐! 탁자 아래에 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 테이프는 어디에 있니?",
+     "answers": [
+      "Where's my tape?",
+      "Where is my tape?"
+     ],
+     "hint": "Where's my t _ _ e?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책상 아래에",
+     "answers": [
+      "under the desk"
+     ],
+     "hint": "u _ _ _ r the desk"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where's my book? I don't know.",
+     "answer": "Where's my book? I don't know.",
+     "distractors": [
+      "What's",
+      "want"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "봐! 그것은 침대 아래에 있어.",
+     "answer": "Look! It's under the bed.",
+     "distractors": [
+      "on",
+      "box."
+     ],
+     "explain": "'봐!'는 Look!, 침대 아래는 under the bed예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "책은 책상 위에 있어요. 수진이의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Where's my book?"
+      },
+      {
+       "who": "Minho",
+       "text": "I don't know."
+      },
+      {
+       "who": "Sujin",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "It's on the bed.",
+      "Look! It's on the desk."
+     ],
+     "answer": 2,
+     "explain": "책상 위는 on the desk예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia and Leo make a Korean flag.\nMia: Where's my pen?\nLeo: I don't know.\nMia's mom: It's on the desk.\nLeo: Where's my tape?\nMia: Look! It's under the chair.",
+     "question": "Leo가 찾던 물건은 무엇인가요?",
+     "choices": [
+      "펜",
+      "가방",
+      "책",
+      "테이프"
+     ],
+     "answer": 3,
+     "explain": "Leo는 'Where's my tape?'라고 물었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my room. My bag is on the bed. My doll is in the box. My fan is under the table. Where's my cap? I don't know!",
+     "question": "글쓴이가 어디 있는지 모르는 물건은 무엇인가요?",
+     "choices": [
+      "가방",
+      "인형",
+      "부채",
+      "모자"
+     ],
+     "answer": 3,
+     "explain": "'Where's my cap? I don't know!' 모자가 어디 있는지 몰라요."
+    },
+    {
+     "type": "mc",
+     "prompt": "대화가 자연스러운 것은?",
+     "choices": [
+      "A: Where's my cap? B: It's a cap.",
+      "A: Where's my cap? B: I don't know.",
+      "A: Where's my cap? B: Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "위치를 묻는 말에 모르면 'I don't know.'라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Look! It's ___ the box.",
+     "ko": "봐! 그것은 상자 안에 있어.",
+     "choices": [
+      "on",
+      "under",
+      "in"
+     ],
+     "answer": 2,
+     "explain": "상자 안은 in the box예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my ball? Sorry, I don't know.",
+     "ko": "내 공은 어디에 있니? 미안해, 나는 몰라."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "동물이나 물건의 위치를 나타내는 문장 읽고 쓰기 / 'p'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "동물이나 물건의 위치를 나타내는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /p/와 철자 'p'의 관계를 이해하며 'p'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'나와 짝의 물건으로 반고흐의 방 꾸미기'의 협력 과업으로 물건의 위치를 나타내는 어구와 문장을 읽고 쓰며, 물건의 위치를 묻고 답하는 말과 모르고 있음을 나타내는 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 62~63쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "'Where's My Ball?' 노래 부르기, 물건의 위치가 드러난 사진을 보며 'It's on the desk.' 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "고양이가 어디 있는지 묻는 그림을 보며 문장 읽기, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Choose",
+     "desc": "문장을 읽고 그림과 맞으면 Yes, 맞지 않으면 No에 ○표 하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Follow and Write / 스스로 다지기",
+     "desc": "징검다리를 건너 위치 어구 완성해 쓰기, 내 영어 교과서의 위치를 문장으로 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'p'로 끝나는 단어(cap, cup, jump) 소리 내어 읽고 쓰기, 끝소리 구별하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "짝에게 내 물건의 위치를 묻고 답하며 '반고흐의 방' 그림에 물건 붙임딱지 붙이기, 위치 문장 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "Work Together에서 쓴 문장 읽기, 그림과 문장 맞는지 확인하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "It's in the box.",
+    "It's on the bed.",
+    "It's under the table.",
+    "It's on the chair.",
+    "It's under the desk."
+   ],
+   "tip": "cap, cup, jump처럼 끝 글자 p는 /p/ 소리가 나요. 끝소리 /p/는 입술을 다물며 아주 짧고 약하게 소리 내요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 동물이나 물건의 위치를 나타내는 문장을 읽고 이해하며 쓸 수 있는가? 소리 /p/와 철자 'p'의 관계를 이해하며 단어를 읽고 쓸 수 있는가? 짝과 협력하여 '반고흐의 방' 꾸미기에 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "on the chair",
+       "의자 위에"
+      ],
+      [
+       "under the bed",
+       "침대 아래에"
+      ],
+      [
+       "in the box",
+       "상자 안에"
+      ],
+      [
+       "on the table",
+       "탁자 위에"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'under the desk'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "책상 아래에",
+      "책상 위에",
+      "책상 안에"
+     ],
+     "answer": 0,
+     "explain": "under는 '~ 아래에'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "cap",
+     "choices": [
+      "cap",
+      "cat",
+      "can"
+     ],
+     "answer": 0,
+     "explain": "cap은 '모자'예요. 끝소리 /p/를 잘 들어 보세요."
+    },
+    {
+     "type": "mc",
+     "prompt": "끝소리가 /p/인 단어를 고르세요.",
+     "choices": [
+      "bed",
+      "cat",
+      "cup"
+     ],
+     "answer": 2,
+     "explain": "cup은 끝 글자 p가 /p/ 소리를 내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🧢",
+     "choices": [
+      "cap",
+      "cup",
+      "jump"
+     ],
+     "answer": 0,
+     "explain": "🧢는 모자, cap이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'점프하다, 뛰다'를 영어로 하면?",
+     "emoji": "🐸",
+     "choices": [
+      "cup",
+      "pen",
+      "jump"
+     ],
+     "answer": 2,
+     "explain": "'뛰다'는 jump예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's on the bed.",
+     "question": "그림: 🐱 고양이가 침대 위에 있어요. 문장이 그림과 맞나요?",
+     "choices": [
+      "Yes",
+      "No"
+     ],
+     "answer": 0,
+     "explain": "on the bed는 '침대 위에'라서 그림과 맞아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's in the box.",
+     "question": "그림: 🐶 강아지가 의자 아래에 있어요. 문장이 그림과 맞나요?",
+     "choices": [
+      "Yes",
+      "No"
+     ],
+     "answer": 1,
+     "explain": "강아지는 의자 아래(under the chair)에 있어서 맞지 않아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's ___ the desk.",
+     "ko": "그것은 책상 아래에 있어.",
+     "choices": [
+      "on",
+      "under",
+      "in"
+     ],
+     "answer": 1,
+     "explain": "'~ 아래에'는 under예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's a cup.",
+     "choices": [
+      "🧢",
+      "☕",
+      "🐸"
+     ],
+     "answer": 1,
+     "explain": "cup은 컵이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 책상 위에 있어.",
+     "answer": "It's on the desk.",
+     "distractors": [
+      "in",
+      "bed."
+     ],
+     "explain": "책상 위는 on the desk예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "cap, cup, jump",
+     "ko": "모자, 컵, 뛰다"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "의자",
+     "answers": [
+      "chair"
+     ],
+     "hint": "ch _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "컵",
+     "answers": [
+      "cup"
+     ],
+     "hint": "c u _"
+    },
+    {
+     "type": "mc",
+     "prompt": "끝소리가 다른 하나를 고르세요.",
+     "choices": [
+      "jump",
+      "cap",
+      "cat"
+     ],
+     "answer": 2,
+     "explain": "jump, cap은 /p/로 끝나고, cat은 /t/로 끝나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'cup'과 끝소리가 같은 단어는?",
+     "choices": [
+      "cap",
+      "box",
+      "bed"
+     ],
+     "answer": 0,
+     "explain": "cup과 cap은 모두 /p/ 소리로 끝나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Where's my cat? It's ___ the chair.",
+     "ko": "내 고양이는 어디에 있니? 의자 위에 있어.",
+     "choices": [
+      "on",
+      "in",
+      "under"
+     ],
+     "answer": 0,
+     "explain": "의자 위는 on the chair예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Where's my cat? It's on the desk. Oh, no! It's under the table. Now, it's in the box!",
+     "question": "고양이는 마지막에 어디에 있나요?",
+     "choices": [
+      "책상 위",
+      "탁자 아래",
+      "상자 안"
+     ],
+     "answer": 2,
+     "explain": "마지막에 'Now, it's in the box!'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "고양이가 탁자 아래에 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Where's my cat?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's under the table.",
+      "It's on the table.",
+      "It's in the box."
+     ],
+     "answer": 0,
+     "explain": "탁자 아래는 under the table이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것은 침대 아래에 있어.",
+     "answer": "It's under the bed.",
+     "distractors": [
+      "on",
+      "box."
+     ],
+     "explain": "침대 아래는 under the bed예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's in the box.",
+     "answer": "It's in the box.",
+     "distractors": [
+      "on",
+      "desk."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's on the chair. It's under the desk.",
+     "ko": "의자 위에 있어. 책상 아래에 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "상자 안에",
+     "answers": [
+      "in the box"
+     ],
+     "hint": "in the b _ _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 탁자 위에 있어.",
+     "answers": [
+      "It's on the table.",
+      "It is on the table."
+     ],
+     "hint": "It's on the t _ _ _ _."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "뛰다, 점프하다",
+     "answers": [
+      "jump"
+     ],
+     "hint": "j u m _"
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 알맞은 글자는? ca_ (모자)",
+     "choices": [
+      "p",
+      "t",
+      "d"
+     ],
+     "answer": 0,
+     "explain": "cap은 p로 끝나요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my room. My ball is on the bed. My book is under the desk. My doll is in the box. My pen is on the chair.",
+     "question": "책은 어디에 있나요?",
+     "choices": [
+      "침대 위",
+      "상자 안",
+      "의자 위",
+      "책상 아래"
+     ],
+     "answer": 3,
+     "explain": "'My book is under the desk.' 책은 책상 아래에 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My bag is under the chair.",
+     "question": "그림: 🎒 가방이 의자 위에 있어요. 문장이 그림과 맞나요?",
+     "choices": [
+      "Yes",
+      "No"
+     ],
+     "answer": 1,
+     "explain": "가방은 의자 위(on the chair)에 있어서 맞지 않아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where's my cup? It's on the desk.",
+     "answer": "Where's my cup? It's on the desk.",
+     "distractors": [
+      "under",
+      "box."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "봐! 그것은 의자 아래에 있어.",
+     "answer": "Look! It's under the chair.",
+     "distractors": [
+      "on",
+      "table."
+     ],
+     "explain": "의자 아래는 under the chair예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "컵은 의자 위에 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Where's my cup?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the chair.",
+      "It's under the chair.",
+      "It's a chair."
+     ],
+     "answer": 0,
+     "explain": "의자 위는 on the chair예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my cap? It's in the box.",
+     "ko": "내 모자는 어디에 있니? 상자 안에 있어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '종이학' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 64~65쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "칠판에 쓴 'It's on the table.' 등의 문장을 읽고 공책에 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'종이학' 원작 이야기하기, 그림 보고 이야기 추측, 만화 영화 보고 줄거리 이해, HOW ABOUT YOU?(내가 아저씨라면 무엇을 그릴까?), 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 찾는 물건에 ○표 하기, 상황에 맞게 위치 묻고 답하기, 들은 순서대로 문장 완성하기, 고양이가 지나간 곳 상상하여 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "1~4차시 성취도 점검, '정리해요' 쓰기, Special 3 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Good evening. Please come in.",
+    "Do you have a pen? - Yes, I do.",
+    "Where's my pen? - It's in the box.",
+    "Where's the bird? - I don't know."
+   ],
+   "tip": "역할극에서 물건을 찾을 때는 'Where's ~?', 모를 때는 'I don't know.', 찾았을 때는 'Look! It's ....'라고 말해요.",
+   "competencies": [
+    "공",
+    "자",
+    "창",
+    "협",
+    "지",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가, 단원평가(지필평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A man comes to a noodle shop. A boy says, \"Good evening. Please come in.\"",
+     "question": "남자가 간 곳은 어디인가요?",
+     "choices": [
+      "국숫집",
+      "학교",
+      "공원"
+     ],
+     "answer": 0,
+     "explain": "noodle shop은 국숫집이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아저씨는 국수를 좋아해요. 아저씨의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Grandpa",
+       "text": "Do you like noodles?"
+      },
+      {
+       "who": "Man",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's in the box.",
+      "Yes, I do. Thank you.",
+      "I don't know."
+     ],
+     "answer": 1,
+     "explain": "'Do you like ~?'에는 'Yes, I do.'로 답할 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "펜은 상자 안에 있어요. 할아버지의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Where's my pen?"
+      },
+      {
+       "who": "Grandpa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on the box.",
+      "Good evening.",
+      "It's in the box."
+     ],
+     "answer": 2,
+     "explain": "상자 안은 in the box예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "It's a bird.",
+     "choices": [
+      "🐦",
+      "🐱",
+      "🐶"
+     ],
+     "answer": 0,
+     "explain": "bird는 새예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Good evening.'은 언제 하는 인사인가요?",
+     "choices": [
+      "아침",
+      "오후",
+      "저녁"
+     ],
+     "answer": 2,
+     "explain": "evening은 저녁이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "할아버지는 새가 어디 있는지 몰라요. 할아버지의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Where's the bird?"
+      },
+      {
+       "who": "Grandpa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "It's a bird.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "모를 때는 'I don't know.'라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Oh, look! It's ___ the table.",
+     "ko": "오, 봐! 그것은 탁자 위에 있어.",
+     "choices": [
+      "on",
+      "under",
+      "in"
+     ],
+     "answer": 0,
+     "explain": "탁자 위는 on the table이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Please come in.",
+       "어서 들어오세요."
+      ],
+      [
+       "Touch this.",
+       "이것을 만져 보세요."
+      ],
+      [
+       "Do you have a pen?",
+       "펜 있니?"
+      ],
+      [
+       "Where's the bird?",
+       "새는 어디에 있니?"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "Do you have a pen?",
+     "choices": [
+      "펜의 색을 묻고 있어요.",
+      "펜이 있는지 묻고 있어요.",
+      "펜을 사고 싶어해요."
+     ],
+     "answer": 1,
+     "explain": "'Do you have ~?'는 가지고 있는지 묻는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'bus'의 뜻으로 알맞은 것은?",
+     "emoji": "🚌",
+     "choices": [
+      "상자",
+      "버스",
+      "책상"
+     ],
+     "answer": 1,
+     "explain": "bus는 버스예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 펜은 어디에 있니?",
+     "answer": "Where's my pen?",
+     "distractors": [
+      "What's",
+      "the"
+     ],
+     "explain": "위치를 물을 때 'Where's my ~?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good evening. Please come in.",
+     "ko": "안녕하세요(저녁 인사). 어서 들어오세요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A man eats noodles at a shop. Then he wants a pen. The boy asks, \"Where's my pen?\" Grandpa says, \"It's in the box.\" The man draws a bird. The bird flies!",
+     "question": "남자가 펜으로 그린 것은 무엇인가요?",
+     "choices": [
+      "고양이",
+      "새",
+      "꽃",
+      "물고기"
+     ],
+     "answer": 1,
+     "explain": "'The man draws a bird.' 새를 그렸어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Girl: Where's the bird?\nGrandpa: I don't know.\nGirl: Oh, look! It's on the table.",
+     "question": "새는 어디에 있었나요?",
+     "choices": [
+      "탁자 위",
+      "탁자 아래",
+      "상자 안"
+     ],
+     "answer": 0,
+     "explain": "여자아이가 'It's on the table.'이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아저씨가 그림을 설명해요. 아저씨의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "What's this?"
+      },
+      {
+       "who": "Man",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "It's on the table.",
+      "It's a bird. Touch this."
+     ],
+     "answer": 2,
+     "explain": "'What's this?'에는 'It's ~.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 펜을 가지고 있어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Man",
+       "text": "Do you have a pen?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good evening.",
+      "Yes, I do.",
+      "It's a bird."
+     ],
+     "answer": 1,
+     "explain": "'Do you have ~?'에 '응, 있어.'는 'Yes, I do.'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Where's my pen? It's in the box.",
+     "answer": "Where's my pen? It's in the box.",
+     "distractors": [
+      "on",
+      "bag."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "봐! 그것은 상자 위에 있어.",
+     "answer": "Look! It's on the box.",
+     "distractors": [
+      "in",
+      "table."
+     ],
+     "explain": "상자 위는 on the box, 상자 안은 in the box예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you ___ noodles?",
+     "ko": "너는 국수를 좋아하니?",
+     "choices": [
+      "like",
+      "know",
+      "have"
+     ],
+     "answer": 0,
+     "explain": "'좋아하니?'는 'Do you like ~?'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "펜이 어디 있는지 물을 때 알맞은 말은?",
+     "choices": [
+      "What's this?",
+      "Do you like pens?",
+      "Where's the pen?"
+     ],
+     "answer": 2,
+     "explain": "위치를 물을 때는 Where를 써요."
+    },
+    {
+     "type": "match",
+     "prompt": "질문과 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Do you like noodles?",
+       "Yes, I do."
+      ],
+      [
+       "What's this?",
+       "It's a bird."
+      ],
+      [
+       "Where's the bird?",
+       "It's on the table."
+      ],
+      [
+       "Where's my fan?",
+       "I don't know."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's the bird? I don't know.",
+     "ko": "새는 어디에 있니? 나는 몰라."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Momo's room is messy!\nMomo: Where's my ball?\nBora: It's under the bed.\nMomo: Where's my fan?\nBora: I don't know.\nJuno: Look! It's in the box.",
+     "question": "부채는 어디에 있었나요?",
+     "choices": [
+      "침대 아래",
+      "상자 안",
+      "탁자 위",
+      "의자 위"
+     ],
+     "answer": 1,
+     "explain": "부채를 찾자 준오가 'It's in the box.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A cat comes into my room. It plays on the desk. Then it jumps into the box. Now it's under the table.",
+     "question": "고양이가 지금 있는 곳은 어디인가요?",
+     "choices": [
+      "책상 위",
+      "상자 안",
+      "탁자 아래",
+      "침대 위"
+     ],
+     "answer": 2,
+     "explain": "'Now it's under the table.' 지금은 탁자 아래에 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "침대",
+     "answers": [
+      "bed"
+     ],
+     "hint": "b _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것은 의자 아래에 있어.",
+     "answers": [
+      "It's under the chair.",
+      "It is under the chair."
+     ],
+     "hint": "It's u _ _ _ r the chair."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Mike, where's my fan? It's on the table.",
+     "answer": "Mike, where's my fan? It's on the table.",
+     "distractors": [
+      "under",
+      "box."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "엄마, 제 공은 어디에 있어요?",
+     "answer": "Mom, where's my ball?",
+     "distractors": [
+      "What's",
+      "on"
+     ],
+     "explain": "부르는 말 Mom 뒤에 'where's my ~?'를 붙여요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "붓은 의자 위에 있어요. C의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Where's my brush?"
+      },
+      {
+       "who": "B",
+       "text": "I don't know."
+      },
+      {
+       "who": "C",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "Look! It's on the chair.",
+      "It's a brush."
+     ],
+     "answer": 1,
+     "explain": "의자 위는 on the chair예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Where's my doll?"
+      },
+      {
+       "who": "B",
+       "text": "It's in the box."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I don't know.",
+      "Good evening.",
+      "Oh, thank you."
+     ],
+     "answer": 2,
+     "explain": "찾아 주면 'Thank you.'라고 고마움을 표현해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 위치를 나타내는 말이 아닌 것은?",
+     "choices": [
+      "in",
+      "on",
+      "under",
+      "want"
+     ],
+     "answer": 3,
+     "explain": "in(안에), on(위에), under(아래에)는 위치를 나타내는 말이고, want는 '원하다'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my book? It's on the chair. Thank you.",
+     "ko": "내 책은 어디에 있니? 의자 위에 있어. 고마워."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "수영 교육을 받으러 가기 전, Eric과 준오가 교실에서 가방과 모자를 찾아요.",
+   "lines": [
+    {
+     "who": "Mr. Jones",
+     "text": "The bus is ready. Let's go."
+    },
+    {
+     "who": "Eric",
+     "text": "Where's my bag?"
+    },
+    {
+     "who": "보라",
+     "text": "It's under the chair."
+    },
+    {
+     "who": "준오",
+     "text": "Where's my cap?"
+    },
+    {
+     "who": "Momo",
+     "text": "It's on the table. Here."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "태극기 목걸이와 무궁화를 만들다가 Eric은 펜을, Kate는 테이프를 찾아요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Where's my pen?"
+    },
+    {
+     "who": "Sam",
+     "text": "I don't know."
+    },
+    {
+     "who": "보라",
+     "text": "It's on the desk."
+    },
+    {
+     "who": "Kate",
+     "text": "Where's my tape?"
+    },
+    {
+     "who": "Hoa",
+     "text": "Look! It's under the chair."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 책을 찾자 Alice는 모른다고 하고, 민우가 침대 위의 책을 찾아 줘요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Where's my book?"
+    },
+    {
+     "who": "Alice",
+     "text": "I don't know."
+    },
+    {
+     "who": "민우",
+     "text": "Look! It's on the bed."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "국숫집에서 대접을 받은 아저씨가 펜으로 새를 그리자 새가 살아 움직여요.",
+   "lines": [
+    {
+     "who": "아저씨",
+     "text": "Do you have a pen?"
+    },
+    {
+     "who": "남자아이",
+     "text": "Yes, I do. Where's my pen?"
+    },
+    {
+     "who": "할아버지",
+     "text": "It's in the box."
+    },
+    {
+     "who": "여자아이",
+     "text": "Where's the bird?"
+    },
+    {
+     "who": "할아버지",
+     "text": "I don't know."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 종이학 (The Paper Crane)",
+  "passage": "A tired man comes to a small noodle shop. \"Good evening. Please come in,\" says the boy. Grandpa gives him noodles. The man wants to say thank you. \"Do you have a pen?\" The boy looks for it. It's in the box! The man draws a bird. \"Touch this.\" The bird flies! Many people come to see it. \"Where's the bird?\" \"Look! It's on the table.\"",
+  "summaryKo": "국숫집에서 따뜻한 대접을 받은 아저씨가 펜으로 새를 그려 주자 새가 날아다니고, 새를 보러 온 손님들로 가게가 북적여요."
+ },
+ "writing": {
+  "frame": [
+   "Where's my ____?",
+   "It's in / on / under the ____."
+  ],
+  "model": "Where's my ball? It's under the table. Where's my book? It's on the desk."
+ },
+ "project": "짝과 함께 한 명은 공·부채·모자, 다른 한 명은 인형·책·펜의 주인이 되어, 'Where's my ...?' 'It's in [on / under] the ....'를 주고받으며 '반고흐의 방' 그림에 서로의 물건 붙임딱지를 붙이고, 모를 때는 'I don't know.'라고 말한 뒤 완성한 방을 색칠하고 위치 문장을 쓴다.",
+ "special": {
+  "no": 3,
+  "kind": "CULTURE · PROJECT",
+  "pages": "교과서 66~67쪽",
+  "title": "세계 여러 나라의 음식을 알아봐요 · 시를 읽고 보물찾기",
+  "summaryKo": "CULTURE에서는 Momo와 함께 이탈리아의 피자, 멕시코의 타코, 베트남의 퍼, 태국의 팟타이, 스위스의 퐁뒤를 알아보고 먹고 싶은 음식에 ○표를 한 뒤, 모둠원과 원하는 음식을 묻고 답하며 우리 반의 희망 식단(주간 식단표)을 만들어요. 'Let's Try!' 컵케이크 모으기 말판 놀이로 5·6단원을 복습하고, PROJECT에서는 바닷속 그림 속 시를 듣고 보물이 있는 곳을 찾은 뒤 위치 어구로 오징어 몸통에 나만의 시를 써서 낭송해요.",
+  "facts": [
+   "피자는 이탈리아의 대표 음식으로, 이탈리아 피자는 빵이 얇고 바삭한 것이 특징이에요.",
+   "멕시코의 타코는 토르티야에 고기, 해물, 채소 등을 싸서 먹는 음식이에요.",
+   "베트남의 퍼(pho)는 뜨거운 육수에 쌀로 만든 면과 채소, 고기 등을 넣어 먹는 쌀국수예요.",
+   "태국의 팟타이는 숙주나물을 넣고 볶은 쌀국수로, 새콤달콤하고 짭짤하며 주로 땅콩을 곁들여 먹어요.",
+   "스위스의 퐁뒤는 빵, 고기, 과일 등을 꼬챙이에 끼워 녹인 치즈나 초콜릿에 찍어 먹는 전통 요리예요.",
+   "영국의 피시앤칩스는 흰살생선튀김과 감자튀김을, 호주의 미트파이는 고기와 채소로 속을 채운 파이를 즐겨 먹어요."
+  ],
+  "expressions": [
+   "What do you want? — I want pizza [tacos / pho / phat thai / fondue].",
+   "Where's the treasure? — It's on the desk. / It's in the box.",
+   "In, in, in the box. It's in the box."
+  ],
+  "exercises": []
+ }
+}

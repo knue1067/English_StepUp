@@ -1,0 +1,2300 @@
+{
+ "id": "L09",
+ "no": 9,
+ "grade": 4,
+ "semester": 2,
+ "title": "Is This Your Bag?",
+ "emoji": "🎒",
+ "rationale": "누구나 한 번쯤 잃어버린 물건을 되찾거나 물건의 주인을 찾아 준 경험이 있다. 물건의 주인인지 묻고 답하는 말과 내 물건의 색깔을 표현하는 말을 익혀 실생활에서 활용하게 하고, 나아가 자기 물건을 소중히 여기고 아끼는 습관을 기르도록 한다.",
+ "topics": "학교생활 관련(학교 활동, 교우 관계), 민주시민 관련(봉사)",
+ "functions": [
+  {
+   "ko": "물건의 주인인지 묻고 답하기",
+   "examples": [
+    "Is this your bag?",
+    "Yes, it is.",
+    "No, it isn't."
+   ]
+  },
+  {
+   "ko": "내 물건의 색깔 표현하기",
+   "examples": [
+    "My cap is gray."
+   ]
+  }
+ ],
+ "forms": [
+  "Is this your bag? - Yes, it is. / No, it isn't.",
+  "My bag [cap / hat / notebook / umbrella / watch] is black [blue / brown / gray / green / pink / red / white / yellow]."
+ ],
+ "phonics": {
+  "focus": "a /æ/",
+  "words": [
+   "bag",
+   "cat",
+   "hat"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "bottle",
+   "ko": "병"
+  },
+  {
+   "en": "brown",
+   "ko": "갈색(의)"
+  },
+  {
+   "en": "clean",
+   "ko": "청소하다"
+  },
+  {
+   "en": "find",
+   "ko": "찾다"
+  },
+  {
+   "en": "gray",
+   "ko": "회색(의)"
+  },
+  {
+   "en": "notebook",
+   "ko": "공책"
+  },
+  {
+   "en": "park",
+   "ko": "공원"
+  },
+  {
+   "en": "shoe",
+   "ko": "신발(한 짝)"
+  },
+  {
+   "en": "so",
+   "ko": "정말, 아주"
+  },
+  {
+   "en": "umbrella",
+   "ko": "우산"
+  },
+  {
+   "en": "watch",
+   "ko": "손목시계"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "bag",
+   "ko": "가방",
+   "emoji": "🎒"
+  },
+  {
+   "en": "cap",
+   "ko": "야구 모자",
+   "emoji": "🧢"
+  },
+  {
+   "en": "hat",
+   "ko": "(챙이 있는) 모자",
+   "emoji": "🎩"
+  },
+  {
+   "en": "notebook",
+   "ko": "공책",
+   "emoji": "📓"
+  },
+  {
+   "en": "umbrella",
+   "ko": "우산",
+   "emoji": "☂️"
+  },
+  {
+   "en": "watch",
+   "ko": "손목시계",
+   "emoji": "⌚"
+  },
+  {
+   "en": "shoe",
+   "ko": "신발",
+   "emoji": "👟"
+  },
+  {
+   "en": "black",
+   "ko": "검은색",
+   "emoji": "⚫"
+  },
+  {
+   "en": "blue",
+   "ko": "파란색",
+   "emoji": "🔵"
+  },
+  {
+   "en": "brown",
+   "ko": "갈색",
+   "emoji": "🟤"
+  },
+  {
+   "en": "gray",
+   "ko": "회색",
+   "emoji": ""
+  },
+  {
+   "en": "green",
+   "ko": "초록색",
+   "emoji": "🟢"
+  },
+  {
+   "en": "pink",
+   "ko": "분홍색",
+   "emoji": ""
+  },
+  {
+   "en": "red",
+   "ko": "빨간색",
+   "emoji": "🔴"
+  },
+  {
+   "en": "white",
+   "ko": "흰색",
+   "emoji": "⚪"
+  },
+  {
+   "en": "yellow",
+   "ko": "노란색",
+   "emoji": "🟡"
+  }
+ ],
+ "characters": [
+  "준오",
+  "Sam",
+  "Kate",
+  "보라",
+  "Eric",
+  "Hoa",
+  "Momo",
+  "하나",
+  "Danny",
+  "Paul",
+  "Alice",
+  "민우",
+  "앨리스",
+  "토끼",
+  "모자 장수",
+  "여왕"
+ ],
+ "goals": {
+  "understand": [
+   "물건의 주인인지 묻고 답하는 말, 내 물건의 색깔을 표현하는 말을 듣고 이해할 수 있다.",
+   "내 물건의 색깔을 표현하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /æ/와 철자 ‘a’의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "물건의 주인인지 묻고 답하는 말을 들으며 서로 존중하고 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "물건의 주인인지 묻고 답하는 말, 내 물건의 색깔을 표현하는 말을 할 수 있다.",
+   "내 물건의 색깔을 표현하는 문장을 보고 쓸 수 있다.",
+   "소리 /æ/와 철자 ‘a’의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "대인 관계의 기초인 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "물건의 주인인지 묻고 답하기",
+   "objectives": [
+    "물건의 주인인지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘보물 카드의 주인 찾기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 86~87쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "친구의 물건을 찾아 준 경험 나누기, 교실 분실물 보관함의 물건을 보여 주며 주인인지 묻고 답하기, 단원 목표 확인 및 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "숲 체험 활동 중 Sam이 준오의 가방을, 보라가 Kate의 신발을 찾아 주는 만화 영화 보고 물건 주인 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 물건 그림(손목시계, 신발, 모자, 가방, 공책, 우산)에 번호 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "모둠 표시를 한 보물 카드를 교실에 숨기고 찾은 뒤 ‘Is this your bag?’으로 주인 모둠을 찾아 점수 얻기 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "친구 물건으로 주인인지 묻고 답하며 복습, 대화 듣고 알맞은 그림 고르기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Is this your bag?",
+    "Yes, it is.",
+    "No, it isn't."
+   ],
+   "tip": "‘Is this your ...?’로 물으면 주인이 맞을 때 ‘Yes, it is.’, 아닐 때 ‘No, it isn't.’로 답해요. isn't는 is not을 줄인 말이에요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 물건의 주인인지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bag",
+       "가방"
+      ],
+      [
+       "cap",
+       "야구 모자"
+      ],
+      [
+       "shoe",
+       "신발"
+      ],
+      [
+       "watch",
+       "손목시계"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "notebook",
+       "공책"
+      ],
+      [
+       "umbrella",
+       "우산"
+      ],
+      [
+       "find",
+       "찾다"
+      ],
+      [
+       "your",
+       "너의"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "⌚",
+     "choices": [
+      "shoe",
+      "bag",
+      "cap",
+      "watch"
+     ],
+     "answer": 3,
+     "explain": "⌚는 손목시계, watch예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "☂️",
+     "choices": [
+      "notebook",
+      "umbrella",
+      "watch",
+      "cap"
+     ],
+     "answer": 1,
+     "explain": "☂️는 우산, umbrella예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Is this your notebook?",
+     "choices": [
+      "이것은 너의 가방이니?",
+      "이것은 너의 우산이니?",
+      "이것은 너의 공책이니?"
+     ],
+     "answer": 2,
+     "explain": "notebook은 공책이에요. ‘Is this your ...?’는 ‘이것은 너의 ~이니?’라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "shoe",
+     "choices": [
+      "🧢",
+      "⌚",
+      "🎒",
+      "👟"
+     ],
+     "answer": 3,
+     "explain": "shoe는 신발이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘No, it isn't.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "응, 맞아.",
+      "고마워.",
+      "아니, 그렇지 않아."
+     ],
+     "answer": 2,
+     "explain": "isn't는 is not을 줄인 말이에요. ‘No, it isn't.’는 ‘아니, 그렇지 않아.’라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "가방은 준오의 것이 맞아요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Is this your bag, Junho?"
+      },
+      {
+       "who": "Junho",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "No, it isn't.",
+      "I'm Junho."
+     ],
+     "answer": 0,
+     "explain": "준오의 가방이 맞으니까 ‘Yes, it is.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "신발은 Kate의 것이 아니에요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Is this your shoe, Kate?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "No, it isn't.",
+      "Thank you!"
+     ],
+     "answer": 1,
+     "explain": "Kate의 신발이 아니니까 ‘No, it isn't.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Is ___ your cap?",
+     "ko": "이것은 너의 야구 모자니?",
+     "choices": [
+      "it",
+      "my",
+      "this"
+     ],
+     "answer": 2,
+     "explain": "‘이것은’은 this예요. ‘Is this your cap?’"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이것은 너의 손목시계니?",
+     "answer": "Is this your watch?",
+     "distractors": [
+      "my",
+      "it"
+     ],
+     "explain": "물건의 주인인지 물을 때는 ‘Is this your ...?’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Is this your cap?",
+     "ko": "이것은 너의 야구 모자니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "Amy",
+       "text": "Yes, it is. Thank you!"
+      }
+     ],
+     "choices": [
+      "Is this your umbrella?",
+      "What do you want?",
+      "How are you?"
+     ],
+     "answer": 0,
+     "explain": "‘Yes, it is.’는 ‘Is this your ...?’에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Is this your shoe? No, it ___.",
+     "ko": "이것은 너의 신발이니? 아니, 그렇지 않아.",
+     "choices": [
+      "is",
+      "can't",
+      "isn't"
+     ],
+     "answer": 2,
+     "explain": "‘아니, 그렇지 않아.’는 ‘No, it isn't.’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, it ___. Thank you!",
+     "ko": "응, 맞아. 고마워!",
+     "choices": [
+      "is",
+      "isn't",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "‘응, 맞아.’는 ‘Yes, it is.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 준오의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Where's my shoe?"
+      },
+      {
+       "who": "Junho",
+       "text": "?"
+      },
+      {
+       "who": "Kate",
+       "text": "No, it isn't."
+      }
+     ],
+     "choices": [
+      "I can't find it.",
+      "Thank you!",
+      "Is this your shoe?"
+     ],
+     "answer": 2,
+     "explain": "Kate가 신발을 찾고 있으니 준오는 ‘Is this your shoe?’라고 물어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 가방이 어디 있지? 찾을 수가 없어.",
+     "answer": "Where's my bag? I can't find it.",
+     "distractors": [
+      "your",
+      "can"
+     ],
+     "explain": "‘Where's my ...?’는 ‘내 ~은 어디 있지?’, ‘I can't find it.’은 ‘그것을 찾을 수 없어.’예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Is this your umbrella?",
+     "answer": "Is this your umbrella?",
+     "distractors": [
+      "my",
+      "it"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 내용과 맞는 것을 고르세요.",
+     "audio": "Is this your bag? No, it isn't.",
+     "choices": [
+      "가방은 대답한 사람의 것이에요.",
+      "가방은 대답한 사람의 것이 아니에요.",
+      "모자는 대답한 사람의 것이에요."
+     ],
+     "answer": 1,
+     "explain": "‘No, it isn't.’라고 했으니 가방은 대답한 사람의 것이 아니에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 떨어뜨린 신발을 주웠어요. 친구에게 할 말로 알맞은 것은?",
+     "emoji": "👟",
+     "choices": [
+      "Is this your shoe?",
+      "This is my shoe.",
+      "Where's my shoe?"
+     ],
+     "answer": 0,
+     "explain": "친구의 물건인지 물을 때는 ‘Is this your shoe?’라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 맞아. 고마워!",
+     "answer": "Yes, it is. Thank you!",
+     "distractors": [
+      "isn't.",
+      "No,"
+     ],
+     "explain": "주인이 맞으면 ‘Yes, it is.’라고 답하고 고맙다고 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Where's my umbrella?",
+     "ko": "내 우산은 어디 있지?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Mina, 이것은 너의 신발이니?",
+     "answer": "Mina, is this your shoe?",
+     "distractors": [
+      "my",
+      "are"
+     ],
+     "explain": "이름을 부른 뒤 ‘is this your shoe?’라고 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Oh no, where's my watch?",
+     "answer": "Oh no, where's my watch?",
+     "distractors": [
+      "your",
+      "shoe?"
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Ben, 이것은 너의 가방이니?",
+     "answers": [
+      "Ben, is this your bag?",
+      "Is this your bag, Ben?"
+     ],
+     "hint": "Ben, is this your b _ g?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "공책",
+     "answers": [
+      "notebook"
+     ],
+     "hint": "n o t e b _ _ k"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tom: Where's my cap? I can't find it.\nAmy: Is this your cap?\nTom: No, it isn't.\nJin: Is this your cap, Tom?\nTom: Yes, it is. Thanks!",
+     "question": "Tom의 모자를 찾아 준 사람은 누구인가요?",
+     "choices": [
+      "Amy",
+      "Tom",
+      "Jin"
+     ],
+     "answer": 2,
+     "explain": "Jin이 물었을 때 Tom이 ‘Yes, it is.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia: Is this your umbrella, Leo?\nLeo: No, it isn't.\nMia: Is this your notebook?\nLeo: Yes, it is. Thank you!",
+     "question": "Leo의 물건은 무엇인가요?",
+     "choices": [
+      "공책",
+      "우산",
+      "우산과 공책 모두"
+     ],
+     "answer": 0,
+     "explain": "우산에는 ‘No, it isn't.’, 공책에는 ‘Yes, it is.’라고 답했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 선생님의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Is this your watch, Ben?"
+      },
+      {
+       "who": "Ben",
+       "text": "No, it isn't."
+      },
+      {
+       "who": "Teacher",
+       "text": "?"
+      },
+      {
+       "who": "Ana",
+       "text": "Yes, it is. Thanks!"
+      }
+     ],
+     "choices": [
+      "Ben, is this your watch?",
+      "Where's my watch?",
+      "Ana, is this your watch?"
+     ],
+     "answer": 2,
+     "explain": "Ana가 ‘Yes, it is.’라고 답했으니 선생님은 Ana에게 손목시계의 주인인지 물었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Yuna",
+       "text": "Oh no, my hat!"
+      },
+      {
+       "who": "Dan",
+       "text": "?"
+      },
+      {
+       "who": "Yuna",
+       "text": "Yes, it is. Thank you!"
+      }
+     ],
+     "choices": [
+      "Is this your hat?",
+      "Is this your shoe?",
+      "Let's go."
+     ],
+     "answer": 0,
+     "explain": "유나는 모자를 잃어버렸고 ‘Yes, it is.’라고 답했으니 모자의 주인인지 물은 말이 알맞아요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "찾다",
+     "answers": [
+      "find"
+     ],
+     "hint": "f _ n d"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Ann, is this your umbrella? Yes, it is.",
+     "ko": "Ann, 이것은 너의 우산이니? 응, 맞아."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "물건의 주인인지 묻고 답하기 / 내 물건의 색깔 표현하기",
+   "objectives": [
+    "물건의 주인인지 묻고 답하는 말을 할 수 있다.",
+    "내 물건의 색깔을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Is This Your Cap?’ 노래와 ‘클립을 돌려 물건의 주인 맞히기’ 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 88~89쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "교사의 물건으로 주인인지 묻고 답하며 복습, 여러 색깔 우산 사진을 보며 색깔 말하고 ‘My umbrella is green.’ 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "공원에서 플로깅을 하던 Eric이 모자를 잃어버리고 친구들이 회색 모자를 찾아 주는 만화 영화 보고 잃어버린 물건과 색깔 말하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "손목시계 주인 찾기·갈색 우산 찾기 실생활 동영상 보고 따라 말하기, 짝과 보라와 Eric이 되어 누구의 물건인지 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘Is This Your Cap?’ 노래를 모둠별로 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "물건을 원판의 색으로 색칠한 뒤 클립을 돌려 나온 색깔의 물건 주인인지 묻고 답하기, 수준별 활동(보충: 친구 물건 색깔 맞히기 / 심화: 물건 주인 찾기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "노래로 복습, 상황에 알맞은 대화하기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Is this your cap?",
+    "No, it isn't. My cap is gray.",
+    "Yes, it is. Thank you!"
+   ],
+   "tip": "내 물건이 아니면 ‘No, it isn't.’ 뒤에 ‘My cap is gray.’처럼 내 물건의 색깔을 말해 주면 친구가 더 쉽게 찾을 수 있어요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 물건의 주인인지 묻고 답하는 말을 할 수 있는가? 내 물건의 색깔을 표현하는 말을 듣고 이해하며 말할 수 있는가? 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "색깔 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "gray",
+       "회색"
+      ],
+      [
+       "brown",
+       "갈색"
+      ],
+      [
+       "black",
+       "검은색"
+      ],
+      [
+       "white",
+       "흰색"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "bottle",
+       "병"
+      ],
+      [
+       "park",
+       "공원"
+      ],
+      [
+       "clean",
+       "청소하다"
+      ],
+      [
+       "so",
+       "정말, 아주"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "이 색깔을 영어로 하면?",
+     "emoji": "🟤",
+     "choices": [
+      "gray",
+      "brown",
+      "black",
+      "pink"
+     ],
+     "answer": 1,
+     "explain": "🟤은 갈색, brown이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘gray’는 무슨 색깔인가요?",
+     "choices": [
+      "갈색",
+      "분홍색",
+      "초록색",
+      "회색"
+     ],
+     "answer": 3,
+     "explain": "gray는 회색이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "My cap is gray.",
+     "choices": [
+      "내 모자는 회색이야.",
+      "내 모자는 갈색이야.",
+      "내 가방은 회색이야."
+     ],
+     "answer": 0,
+     "explain": "cap은 야구 모자, gray는 회색이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 말한 사람의 물건을 고르세요.",
+     "audio": "My bag is brown.",
+     "choices": [
+      "갈색 우산",
+      "갈색 가방",
+      "파란색 가방"
+     ],
+     "answer": 1,
+     "explain": "bag은 가방, brown은 갈색이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My cap ___ gray.",
+     "ko": "내 모자는 회색이야.",
+     "choices": [
+      "are",
+      "am",
+      "is"
+     ],
+     "answer": 2,
+     "explain": "‘My cap’ 다음에는 is를 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My watch is ___.",
+     "ko": "내 손목시계는 갈색이야.",
+     "choices": [
+      "brown",
+      "gray",
+      "black"
+     ],
+     "answer": 0,
+     "explain": "갈색은 brown이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa가 검은색 모자를 들고 있어요. Eric의 모자는 회색이에요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Hoa",
+       "text": "Is this your cap?"
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is. Thank you!",
+      "No, it isn't. My cap is gray.",
+      "No, it isn't. My cap is black."
+     ],
+     "answer": 1,
+     "explain": "Hoa가 든 모자는 Eric의 것이 아니고, Eric의 모자는 회색이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 모자는 회색이야.",
+     "answer": "My cap is gray.",
+     "distractors": [
+      "your",
+      "are"
+     ],
+     "explain": "‘내 ~은 …색이야.’는 ‘My ... is (색깔).’로 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Let's clean the park!’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "공원을 청소하자!",
+      "공원에 가자!",
+      "공원에서 놀자!"
+     ],
+     "answer": 0,
+     "explain": "clean은 ‘청소하다’, park는 ‘공원’이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My cap is gray.",
+     "ko": "내 모자는 회색이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "민우가 검은색 우산을 보여 줘요. Alice의 우산은 갈색이에요. Alice의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Minwoo",
+       "text": "Is this your umbrella?"
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is. Thanks!",
+      "No, it isn't. My umbrella is brown.",
+      "No, it isn't. My umbrella is black."
+     ],
+     "answer": 1,
+     "explain": "민우가 보여 준 검은색 우산은 Alice의 것이 아니에요. Alice의 우산은 갈색이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대답한 사람의 손목시계 색깔을 고르세요.",
+     "audio": "Is this your watch? No, it isn't. My watch is white.",
+     "choices": [
+      "검은색",
+      "갈색",
+      "흰색"
+     ],
+     "answer": 2,
+     "explain": "‘My watch is white.’라고 했으니 손목시계는 흰색이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Thank you so ___!",
+     "ko": "정말 고마워!",
+     "choices": [
+      "much",
+      "many",
+      "good"
+     ],
+     "answer": 0,
+     "explain": "‘정말 고마워!’는 ‘Thank you so much!’예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "병들을 여기에 놓아.",
+     "answer": "Put the bottles here.",
+     "distractors": [
+      "bottle",
+      "there"
+     ],
+     "explain": "bottles는 bottle(병)이 여러 개일 때 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My notebook is pink.",
+     "answer": "My notebook is pink.",
+     "distractors": [
+      "your",
+      "red."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "Mina의 가방은 검은색이에요. Mina가 할 말로 알맞은 것은?",
+     "emoji": "🎒",
+     "choices": [
+      "My bag is white.",
+      "My bag is black.",
+      "My cap is black."
+     ],
+     "answer": 1,
+     "explain": "가방은 bag, 검은색은 black이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 하나의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hana",
+       "text": "Danny, is this your watch?"
+      },
+      {
+       "who": "Danny",
+       "text": "No, it isn't."
+      },
+      {
+       "who": "Hana",
+       "text": "?"
+      },
+      {
+       "who": "Paul",
+       "text": "Yes, it is."
+      }
+     ],
+     "choices": [
+      "Danny, is this your watch?",
+      "Paul, where's my watch?",
+      "Paul, is this your watch?"
+     ],
+     "answer": 2,
+     "explain": "Paul이 ‘Yes, it is.’라고 답했으니 하나는 Paul에게 손목시계의 주인인지 물었어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 내 우산은 초록색이야.",
+     "answer": "No, it isn't. My umbrella is green.",
+     "distractors": [
+      "blue.",
+      "Yes,"
+     ],
+     "explain": "아니라고 답한 뒤 ‘My umbrella is green.’으로 내 물건의 색깔을 말해요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 알맞은 물건을 짝지어 보세요.",
+     "pairs": [
+      [
+       "My bag is red.",
+       "빨간색 가방"
+      ],
+      [
+       "My cap is blue.",
+       "파란색 야구 모자"
+      ],
+      [
+       "My shoe is white.",
+       "흰색 신발"
+      ],
+      [
+       "My watch is yellow.",
+       "노란색 손목시계"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "No, it isn't. My umbrella is brown.",
+     "ko": "아니, 그렇지 않아. 내 우산은 갈색이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 신발은 갈색이야.",
+     "answers": [
+      "My shoe is brown."
+     ],
+     "hint": "My shoe is b _ _ _ n."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "회색",
+     "answers": [
+      "gray",
+      "grey"
+     ],
+     "hint": "g _ _ y"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Is this your cap? No, it isn't. My cap is white.",
+     "answer": "Is this your cap? No, it isn't. My cap is white.",
+     "distractors": [
+      "Yes,",
+      "black."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sora: Oh no, my umbrella!\nJake: Is this your umbrella? It's black.\nSora: No, it isn't. My umbrella is yellow.\nJake: Is this your umbrella?\nSora: Yes, it is. Thank you so much!",
+     "question": "Sora의 우산은 무슨 색인가요?",
+     "choices": [
+      "검은색",
+      "노란색",
+      "갈색"
+     ],
+     "answer": 1,
+     "explain": "Sora가 ‘My umbrella is yellow.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Let's clean the park! Ben puts the bottles in a box. Oh, Ben's cap is not here. Lily finds a brown cap. \"Is this your cap, Ben?\" \"No, it isn't. My cap is gray.\"",
+     "question": "Ben의 모자는 무슨 색인가요?",
+     "choices": [
+      "갈색",
+      "흰색",
+      "회색"
+     ],
+     "answer": 2,
+     "explain": "Ben이 ‘My cap is gray.’라고 했어요. Lily가 찾은 갈색 모자는 Ben의 것이 아니에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 유나의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Leo",
+       "text": "Is this your bag, Yuna?"
+      },
+      {
+       "who": "Yuna",
+       "text": "?"
+      },
+      {
+       "who": "Leo",
+       "text": "Oh, sorry. Is this your bag?"
+      },
+      {
+       "who": "Yuna",
+       "text": "Yes, it is. Thanks!"
+      }
+     ],
+     "choices": [
+      "No, it isn't. My bag is pink.",
+      "Yes, it is. Thank you!",
+      "My name is Yuna."
+     ],
+     "answer": 0,
+     "explain": "Leo가 다시 다른 가방을 보여 주었으니 처음 가방은 유나의 것이 아니었어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "공원을 청소하자!",
+     "answer": "Let's clean the park!",
+     "distractors": [
+      "cleans",
+      "school!"
+     ],
+     "explain": "‘~하자’는 ‘Let's ~.’로 말해요. clean은 ‘청소하다’예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 모자는 검은색이야.",
+     "answers": [
+      "My cap is black.",
+      "My hat is black."
+     ],
+     "hint": "My c _ p is black."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스러운 것은?",
+     "choices": [
+      "A: Is this your watch? B: Yes, I am.",
+      "A: Is this your watch? B: No, it isn't. My watch is black.",
+      "A: Is this your watch? B: My name is Ted."
+     ],
+     "answer": 1,
+     "explain": "‘Is this your ...?’에는 ‘Yes, it is.’나 ‘No, it isn't.’로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Is this your umbrella? No, it isn't. My umbrella is pink.",
+     "ko": "이것은 너의 우산이니? 아니, 그렇지 않아. 내 우산은 분홍색이야."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽기·쓰기",
+   "icon": "pencil",
+   "studyPoint": "내 물건의 색깔을 표현하는 문장 읽고 쓰기 / ‘a’가 들어가는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "내 물건의 색깔을 표현하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /æ/와 철자 ‘a’의 관계를 이해하며 ‘a’가 들어가는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "‘분실물 광고를 만들어 물건의 주인 찾기’의 협력 과업으로 내 물건의 색깔을 표현하는 문장을 읽고 쓰며, 물건의 주인인지 묻고 답하는 말과 내 물건의 색깔을 표현하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 90~91쪽, 132쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "여러 색깔로 칠판에 쓴 단어 읽기, 검은 모자 사진을 보며 물건 색깔 문장 따라 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "세 아이의 말풍선 문장(My bag is gray. 등)을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Mark",
+     "desc": "문장을 읽고 그림과 맞으면 ○, 맞지 않으면 × 표시하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Look and Write / 스스로 다지기",
+     "desc": "내 물건의 색깔을 표현하는 문장 쓰기, 단어·문장 쓰기 연습, My Turn: 소개하고 싶은 물건 그리고 문장 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "a /æ/ 소리와 입 모양 익히기, bag·cat·hat 따라 읽기, 확인 문제, 빈칸 철자 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 분실물 광고(물건 그림 + 색깔 문장)를 만들고, 그림을 뽑아 ‘Is this your ...?’로 물건 주인 찾기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "문장 읽고 쓰며 복습, 확인 문제, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "My bag is red.",
+    "My watch is blue.",
+    "bag, cat, hat"
+   ],
+   "tip": "bag, cat, hat의 a는 입을 옆으로 크게 벌리고 [애]처럼 소리 내요. 문장을 쓸 때는 첫 글자 M을 대문자로, 끝에 마침표를 찍어요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오) — 내 물건의 색깔을 표현하는 문장을 소리 내어 읽고 의미를 이해하며 보고 쓸 수 있는가? /æ/와 ‘a’의 관계를 이해하며 단어를 읽고 쓸 수 있는가? 모둠원과 협력하며 적극 참여하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "hat",
+       "(챙이 있는) 모자"
+      ],
+      [
+       "cap",
+       "야구 모자"
+      ],
+      [
+       "notebook",
+       "공책"
+      ],
+      [
+       "umbrella",
+       "우산"
+      ],
+      [
+       "watch",
+       "손목시계"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🎩",
+     "choices": [
+      "cap",
+      "bag",
+      "hat",
+      "cat"
+     ],
+     "answer": 2,
+     "explain": "🎩는 챙이 있는 모자, hat이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "cat",
+     "choices": [
+      "cut",
+      "cat",
+      "kit"
+     ],
+     "answer": 1,
+     "explain": "cat[캣]의 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "hat",
+     "choices": [
+      "hat",
+      "hot",
+      "hit"
+     ],
+     "answer": 0,
+     "explain": "hat[햇]의 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🐱",
+     "choices": [
+      "cut",
+      "cap",
+      "can",
+      "cat"
+     ],
+     "answer": 3,
+     "explain": "🐱는 고양이, cat이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘My notebook is gray.’에 알맞은 것은?",
+     "choices": [
+      "회색 공책",
+      "갈색 공책",
+      "회색 우산"
+     ],
+     "answer": 0,
+     "explain": "notebook은 공책, gray는 회색이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빨간색 가방을 가진 아이가 할 말로 알맞은 문장을 고르세요.",
+     "emoji": "🎒",
+     "choices": [
+      "My bag is blue.",
+      "My hat is red.",
+      "My bag is red."
+     ],
+     "answer": 2,
+     "explain": "가방은 bag, 빨간색은 red예요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🐱",
+       "cat"
+      ],
+      [
+       "🎩",
+       "hat"
+      ],
+      [
+       "🎒",
+       "bag"
+      ],
+      [
+       "🧢",
+       "cap"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My ___ is green.",
+     "ko": "내 공책은 초록색이야.",
+     "choices": [
+      "notebook",
+      "watch",
+      "umbrella"
+     ],
+     "answer": 0,
+     "explain": "공책은 notebook이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "h___t",
+     "ko": "모자(🎩)",
+     "choices": [
+      "o",
+      "a",
+      "i"
+     ],
+     "answer": 1,
+     "explain": "모자는 hat이에요. 가운데 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 손목시계는 파란색이야.",
+     "answer": "My watch is blue.",
+     "distractors": [
+      "your",
+      "are"
+     ],
+     "explain": "‘My watch is blue.’ watch는 손목시계, blue는 파란색이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My bag is red.",
+     "ko": "내 가방은 빨간색이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "dad",
+     "choices": [
+      "dad",
+      "dog",
+      "dig"
+     ],
+     "answer": 0,
+     "explain": "dad[대드]의 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 bag과 가운데 소리가 같은 단어는?",
+     "choices": [
+      "pen",
+      "sun",
+      "dog",
+      "map"
+     ],
+     "answer": 3,
+     "explain": "bag과 map(지도)은 가운데 a가 /æ/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My ___ is yellow.",
+     "ko": "내 모자(🎩)는 노란색이야.",
+     "choices": [
+      "cat",
+      "hat",
+      "fan"
+     ],
+     "answer": 1,
+     "explain": "🎩 모자는 hat이에요. cat은 고양이, fan은 선풍기예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My bag is pink. My cap is white. My notebook is green.",
+     "question": "글쓴이의 공책은 무슨 색인가요?",
+     "choices": [
+      "초록색",
+      "분홍색",
+      "흰색"
+     ],
+     "answer": 0,
+     "explain": "‘My notebook is green.’이라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My notebook is brown.",
+     "answer": "My notebook is brown.",
+     "distractors": [
+      "your",
+      "gray."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 우산은 노란색이야.",
+     "answer": "My umbrella is yellow.",
+     "distractors": [
+      "umbrellas",
+      "are"
+     ],
+     "explain": "‘My umbrella is yellow.’ 노란색은 yellow예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Jin의 손목시계는 파란색이에요. ‘My watch is red.’는 Jin의 말로 맞나요?",
+     "choices": [
+      "맞아요",
+      "틀려요"
+     ],
+     "answer": 1,
+     "explain": "Jin의 손목시계는 파란색이니까 ‘My watch is blue.’라고 해야 해요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "My cap is black.",
+       "내 야구 모자는 검은색이야."
+      ],
+      [
+       "My hat is white.",
+       "내 모자는 흰색이야."
+      ],
+      [
+       "My bag is gray.",
+       "내 가방은 회색이야."
+      ],
+      [
+       "My shoe is pink.",
+       "내 신발은 분홍색이야."
+      ]
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "가방",
+     "answers": [
+      "bag"
+     ],
+     "hint": "b _ g"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "bag, cat, hat, dad",
+     "ko": "가방, 고양이, 모자, 아빠"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "야구 모자(🧢)",
+     "answers": [
+      "cap"
+     ],
+     "hint": "c _ p"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 가방은 분홍색이야.",
+     "answers": [
+      "My bag is pink."
+     ],
+     "hint": "My b _ g is pink."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 공책은 회색이야.",
+     "answers": [
+      "My notebook is gray.",
+      "My notebook is grey."
+     ],
+     "hint": "My notebook is g _ _ y."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "fan",
+     "choices": [
+      "fun",
+      "fin",
+      "fan"
+     ],
+     "answer": 2,
+     "explain": "fan[팬]의 a는 /æ/ 소리가 나요. fan은 선풍기예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tim finds a hat in the park. It is brown. \"Is this your hat?\" Tim asks. Sue says, \"Yes, it is. My hat is brown. Thank you!\"",
+     "question": "갈색 모자의 주인은 누구인가요?",
+     "choices": [
+      "Sue",
+      "Tim",
+      "알 수 없어요"
+     ],
+     "answer": 0,
+     "explain": "Sue가 ‘Yes, it is. My hat is brown.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Jun. My bag is black. My cap is red. My watch is yellow. I like my things.",
+     "question": "Jun의 물건과 색깔이 바르게 짝지어진 것은?",
+     "choices": [
+      "가방 - 빨간색",
+      "야구 모자 - 빨간색",
+      "손목시계 - 검은색"
+     ],
+     "answer": 1,
+     "explain": "Jun의 가방은 검은색, 야구 모자는 빨간색, 손목시계는 노란색이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 모자는 갈색이야. 내 가방은 회색이야.",
+     "answer": "My hat is brown. My bag is gray.",
+     "distractors": [
+      "cap",
+      "black."
+     ],
+     "explain": "두 문장 모두 ‘My ... is (색깔).’ 모양이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My watch is white.",
+     "answer": "My watch is white.",
+     "distractors": [
+      "blue.",
+      "your"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 알맞은 글자를 넣어 ‘슬픈’을 만드세요. → s_d",
+     "choices": [
+      "i",
+      "e",
+      "a"
+     ],
+     "answer": 2,
+     "explain": "a를 넣으면 sad(슬픈)가 돼요. a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My umbrella is pink.",
+     "ko": "내 우산은 분홍색이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "‘Story Time’에서 ‘이상한 나라의 앨리스’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 92~93쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "교사가 보여 주는 문장을 읽고 쓰며 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "‘이상한 나라의 앨리스’ 원작 이야기하기, 그림 보고 이야기 추측, 만화 영화 보며 줄거리 이해, HOW ABOUT YOU?(이상한 나라에서 하고 싶은 일), 따라 말하기, 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "문제를 풀며 단원에서 배운 내용 확인하고 정리하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "4차시 성취도 점검, ‘정리해요’에 느낀 점과 복습 계획 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Is this your watch? - Yes, it is. Thank you!",
+    "Is this your hat? - No, it isn't. My hat is blue."
+   ],
+   "tip": "역할극을 할 때는 물건을 직접 들고 ‘Is this your ...?’라고 물어보세요. 대답에 따라 표정도 바꿔 보세요!",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가), My Work 자기 평가(지필평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? 단원 내용을 문제를 풀며 정리할 수 있는가? (단원평가 지도서 799쪽)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A rabbit can't find his watch. Alice finds a watch. \"Is this your watch?\" \"Yes, it is. Thank you!\"",
+     "question": "앨리스가 찾아 준 물건은 무엇인가요?",
+     "choices": [
+      "모자",
+      "손목시계",
+      "가방"
+     ],
+     "answer": 1,
+     "explain": "watch는 손목시계예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Alice: Is this your hat?\nRabbit: No, it isn't. My hat is blue.",
+     "question": "토끼의 모자는 무슨 색인가요?",
+     "choices": [
+      "빨간색",
+      "검은색",
+      "파란색"
+     ],
+     "answer": 2,
+     "explain": "토끼가 ‘My hat is blue.’라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "watch",
+       "손목시계"
+      ],
+      [
+       "hat",
+       "모자"
+      ],
+      [
+       "gray",
+       "회색"
+      ],
+      [
+       "brown",
+       "갈색"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "검은색 야구 모자를 가진 아이가 할 말로 알맞은 것은?",
+     "emoji": "🧢",
+     "choices": [
+      "My cap is white.",
+      "My cap is black.",
+      "My bag is black."
+     ],
+     "answer": 1,
+     "explain": "야구 모자는 cap, 검은색은 black이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 내용과 맞는 것을 고르세요.",
+     "audio": "Is this your bag? Yes, it is.",
+     "choices": [
+      "가방은 대답한 사람의 것이 아니에요.",
+      "모자는 대답한 사람의 것이에요.",
+      "가방은 대답한 사람의 것이에요."
+     ],
+     "answer": 2,
+     "explain": "‘Yes, it is.’라고 했으니 가방의 주인이 맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Hatter",
+       "text": "Good afternoon. What's your name?"
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "My name is Alice.",
+      "Yes, it is.",
+      "My hat is red."
+     ],
+     "answer": 0,
+     "explain": "이름을 물으면 ‘My name is ....’로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "모자는 여왕의 것이 맞아요. 여왕의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "Is this your hat?"
+      },
+      {
+       "who": "Queen",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, it isn't.",
+      "Nice to meet you.",
+      "Yes, it is. Thank you!"
+     ],
+     "answer": 2,
+     "explain": "여왕의 모자가 맞으니 ‘Yes, it is.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Is this ___ bag?",
+     "ko": "이것은 너의 가방이니?",
+     "choices": [
+      "your",
+      "my",
+      "you"
+     ],
+     "answer": 0,
+     "explain": "‘너의’는 your예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "bag",
+     "choices": [
+      "big",
+      "bug",
+      "bag"
+     ],
+     "answer": 2,
+     "explain": "bag[백]의 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 공책은 분홍색이야.",
+     "answer": "My notebook is pink.",
+     "distractors": [
+      "your",
+      "red."
+     ],
+     "explain": "공책은 notebook, 분홍색은 pink예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Can you jump?’에 알맞은 대답은?",
+     "choices": [
+      "Yes, I can.",
+      "Yes, it is.",
+      "My hat is blue."
+     ],
+     "answer": 0,
+     "explain": "‘Can you ...?’에는 ‘Yes, I can.’이나 ‘No, I can't.’로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My hat is red.",
+     "ko": "내 모자는 빨간색이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Alice meets a man with a big hat. \"Good afternoon. What's your name?\" \"My name is Alice.\" \"Nice to meet you, Alice.\"",
+     "question": "모자를 쓴 남자가 처음에 한 인사말은 무엇인가요?",
+     "choices": [
+      "Good night.",
+      "Good afternoon.",
+      "Good morning."
+     ],
+     "answer": 1,
+     "explain": "남자는 ‘Good afternoon.’이라고 인사했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "There is a red hat on the table. The rabbit says, \"My hat is blue.\" The queen says, \"That's my hat!\"",
+     "question": "빨간 모자의 주인은 누구인가요?",
+     "choices": [
+      "여왕",
+      "토끼",
+      "앨리스"
+     ],
+     "answer": 0,
+     "explain": "여왕이 ‘That's my hat!’이라고 했어요. 토끼의 모자는 파란색이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Is this your notebook?"
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Oh, sorry."
+      }
+     ],
+     "choices": [
+      "Yes, it is. Thank you!",
+      "No, it isn't. My notebook is green.",
+      "I'm sorry."
+     ],
+     "answer": 1,
+     "explain": "Sam이 ‘Oh, sorry.’라고 했으니 공책은 Ann의 것이 아니었어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "That's my hat!",
+     "answer": "That's my hat!",
+     "distractors": [
+      "your",
+      "cap!"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 내 야구 모자는 흰색이야.",
+     "answer": "No, it isn't. My cap is white.",
+     "distractors": [
+      "Yes,",
+      "hat"
+     ],
+     "explain": "‘No, it isn't.’라고 답한 뒤 내 물건의 색깔을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Where's ___ watch?",
+     "ko": "내 손목시계는 어디 있지?",
+     "choices": [
+      "your",
+      "this",
+      "my"
+     ],
+     "answer": 2,
+     "explain": "‘나의’는 my예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘슬픈’을 뜻하는 단어를 고르세요.",
+     "emoji": "😢",
+     "choices": [
+      "bad",
+      "sad",
+      "dad"
+     ],
+     "answer": 1,
+     "explain": "sad는 ‘슬픈’이에요. 세 단어 모두 a가 /æ/ 소리가 나요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Rabbit",
+       "text": "Where's my watch?"
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      },
+      {
+       "who": "Rabbit",
+       "text": "Yes, it is. Thank you!"
+      }
+     ],
+     "choices": [
+      "Is this your watch?",
+      "Can you jump?",
+      "What's your name?"
+     ],
+     "answer": 0,
+     "explain": "토끼가 ‘Yes, it is.’라고 답했으니 손목시계의 주인인지 묻는 말이 알맞아요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "모자(🎩)",
+     "answers": [
+      "hat"
+     ],
+     "hint": "h _ t"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Rabbit, is this your hat?",
+     "ko": "토끼야, 이것은 너의 모자니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia is in the park. She can't find her bag. Tom finds a black bag. \"Is this your bag, Mia?\" \"No, it isn't. My bag is pink.\" Then Sue finds a pink bag. \"Is this your bag?\" \"Yes, it is. Thank you so much!\"",
+     "question": "Mia의 가방을 찾아 준 사람은 누구인가요?",
+     "choices": [
+      "Tom",
+      "Sue",
+      "Mia"
+     ],
+     "answer": 1,
+     "explain": "Mia의 가방은 분홍색이고, 분홍색 가방을 찾은 사람은 Sue예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Lost and Found\n- My cap is gray. (Ben)\n- My umbrella is yellow. (Ann)\n- My watch is brown. (Sam)",
+     "question": "노란색 우산의 주인은 누구인가요?",
+     "choices": [
+      "Ann",
+      "Ben",
+      "Sam"
+     ],
+     "answer": 0,
+     "explain": "Ann이 ‘My umbrella is yellow.’라고 썼어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "이것은 너의 모자(🎩)니?",
+     "answers": [
+      "Is this your hat?"
+     ],
+     "hint": "Is this your h _ t?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 손목시계는 갈색이야.",
+     "answers": [
+      "My watch is brown."
+     ],
+     "hint": "My w _ _ _ h is brown."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Is this your umbrella? No, it isn't.",
+     "answer": "Is this your umbrella? No, it isn't.",
+     "distractors": [
+      "Yes,",
+      "my"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "토끼야, 이것은 너의 손목시계니?",
+     "answer": "Rabbit, is this your watch?",
+     "distractors": [
+      "my",
+      "are"
+     ],
+     "explain": "이름을 부른 뒤 ‘is this your watch?’라고 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Ann의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "Is this your shoe, Jim?"
+      },
+      {
+       "who": "Jim",
+       "text": "No, it isn't. My shoe is white."
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      },
+      {
+       "who": "Jim",
+       "text": "Yes, it is. Thanks!"
+      }
+     ],
+     "choices": [
+      "Is this your bag? It's black.",
+      "Where's my shoe?",
+      "Is this your shoe? It's white."
+     ],
+     "answer": 2,
+     "explain": "Jim의 신발은 흰색이니 흰색 신발을 보여 주며 묻는 말이 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: Is this your cap? B: Yes, I can.",
+      "A: Is this your cap? B: No, it isn't.",
+      "A: Where's my bag? B: Is this your bag?"
+     ],
+     "answer": 0,
+     "explain": "‘Is this your cap?’에는 ‘Yes, it is.’로 답해야 해요. ‘Yes, I can.’은 ‘Can you ...?’에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "c___p",
+     "ko": "야구 모자(🧢)",
+     "choices": [
+      "u",
+      "a",
+      "o"
+     ],
+     "answer": 1,
+     "explain": "야구 모자는 cap이에요. 가운데 a는 /æ/ 소리가 나요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My cap is gray. Is this your cap?",
+     "ko": "내 모자는 회색이야. 이것은 너의 모자니?"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "숲 체험 활동에서 점심을 먹던 준오가 가방을 찾고, Kate는 신발 한 짝을 찾아요.",
+   "lines": [
+    {
+     "who": "준오",
+     "text": "Where's my bag? I can't find it."
+    },
+    {
+     "who": "Sam",
+     "text": "Is this your bag?"
+    },
+    {
+     "who": "준오",
+     "text": "Yes, it is. Thank you!"
+    },
+    {
+     "who": "준오",
+     "text": "Is this your shoe?"
+    },
+    {
+     "who": "Kate",
+     "text": "No, it isn't."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "공원에서 플로깅을 하던 중 Eric의 모자가 화단으로 떨어져요.",
+   "lines": [
+    {
+     "who": "Hoa",
+     "text": "Let's clean the park!"
+    },
+    {
+     "who": "Eric",
+     "text": "Oh no, my cap!"
+    },
+    {
+     "who": "Hoa",
+     "text": "Is this your cap?"
+    },
+    {
+     "who": "Eric",
+     "text": "No, it isn't. My cap is gray."
+    },
+    {
+     "who": "Eric",
+     "text": "Yes, it is. Thank you!"
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 손목시계의 주인을 찾고, 민우가 Alice의 갈색 우산을 찾아 줘요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Danny, is this your watch?"
+    },
+    {
+     "who": "Danny",
+     "text": "No, it isn't."
+    },
+    {
+     "who": "Alice",
+     "text": "Where's my umbrella?"
+    },
+    {
+     "who": "Alice",
+     "text": "No, it isn't. My umbrella is brown."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "이상한 나라의 앨리스 — 앨리스가 토끼의 시계를 찾아 주고 빨간 모자의 주인을 찾아요.",
+   "lines": [
+    {
+     "who": "앨리스",
+     "text": "Is this your watch?"
+    },
+    {
+     "who": "토끼",
+     "text": "Yes, it is. Thank you!"
+    },
+    {
+     "who": "앨리스",
+     "text": "Is this your hat?"
+    },
+    {
+     "who": "토끼",
+     "text": "No, it isn't. My hat is blue."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 이상한 나라의 앨리스",
+  "passage": "A rabbit runs past Alice and drops his watch. Alice picks it up and asks, \"Is this your watch?\" The rabbit says yes and thanks her. They jump into Wonderland together. Alice says hello to a man with a big hat. Then she finds a red hat. It is not the rabbit's hat. His hat is blue. The queen comes and says the red hat is hers.",
+  "summaryKo": "앨리스가 토끼의 손목시계를 찾아 주고, 이상한 나라에서 빨간 모자의 주인(여왕)을 찾아 주는 이야기예요."
+ },
+ "writing": {
+  "frame": [
+   "My ____ is ____."
+  ],
+  "model": "My bag is pink. My cap is black. My umbrella is yellow."
+ },
+ "project": "Work Together: 네 명이 한 모둠이 되어 8절 도화지를 4등분해 잃어버린 물건 그림과 색깔 문장(My cap is gray.)으로 분실물 광고를 만들고, 그림을 뽑은 학생이 ‘Is this your ...?’로 물어 문장의 주인을 찾는다."
+}

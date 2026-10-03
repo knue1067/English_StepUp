@@ -1,0 +1,618 @@
+{
+ "id": "R1",
+ "title": "Review 1",
+ "emoji": "🏝️",
+ "grade": 6,
+ "semester": 1,
+ "covers": [
+  "L01",
+  "L02",
+  "L03",
+  "L04",
+  "L05",
+  "L06"
+ ],
+ "summaryKo": "1~6단원에서 배운 학년·이름 철자, 좋아하는 계절, 날짜, 감정의 이유와 위로, 길 안내와 위치, 외모와 옷차림 표현을 그림에 알맞은 단어·어구 찾기와 보물섬 말판 놀이, 어구·문장 빨리 만들기 놀이로 복습해요.",
+ "periods": [
+  {
+   "n": 1,
+   "pages": "교과서 91쪽",
+   "objectives": [
+    "'Review 1'을 하며 1단원부터 6단원까지 배운 내용을 복습할 수 있다."
+   ],
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Objectives",
+     "desc": "인사하고 1~6단원 복습 목표 알기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Look and Guess / Do the Task / Check",
+     "desc": "그림(날아가는 새 여섯 마리, 계절별 나무, 병원, 노란 원피스, 버스 정류장 등)을 보고 알맞은 단어나 어구를 골라 번호 쓰고 정답 확인하기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "단어, 어구, 문장 빨리 찾기 놀이",
+     "desc": "교사가 말하는 단어·어구·문장을 짝보다 먼저 찾아 색연필로 동그라미 하기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Closing",
+     "desc": "다음 시간 안내, 인사하기",
+     "min": 5
+    }
+   ],
+   "activities": [
+    "그림에 알맞은 단어나 어구 고르기: fall, spring, April, July, October, December, second, sixth, a yellow dress, long brown hair, bus stop, hospital",
+    "단어, 어구, 문장 빨리 찾기 놀이 (짝 활동, 활동지·색연필)"
+   ]
+  },
+  {
+   "n": 2,
+   "pages": "교과서 92쪽",
+   "objectives": [
+    "'Review 1'을 하며 1단원부터 6단원까지 배운 내용을 복습할 수 있다.",
+    "규칙을 지키고 친구들을 배려하며 사이좋게 놀이에 참여할 수 있다."
+   ],
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Objectives",
+     "desc": "인사하고 놀이로 1~6단원 복습한다는 목표 알기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Talk About the Task / Do the Task Together / Check and Repeat",
+     "desc": "보물섬 말판 칸의 그림과 지시문을 보고 짝과 질문에 답하거나 문장·대화 완성하기, 예시 대화 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "보물섬 말판 놀이",
+     "desc": "가위바위보로 말을 옮기고 칸의 과제(질문에 답하기, 단어 고르기, 대화 완성하기)를 해결하기 (모둠)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "어구, 문장 빨리 만들기 놀이",
+     "desc": "활동지의 단어를 조합해 제한 시간 안에 어구와 문장을 최대한 많이 만들어 쓰기 (모둠)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Closing",
+     "desc": "방학 인사하기",
+     "min": 5
+    }
+   ],
+   "activities": [
+    "보물섬 말판 놀이: What grade are you in? / What season do you like? / When is your birthday? / Why are you happy? / Where is the bus stop? / What does he look like?",
+    "어구, 문장 빨리 만들기 놀이: blue dress, see beautiful flowers, cleaned my house, swim in the sea, My dog is sick. 등"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "match",
+   "prompt": "순서를 나타내는 말과 뜻을 짝지어 보세요.",
+   "pairs": [
+    [
+     "first",
+     "첫 번째"
+    ],
+    [
+     "second",
+     "두 번째"
+    ],
+    [
+     "third",
+     "세 번째"
+    ],
+    [
+     "sixth",
+     "여섯 번째"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "prompt": "계절과 뜻을 짝지어 보세요.",
+   "pairs": [
+    [
+     "spring",
+     "봄"
+    ],
+    [
+     "summer",
+     "여름"
+    ],
+    [
+     "fall",
+     "가을"
+    ],
+    [
+     "winter",
+     "겨울"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "prompt": "달 이름과 뜻을 짝지어 보세요.",
+   "pairs": [
+    [
+     "April",
+     "4월"
+    ],
+    [
+     "July",
+     "7월"
+    ],
+    [
+     "October",
+     "10월"
+    ],
+    [
+     "December",
+     "12월"
+    ]
+   ]
+  },
+  {
+   "type": "mc",
+   "prompt": "'I got a black belt.'의 뜻으로 알맞은 것은?",
+   "emoji": "🥋",
+   "choices": [
+    "나는 검은색 셔츠를 샀어.",
+    "나는 검은색 가방을 잃어버렸어.",
+    "나는 검은 띠를 땄어."
+   ],
+   "answer": 2,
+   "explain": "got a black belt는 '검은 띠를 땄다'예요."
+  },
+  {
+   "type": "mc",
+   "prompt": "그림에 알맞은 장소는?",
+   "emoji": "🏥",
+   "choices": [
+    "hospital",
+    "bus stop",
+    "library",
+    "bank"
+   ],
+   "answer": 0,
+   "explain": "🏥는 병원(hospital)이에요."
+  },
+  {
+   "type": "mc",
+   "prompt": "노란색 원피스를 나타내는 말은?",
+   "emoji": "👗",
+   "choices": [
+    "long brown hair",
+    "a black belt",
+    "a bus stop",
+    "a yellow dress"
+   ],
+   "answer": 3,
+   "explain": "dress는 원피스, yellow는 노란색이에요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+   "audio": "What grade are you in?",
+   "choices": [
+    "너는 몇 살이니?",
+    "너는 몇 학년이니?",
+    "너는 어떤 계절을 좋아하니?"
+   ],
+   "answer": 1,
+   "explain": "grade는 '학년'이에요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+   "audio": "When is your birthday?",
+   "choices": [
+    "네 생일은 언제니?",
+    "네 생일잔치에 올 수 있니?",
+    "생일 축하해!"
+   ],
+   "answer": 0,
+   "explain": "When is ...?는 '~은 언제니?'예요."
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+   "audio": "Why are you happy?",
+   "choices": [
+    "너는 왜 행복하니?",
+    "너는 무엇이 행복하니?",
+    "너는 지금 행복하니?"
+   ],
+   "answer": 0,
+   "explain": "Why는 '왜'라는 뜻으로 까닭을 물어요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "알맞은 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "What season do you like?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "I like fall. I can see colorful trees.",
+    "It's on July 7th.",
+    "Because I got a black belt."
+   ],
+   "answer": 0,
+   "explain": "좋아하는 계절을 물었으니 계절과 그때 할 수 있는 일을 말해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "알맞은 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Where is the bus stop?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "I'm in the sixth grade.",
+    "She has blue eyes.",
+    "Go straight two blocks and turn right at the hospital."
+   ],
+   "answer": 2,
+   "explain": "장소의 위치를 물었으니 가는 길을 알려 줘요."
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "I'm in the sixth grade.",
+   "ko": "나는 6학년이에요."
+  }
+ ],
+ "exercises2": [
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "I'm in the ___ grade.",
+   "ko": "나는 5학년이에요.",
+   "choices": [
+    "fourth",
+    "first",
+    "fifth"
+   ],
+   "answer": 2,
+   "explain": "다섯 번째는 fifth예요."
+  },
+  {
+   "type": "fill",
+   "prompt": "빈칸에 알맞은 말을 고르세요.",
+   "sentence": "It's on April ___.",
+   "ko": "그것은 4월 22일이에요.",
+   "choices": [
+    "2nd",
+    "22nd",
+    "12th"
+   ],
+   "answer": 1,
+   "explain": "22일은 twenty-second, 22nd로 써요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "지구의 날은 4월 22일이에요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "When is Earth Day?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "It's on May 22nd.",
+    "It's in March.",
+    "It's on April 22nd."
+   ],
+   "answer": 2,
+   "explain": "지구의 날은 4월 22일이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "B는 강아지가 아파서 슬퍼요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Why are you sad?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Because I got a black belt.",
+    "Because my dog is sick.",
+    "Don't worry."
+   ],
+   "answer": 1,
+   "explain": "슬픈 까닭을 Because로 말해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "알맞은 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "I can't find my bike."
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "Good job!",
+    "Don't worry. I'll help you.",
+    "I can't wait!"
+   ],
+   "answer": 1,
+   "explain": "걱정하는 친구에게 '걱정하지 마. 내가 도와줄게.'라고 위로해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "그는 눈동자가 파란색이고 머리가 길고 갈색이에요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "What does he look like?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "He has blue eyes and long brown hair.",
+    "He has brown eyes and long blue hair.",
+    "He is wearing a yellow dress."
+   ],
+   "answer": 0,
+   "explain": "파란 눈동자(blue eyes), 길고 갈색인 머리(long brown hair)예요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "나는 매일 책을 읽어요.",
+   "answer": "I read books every day.",
+   "distractors": [
+    "reads",
+    "week."
+   ],
+   "explain": "every day는 '매일'이에요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "나는 여름을 좋아해요. 나는 바다에서 수영할 수 있어요.",
+   "answer": "I like summer. I can swim in the sea.",
+   "distractors": [
+    "swims",
+    "river."
+   ],
+   "explain": "좋아하는 계절 다음에 할 수 있는 일을 말해요."
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "How do you spell your name?",
+   "answer": "How do you spell your name?",
+   "distractors": [
+    "What",
+    "spells"
+   ]
+  },
+  {
+   "type": "listen_mc",
+   "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+   "audio": "It's on October 5th.",
+   "choices": [
+    "5월 10일이에요.",
+    "10월 5일이에요.",
+    "10월 15일이에요."
+   ],
+   "answer": 1,
+   "explain": "October는 10월, 5th는 5일이에요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Hi! I'm Linh. I'm in the sixth grade. I like spring. I can see beautiful flowers. My birthday is on May 7th.",
+   "question": "Linh이 좋아하는 계절은?",
+   "choices": [
+    "여름",
+    "봄",
+    "가을"
+   ],
+   "answer": 1,
+   "explain": "'I like spring.'"
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "I like spring. I can see beautiful flowers.",
+   "ko": "나는 봄을 좋아해요. 나는 아름다운 꽃을 볼 수 있어요."
+  }
+ ],
+ "exercises3": [
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "두 번째",
+   "answers": [
+    "second"
+   ],
+   "hint": "s e c _ n d"
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "가을",
+   "answers": [
+    "fall",
+    "autumn"
+   ],
+   "hint": "f _ l l"
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "너는 어떤 계절을 좋아하니?",
+   "answers": [
+    "What season do you like?"
+   ],
+   "hint": "What ______ do you like?"
+  },
+  {
+   "type": "type",
+   "prompt": "영어로 써 보세요.",
+   "ko": "그녀는 노란색 원피스를 입고 있어요.",
+   "answers": [
+    "She is wearing a yellow dress.",
+    "She's wearing a yellow dress."
+   ],
+   "hint": "She is ______ a yellow dress."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "한 블록 직진해서 도서관에서 왼쪽으로 도세요. 그것은 은행 옆에 있어요.",
+   "answer": "Go straight one block and turn left at the library. It's next to the bank.",
+   "distractors": [
+    "right",
+    "two"
+   ],
+   "explain": "길 안내(Go straight ... turn ...) 다음에 위치(It's next to ...)를 말해요."
+  },
+  {
+   "type": "build",
+   "prompt": "영어 문장을 만들어 보세요.",
+   "ko": "너는 왜 피곤하니? 나는 늦게 잠자리에 들었기 때문이야.",
+   "answer": "Why are you tired? Because I went to bed late.",
+   "distractors": [
+    "go",
+    "early."
+   ],
+   "explain": "Why로 까닭을 묻고 Because로 답해요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "Mina's Profile\nGrade: 6th\nFavorite season: winter (make a snowman)\nBirthday: December 24th",
+   "question": "미나에 대한 설명으로 알맞은 것은?",
+   "choices": [
+    "겨울에 눈사람을 만들 수 있어서 겨울을 좋아한다.",
+    "5학년이다.",
+    "생일은 10월 24일이다."
+   ],
+   "answer": 0,
+   "explain": "Favorite season: winter (make a snowman)이에요. 6학년이고 생일은 12월 24일이에요."
+  },
+  {
+   "type": "read",
+   "prompt": "글을 읽고 답하세요.",
+   "passage": "This is my aunt. She has brown eyes and short black hair. She is wearing green glasses. Today is her birthday. It's on July 7th.",
+   "question": "이모에 대한 설명으로 알맞지 않은 것은?",
+   "choices": [
+    "초록색 안경을 쓰고 있다.",
+    "생일이 7월 7일이다.",
+    "머리가 길고 갈색이다."
+   ],
+   "answer": 2,
+   "explain": "이모는 머리가 짧고 검은색(short black hair)이에요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "B의 이름은 Amy Jones예요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "How do you spell your name?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "A-M-I J-O-N-E-S.",
+    "A-M-Y J-O-N-E-S.",
+    "I'm Amy Jones."
+   ],
+   "answer": 1,
+   "explain": "철자를 물었으니 한 글자씩 말해요."
+  },
+  {
+   "type": "dialog",
+   "prompt": "은행은 도서관 옆에 있어요. B의 대답을 고르세요.",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Where is the bank?"
+    },
+    {
+     "who": "B",
+     "text": "Go straight one block and turn right at the restaurant."
+    },
+    {
+     "who": "A",
+     "text": "Is it next to the library?"
+    },
+    {
+     "who": "B",
+     "text": "?"
+    }
+   ],
+   "choices": [
+    "No. It's next to the hospital.",
+    "Because I'm hungry.",
+    "Yes. It's next to the library."
+   ],
+   "answer": 2,
+   "explain": "은행이 도서관 옆에 있으니 'Yes.'라고 답해요."
+  },
+  {
+   "type": "listen_build",
+   "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+   "audio": "We can save water on World Water Day.",
+   "answer": "We can save water on World Water Day.",
+   "distractors": [
+    "saves",
+    "Earth"
+   ]
+  },
+  {
+   "type": "speak",
+   "prompt": "소리 내어 말해 보세요.",
+   "text": "I like winter. I can make a snowman.",
+   "ko": "나는 겨울을 좋아해요. 나는 눈사람을 만들 수 있어요."
+  }
+ ]
+}

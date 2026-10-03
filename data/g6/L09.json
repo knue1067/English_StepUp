@@ -1,0 +1,3206 @@
+{
+ "id": "L09",
+ "no": 9,
+ "grade": 6,
+ "semester": 2,
+ "title": "What Are You Going to Do?",
+ "emoji": "🏕️",
+ "rationale": "일상생활에서 목표를 세우고 할 일을 계획하여 실천하는 습관은 매우 중요하며, 타인의 계획을 묻고 답하는 것은 타인에 대한 관심의 표현이자 함께 할 일을 계획하는 데 중요한 활동이다. 계획을 묻고 답하는 표현과 동의하는 표현을 배우고, 주말 계획을 나타내는 글을 읽고 쓰며 실생활에 활용하게 한다.",
+ "topics": "개인생활 관련(여행), 가정생활 관련(집안일), 학교생활 관련(교우 관계)",
+ "functions": [
+  {
+   "ko": "계획 묻고 답하기",
+   "examples": [
+    "What are you going to do this weekend?",
+    "I'm going to stay home."
+   ]
+  },
+  {
+   "ko": "동의하기",
+   "examples": [
+    "That's a good idea."
+   ]
+  }
+ ],
+ "forms": [
+  "I'm going to clean the house.",
+  "We're going to watch the basketball game this Saturday."
+ ],
+ "newWords": [
+  {
+   "en": "any",
+   "ko": "어떤, 아무"
+  },
+  {
+   "en": "child",
+   "ko": "아이 (children: 아이들)"
+  },
+  {
+   "en": "forest",
+   "ko": "숲"
+  },
+  {
+   "en": "hamburger",
+   "ko": "햄버거"
+  },
+  {
+   "en": "plan",
+   "ko": "계획"
+  },
+  {
+   "en": "program",
+   "ko": "프로그램"
+  },
+  {
+   "en": "room",
+   "ko": "방"
+  },
+  {
+   "en": "stay",
+   "ko": "머무르다, (집에) 있다"
+  },
+  {
+   "en": "tent",
+   "ko": "텐트"
+  },
+  {
+   "en": "village",
+   "ko": "마을"
+  },
+  {
+   "en": "zoo",
+   "ko": "동물원"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "stay home",
+   "ko": "집에 있다",
+   "emoji": "🏠"
+  },
+  {
+   "en": "study math",
+   "ko": "수학을 공부하다",
+   "emoji": "📐"
+  },
+  {
+   "en": "clean my room",
+   "ko": "내 방을 청소하다",
+   "emoji": "🧹"
+  },
+  {
+   "en": "go camping",
+   "ko": "캠핑을 가다",
+   "emoji": "🏕️"
+  },
+  {
+   "en": "watch a basketball game",
+   "ko": "농구 경기를 보다",
+   "emoji": "🏀"
+  },
+  {
+   "en": "visit my grandparents",
+   "ko": "조부모님 댁을 방문하다",
+   "emoji": "👵"
+  }
+ ],
+ "characters": [
+  "Tom",
+  "하나",
+  "Linh",
+  "우주",
+  "Amy",
+  "사육사",
+  "민우",
+  "Taylor",
+  "Noah",
+  "나리",
+  "세종 대왕",
+  "보보",
+  "코코"
+ ],
+ "goals": {
+  "understand": [
+   "계획을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "동의하는 말을 듣고 이해할 수 있다.",
+   "주말 계획에 관한 글을 읽고 이해할 수 있다.",
+   "계획을 묻고 답하며 동의하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "주말 계획에 관한 담화나 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "계획을 묻고 답하는 말을 할 수 있다.",
+   "동의하는 말을 할 수 있다.",
+   "계획을 나타내는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 주말 가족여행을 계획하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-06",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "계획 묻고 답하기",
+   "objectives": [
+    "계획을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 1’을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 121~123쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Motivation / Get Ready",
+     "desc": "교사의 주간 일정표를 보며 주말 계획 이야기하기, 이번 주말에 무엇을 할지 말해 보기",
+     "min": 3
+    },
+    {
+     "phase": "도입",
+     "step": "Let's Learn / Words / Word Chant",
+     "desc": "단원 학습 목표 확인, 계획을 나타내는 어구 붙임딱지 붙이고 찬트 하기",
+     "min": 4
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "Tom, 하나, Linh이 주말 계획을 이야기하다 하나의 할머니, 할아버지 댁에 함께 가서 사과를 따기로 하는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Match / Practice 1",
+     "desc": "대화를 듣고 인물과 주말 계획 연결하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "네 모서리 게임: 교사가 뽑은 번호의 계획으로 답하고 같은 카드 앞에 선 학생만 남기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 그림과 맞으면 ○, 틀리면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you going to do this weekend?",
+    "I'm going to stay home."
+   ],
+   "tip": "계획을 말할 때는 ‘I'm going to + 할 일’을 써요. this weekend(이번 주말), tomorrow(내일)처럼 때를 붙일 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 계획을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "stay home",
+       "집에 있다"
+      ],
+      [
+       "study math",
+       "수학을 공부하다"
+      ],
+      [
+       "clean my room",
+       "내 방을 청소하다"
+      ],
+      [
+       "go camping",
+       "캠핑을 가다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "watch a basketball game",
+       "농구 경기를 보다"
+      ],
+      [
+       "visit my grandparents",
+       "조부모님 댁을 방문하다"
+      ],
+      [
+       "this weekend",
+       "이번 주말"
+      ],
+      [
+       "tomorrow",
+       "내일"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🏕️",
+     "choices": [
+      "stay home",
+      "go camping",
+      "study math",
+      "clean my room"
+     ],
+     "answer": 1,
+     "explain": "텐트(🏕️)를 치고 자는 것은 ‘go camping(캠핑을 가다)’이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🏀",
+     "choices": [
+      "watch a basketball game",
+      "visit my grandparents",
+      "go camping",
+      "clean my room"
+     ],
+     "answer": 0,
+     "explain": "농구공(🏀)이 있으니 ‘watch a basketball game(농구 경기를 보다)’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm going to stay home.",
+     "choices": [
+      "나는 캠핑을 갈 거야.",
+      "나는 수학을 공부할 거야.",
+      "나는 집에 있을 거야."
+     ],
+     "answer": 2,
+     "explain": "stay home은 ‘집에 있다’예요. I'm going to ...는 ‘나는 ~할 거야’라는 계획을 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What are you going to do this weekend?",
+     "choices": [
+      "너는 어제 무엇을 했니?",
+      "너는 무엇을 좋아하니?",
+      "너는 이번 주말에 무엇을 할 거니?"
+     ],
+     "answer": 2,
+     "explain": "What are you going to do ...?는 앞으로의 계획을 묻는 말이에요. this weekend는 ‘이번 주말’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm going to visit my grandparents.",
+     "choices": [
+      "👵👴",
+      "🏕️",
+      "🧹",
+      "📐"
+     ],
+     "answer": 0,
+     "explain": "visit my grandparents는 ‘할머니, 할아버지 댁을 방문하다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 이번 주말에 집에 있을 거예요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to go camping.",
+      "I'm going to stay home.",
+      "I'm going to study math."
+     ],
+     "answer": 1,
+     "explain": "집에 있을 계획이니까 ‘I'm going to stay home.’이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "?"
+      },
+      {
+       "who": "우주",
+       "text": "I'm going to clean my room."
+      }
+     ],
+     "choices": [
+      "What are you going to do this weekend?",
+      "Where are you from?",
+      "What do you like?"
+     ],
+     "answer": 0,
+     "explain": "‘I'm going to ....’는 계획을 묻는 ‘What are you going to do?’에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ to go camping.",
+     "ko": "나는 캠핑을 갈 거야.",
+     "choices": [
+      "going",
+      "go",
+      "goes"
+     ],
+     "answer": 0,
+     "explain": "계획을 말할 때는 ‘I'm going to + 할 일’을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 이번 주말에 무엇을 할 거니?",
+     "answer": "What are you going to do this weekend?",
+     "distractors": [
+      "Where",
+      "did"
+     ],
+     "explain": "계획을 물을 때는 ‘What are you going to do + 때?’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to go camping.",
+     "ko": "나는 캠핑을 갈 거야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What are you going to ___ tomorrow?",
+     "ko": "너는 내일 무엇을 할 거니?",
+     "choices": [
+      "does",
+      "did",
+      "do"
+     ],
+     "answer": 2,
+     "explain": "‘What are you going to do?’에서 to 다음에는 do를 그대로 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to ___ a basketball game.",
+     "ko": "나는 농구 경기를 볼 거야.",
+     "choices": [
+      "visit",
+      "watch",
+      "clean"
+     ],
+     "answer": 1,
+     "explain": "‘경기를 보다’는 watch a game이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나는 대구에 계신 할머니, 할아버지 댁에 갈 거예요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "What are you going to do this weekend, Hana?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to stay home.",
+      "I'm going to visit my grandparents in Daegu.",
+      "I'm going to clean my room."
+     ],
+     "answer": 1,
+     "explain": "할머니, 할아버지 댁에 가는 것은 ‘visit my grandparents’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나는 할머니, 할아버지 댁에서 사과를 딸 거예요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "What are you going to do there?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to watch a basketball game.",
+      "They live in Daegu.",
+      "I'm going to pick apples."
+     ],
+     "answer": 2,
+     "explain": "‘거기서 무엇을 할 거니?’라고 물었으니 할 일(pick apples, 사과 따기)로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 내 방을 청소할 거야.",
+     "answer": "I'm going to clean my room.",
+     "distractors": [
+      "house.",
+      "go"
+     ],
+     "explain": "‘I'm going to’ 다음에 할 일 ‘clean my room’을 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm going to watch a basketball game.",
+     "answer": "I'm going to watch a basketball game.",
+     "distractors": [
+      "play",
+      "visit"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 내일 할 일을 고르세요.",
+     "audio": "What are you going to do tomorrow? I'm going to study math.",
+     "choices": [
+      "수학 공부하기",
+      "캠핑 가기",
+      "방 청소하기"
+     ],
+     "answer": 0,
+     "explain": "‘I'm going to study math.’ — 내일 수학을 공부할 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 ‘계획’을 뜻하는 단어는?",
+     "choices": [
+      "tent",
+      "room",
+      "zoo",
+      "plan"
+     ],
+     "answer": 3,
+     "explain": "plan은 ‘계획’이에요. tent는 텐트, room은 방, zoo는 동물원이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "stay",
+       "머무르다"
+      ],
+      [
+       "any",
+       "어떤, 아무"
+      ],
+      [
+       "room",
+       "방"
+      ],
+      [
+       "weekend",
+       "주말"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to visit my grandparents this weekend.",
+     "ko": "나는 이번 주말에 할머니, 할아버지 댁을 방문할 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What are you going to do this Saturday?",
+     "answer": "What are you going to do this Saturday?",
+     "distractors": [
+      "did",
+      "Sunday?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 이번 주말에 캠핑을 갈 거야.",
+     "answer": "We're going to go camping this weekend.",
+     "distractors": [
+      "I'm",
+      "went"
+     ],
+     "explain": "‘우리는 ~할 거야’는 We're going to ....예요. We're는 We are를 줄인 말이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 이번 주말에 집에 있을 거예요.",
+     "answers": [
+      "I'm going to stay home this weekend.",
+      "I am going to stay home this weekend.",
+      "This weekend, I'm going to stay home."
+     ],
+     "hint": "I'm going to s___ h___ this weekend."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 수학을 공부할 거예요.",
+     "answers": [
+      "I'm going to study math.",
+      "I am going to study math."
+     ],
+     "hint": "I'm going to s____ m___."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지호는 내일 아빠와 캠핑을 갈 거예요. 지호의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "What are you going to do tomorrow, Jiho?"
+      },
+      {
+       "who": "지호",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to watch a basketball game.",
+      "I'm going to go camping with my dad.",
+      "I like camping very much."
+     ],
+     "answer": 1,
+     "explain": "계획을 물었으니 ‘I'm going to go camping with my dad.’라고 답해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina: What are you going to do this weekend, Leo?\nLeo: I'm going to watch a basketball game. How about you?\nMina: I'm going to stay home. I'm going to read comic books.",
+     "question": "Mina는 이번 주말에 무엇을 할 계획인가요?",
+     "choices": [
+      "집에서 만화책 읽기",
+      "농구 경기 보기",
+      "캠핑 가기"
+     ],
+     "answer": 0,
+     "explain": "Mina는 ‘I'm going to stay home. I'm going to read comic books.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This weekend is busy! On Saturday, I'm going to clean my room. On Sunday, I'm going to visit my grandparents. We're going to eat noodles together.",
+     "question": "일요일에 할 일은 무엇인가요?",
+     "choices": [
+      "방 청소하기",
+      "수학 공부하기",
+      "할머니, 할아버지 댁 방문하기"
+     ],
+     "answer": 2,
+     "explain": "On Sunday(일요일에) 할머니, 할아버지 댁을 방문할 거예요. 방 청소는 토요일이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ going to go camping.",
+     "ko": "우리는 캠핑을 갈 거야.",
+     "choices": [
+      "We",
+      "We're",
+      "I'm"
+     ],
+     "answer": 1,
+     "explain": "‘우리는 ~할 거야’는 We're going to ....예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 앞으로의 계획을 말하는 문장이 아닌 것은?",
+     "choices": [
+      "I like math.",
+      "I'm going to study math.",
+      "We're going to go camping.",
+      "I'm going to stay home."
+     ],
+     "answer": 0,
+     "explain": "‘be going to’가 들어간 문장이 계획을 말해요. ‘I like math.’는 좋아하는 것을 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What are you going to do this weekend? I'm going to watch a basketball game.",
+     "ko": "너는 이번 주말에 무엇을 할 거니? 나는 농구 경기를 볼 거야."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "계획 묻고 답하기 / 동의하기",
+   "objectives": [
+    "계획을 묻고 답하는 말을 할 수 있다.",
+    "동의하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 124~125쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "계획 그림 카드로 복습, 사육사 사진 보며 오늘 배울 내용 추측하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "동물원에서 사육사 체험을 하는 우주, Amy, Tom이 할 일을 말하고 동의하는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "실생활 동영상으로 계획 묻고 답하기와 동의하기 익히기, 짝과 이번 주말 계획 묻고 동의하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "사다리 타기: 나온 그림에 맞게 계획을 답하면 짝이 ‘That's a good idea.’로 동의하고 점수 얻기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you going to do, Tom?",
+    "I'm going to make toys for the animals.",
+    "That's a good idea."
+   ],
+   "tip": "친구의 계획이 마음에 들면 ‘That's a good idea.’ 또는 ‘Sounds great.’라고 말해 줘요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 계획을 묻고 답하는 말을 할 수 있는가? 동의하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "표현과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "That's a good idea.",
+       "좋은 생각이야."
+      ],
+      [
+       "Sounds fun.",
+       "재미있겠다."
+      ],
+      [
+       "I can't wait!",
+       "너무 기대돼!"
+      ],
+      [
+       "Me, too.",
+       "나도 그래."
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "zoo",
+       "동물원"
+      ],
+      [
+       "program",
+       "프로그램"
+      ],
+      [
+       "children",
+       "아이들"
+      ],
+      [
+       "toys",
+       "장난감들"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "That's a good idea.",
+     "choices": [
+      "미안하지만 못 가.",
+      "천만에.",
+      "좋은 생각이야."
+     ],
+     "answer": 2,
+     "explain": "‘That's a good idea.’는 상대방의 말에 동의할 때 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구의 계획에 동의할 때 하는 말은?",
+     "choices": [
+      "Sorry, but I can't.",
+      "What's wrong?",
+      "That's a good idea."
+     ],
+     "answer": 2,
+     "explain": "‘That's a good idea.(좋은 생각이야.)’로 동의를 나타내요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 동물들을 위한 장난감을 만들 거예요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "What are you going to do, Tom?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to make toys for the animals.",
+      "I'm going to clean the zoo.",
+      "I'm going to help you."
+     ],
+     "answer": 0,
+     "explain": "‘동물들을 위한 장난감을 만들다’는 make toys for the animals예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy의 계획에 동의하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "I'm going to clean the zoo."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "Sounds good.",
+      "I'm from Canada."
+     ],
+     "answer": 1,
+     "explain": "‘Sounds good.(좋아.)’은 상대의 계획에 동의하는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘동물들을 위한 장난감을 만들다’를 영어로 하면?",
+     "emoji": "🧸",
+     "choices": [
+      "make toys for the animals",
+      "clean the zoo",
+      "watch the animals"
+     ],
+     "answer": 0,
+     "explain": "make는 ‘만들다’, toys는 ‘장난감들’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm going to clean the zoo.",
+     "choices": [
+      "나는 동물원을 청소할 거야.",
+      "나는 동물원에 갈 거야.",
+      "나는 장난감을 만들 거야."
+     ],
+     "answer": 0,
+     "explain": "clean the zoo는 ‘동물원을 청소하다’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "That's a good ___.",
+     "ko": "좋은 생각이야.",
+     "choices": [
+      "plan",
+      "game",
+      "idea"
+     ],
+     "answer": 2,
+     "explain": "‘좋은 생각’은 a good idea예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What are you going to do ___?",
+     "ko": "너는 이번 주 일요일에 무엇을 할 거니?",
+     "choices": [
+      "last Sunday",
+      "this Sunday",
+      "yesterday"
+     ],
+     "answer": 1,
+     "explain": "‘이번 주 일요일’은 this Sunday예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "좋은 생각이야.",
+     "answer": "That's a good idea.",
+     "distractors": [
+      "This",
+      "bad"
+     ],
+     "explain": "동의할 때는 ‘That's a good idea.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to clean the zoo, too.",
+     "ko": "나도 동물원을 청소할 거야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "나리는 Noah와 함께 농구 경기를 보고 싶어요. 나리의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Noah",
+       "text": "I'm going to watch a basketball game. Can you join?"
+      },
+      {
+       "who": "나리",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to stay home.",
+      "Sure. That's a good idea.",
+      "No, I don't."
+     ],
+     "answer": 1,
+     "explain": "함께하자는 말에 동의하니까 ‘That's a good idea.’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Taylor는 내일 캠핑을 갈 거예요. Taylor의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "Tomorrow is Saturday. What are you going to do tomorrow?"
+      },
+      {
+       "who": "Taylor",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like camping.",
+      "It's Saturday.",
+      "I'm going to go camping."
+     ],
+     "answer": 2,
+     "explain": "내일 할 일을 물었으니 ‘I'm going to go camping.’이라고 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Tom, 너는 무엇을 할 거니?",
+     "answer": "What are you going to do, Tom?",
+     "distractors": [
+      "is",
+      "did"
+     ],
+     "explain": "이름을 부를 때는 쉼표 뒤에 이름을 붙여요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We're going to make toys for the baby lions.",
+     "answer": "We're going to make toys for the baby lions.",
+     "distractors": [
+      "clean",
+      "zoo."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to ___ you, Amy.",
+     "ko": "Amy, 나는 너를 도울 거야.",
+     "choices": [
+      "help",
+      "clean",
+      "make"
+     ],
+     "answer": 0,
+     "explain": "‘돕다’는 help예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘That's a good idea.’와 비슷한 뜻의 말은?",
+     "choices": [
+      "Sounds great.",
+      "Sorry, but I can't.",
+      "That's not right."
+     ],
+     "answer": 0,
+     "explain": "‘Sounds great.(아주 좋아.)’도 동의할 때 쓸 수 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대화 내용으로 알맞은 것을 고르세요.",
+     "audio": "What are you going to do this weekend? I'm going to go camping. That's a good idea.",
+     "choices": [
+      "집에 있을 계획이다.",
+      "캠핑을 갈 계획이고, 상대방이 동의했다.",
+      "어제 캠핑을 다녀왔다."
+     ],
+     "answer": 1,
+     "explain": "‘I'm going to go camping.’에 ‘That's a good idea.’라고 동의했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "말과 알맞은 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Welcome!",
+       "Nice to meet you."
+      ],
+      [
+       "Here you are.",
+       "Thank you."
+      ],
+      [
+       "I'm going to help you.",
+       "That's a good idea."
+      ],
+      [
+       "What are you going to do?",
+       "I'm going to clean the zoo."
+      ]
+     ]
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 동물들을 도울 거예요.",
+     "answers": [
+      "I'm going to help the animals.",
+      "I am going to help the animals."
+     ],
+     "hint": "I'm going to h___ the animals."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to watch a basketball game. Can you join?",
+     "ko": "나는 농구 경기를 볼 거야. 같이 할래?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "dialog",
+     "prompt": "지수는 Ben의 계획이 좋다고 생각해요. 지수의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "지수",
+       "text": "What are you going to do this Sunday?"
+      },
+      {
+       "who": "Ben",
+       "text": "I'm going to go to the zoo with my dad."
+      },
+      {
+       "who": "지수",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's a good idea. Have fun!",
+      "I'm going to stay home.",
+      "No, I'm not."
+     ],
+     "answer": 0,
+     "explain": "상대의 계획에 동의할 때 ‘That's a good idea.’라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우주야, 그거 좋은 생각이야.",
+     "answer": "That's a good idea, Uju.",
+     "distractors": [
+      "This",
+      "bad"
+     ],
+     "explain": "‘That's a good idea.’ 뒤에 쉼표와 이름을 붙여요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 내일 무엇을 할 거니?",
+     "answers": [
+      "What are you going to do tomorrow?"
+     ],
+     "hint": "What are you going to ___ tomorrow?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 내 방을 청소할 거예요.",
+     "answers": [
+      "I'm going to clean my room.",
+      "I am going to clean my room."
+     ],
+     "hint": "I'm going to c____ my room."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We're going to make apple pizza, too.",
+     "answer": "We're going to make apple pizza, too.",
+     "distractors": [
+      "I'm",
+      "pie"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ms. Kim: What are you going to do at the zoo, Jun?\nJun: I'm going to clean the zoo.\nMs. Kim: That's a good idea. How about you, Sora?\nSora: I'm going to make toys for the animals.",
+     "question": "Sora가 동물원에서 할 일은 무엇인가요?",
+     "choices": [
+      "동물원 청소하기",
+      "동물 사진 찍기",
+      "동물 장난감 만들기"
+     ],
+     "answer": 2,
+     "explain": "Sora는 ‘I'm going to make toys for the animals.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tomorrow is Saturday. Mia is going to go camping with her family. Her friend Ken is going to stay home. He is going to study math.",
+     "question": "Ken이 내일 할 일은 무엇인가요?",
+     "choices": [
+      "가족과 캠핑 가기",
+      "집에서 수학 공부하기",
+      "농구 경기 보기"
+     ],
+     "answer": 1,
+     "explain": "Ken은 집에 있으면서 수학을 공부할 거예요. 캠핑은 Mia의 계획이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 A의 제안에 동의해요. B의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Let's watch a basketball game this weekend."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds great! I love basketball.",
+      "I'm going to clean my room.",
+      "No, it isn't."
+     ],
+     "answer": 0,
+     "explain": "‘Sounds great!’은 상대방의 말에 동의할 때 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스럽지 않은 것은?",
+     "choices": [
+      "A: I'm going to go camping. — B: That's a good idea.",
+      "A: Can you join? — B: Sure.",
+      "A: What are you going to do? — B: Yes, I am."
+     ],
+     "answer": 2,
+     "explain": "‘What are you going to do?’에는 ‘I'm going to ....’처럼 할 일로 답해야 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What are you going to do this weekend? I'm going to visit the zoo.",
+     "ko": "너는 이번 주말에 무엇을 할 거니? 나는 동물원에 갈 거야."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "계획을 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "계획을 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "‘Play 3’를 하며 계획을 묻고 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 126~127쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Self Study 확인, 단어(visit, my, grandparents)를 배열하여 어구와 문장 만들기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "말풍선 문장 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림 보고 알맞은 어구 골라 문장 완성하기, 어구와 문장 읽고 쓰기(187쪽)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "주말 계획 인터뷰: 모둠원의 이름과 계획 어구를 수첩에 쓰고, 가장 많이 나온 계획으로 ‘We're going to ....’ 발표하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림에 알맞은 문장·어구 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you going to do this weekend?",
+    "I'm going to watch a basketball game.",
+    "We're going to study math this weekend."
+   ],
+   "tip": "여럿이 함께하는 계획은 ‘We're going to ....’로 써요. We're는 We are를 줄인 말이에요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 계획을 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가? 강세·리듬·억양에 맞게 읽을 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "빈칸에 알맞은 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "___ home",
+       "stay"
+      ],
+      [
+       "___ math",
+       "study"
+      ],
+      [
+       "___ my grandparents",
+       "visit"
+      ],
+      [
+       "___ a basketball game",
+       "watch"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "clean my room",
+       "내 방을 청소하다"
+      ],
+      [
+       "watch a game",
+       "경기를 보다"
+      ],
+      [
+       "this Saturday",
+       "이번 주 토요일"
+      ],
+      [
+       "this Sunday",
+       "이번 주 일요일"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 보고 알맞은 문장을 고르세요.",
+     "emoji": "📐",
+     "choices": [
+      "I'm going to go camping.",
+      "I'm going to stay home.",
+      "I'm going to study math."
+     ],
+     "answer": 2,
+     "explain": "수학책(📐)이 있으니 ‘study math’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림을 보고 알맞은 문장을 고르세요.",
+     "emoji": "👵",
+     "choices": [
+      "I'm going to visit my grandma.",
+      "I'm going to watch a basketball game.",
+      "I'm going to clean the house."
+     ],
+     "answer": 0,
+     "explain": "할머니(👵)를 뵈러 가는 것은 ‘visit my grandma’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to ___ home.",
+     "ko": "나는 집에 있을 거야.",
+     "choices": [
+      "study",
+      "stay",
+      "watch"
+     ],
+     "answer": 1,
+     "explain": "‘집에 있다’는 stay home이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to ___ the house.",
+     "ko": "나는 집을 청소할 거야.",
+     "choices": [
+      "clean",
+      "study",
+      "go"
+     ],
+     "answer": 0,
+     "explain": "‘청소하다’는 clean이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm going to clean the house.",
+     "choices": [
+      "🧹",
+      "🏀",
+      "🏕️"
+     ],
+     "answer": 0,
+     "explain": "clean the house는 ‘집을 청소하다’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 문장의 뜻으로 알맞은 것은?\n‘I'm going to watch a basketball game.’",
+     "choices": [
+      "나는 농구를 할 거야.",
+      "나는 농구 경기를 봤어.",
+      "나는 농구 경기를 볼 거야."
+     ],
+     "answer": 2,
+     "explain": "watch는 ‘보다’, I'm going to는 ‘~할 거야’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "민호의 수첩에 ‘go camping’이라고 쓰여 있어요. 민호의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "윤아",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "민호",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to study math.",
+      "I'm going to go camping.",
+      "I'm going to stay home."
+     ],
+     "answer": 1,
+     "explain": "수첩에 go camping이라고 썼으니 ‘I'm going to go camping.’이라고 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 집에 있을 거야.",
+     "answer": "I'm going to stay home.",
+     "distractors": [
+      "at",
+      "go"
+     ],
+     "explain": "‘I'm going to’ 다음에 ‘stay home’을 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘We're’는 무엇을 줄인 말인가요?",
+     "choices": [
+      "We were",
+      "We are",
+      "Where"
+     ],
+     "answer": 1,
+     "explain": "We're는 We are를 줄인 말이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to go camping with my family.",
+     "ko": "나는 가족과 함께 캠핑을 갈 거야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "집에 있다",
+     "answers": [
+      "stay home"
+     ],
+     "hint": "s___ home"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "캠핑을 가다",
+     "answers": [
+      "go camping"
+     ],
+     "hint": "go c______"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 할머니, 할아버지 댁을 방문할 거야.",
+     "answer": "I'm going to visit my grandparents.",
+     "distractors": [
+      "stay",
+      "went"
+     ],
+     "explain": "‘방문하다’는 visit, ‘할머니, 할아버지’는 grandparents예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 이번 주 토요일에 농구 경기를 볼 거야.",
+     "answer": "We're going to watch a basketball game this Saturday.",
+     "distractors": [
+      "I'm",
+      "play"
+     ],
+     "explain": "‘우리는 ~할 거야’는 We're going to ....예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ are you going to do this weekend?",
+     "ko": "너는 이번 주말에 무엇을 할 거니?",
+     "choices": [
+      "Where",
+      "Who",
+      "What"
+     ],
+     "answer": 2,
+     "explain": "‘무엇을’ 할지 물으니 What을 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "🧹 그림에 맞게 B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to clean my room.",
+      "I'm going to watch a basketball game.",
+      "I'm going to go camping."
+     ],
+     "answer": 0,
+     "explain": "청소 도구(🧹) 그림이니 ‘clean my room’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 대답의 뜻을 고르세요.",
+     "audio": "What are you going to do this weekend? We're going to study math.",
+     "choices": [
+      "우리는 수학을 공부할 거야.",
+      "우리는 캠핑을 갈 거야.",
+      "우리는 집을 청소할 거야."
+     ],
+     "answer": 0,
+     "explain": "study math는 ‘수학을 공부하다’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "대문자와 문장 부호를 바르게 쓴 문장은?",
+     "choices": [
+      "we're going to visit the zoo.",
+      "We're going to visit the zoo.",
+      "We're going to visit the zoo"
+     ],
+     "answer": 1,
+     "explain": "문장의 첫 글자는 대문자로 쓰고, 끝에 마침표(.)를 찍어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Weekend Plans\n윤아 – stay home\n지수 – go camping\n민호 – study math\n다미 – go camping",
+     "question": "캠핑을 갈 친구는 모두 몇 명인가요?",
+     "choices": [
+      "2명",
+      "1명",
+      "3명"
+     ],
+     "answer": 0,
+     "explain": "지수와 다미, 두 명이 go camping이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to clean the house this Sunday.",
+     "ko": "나는 이번 주 일요일에 집을 청소할 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 이번 주 일요일에 집에 있을 거예요.",
+     "answers": [
+      "I'm going to stay home this Sunday.",
+      "I am going to stay home this Sunday."
+     ],
+     "hint": "I'm going to ____ ____ this Sunday."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 이번 주말에 캠핑을 갈 거예요.",
+     "answers": [
+      "We're going to go camping this weekend.",
+      "We are going to go camping this weekend."
+     ],
+     "hint": "We're going to go ______ this weekend."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 이번 주 토요일에 무엇을 할 거니?",
+     "answer": "What are you going to do this Saturday?",
+     "distractors": [
+      "did",
+      "Sunday?"
+     ],
+     "explain": "‘이번 주 토요일’은 this Saturday예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My family is going to visit my grandparents.",
+     "answer": "My family is going to visit my grandparents.",
+     "distractors": [
+      "are",
+      "stay"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Group's Weekend Plans\nYuna: I'm going to watch a basketball game.\nJisu: I'm going to stay home.\nMinho: I'm going to watch a basketball game.\nDami: I'm going to watch a basketball game.",
+     "question": "가장 많이 나온 계획으로 모둠 문장을 만들 때 알맞은 것은?",
+     "choices": [
+      "We're going to stay home.",
+      "We're going to go camping.",
+      "We're going to watch a basketball game."
+     ],
+     "answer": 2,
+     "explain": "네 명 중 세 명이 농구 경기를 볼 거라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "A도 이번 주말에 집을 청소할 계획이에요. A의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "B",
+       "text": "I'm going to clean the house."
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Where are you from?",
+      "Me, too. That's a good idea.",
+      "I'm going to go camping."
+     ],
+     "answer": 1,
+     "explain": "같은 계획이니 ‘Me, too.(나도.)’라고 말하고 동의해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My brother ___ going to study math.",
+     "ko": "우리 형은 수학을 공부할 거야.",
+     "choices": [
+      "is",
+      "am",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "My brother(한 사람)에는 is를 써요. → My brother is going to ...."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We ___ going to visit Gyeongju.",
+     "ko": "우리는 경주를 방문할 거야.",
+     "choices": [
+      "is",
+      "am",
+      "are"
+     ],
+     "answer": 2,
+     "explain": "We에는 are를 써요. We are = We're"
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What are you going to do?’에 대한 대답으로 알맞지 않은 것은?",
+     "choices": [
+      "I'm going to stay home.",
+      "I'm going to study math.",
+      "Yes, I am."
+     ],
+     "answer": 2,
+     "explain": "무엇을 할지 물었으니 할 일을 말해야 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We're going to watch a basketball game this weekend.",
+     "ko": "우리는 이번 주말에 농구 경기를 볼 거야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "읽기",
+   "icon": "book",
+   "studyPoint": "주말 계획에 관한 글 읽고 이해하기",
+   "objectives": [
+    "주말 계획에 관한 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 128~129쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "계획 문장 듣고 고르기, 학생들의 주말 계획 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "‘We're going to go camping.’을 읽고 알맞은 그림에 ○ 하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "농구 경기 관람, 할아버지 방문, 아빠와의 캠핑에 관한 세 친구의 주말 계획 글 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 빈칸 완성하기, 글 읽고 문장 완성하기(187쪽)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "글을 읽고 물음에 답하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "We're going to watch the basketball game this Saturday.",
+    "My grandpa is going to visit us this Sunday.",
+    "I can't wait!"
+   ],
+   "tip": "글을 읽을 때 ‘누가(Who) – 언제(When) – 무엇을(What)’ 할 계획인지 찾아 표시해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 주말 계획에 관한 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "forest",
+       "숲"
+      ],
+      [
+       "tent",
+       "텐트"
+      ],
+      [
+       "hamburger",
+       "햄버거"
+      ],
+      [
+       "village",
+       "마을"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "⛺",
+     "choices": [
+      "tent",
+      "forest",
+      "village",
+      "room"
+     ],
+     "answer": 0,
+     "explain": "⛺는 tent(텐트)예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🌲🌲",
+     "choices": [
+      "zoo",
+      "forest",
+      "tent",
+      "river"
+     ],
+     "answer": 1,
+     "explain": "나무가 많은 곳(🌲🌲)은 forest(숲)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We're going to go camping.",
+     "choices": [
+      "우리는 캠핑을 갈 거야.",
+      "우리는 캠핑을 갔어.",
+      "우리는 집에 있을 거야."
+     ],
+     "answer": 0,
+     "explain": "We're going to ....는 ‘우리는 ~할 거야’예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Go, Red Dragons!\nMy family loves basketball. Our favorite team is the Red Dragons. We're going to watch their game this Saturday. We're going to wear red T-shirts. Go, Red Dragons!",
+     "question": "이 가족이 토요일에 할 일은 무엇인가요?",
+     "choices": [
+      "농구 경기 보기",
+      "농구 하기",
+      "티셔츠 사기"
+     ],
+     "answer": 0,
+     "explain": "‘We're going to watch their game this Saturday.’ — 농구 경기를 볼 거예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Go, Red Dragons!\nMy family loves basketball. Our favorite team is the Red Dragons. We're going to watch their game this Saturday. We're going to wear red T-shirts. Go, Red Dragons!",
+     "question": "이 가족이 좋아하는 팀은?",
+     "choices": [
+      "Blue Birds",
+      "Red Tigers",
+      "Red Dragons"
+     ],
+     "answer": 2,
+     "explain": "‘Our favorite team is the Red Dragons.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Grandma Is Coming!\nMy grandma is going to visit us this Sunday. She loves bibimbap. My dad is going to cook bibimbap for her. I'm going to clean my room.",
+     "question": "이번 주 일요일에 누가 방문하나요?",
+     "choices": [
+      "할아버지",
+      "할머니",
+      "삼촌"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘My grandma is going to visit us this Sunday.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Grandma Is Coming!\nMy grandma is going to visit us this Sunday. She loves bibimbap. My dad is going to cook bibimbap for her. I'm going to clean my room.",
+     "question": "글쓴이(I)가 할 일은 무엇인가요?",
+     "choices": [
+      "비빔밥 요리하기",
+      "자기 방 청소하기",
+      "할머니 댁 방문하기"
+     ],
+     "answer": 1,
+     "explain": "‘I'm going to clean my room.’ 비빔밥 요리는 아빠가 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Camping in the Forest\nI love the forest. This weekend, my mom and I are going to go camping. We're going to cook hamburgers. At night, we're going to sleep in a tent. I can't wait!",
+     "question": "캠핑에서 무엇을 요리할 건가요?",
+     "choices": [
+      "비빔밥",
+      "국수",
+      "햄버거"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘We're going to cook hamburgers.’라고 나와 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "글쓴이는 캠핑이 너무 기대돼요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Friend",
+       "text": "Are you going to go camping this weekend?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes. I can't wait!",
+      "No, I'm not.",
+      "That's not right."
+     ],
+     "answer": 0,
+     "explain": "‘I can't wait!’은 ‘너무 기대돼!’라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We're going to sleep in a ___.",
+     "ko": "우리는 텐트에서 잘 거야.",
+     "choices": [
+      "tent",
+      "room",
+      "zoo"
+     ],
+     "answer": 0,
+     "explain": "‘텐트’는 tent예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can't wait!",
+     "ko": "너무 기대돼!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This weekend, I'm going to visit my uncle. He lives in a small village. We're going to pick apples. I'm going to make apple pie with my aunt.",
+     "question": "삼촌은 어디에 사시나요?",
+     "choices": [
+      "큰 도시",
+      "작은 마을",
+      "숲속 텐트"
+     ],
+     "answer": 1,
+     "explain": "‘He lives in a small village.’ village는 ‘마을’이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This weekend, I'm going to visit my uncle. He lives in a small village. We're going to pick apples. I'm going to make apple pie with my aunt.",
+     "question": "글쓴이가 고모(숙모)와 함께 할 일은?",
+     "choices": [
+      "사과파이 만들기",
+      "마을 구경하기",
+      "마을 청소하기"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘I'm going to make apple pie with my aunt.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jun: My family is going to the zoo this Sunday.\nJun: We're going to see baby lions.\nJun: Then we're going to eat hamburgers.",
+     "question": "Jun의 가족이 동물원에서 보려는 것은?",
+     "choices": [
+      "기린들",
+      "아기 곰들",
+      "아기 사자들"
+     ],
+     "answer": 2,
+     "explain": "글에 ‘We're going to see baby lions.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm not going to go out this weekend. I'm going to stay home. I'm going to clean my room and study math. Then I'm going to read comic books.",
+     "question": "글쓴이가 이번 주말에 하지 않을 일은?",
+     "choices": [
+      "수학 공부하기",
+      "밖에 나가기",
+      "만화책 읽기"
+     ],
+     "answer": 1,
+     "explain": "‘I'm not going to go out.’ — 밖에 나가지 않고 집에 있을 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Mia는 이번 주 토요일에 가족과 농구 경기를 볼 거예요. Mia의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "What are you going to do this Saturday, Mia?"
+      },
+      {
+       "who": "Mia",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "My family and I are going to watch a basketball game.",
+      "My family and I watched a basketball game.",
+      "My family likes soccer."
+     ],
+     "answer": 0,
+     "explain": "계획을 말할 때는 ‘are going to + 할 일’을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My dad is going to ___ bibimbap.",
+     "ko": "우리 아빠는 비빔밥을 요리하실 거야.",
+     "choices": [
+      "clean",
+      "visit",
+      "cook"
+     ],
+     "answer": 2,
+     "explain": "‘요리하다’는 cook이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 숲속 텐트에서 잘 거야.",
+     "answer": "We're going to sleep in a tent in the forest.",
+     "distractors": [
+      "at",
+      "room."
+     ],
+     "explain": "‘~에서 자다’는 sleep in ~이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My grandpa is going to visit us this Sunday.",
+     "answer": "My grandpa is going to visit us this Sunday.",
+     "distractors": [
+      "are",
+      "Saturday."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 ‘동물원’을 뜻하는 단어는?",
+     "choices": [
+      "forest",
+      "river",
+      "zoo",
+      "street"
+     ],
+     "answer": 2,
+     "explain": "zoo는 ‘동물원’이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We're going to cook hamburgers in the forest.",
+     "ko": "우리는 숲에서 햄버거를 요리할 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Yuri. My family loves hiking. We're going to go to Jirisan this Saturday. We're going to hike in the forest. We're going to sleep in a tent there. How about you?",
+     "question": "Yuri의 가족은 이번 토요일에 어디에 가나요?",
+     "choices": [
+      "지리산",
+      "한라산",
+      "부산"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘We're going to go to Jirisan this Saturday.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, I'm Yuri. My family loves hiking. We're going to go to Jirisan this Saturday. We're going to hike in the forest. We're going to sleep in a tent there. How about you?",
+     "question": "글의 내용과 맞지 않는 것은?",
+     "choices": [
+      "Yuri의 가족은 하이킹을 좋아한다.",
+      "Yuri의 가족은 호텔에서 잘 것이다.",
+      "Yuri의 가족은 숲에서 하이킹할 것이다."
+     ],
+     "answer": 1,
+     "explain": "‘We're going to sleep in a tent there.’ — 텐트에서 잘 거예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: What are you going to do this weekend?\nB: My cousin is going to visit me. She is from Canada.\nA: What are you going to do with her?\nB: We're going to go to a hanok village.",
+     "question": "B가 사촌과 함께 갈 곳은?",
+     "choices": [
+      "한옥 마을",
+      "캐나다",
+      "동물원"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘We're going to go to a hanok village.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Grandpa,\nI'm going to visit you this Sunday. I'm going to bring cookies for you. Let's take a walk in the forest together. I can't wait!\nLove, Nari",
+     "question": "나리가 할아버지께 가져갈 것은?",
+     "choices": [
+      "쿠키",
+      "햄버거",
+      "사과파이"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘I'm going to bring cookies for you.’라고 나와 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 숲에서 하이킹할 거예요.",
+     "answers": [
+      "I'm going to hike in the forest.",
+      "I am going to hike in the forest.",
+      "I'm going to go hiking in the forest.",
+      "I am going to go hiking in the forest."
+     ],
+     "hint": "I'm going to hike in the f_____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 햄버거를 요리할 거예요.",
+     "answers": [
+      "We're going to cook hamburgers.",
+      "We are going to cook hamburgers."
+     ],
+     "hint": "We're going to c___ h_________."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리 엄마와 아빠는 팟타이를 요리하실 거야.",
+     "answer": "Mom and Dad are going to cook pad thai.",
+     "distractors": [
+      "is",
+      "eat"
+     ],
+     "explain": "Mom and Dad는 두 사람이라 are를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "새 친구에게 주말 계획을 물어보세요. 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Me",
+       "text": "?"
+      },
+      {
+       "who": "Lina",
+       "text": "I'm going to go camping with my dad. I can't wait!"
+      }
+     ],
+     "choices": [
+      "Where are you from?",
+      "What did you do last weekend?",
+      "Do you have any plans for this weekend?"
+     ],
+     "answer": 2,
+     "explain": "‘any plans’는 ‘어떤 계획’이라는 뜻이에요. 계획을 묻는 말이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We're going to wear our team T-shirts.",
+     "answer": "We're going to wear our team T-shirts.",
+     "distractors": [
+      "is",
+      "watch"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My grandma is going to visit us this Sunday.",
+     "ko": "우리 할머니께서 이번 주 일요일에 우리 집에 오실 거야."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "쓰기",
+   "icon": "pencil",
+   "studyPoint": "주말 가족여행을 계획하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 주말 가족여행을 계획하는 글을 쓸 수 있다.",
+    "주말 가족여행을 계획하는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 130~131쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Let's Read 글 소리 내어 읽기, 농구 경기 티켓을 떠올리는 아이들 그림 보고 문장 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림에 알맞은 단어를 써서 어구 완성하기, 주어진 말을 배열하여 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "여행지·계획을 정하고 예시문(부산 여행)을 참고하여 주말 가족여행을 계획하는 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 짝과 바꿔 읽고 짝의 여행 계획 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림을 보고 글 완성하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I'm going to go to Busan with my family this weekend.",
+    "We're going to visit the fish market.",
+    "We're going to eat delicious noodles."
+   ],
+   "tip": "여행 계획 글은 ‘어디에 갈까(go to) → 무엇을 할까(visit / eat) → I can't wait!’ 순서로 써 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 주말 가족여행을 계획하는 글을 쓸 수 있는가? 짝과 글을 공유하고 짝의 여행 계획을 쓰는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어울리는 말끼리 짝지어 보세요.",
+     "pairs": [
+      [
+       "go to",
+       "Busan"
+      ],
+      [
+       "eat",
+       "delicious noodles"
+      ],
+      [
+       "wear",
+       "hanbok"
+      ],
+      [
+       "watch",
+       "a basketball game"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "지명과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Jeonju",
+       "전주"
+      ],
+      [
+       "Gyeongju",
+       "경주"
+      ],
+      [
+       "Sokcho",
+       "속초"
+      ],
+      [
+       "Jeju-do",
+       "제주도"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🐟",
+     "choices": [
+      "eat delicious noodles",
+      "visit the fish market",
+      "go hiking"
+     ],
+     "answer": 1,
+     "explain": "물고기(🐟) 시장은 the fish market이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구를 고르세요.",
+     "emoji": "🍜",
+     "choices": [
+      "visit the fish market",
+      "eat delicious noodles",
+      "go camping"
+     ],
+     "answer": 1,
+     "explain": "🍜는 noodles(국수)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to go ___ Busan with my family.",
+     "ko": "나는 가족과 함께 부산에 갈 거야.",
+     "choices": [
+      "at",
+      "on",
+      "to"
+     ],
+     "answer": 2,
+     "explain": "‘~에 가다’는 go to + 장소예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We're going to ___ bibimbap.",
+     "ko": "우리는 비빔밥을 먹을 거야.",
+     "choices": [
+      "eat",
+      "visit",
+      "watch"
+     ],
+     "answer": 0,
+     "explain": "‘먹다’는 eat이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm going to go to Gyeongju with my family.",
+     "choices": [
+      "가족과 함께 경주에 갈 거예요.",
+      "가족과 함께 경주에 갔어요.",
+      "친구와 함께 전주에 갈 거예요."
+     ],
+     "answer": 0,
+     "explain": "go to Gyeongju with my family — 가족과 함께 경주에 가다"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm going to go to Busan with my family this weekend. We're going to visit the fish market. We're going to eat delicious noodles. I can't wait!",
+     "question": "이 가족이 여행 갈 곳은?",
+     "choices": [
+      "전주",
+      "부산",
+      "속초"
+     ],
+     "answer": 1,
+     "explain": "‘go to Busan’ — 부산에 갈 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jin은 전주에서 한옥 마을을 방문할 거예요. Jin의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "What are you going to do in Jeonju?"
+      },
+      {
+       "who": "Jin",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "We're going to visit Jeonju Hanok Village.",
+      "We're going to go to Busan.",
+      "We're going to stay home."
+     ],
+     "answer": 0,
+     "explain": "전주 한옥 마을은 Jeonju Hanok Village예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 기대돼요!",
+     "answer": "I can't wait!",
+     "distractors": [
+      "can",
+      "go"
+     ],
+     "explain": "‘I can't wait!’은 무척 기대될 때 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "주말 가족여행 글의 마지막에 쓰기 알맞은 문장은?",
+     "choices": [
+      "Where are you from?",
+      "Nice to meet you.",
+      "I can't wait!"
+     ],
+     "answer": 2,
+     "explain": "여행이 기대되는 마음을 ‘I can't wait!’로 나타내요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We're going to visit the fish market.",
+     "ko": "우리는 수산시장에 갈 거야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 이번 주말에 가족과 함께 속초에 갈 거야.",
+     "answer": "I'm going to go to Sokcho with my family this weekend.",
+     "distractors": [
+      "at",
+      "went"
+     ],
+     "explain": "‘I'm going to go to + 장소 + with my family + 때’ 순서로 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 좋은 식당에 갈 거야.",
+     "answer": "We're going to visit a good restaurant.",
+     "distractors": [
+      "is",
+      "eat"
+     ],
+     "explain": "restaurant는 ‘식당’이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "가족과 함께",
+     "answers": [
+      "with my family"
+     ],
+     "hint": "w___ my f_____"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We're going to ___ Gyeongbokgung.",
+     "ko": "우리는 경복궁을 방문할 거야.",
+     "choices": [
+      "eat",
+      "visit",
+      "stay"
+     ],
+     "answer": 1,
+     "explain": "‘방문하다’는 visit이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We're going to go hiking ___ Hallasan.",
+     "ko": "우리는 한라산에 등산하러 갈 거야.",
+     "choices": [
+      "up",
+      "of",
+      "with"
+     ],
+     "answer": 0,
+     "explain": "‘산을 올라 등산하다’는 go hiking up + 산 이름으로 쓸 수 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm going to go to Jeonju with my family.\nWe're going to ______.\nWe're going to eat bibimbap.",
+     "question": "빈칸에 들어갈 말로 알맞은 것은?",
+     "choices": [
+      "eat Jeonju",
+      "go to Busan",
+      "visit Jeonju Hanok Village"
+     ],
+     "answer": 2,
+     "explain": "전주에 가서 할 일이 들어가야 해요. 전주 한옥 마을을 방문하는 것이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We're going to eat delicious noodles.",
+     "answer": "We're going to eat delicious noodles.",
+     "distractors": [
+      "visit",
+      "is"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "여행 계획에 동의하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Let's go to Jeju-do this weekend. We're going to go hiking."
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "I'm going to stay home.",
+      "That's a good idea, Dad."
+     ],
+     "answer": 2,
+     "explain": "아빠의 계획에 동의하니까 ‘That's a good idea.’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "여행 계획 글에서 ‘여행지’를 나타내는 문장은?",
+     "choices": [
+      "I'm going to go to Busan.",
+      "We're going to eat noodles.",
+      "I can't wait!"
+     ],
+     "answer": 0,
+     "explain": "go to + 장소로 여행지를 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to go to Jeonju with my family this weekend.",
+     "ko": "나는 이번 주말에 가족과 함께 전주에 갈 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 전주에서 비빔밥을 먹을 거예요.",
+     "answers": [
+      "We're going to eat bibimbap in Jeonju.",
+      "We are going to eat bibimbap in Jeonju."
+     ],
+     "hint": "We're going to e__ b_______ in Jeonju."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 이번 주말에 가족과 함께 부산에 갈 거예요.",
+     "answers": [
+      "I'm going to go to Busan with my family this weekend.",
+      "I am going to go to Busan with my family this weekend.",
+      "This weekend, I'm going to go to Busan with my family."
+     ],
+     "hint": "I'm going to go to ____ with my family this weekend."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 아름다운 한복을 입을 거야.",
+     "answer": "We're going to wear beautiful hanbok.",
+     "distractors": [
+      "is",
+      "eat"
+     ],
+     "explain": "‘입다’는 wear예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm going to go to Gyeongju with my family this weekend.",
+     "answer": "I'm going to go to Gyeongju with my family this weekend.",
+     "distractors": [
+      "went",
+      "Busan"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Family Trip\nI'm going to go to Gyeongju with my family this weekend. We're going to visit Bulguksa. We're going to ride bikes there, too. I can't wait!",
+     "question": "이 가족이 경주에서 할 일이 아닌 것은?",
+     "choices": [
+      "불국사 방문하기",
+      "바다에서 수영하기",
+      "자전거 타기"
+     ],
+     "answer": 1,
+     "explain": "불국사 방문과 자전거 타기만 말했어요. 수영은 없어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm going to go to Sokcho with my family. We're going to visit a good restaurant. ______ I can't wait!",
+     "question": "🍜 그림을 보고 빈칸에 알맞은 문장을 고르세요.",
+     "choices": [
+      "We're going to eat noodles.",
+      "We're going to stay home.",
+      "We're going to go camping."
+     ],
+     "answer": 0,
+     "explain": "국수 그림이니 ‘We're going to eat noodles.’가 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "짝의 여행 계획을 듣고 질문해요. 빈칸에 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Me",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "Partner",
+       "text": "I'm going to go to Jeju-do."
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      },
+      {
+       "who": "Partner",
+       "text": "We're going to go hiking up Hallasan."
+      }
+     ],
+     "choices": [
+      "What are you going to do there?",
+      "Where are you from?",
+      "Can you join?"
+     ],
+     "answer": 0,
+     "explain": "‘거기서 무엇을 할 거니?’는 ‘What are you going to do there?’예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My family ___ going to go to Daegu.",
+     "ko": "우리 가족은 대구에 갈 거야.",
+     "choices": [
+      "are",
+      "am",
+      "is"
+     ],
+     "answer": 2,
+     "explain": "My family는 하나의 가족이므로 is를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "주말 가족여행을 계획하는 글의 순서로 알맞은 것은?",
+     "choices": [
+      "할 일 1 → 기대되는 마음 → 여행지 → 할 일 2",
+      "여행지 → 할 일 1 → 할 일 2 → 기대되는 마음",
+      "기대되는 마음 → 할 일 2 → 할 일 1 → 여행지"
+     ],
+     "answer": 1,
+     "explain": "먼저 어디에 갈지 쓰고, 그곳에서 할 일을 쓴 뒤, ‘I can't wait!’로 마무리해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We're going to visit the fish market. We're going to eat delicious noodles. I can't wait!",
+     "ko": "우리는 수산시장에 갈 거야. 우리는 맛있는 국수를 먹을 거야. 너무 기대돼!"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 132~133쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Objectives",
+     "desc": "Ready to Write 문장 읽고 공책에 쓰기, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "도전! 노래자랑: 계획을 묻고 답하는 노래를 듣고 따라 부른 뒤, 노랫말(때·장소·할 일)을 바꿔 짝과 부르고 우수 작사가와 노래왕 뽑기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "대화 듣고 순서 쓰기, 계획을 묻고 답하거나 동의하는 말 하기, 글 읽고 물음에 답하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 돌아보기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you going to do there?",
+    "We're going to visit the fish market.",
+    "That's a good idea!"
+   ],
+   "tip": "‘What are you going to do there?’로 계획을 더 자세히 물어볼 수 있어요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 이 단원에서 학습한 내용을 문제를 풀며 정리할 수 있는가?",
+   "exercises": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "What are you going to do tomorrow? I'm going to go camping with my family.",
+     "choices": [
+      "🏀",
+      "🏕️",
+      "📐"
+     ],
+     "answer": 1,
+     "explain": "‘go camping with my family’ — 가족과 캠핑을 갈 거예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고, 알맞은 것을 고르세요.",
+     "audio": "What are you going to do this weekend? I'm going to stay home. How about you? Me, too.",
+     "choices": [
+      "두 사람 모두 캠핑을 갈 거예요.",
+      "한 사람만 집에 있을 거예요.",
+      "두 사람 모두 집에 있을 거예요."
+     ],
+     "answer": 2,
+     "explain": "‘Me, too.’는 ‘나도 그래.’라는 뜻이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "stay home",
+       "🏠"
+      ],
+      [
+       "study math",
+       "📐"
+      ],
+      [
+       "go camping",
+       "🏕️"
+      ],
+      [
+       "visit my grandparents",
+       "👵👴"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 수학을 공부할 거예요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "What are you going to do this weekend?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm going to study math.",
+      "I'm going to watch a basketball game.",
+      "I'm from Korea."
+     ],
+     "answer": 0,
+     "explain": "‘study math’는 ‘수학을 공부하다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마의 질문에 B가 답하자 엄마가 동의해요. 엄마의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "What are you going to do?"
+      },
+      {
+       "who": "B",
+       "text": "I'm going to clean my room."
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's a good idea.",
+      "I have a cold.",
+      "Sorry, but I can't."
+     ],
+     "answer": 0,
+     "explain": "동의할 때는 ‘That's a good idea.’라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm going to meet my friend Sophie this weekend. Sophie is from France. We're going to visit Changdeokgung. We're going to wear hanbok there. Then we're going to eat tteokbokki.",
+     "question": "나와 Sophie가 이번 주말에 할 일은?",
+     "choices": [
+      "프랑스 여행하기",
+      "창덕궁에서 한복 입기",
+      "캠핑 가기"
+     ],
+     "answer": 1,
+     "explain": "글에 ‘We're going to visit Changdeokgung. We're going to wear hanbok there.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm going to meet my friend Sophie this weekend. Sophie is from France. We're going to visit Changdeokgung. We're going to wear hanbok there. Then we're going to eat tteokbokki.",
+     "question": "Sophie는 어느 나라에서 왔나요?",
+     "choices": [
+      "프랑스",
+      "캐나다",
+      "미국"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘Sophie is from France.’라고 나와 있어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm going to ___ my grandparents.",
+     "ko": "나는 할머니, 할아버지 댁을 방문할 거야.",
+     "choices": [
+      "watch",
+      "stay",
+      "visit"
+     ],
+     "answer": 2,
+     "explain": "‘방문하다’는 visit이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I'm going to go camping.’과 뜻이 같은 것은?",
+     "choices": [
+      "나는 캠핑을 갔어.",
+      "나는 캠핑을 갈 거야.",
+      "나는 캠핑을 좋아해."
+     ],
+     "answer": 1,
+     "explain": "‘I'm going to ....’는 앞으로 할 일을 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 떡볶이를 먹을 거야.",
+     "answer": "We're going to eat tteokbokki.",
+     "distractors": [
+      "is",
+      "visit"
+     ],
+     "explain": "‘우리는 ~할 거야’는 We're going to ....예요."
+    },
+    {
+     "type": "match",
+     "prompt": "말과 알맞은 대답을 짝지어 보세요.",
+     "pairs": [
+      [
+       "What are you going to do?",
+       "I'm going to stay home."
+      ],
+      [
+       "I'm going to help you.",
+       "That's a good idea."
+      ],
+      [
+       "Can I come, too?",
+       "Sure."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What are you going to do? I'm going to study math.",
+     "ko": "너는 무엇을 할 거니? 나는 수학을 공부할 거야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "What are you going to do this weekend? I'm going to watch a basketball game. That's a good idea.",
+     "choices": [
+      "🏀",
+      "🏕️",
+      "👵👴"
+     ],
+     "answer": 0,
+     "explain": "watch a basketball game — 농구 경기를 볼 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "What are you going to do tomorrow?"
+      },
+      {
+       "who": "Ted",
+       "text": "I'm going to go to Busan with my family."
+      },
+      {
+       "who": "Ann",
+       "text": "What are you going to do there?"
+      },
+      {
+       "who": "Ted",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "We went to the fish market.",
+      "I'm from Busan.",
+      "We're going to visit the fish market."
+     ],
+     "answer": 2,
+     "explain": "부산에서 할 일을 ‘We're going to ....’로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Sophie는 프랑스에서 왔어요.",
+     "answer": "Sophie is from France.",
+     "distractors": [
+      "are",
+      "to"
+     ],
+     "explain": "출신 국가는 ‘is from + 나라’로 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 거기서 한복을 입을 거야.",
+     "answer": "We're going to wear hanbok there.",
+     "distractors": [
+      "is",
+      "eat"
+     ],
+     "explain": "‘거기서’는 there예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 방을 청소하다",
+     "answers": [
+      "clean my room"
+     ],
+     "hint": "c____ my r___"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ you have any plans for this weekend?",
+     "ko": "너는 이번 주말에 어떤 계획이 있니?",
+     "choices": [
+      "Are",
+      "Is",
+      "Do"
+     ],
+     "answer": 2,
+     "explain": "‘Do you have ...?’는 ‘~이 있니?’라는 뜻이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jisu: I'm going to visit my grandparents this weekend.\nTom: What are you going to do there?\nJisu: We're going to go hiking up Hallasan.\nTom: That's a good idea!",
+     "question": "지수의 할머니, 할아버지 댁은 어디에 있을까요?",
+     "choices": [
+      "제주도",
+      "부산",
+      "서울"
+     ],
+     "answer": 0,
+     "explain": "한라산(Hallasan)은 제주도에 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: I'm going to stay home. — B: Me, too.",
+      "A: What are you going to do? — B: That's a good idea.",
+      "A: I'm going to clean the zoo. — B: Sounds good."
+     ],
+     "answer": 1,
+     "explain": "‘What are you going to do?’에는 계획을 말해야 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm going to meet Sophie this weekend.",
+     "answer": "I'm going to meet Sophie this weekend.",
+     "distractors": [
+      "met",
+      "Saturday."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm going to go to Busan with my family. We're going to visit the fish market.",
+     "ko": "나는 가족과 함께 부산에 갈 거야. 우리는 수산시장을 방문할 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 이번 주말에 무엇을 할 거니?",
+     "answers": [
+      "What are you going to do this weekend?"
+     ],
+     "hint": "What are you going to do ____ ______?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 이번 주말에 할머니, 할아버지 댁을 방문할 거예요.",
+     "answers": [
+      "I'm going to visit my grandparents this weekend.",
+      "I am going to visit my grandparents this weekend.",
+      "This weekend, I'm going to visit my grandparents."
+     ],
+     "hint": "I'm going to v____ my g__________ this weekend."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 김밥을 먹을 거예요.",
+     "answers": [
+      "We're going to eat gimbap.",
+      "We are going to eat gimbap."
+     ],
+     "hint": "We're going to eat g_____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 거기서 무엇을 할 거니?",
+     "answer": "What are you going to do there?",
+     "distractors": [
+      "did",
+      "where"
+     ],
+     "explain": "‘거기서’는 문장 끝에 there를 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello! I'm Tim. Tomorrow is Sunday. My family is going to go to a big park. My dad and I are going to ride bikes. My mom is going to take pictures. My sister is going to fly a kite.",
+     "question": "엄마가 공원에서 할 일은?",
+     "choices": [
+      "사진 찍기",
+      "자전거 타기",
+      "연 날리기"
+     ],
+     "answer": 0,
+     "explain": "글에 ‘My mom is going to take pictures.’라고 나와 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello! I'm Tim. Tomorrow is Sunday. My family is going to go to a big park. My dad and I are going to ride bikes. My mom is going to take pictures. My sister is going to fly a kite.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Tim은 아빠와 자전거를 탈 것이다.",
+      "Tim의 가족은 토요일에 공원에 갈 것이다.",
+      "Tim의 여동생은 사진을 찍을 것이다."
+     ],
+     "answer": 0,
+     "explain": "‘My dad and I are going to ride bikes.’ — 내일은 일요일이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Yuna는 친구의 계획에 함께하고 싶어요. Yuna의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Max",
+       "text": "I'm going to go to the library this Saturday."
+      },
+      {
+       "who": "Yuna",
+       "text": "?"
+      },
+      {
+       "who": "Max",
+       "text": "Sure. Let's go together."
+      }
+     ],
+     "choices": [
+      "I'm going to stay home.",
+      "No, I don't.",
+      "That's a good idea. Can I come, too?"
+     ],
+     "answer": 2,
+     "explain": "동의하고 함께 가도 되는지 묻는 말이 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My family and I are going to go hiking up Hallasan.",
+     "answer": "My family and I are going to go hiking up Hallasan.",
+     "distractors": [
+      "is",
+      "went"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What are you going to do?’라는 질문에 할 수 있는 대답을 모두 고른 것은?\n(ㄱ) I'm going to stay home.\n(ㄴ) We're going to go camping.\n(ㄷ) That's a good idea.",
+     "choices": [
+      "(ㄱ), (ㄷ)",
+      "(ㄱ), (ㄴ)",
+      "(ㄴ), (ㄷ)"
+     ],
+     "answer": 1,
+     "explain": "(ㄷ)은 동의하는 말이라 계획을 묻는 질문의 대답이 아니에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What are you going to do this Saturday? We're going to wear hanbok at Gyeongbokgung.",
+     "ko": "너는 이번 주 토요일에 무엇을 할 거니? 우리는 경복궁에서 한복을 입을 거야."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "교실에서 Linh, Tom, 하나가 주말 계획을 이야기해요. 하나는 대구의 할머니, 할아버지 댁에 가서 사과를 딸 거라고 하고, 친구들도 함께 가기로 해요.",
+   "lines": [
+    {
+     "who": "Linh",
+     "text": "What are you going to do this weekend?"
+    },
+    {
+     "who": "Tom",
+     "text": "I'm going to stay home."
+    },
+    {
+     "who": "Linh",
+     "text": "Me, too. I don't have any plans."
+    },
+    {
+     "who": "하나",
+     "text": "I'm going to visit my grandparents."
+    },
+    {
+     "who": "하나",
+     "text": "I'm going to pick apples."
+    },
+    {
+     "who": "Linh",
+     "text": "I can't wait!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "동물원에서 사육사 체험을 하는 우주, Amy, Tom이 각자 고른 프로그램(장난감 만들기, 동물원 청소)을 말하고 서로 동의해요.",
+   "lines": [
+    {
+     "who": "우주",
+     "text": "What are you going to do, Tom?"
+    },
+    {
+     "who": "Tom",
+     "text": "I'm going to make toys for the animals."
+    },
+    {
+     "who": "우주",
+     "text": "That's a good idea."
+    },
+    {
+     "who": "Amy",
+     "text": "I'm going to clean the zoo."
+    },
+    {
+     "who": "우주",
+     "text": "I'm going to help you, Amy."
+    },
+    {
+     "who": "Amy",
+     "text": "That's a good idea!"
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우와 Taylor, Noah와 나리가 내일·주말 계획을 묻고 답하고, 나리는 농구 경기를 보자는 Noah의 말에 동의해요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "What are you going to do tomorrow?"
+    },
+    {
+     "who": "Taylor",
+     "text": "I'm going to go camping."
+    },
+    {
+     "who": "Noah",
+     "text": "What are you going to do this weekend?"
+    },
+    {
+     "who": "나리",
+     "text": "I'm going to stay home."
+    },
+    {
+     "who": "Noah",
+     "text": "I'm going to watch a basketball game. Can you join?"
+    },
+    {
+     "who": "나리",
+     "text": "That's a good idea."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "친구들의 주말 계획 (농구 경기·할아버지 방문·캠핑)",
+  "passage": "Three friends share their weekend plans. One girl's family loves basketball, so they are going to watch their favorite team's game on Saturday in team T-shirts. Another girl's grandpa is going to visit on Sunday; her parents are going to cook his favorite pad thai, and she is going to clean the house. A boy is going to go camping in the forest with his dad. They are going to cook hamburgers and sleep in a tent.",
+  "summaryKo": "농구 경기를 보러 갈 가족, 할아버지를 맞이할 준비를 하는 가족, 아빠와 숲으로 캠핑을 갈 남자아이의 주말 계획 글이에요."
+ },
+ "writing": {
+  "frame": [
+   "I'm going to ____ with my family this weekend.",
+   "We're going to ____.",
+   "We're going to ____.",
+   "I can't wait!"
+  ],
+  "model": "I'm going to go to Gyeongju with my family this weekend. We're going to visit Bulguksa. We're going to eat hwangnam bread. I can't wait!"
+ },
+ "project": "‘도전! 노래자랑’: 계획을 묻고 답하는 노래(Row Row Row Your Boat 곡조)를 듣고 따라 부른 뒤, 색깔로 표시된 노랫말(때, 장소, 할 일)을 바꿔 짝과 1절·2절을 나누어 부르고, 우리 반 우수 작사가와 노래왕을 뽑는다.",
+ "special": {
+  "no": 9,
+  "kind": "Into the History",
+  "title": "세종 대왕의 계획적인 하루",
+  "summaryKo": "보보와 코코가 궁궐에서 세종 대왕을 만나 무엇을 할 계획인지 물어요. 세종 대왕은 책을 읽고, 아침을 먹고, 과학 프로젝트를 할 거라고 답해요. 과학자들과 오랫동안 회의를 한 뒤, 밤이 되자 서로 잘 자라고 인사하며 헤어져요.",
+  "facts": [
+   "세종 대왕은 조선의 4대 왕으로, 한글을 만들어 세상에 널리 퍼뜨렸어요.",
+   "장영실, 이천 등에게 천문 시계인 혼천의, 해시계인 앙부일구 같은 과학 기구를 만들게 해 백성들이 농사에 필요한 시간과 절기를 알 수 있게 했어요.",
+   "세계 최초로 비가 내린 양을 재는 기구인 측우기를 만들게 해 홍수를 대비하는 데 도움을 주었어요.",
+   "최윤덕, 김종서 장군을 보내 4군 6진을 설치하고 나라의 영토를 넓혔어요."
+  ],
+  "expressions": [
+   "What are you going to do? — I'm going to read books.",
+   "I'm going to eat breakfast.",
+   "What are you going to do now? — I'm going to do my science project.",
+   "It's time for bed. Good night."
+  ],
+  "exercises": []
+ }
+}

@@ -1,0 +1,2208 @@
+{
+  "id": "L03",
+  "no": 3,
+  "grade": 3,
+  "semester": 1,
+  "title": "What's This?",
+  "emoji": "❓",
+  "rationale": "물건이 무엇인지 묻고 답하는 것은 정보를 주고받는 데 기본이 되는 의사소통 활동이다. 주변에서 흔히 볼 수 있는 물건이 무엇인지 묻고 답하는 표현을 익혀 영어에 대한 흥미를 높이고, 칭찬하는 표현을 함께 익혀 원만한 대인 관계의 기초를 쌓도록 한다.",
+  "topics": "개인 생활 관련(오락), 일반교양 관련(심미적 심성), 학교생활 관련(학교 활동, 교우 관계)",
+  "functions": [
+    {
+      "ko": "물건이 무엇인지 묻고 답하기",
+      "examples": [
+        "What's this?",
+        "What's that?",
+        "It's a bike."
+      ]
+    },
+    {
+      "ko": "칭찬하기",
+      "examples": [
+        "Nice!"
+      ]
+    }
+  ],
+  "forms": [
+    "What's this / that? – It's a bike."
+  ],
+  "phonics": {
+    "focus": "b /b/",
+    "words": [
+      "ball",
+      "bike",
+      "bye"
+    ]
+  },
+  "newWords": [
+    {
+      "en": "a",
+      "ko": "하나의 (It's a bike.)"
+    },
+    {
+      "en": "bike",
+      "ko": "자전거"
+    },
+    {
+      "en": "cup",
+      "ko": "컵"
+    },
+    {
+      "en": "doll",
+      "ko": "인형"
+    },
+    {
+      "en": "it",
+      "ko": "그것"
+    },
+    {
+      "en": "look",
+      "ko": "보다 (Look! 봐!)"
+    },
+    {
+      "en": "nice",
+      "ko": "멋진, 좋은"
+    },
+    {
+      "en": "robot",
+      "ko": "로봇"
+    },
+    {
+      "en": "that",
+      "ko": "저것"
+    },
+    {
+      "en": "this",
+      "ko": "이것"
+    },
+    {
+      "en": "what",
+      "ko": "무엇"
+    },
+    {
+      "en": "yes",
+      "ko": "응, 그래"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "ball",
+      "ko": "공",
+      "emoji": "⚽"
+    },
+    {
+      "en": "bike",
+      "ko": "자전거",
+      "emoji": "🚲"
+    },
+    {
+      "en": "cup",
+      "ko": "컵",
+      "emoji": "☕"
+    },
+    {
+      "en": "doll",
+      "ko": "인형",
+      "emoji": "🪆"
+    },
+    {
+      "en": "hat",
+      "ko": "모자",
+      "emoji": "🎩"
+    },
+    {
+      "en": "robot",
+      "ko": "로봇",
+      "emoji": "🤖"
+    }
+  ],
+  "characters": [
+    "Momo",
+    "Kate",
+    "Eric",
+    "보라(Bora)",
+    "준오(Juno)",
+    "Hoa",
+    "Sam",
+    "안내원",
+    "Alice",
+    "하나(Hana)",
+    "민우(Minu)",
+    "Paul",
+    "진저브레드 맨(Gingerbread Man)",
+    "할머니",
+    "할아버지"
+  ],
+  "goals": {
+    "understand": [
+      "물건이 무엇인지 묻고 답하는 말과 칭찬하는 말을 듣고 이해할 수 있다.",
+      "물건을 나타내는 단어(ball, bike, cup, doll)를 읽고 그 의미를 이해할 수 있다.",
+      "소리 /b/와 철자 ‘b’의 관계를 이해하며 ‘b’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+      "상대방을 칭찬하며 상대방의 감정을 느끼고 공감하는 태도를 기를 수 있다."
+    ],
+    "express": [
+      "물건이 무엇인지 묻고 답하는 말과 칭찬하는 말을 할 수 있다.",
+      "물건을 나타내는 단어(ball, bike, cup, doll)를 따라 쓸 수 있다.",
+      "대인 관계의 기초가 되는 영어 의사소통 표현을 익혀, 의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "4영01-01",
+    "4영01-03",
+    "4영01-04",
+    "4영01-05",
+    "4영01-06",
+    "4영01-07",
+    "4영01-08",
+    "4영01-09",
+    "4영01-10",
+    "4영02-01",
+    "4영02-04",
+    "4영02-05",
+    "4영02-08",
+    "4영02-09",
+    "4영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "kind": "듣고 말하기 1",
+      "icon": "chat",
+      "studyPoint": "물건이 무엇인지 묻고 답하기",
+      "objectives": [
+        "물건이 무엇인지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "찬트 하기와 ‘선생님과 같은 물건 그림 카드 뒤집기’ 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 36~37쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Let's Learn / My Study",
+          "desc": "일부를 가린 컵 그림 보고 추측하기, 친구 물건이 궁금했던 경험 나누기, 단원 목표 확인과 학습 계획",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "재활용품 전시장에서 아이들이 로봇과 자전거가 무엇인지 묻고 답하는 만화 영화 보기, Eric이 물어본 물건에 ○표, 표현 익히기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Chant and Do",
+          "desc": "‘What, what, what's this?’ 찬트를 하며 들은 순서대로 물건 짚기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "선생님과 같은 물건 그림 카드 뒤집기: 교사가 ‘What's this/that?’이라고 물으면 답하며 같은 카드 찾기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "그림 속 물건 묻고 답하며 복습, 대화와 그림이 맞는지 ○× 표시, 성취도 색칠",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's this?",
+        "What's that?",
+        "It's a bike."
+      ],
+      "tip": "가까이 있는 물건은 this(이것), 멀리 있는 물건은 that(저것)으로 물어요. 대답은 모두 It's a ~.예요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 물건이 무엇인지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "ball",
+              "공"
+            ],
+            [
+              "bike",
+              "자전거"
+            ],
+            [
+              "cup",
+              "컵"
+            ],
+            [
+              "doll",
+              "인형"
+            ],
+            [
+              "robot",
+              "로봇"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "그림의 물건을 영어로 하면?",
+          "emoji": "🚲",
+          "choices": [
+            "ball",
+            "cup",
+            "doll",
+            "bike"
+          ],
+          "answer": 3,
+          "explain": "자전거는 bike예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "그림의 물건을 영어로 하면?",
+          "emoji": "🤖",
+          "choices": [
+            "hat",
+            "doll",
+            "bike",
+            "robot"
+          ],
+          "answer": 3,
+          "explain": "로봇은 robot이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘이것은 무엇이니?’를 영어로 하면?",
+          "choices": [
+            "It's a cup.",
+            "What's that?",
+            "What's this?"
+          ],
+          "answer": 2,
+          "explain": "가까이 있는 물건은 ‘What's this?’로 물어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "It's a ball.",
+          "choices": [
+            "🚲",
+            "☕",
+            "🎩",
+            "⚽"
+          ],
+          "answer": 3,
+          "explain": "ball은 공이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "What's that?",
+          "choices": [
+            "이것은 무엇이니?",
+            "그것은 공이야.",
+            "저것은 무엇이니?"
+          ],
+          "answer": 2,
+          "explain": "that은 멀리 있는 ‘저것’이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Kate가 모자(🎩)를 가리키며 물어요. Eric의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Kate",
+              "text": "What's this?"
+            },
+            {
+              "who": "Eric",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a hat.",
+            "It's a cup.",
+            "Hi, I'm Eric."
+          ],
+          "answer": 0,
+          "explain": "모자는 hat이에요. ‘It's a hat.’이라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric이 👉 멀리 있는 자전거를 가리켜요. Eric이 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Eric",
+              "text": "?"
+            },
+            {
+              "who": "Bora",
+              "text": "It's a bike."
+            }
+          ],
+          "choices": [
+            "What's this?",
+            "How are you?",
+            "What's that?"
+          ],
+          "answer": 2,
+          "explain": "멀리 있는 물건은 ‘What's that?’으로 물어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It's a ___.",
+          "ko": "그것은 컵이야.",
+          "choices": [
+            "doll",
+            "ball",
+            "cup"
+          ],
+          "answer": 2,
+          "explain": "컵은 cup이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's ___?",
+          "ko": "이것은 무엇이니?",
+          "choices": [
+            "that",
+            "this",
+            "it"
+          ],
+          "answer": 1,
+          "explain": "‘이것’은 this, ‘저것’은 that이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것은 인형이야.",
+          "answer": "It's a doll.",
+          "distractors": [
+            "What's",
+            "this"
+          ],
+          "explain": "‘그것은 ~이야.’는 ‘It's a ~.’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's this?",
+          "ko": "이것은 무엇이니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "What's this? It's a robot.",
+          "choices": [
+            "🤖",
+            "🚲",
+            "🪆",
+            "⚽"
+          ],
+          "answer": 0,
+          "explain": "robot은 로봇이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "It's a zebra.",
+          "choices": [
+            "그것은 얼룩말이야.",
+            "그것은 고양이야.",
+            "저것은 무엇이니?"
+          ],
+          "answer": 0,
+          "explain": "zebra는 얼룩말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "👉 멀리 강아지(🐶)가 있어요. Hoa의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Juno",
+              "text": "What's that?"
+            },
+            {
+              "who": "Hoa",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a bike.",
+            "What's this?",
+            "It's a dog."
+          ],
+          "answer": 2,
+          "explain": "개(강아지)는 dog예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Sam이 자기 손에 든 컵을 가리키며 물어요. 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Sam",
+              "text": "?"
+            },
+            {
+              "who": "Kate",
+              "text": "It's a cup."
+            }
+          ],
+          "choices": [
+            "What's this, Kate?",
+            "What's that, Kate?",
+            "Hi, Kate."
+          ],
+          "answer": 0,
+          "explain": "손에 든 가까운 물건은 ‘What's this?’로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "봐! 저것은 무엇이니?",
+          "answer": "Look! What's that?",
+          "distractors": [
+            "this",
+            "It's"
+          ],
+          "explain": "멀리 있는 물건은 ‘What's that?’으로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것은 무엇이니? 그것은 공이야.",
+          "answer": "What's this? It's a ball.",
+          "distractors": [
+            "that?",
+            "cup."
+          ],
+          "explain": "‘What's this?’로 묻고 ‘It's a ball.’로 답해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It's a bike.",
+          "answer": "It's a bike.",
+          "distractors": [
+            "robot.",
+            "What's"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's that? – It's a ___.",
+          "ko": "저것은 무엇이니? – 그것은 피자야.",
+          "choices": [
+            "pizza",
+            "bike",
+            "hat"
+          ],
+          "answer": 0,
+          "explain": "피자는 pizza예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘What's this?’에 알맞은 대답은?",
+          "emoji": "💍",
+          "choices": [
+            "It's a king.",
+            "It's a ring.",
+            "It's a doll."
+          ],
+          "answer": 1,
+          "explain": "그림은 반지(ring)예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's that? It's a robot.",
+          "ko": "저것은 무엇이니? 그것은 로봇이야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's that? It's a hat.",
+          "answer": "What's that? It's a hat.",
+          "distractors": [
+            "this?",
+            "cup."
+          ]
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🎩 모자",
+          "answers": [
+            "hat"
+          ],
+          "hint": "h _ t"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "It's a ____. (☕ 컵)",
+          "answers": [
+            "cup"
+          ],
+          "hint": "c _ p"
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Eric: What's this?\nKate: It's a robot.\nEric: What's that?\nKate: It's a bike.",
+          "question": "Kate가 말한 물건 두 가지는 무엇인가요?",
+          "choices": [
+            "공과 인형",
+            "컵과 모자",
+            "로봇과 자전거"
+          ],
+          "answer": 2,
+          "explain": "Kate는 ‘It's a robot.’과 ‘It's a bike.’라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Grandma: What's that?\nMomo: It's a ring.",
+          "question": "Momo가 말한 물건은 무엇인가요?",
+          "choices": [
+            "공",
+            "컵",
+            "반지"
+          ],
+          "answer": 2,
+          "explain": "ring은 반지예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "장난감 가게에서 Mina가 👉 멀리 있는 로봇(🤖)을 가리켜요. 점원의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Mina",
+              "text": "What's that?"
+            },
+            {
+              "who": "점원",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a doll.",
+            "I'm fine.",
+            "It's a robot."
+          ],
+          "answer": 2,
+          "explain": "로봇은 robot이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "지호가 바로 앞에 있는 상자를 가리켜요. 지호가 한 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Jiho",
+              "text": "?"
+            },
+            {
+              "who": "Mom",
+              "text": "It's a pizza."
+            }
+          ],
+          "choices": [
+            "Bye, Mom.",
+            "What's this, Mom?",
+            "It's a pizza."
+          ],
+          "answer": 1,
+          "explain": "바로 앞의 물건은 ‘What's this?’로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것은 무엇이니? 그것은 고양이야.",
+          "answer": "What's that? It's a cat.",
+          "distractors": [
+            "this?",
+            "dog."
+          ],
+          "explain": "‘What's that?’으로 묻고 ‘It's a cat.’으로 답해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ this? – It's a doll.",
+          "ko": "이것은 무엇이니? – 그것은 인형이야.",
+          "choices": [
+            "What's",
+            "How",
+            "It's"
+          ],
+          "answer": 0,
+          "explain": "물건이 무엇인지 물을 때는 ‘What's ~?’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's this? It's a cup.",
+          "ko": "이것은 무엇이니? 그것은 컵이야."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "kind": "듣고 말하기 2",
+      "icon": "mic",
+      "studyPoint": "물건이 무엇인지 묻고 답하기 / 칭찬하기",
+      "objectives": [
+        "물건이 무엇인지 묻고 답하는 말을 할 수 있다.",
+        "칭찬하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘What's This?’ 노래와 ‘무엇인지 묻고 답하며 물건 빨리 찾기’ 놀이를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 38~39쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습·동기 유발 / Study Point",
+          "desc": "공·컵·모자를 보여 주며 묻고 답하기, 물건의 그림자 사진 보고 무엇인지 맞히기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "준오가 가져온 모자, Kate의 마트료시카 인형, 로봇 강아지를 보며 묻고 답하고 칭찬하는 만화 영화 보기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / My Turn",
+          "desc": "실생활 동영상으로 표현 익히기, 그림 속 물건을 짝과 묻고 답한 뒤 ✓표 하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Song",
+          "desc": "‘What's This?’ 노래를 부르고 다른 물건으로 노랫말 바꾸어 부르기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "짝이 그림을 가리키며 ‘What's this/that?’이라고 물으면 ‘It's a ball.’처럼 답하고 방 그림에서 찾아 표시, 맞히면 ‘Nice!’ (짝)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "물건 그림 보고 짝과 묻고 답하기, 그림 상황에 맞는 대화하기, 성취도 색칠",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's that? – It's a doll.",
+        "Nice!",
+        "Look!"
+      ],
+      "tip": "친구의 물건이 멋지면 Nice!라고 칭찬해 보세요. 칭찬은 친구를 기분 좋게 해요!",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가 — 물건이 무엇인지 묻고 답하는 말을 할 수 있는가? 칭찬하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가, 수준별 활동)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "영어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Nice!",
+              "멋지다!"
+            ],
+            [
+              "Look!",
+              "봐!"
+            ],
+            [
+              "What's that?",
+              "저것은 무엇이니?"
+            ],
+            [
+              "It's a hat.",
+              "그것은 모자야."
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "친구의 멋진 물건을 보고 칭찬할 때 하는 말은?",
+          "emoji": "👍",
+          "choices": [
+            "Bye.",
+            "What's this?",
+            "Nice!"
+          ],
+          "answer": 2,
+          "explain": "칭찬할 때는 ‘Nice!(멋지다!)’라고 해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Nice!",
+          "choices": [
+            "봐!",
+            "잘 가!",
+            "멋지다!"
+          ],
+          "answer": 2,
+          "explain": "‘Nice!’는 ‘멋지다!’라는 칭찬의 말이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "What's that? It's a doll.",
+          "choices": [
+            "🎩",
+            "⚽",
+            "🤖",
+            "🪆"
+          ],
+          "answer": 3,
+          "explain": "doll은 인형이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Juno가 모자(🎩)를 들고 있어요. Juno의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Hoa",
+              "text": "What's this?"
+            },
+            {
+              "who": "Juno",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a cup.",
+            "It's a hat.",
+            "Nice!"
+          ],
+          "answer": 1,
+          "explain": "모자는 hat이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Kate가 예쁜 인형을 보여 줘요. Sam이 칭찬하는 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Kate",
+              "text": "It's a doll. Look!"
+            },
+            {
+              "who": "Sam",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice!",
+            "What's that?",
+            "Bye."
+          ],
+          "answer": 0,
+          "explain": "멋진 물건을 보면 ‘Nice!’라고 칭찬해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___!",
+          "ko": "멋지다!",
+          "choices": [
+            "Nice",
+            "Look",
+            "Bye"
+          ],
+          "answer": 0,
+          "explain": "‘멋지다!’는 ‘Nice!’예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Look! It's a ___.",
+          "ko": "봐! 그것은 로봇이야.",
+          "choices": [
+            "ball",
+            "robot",
+            "cup"
+          ],
+          "answer": 1,
+          "explain": "로봇은 robot이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "로봇 강아지를 영어로 하면?",
+          "emoji": "🤖🐶",
+          "choices": [
+            "robot cat",
+            "robot dog",
+            "robot doll"
+          ],
+          "answer": 1,
+          "explain": "로봇(robot) + 강아지(dog) = robot dog예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "봐! 그것은 공이야.",
+          "answer": "Look! It's a ball.",
+          "distractors": [
+            "Nice!",
+            "this"
+          ],
+          "explain": "‘Look!’으로 주의를 끌고 ‘It's a ball.’이라고 말해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘Look!’의 뜻은 무엇일까요?",
+          "emoji": "👀",
+          "choices": [
+            "봐!",
+            "멋지다!",
+            "안녕!"
+          ],
+          "answer": 0,
+          "explain": "‘Look!’은 ‘봐!’라는 뜻이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Nice!",
+          "ko": "멋지다!"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Look! It's a robot dog.",
+          "choices": [
+            "봐! 그것은 고양이야.",
+            "멋지다! 그것은 인형이야.",
+            "봐! 그것은 로봇 강아지야."
+          ],
+          "answer": 2,
+          "explain": "robot dog는 로봇 강아지예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Minu",
+              "text": "?"
+            },
+            {
+              "who": "Paul",
+              "text": "It's a ball."
+            },
+            {
+              "who": "Minu",
+              "text": "Nice!"
+            }
+          ],
+          "choices": [
+            "Look!",
+            "What's that?",
+            "Bye."
+          ],
+          "answer": 1,
+          "explain": "Paul이 ‘It's a ball.’이라고 답했으니 Minu는 물건이 무엇인지 물었어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Hana가 손에 컵(☕)을 들고 있어요. Hana의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Alice",
+              "text": "What's this?"
+            },
+            {
+              "who": "Hana",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a cat.",
+            "It's a cup.",
+            "Nice!"
+          ],
+          "answer": 1,
+          "explain": "컵은 cup이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것은 무엇이니? 그것은 공이야.",
+          "answer": "What's that? It's a ball.",
+          "distractors": [
+            "this?",
+            "doll."
+          ],
+          "explain": "‘What's that?’으로 묻고 ‘It's a ball.’로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "봐! 그것은 인형이야.",
+          "answer": "Look! It's a doll.",
+          "distractors": [
+            "Nice!",
+            "that"
+          ],
+          "explain": "‘Look!’ 다음에 ‘It's a doll.’을 말해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It's a robot. Nice!",
+          "answer": "It's a robot. Nice!",
+          "distractors": [
+            "Look!",
+            "doll."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's ___? – It's a bike.",
+          "ko": "저것은 무엇이니? – 그것은 자전거야.",
+          "choices": [
+            "this",
+            "it",
+            "that"
+          ],
+          "answer": 2,
+          "explain": "‘저것’은 that이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘그것은 자전거야.’를 영어로 하면?",
+          "choices": [
+            "It's a bike.",
+            "What's a bike?",
+            "It's a ball."
+          ],
+          "answer": 0,
+          "explain": "‘It's a bike.’는 ‘그것은 자전거야.’라는 뜻이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Juno: Look! It's a hat.\nHoa: Nice!",
+          "question": "Hoa가 칭찬한 물건은 무엇인가요?",
+          "choices": [
+            "공",
+            "인형",
+            "모자"
+          ],
+          "answer": 2,
+          "explain": "Juno가 보여 준 모자(hat)를 보고 Hoa가 ‘Nice!’라고 칭찬했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Look! It's a robot.",
+          "ko": "봐! 그것은 로봇이야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's that? It's a doll. Nice!",
+          "answer": "What's that? It's a doll. Nice!",
+          "distractors": [
+            "this?",
+            "ball."
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Sam: What's this?\nKate: It's a doll. Look!\nSam: Wow! Nice!",
+          "question": "Kate가 보여 준 물건은 무엇인가요?",
+          "choices": [
+            "공",
+            "모자",
+            "인형"
+          ],
+          "answer": 2,
+          "explain": "Kate는 ‘It's a doll.’이라고 했어요. doll은 인형이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Juno: Look! It's a dog.\nSam: Yes, it's a robot dog.",
+          "question": "Sam은 그것이 무엇이라고 했나요?",
+          "choices": [
+            "진짜 강아지",
+            "인형",
+            "로봇 강아지"
+          ],
+          "answer": 2,
+          "explain": "Sam은 ‘it's a robot dog.’라고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "박물관에서 안내원이 로봇을 보여 줘요. Bora의 말을 고르세요.",
+          "lines": [
+            {
+              "who": "안내원",
+              "text": "Look! It's a robot."
+            },
+            {
+              "who": "Bora",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Wow! Nice!",
+            "What's this?",
+            "I'm fine."
+          ],
+          "answer": 0,
+          "explain": "멋진 로봇을 보면 ‘Nice!’라고 칭찬해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Minho",
+              "text": "?"
+            },
+            {
+              "who": "Sujin",
+              "text": "It's a bike. Look!"
+            }
+          ],
+          "choices": [
+            "Nice!",
+            "How are you?",
+            "What's that, Sujin?"
+          ],
+          "answer": 2,
+          "explain": "Sujin이 물건 이름을 말했으니 Minho는 무엇인지 물었어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "멋지다! (칭찬하는 말)",
+          "answers": [
+            "Nice!",
+            "Nice"
+          ],
+          "hint": "N _ c e"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🪆 인형",
+          "answers": [
+            "doll"
+          ],
+          "hint": "d _ l l"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것은 무엇이니? 그것은 로봇이야. 멋지다!",
+          "answer": "What's this? It's a robot. Nice!",
+          "distractors": [
+            "that?",
+            "doll."
+          ],
+          "explain": "묻고, 답하고, 칭찬하는 순서예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It's a ___. Nice!",
+          "ko": "그것은 자전거야. 멋지다!",
+          "choices": [
+            "bike",
+            "hat",
+            "cup"
+          ],
+          "answer": 0,
+          "explain": "자전거는 bike예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's that? It's a hat. Nice!",
+          "ko": "저것은 무엇이니? 그것은 모자야. 멋지다!"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Talk · Phonics",
+      "kind": "읽고 쓰기",
+      "icon": "pencil",
+      "studyPoint": "물건을 나타내는 단어 읽고 쓰기 / 알파벳 ‘b’로 시작하는 단어 소리 내어 읽기",
+      "objectives": [
+        "단어(ball, bike, cup, doll)를 읽고 그 의미를 이해하며 쓸 수 있다.",
+        "/b/ 소리를 식별하고, 소리 /b/와 철자 ‘b’의 관계를 이해하며 ‘b’로 시작하는 단어를 소리 내어 읽을 수 있다.",
+        "‘특이한 물건을 상상해 그리고 묻고 답하기’의 협력 과업으로 단어를 읽고 쓰며, 물건이 무엇인지 묻고 답하는 말과 칭찬하는 말을 할 수 있다."
+      ],
+      "pages": "교과서 40~41쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습·동기 유발 / Study Point",
+          "desc": "인형과 공을 보여 주며 묻고 답하기, 알파벳 카드 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "그림 보며 단어(ball, bike, cup, doll) 뜻 추측하고 따라 읽기, 단어를 넣어 짝과 묻고 답하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Match",
+          "desc": "정리함에 알맞은 물건을 연결해 거실 정리하기",
+          "min": 2
+        },
+        {
+          "phase": "전개",
+          "step": "Follow and Write",
+          "desc": "그림에 맞게 철자를 따라가 단어 따라 쓰기, 스스로 다지기·My Turn(가지고 싶은 물건 쓰기)",
+          "min": 3
+        },
+        {
+          "phase": "전개",
+          "step": "Phonics",
+          "desc": "/b/ 소리와 철자 b의 관계 익히기, ball·bike·bye 따라 읽기, 첫소리가 다른 단어 고르기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Work Together",
+          "desc": "단어 카드를 따라 쓰고 뒷면에 특이한 모양의 물건을 그린 뒤, 돌아가며 ‘What's this?’ – ‘It's a cup.’ – ‘Nice!’ 대화하기 (모둠)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "단어 읽기 복습, 그림에 알맞은 단어 고르고 쓰기, 성취도 색칠",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "ball",
+        "bike",
+        "cup",
+        "doll",
+        "b /b/ — ball, bike, bye"
+      ],
+      "tip": "/b/는 두 입술을 꼭 붙였다가 ‘브’ 하고 터뜨리는 소리예요. 목이 살짝 떨려요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Work Together 자기·상호·관찰 평가 — 단어(ball, bike, cup, doll)를 읽고 의미를 이해하며 따라 쓸 수 있는가? /b/ 소리와 철자 b의 관계를 이해하며 단어를 소리 내어 읽을 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트, 포트폴리오 평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "그림과 단어를 짝지어 보세요.",
+          "pairs": [
+            [
+              "⚽",
+              "ball"
+            ],
+            [
+              "🚲",
+              "bike"
+            ],
+            [
+              "☕",
+              "cup"
+            ],
+            [
+              "🪆",
+              "doll"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "그림에 알맞은 단어는?",
+          "emoji": "☕",
+          "choices": [
+            "cup",
+            "cat",
+            "doll",
+            "bike"
+          ],
+          "answer": 0,
+          "explain": "컵은 cup이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "그림에 알맞은 단어는?",
+          "emoji": "🪆",
+          "choices": [
+            "dog",
+            "doll",
+            "ball",
+            "cup"
+          ],
+          "answer": 1,
+          "explain": "인형은 doll이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 단어를 고르세요.",
+          "audio": "bike",
+          "choices": [
+            "ball",
+            "doll",
+            "bike"
+          ],
+          "answer": 2,
+          "explain": "‘바이크’라고 들렸으니 bike예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫 글자를 고르세요.",
+          "audio": "ball",
+          "choices": [
+            "b",
+            "d",
+            "p"
+          ],
+          "answer": 0,
+          "explain": "ball은 /b/ 소리로 시작해요. 글자는 b예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 첫소리가 /b/인 단어는?",
+          "choices": [
+            "bye",
+            "cup",
+            "doll",
+            "hat"
+          ],
+          "answer": 0,
+          "explain": "bye는 b로 시작해서 /b/ 소리가 나요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It's a ___.",
+          "ko": "그것은 공이야.",
+          "choices": [
+            "bike",
+            "doll",
+            "ball"
+          ],
+          "answer": 2,
+          "explain": "공은 ball이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 첫 글자를 고르세요.",
+          "sentence": "___all",
+          "ko": "⚽ 공",
+          "choices": [
+            "d",
+            "h",
+            "b"
+          ],
+          "answer": 2,
+          "explain": "공은 ball! b로 시작해요."
+        },
+        {
+          "type": "match",
+          "prompt": "첫 글자와 단어를 짝지어 보세요.",
+          "pairs": [
+            [
+              "b",
+              "bike"
+            ],
+            [
+              "c",
+              "cup"
+            ],
+            [
+              "d",
+              "doll"
+            ],
+            [
+              "h",
+              "hat"
+            ]
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric이 컵(☕)을 들고 있어요. Eric의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Bora",
+              "text": "What's this?"
+            },
+            {
+              "who": "Eric",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a doll.",
+            "It's a cup.",
+            "It's a bike."
+          ],
+          "answer": 1,
+          "explain": "컵은 cup이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 철자가 바른 것은?",
+          "choices": [
+            "dol",
+            "dlol",
+            "doll"
+          ],
+          "answer": 2,
+          "explain": "인형은 d-o-l-l, doll이에요. l이 두 개예요!"
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "ball, bike, bye",
+          "ko": "공, 자전거, 잘 가"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리가 다른 하나를 고르세요.",
+          "audio": "ball, pizza, bye",
+          "choices": [
+            "ball",
+            "bye",
+            "pizza"
+          ],
+          "answer": 2,
+          "explain": "ball과 bye는 /b/, pizza는 /p/ 소리로 시작해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "doll",
+          "choices": [
+            "⚽",
+            "🚲",
+            "☕",
+            "🪆"
+          ],
+          "answer": 3,
+          "explain": "doll은 인형이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "b로 시작하지 않는 단어는?",
+          "choices": [
+            "ball",
+            "cup",
+            "bike",
+            "bye"
+          ],
+          "answer": 1,
+          "explain": "cup은 c로 시작해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 철자가 바른 것은?",
+          "choices": [
+            "bkie",
+            "bike",
+            "biek"
+          ],
+          "answer": 1,
+          "explain": "자전거는 b-i-k-e, bike예요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "⚽ 공",
+          "answers": [
+            "ball"
+          ],
+          "hint": "b _ l l"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "☕ 컵",
+          "answers": [
+            "cup"
+          ],
+          "hint": "c _ p"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것은 무엇이니? 그것은 자전거야.",
+          "answer": "What's that? It's a bike.",
+          "distractors": [
+            "this?",
+            "ball."
+          ],
+          "explain": "‘What's that?’으로 묻고 ‘It's a bike.’로 답해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It's a cup. Nice!",
+          "answer": "It's a cup. Nice!",
+          "distractors": [
+            "ball.",
+            "What's"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's this? – It's a ___.",
+          "ko": "이것은 무엇이니? – 그것은 컵이야.",
+          "choices": [
+            "ball",
+            "cup",
+            "bike"
+          ],
+          "answer": 1,
+          "explain": "컵은 cup이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "It's a ball. It's a bike.",
+          "ko": "그것은 공이야. 그것은 자전거야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🚲 자전거",
+          "answers": [
+            "bike"
+          ],
+          "hint": "b _ _ e"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🪆 인형",
+          "answers": [
+            "doll"
+          ],
+          "hint": "d _ _ l"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "👋 잘 가 (_ye)",
+          "answers": [
+            "bye"
+          ],
+          "hint": "_ y e"
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Momo: What's this?\nHoa: It's a cup.\nMomo: What's that?\nHoa: It's a ball. Look!",
+          "question": "Hoa가 말하지 않은 물건은 무엇인가요?",
+          "choices": [
+            "cup",
+            "ball",
+            "bike"
+          ],
+          "answer": 2,
+          "explain": "Hoa는 cup과 ball을 말했어요. bike는 말하지 않았어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 첫소리가 같은 단어를 고르세요.",
+          "audio": "bye",
+          "choices": [
+            "bike",
+            "cup",
+            "doll"
+          ],
+          "answer": 0,
+          "explain": "bye와 bike는 둘 다 /b/ 소리로 시작해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What's this? It's a bike.",
+          "answer": "What's this? It's a bike.",
+          "distractors": [
+            "that?",
+            "ball."
+          ]
+        },
+        {
+          "type": "dialog",
+          "prompt": "지호가 특이한 인형(🪆)을 그렸어요. 지호의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Mina",
+              "text": "What's this?"
+            },
+            {
+              "who": "Jiho",
+              "text": "?"
+            },
+            {
+              "who": "Mina",
+              "text": "Nice!"
+            }
+          ],
+          "choices": [
+            "It's a dog.",
+            "It's a doll.",
+            "I'm fine."
+          ],
+          "answer": 1,
+          "explain": "지호가 그린 것은 인형이니까 ‘It's a doll.’이라고 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "봐! 그것은 공이야. 멋지다!",
+          "answer": "Look! It's a ball. Nice!",
+          "distractors": [
+            "doll.",
+            "that"
+          ],
+          "explain": "‘Look!’, ‘It's a ball.’, ‘Nice!’ 순서로 말해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 첫 글자를 고르세요.",
+          "sentence": "It's a ___ike.",
+          "ko": "🚲 그것은 자전거야.",
+          "choices": [
+            "d",
+            "p",
+            "b"
+          ],
+          "answer": 2,
+          "explain": "자전거는 bike! b로 시작해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Look! It's a doll. Nice!",
+          "ko": "봐! 그것은 인형이야. 멋지다!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Story Time · My Work",
+      "kind": "이야기·마무리",
+      "icon": "book",
+      "studyPoint": "역할극을 하며 배운 표현 활용하기 / 단원 정리",
+      "objectives": [
+        "‘Story Time’에서 ‘진저브레드 맨’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 42~43쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "복습 / Study Point",
+          "desc": "단어(ball, bike, cup, doll)를 읽고 손가락으로 공중에 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Story Time",
+          "desc": "‘진저브레드 맨’ 원작 이야기 나누기, 그림과 말풍선 단어(cup)로 내용 추측, 만화 영화 보고 질문에 답하기, HOW ABOUT YOU?(소개하고 싶은 물건), 모둠 역할극",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "대화 듣고 알맞은 물건에 ○표, 물건이 무엇인지 묻고 답하기, 들은 순서대로 번호 쓰고 단어 따라 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / 정리해요 / Self Study",
+          "desc": "1~4차시 성취도 돌아보며 느낀 점과 복습 계획 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What's this? – It's a cup.",
+        "What's that? – It's a doll.",
+        "Nice!"
+      ],
+      "tip": "역할극을 할 때 컵, 인형, 공 같은 진짜 물건을 들고 하면 더 실감 나요!",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? My Work 자기 평가 — 단원에서 학습한 내용을 문제를 풀며 정리할 수 있는가? (단원평가, 수행평가·지필평가)",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Gingerbread Man: Hello!\nGrandpa: Hi! How are you?\nGingerbread Man: I'm fine!",
+          "question": "진저브레드 맨은 어떻게 지낸다고 했나요?",
+          "choices": [
+            "잘 지낸다",
+            "배고프다",
+            "헤어진다"
+          ],
+          "answer": 0,
+          "explain": "진저브레드 맨은 ‘I'm fine!(잘 지내!)’이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Gingerbread Man: What's this?\nGrandma: It's a cup.",
+          "question": "할머니(Grandma)가 말한 물건은 무엇인가요?",
+          "choices": [
+            "컵",
+            "공",
+            "인형"
+          ],
+          "answer": 0,
+          "explain": "할머니는 ‘It's a cup.’이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Gingerbread Man: What's that?\nGrandpa: It's a doll.\nGingerbread Man: Nice!",
+          "question": "진저브레드 맨이 ‘Nice!’라고 칭찬한 물건은 무엇인가요?",
+          "choices": [
+            "공",
+            "인형",
+            "컵"
+          ],
+          "answer": 1,
+          "explain": "할아버지가 ‘It's a doll.’이라고 한 다음 ‘Nice!’라고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "할머니가 멀리 있는 공(⚽)을 봐요. 할머니의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Gingerbread Man",
+              "text": "What's that?"
+            },
+            {
+              "who": "Grandma",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a cup.",
+            "Bye.",
+            "It's a ball."
+          ],
+          "answer": 2,
+          "explain": "공은 ball이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "진저브레드 맨이 공을 타고 떠나요. 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Grandma",
+              "text": "It's a ball."
+            },
+            {
+              "who": "Gingerbread Man",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi.",
+            "Bye.",
+            "What's this?"
+          ],
+          "answer": 1,
+          "explain": "떠날 때는 ‘Bye.’라고 인사해요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "What's this? It's a cup.",
+          "choices": [
+            "☕",
+            "⚽",
+            "🪆",
+            "🚲"
+          ],
+          "answer": 0,
+          "explain": "cup은 컵이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "It's a doll. Nice!",
+          "choices": [
+            "그것은 인형이야. 멋지다!",
+            "그것은 공이야. 잘 가!",
+            "저것은 무엇이니?"
+          ],
+          "answer": 0,
+          "explain": "doll은 인형, Nice!는 ‘멋지다!’예요."
+        },
+        {
+          "type": "match",
+          "prompt": "영어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "What's this?",
+              "이것은 무엇이니?"
+            ],
+            [
+              "What's that?",
+              "저것은 무엇이니?"
+            ],
+            [
+              "It's a ball.",
+              "그것은 공이야."
+            ],
+            [
+              "Nice!",
+              "멋지다!"
+            ]
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What's ___?",
+          "ko": "저것은 무엇이니?",
+          "choices": [
+            "this",
+            "fine",
+            "that"
+          ],
+          "answer": 2,
+          "explain": "‘저것’은 that이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것은 무엇이니?",
+          "answer": "What's this?",
+          "distractors": [
+            "that?",
+            "It's"
+          ],
+          "explain": "가까이 있는 물건은 ‘What's this?’로 물어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘It's a cup.’의 뜻은 무엇일까요?",
+          "choices": [
+            "그것은 고양이야.",
+            "이것은 무엇이니?",
+            "그것은 컵이야."
+          ],
+          "answer": 2,
+          "explain": "cup은 컵이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's that? It's a ball.",
+          "ko": "저것은 무엇이니? 그것은 공이야."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Gingerbread Man: Look! What's that?\nCat: It's a hat.\nGingerbread Man: Nice! Bye!",
+          "question": "고양이(Cat)가 말한 물건은 무엇인가요?",
+          "choices": [
+            "공",
+            "모자",
+            "인형"
+          ],
+          "answer": 1,
+          "explain": "고양이는 ‘It's a hat.’이라고 했어요. hat은 모자예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Grandpa: What's this?\nGingerbread Man: It's a robot!\nGrandpa: Nice!",
+          "question": "할아버지가 칭찬한 물건은 무엇인가요?",
+          "choices": [
+            "로봇",
+            "자전거",
+            "컵"
+          ],
+          "answer": 0,
+          "explain": "‘It's a robot!’ 다음에 할아버지가 ‘Nice!’라고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "진저브레드 맨의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Grandpa",
+              "text": "Hi. How are you?"
+            },
+            {
+              "who": "Gingerbread Man",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a cup.",
+            "What's that?",
+            "I'm fine."
+          ],
+          "answer": 2,
+          "explain": "안부를 물으면 ‘I'm fine.’이라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "진저브레드 맨이 바로 앞에 있는 컵을 가리켜요. 알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Gingerbread Man",
+              "text": "?"
+            },
+            {
+              "who": "Grandma",
+              "text": "It's a cup."
+            }
+          ],
+          "choices": [
+            "What's that, Grandma?",
+            "Nice!",
+            "What's this, Grandma?"
+          ],
+          "answer": 2,
+          "explain": "바로 앞에 있는 물건은 ‘What's this?’로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것은 무엇이니? 그것은 인형이야.",
+          "answer": "What's that? It's a doll.",
+          "distractors": [
+            "this?",
+            "ball."
+          ],
+          "explain": "‘What's that?’으로 묻고 ‘It's a doll.’로 답해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It's a ball. Bye!",
+          "answer": "It's a ball. Bye!",
+          "distractors": [
+            "Hi!",
+            "cup."
+          ]
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "⚽ 공",
+          "answers": [
+            "ball"
+          ],
+          "hint": "b _ _ l"
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "It's a ___.",
+          "ko": "🎩 그것은 모자야.",
+          "choices": [
+            "hat",
+            "cat",
+            "ball"
+          ],
+          "answer": 0,
+          "explain": "모자는 hat이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "다음 중 멀리 있는 물건이 무엇인지 묻는 말은?",
+          "choices": [
+            "What's that?",
+            "Nice!",
+            "I'm fine."
+          ],
+          "answer": 0,
+          "explain": "멀리 있는 물건은 ‘What's that?’으로 물어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Look! It's a cup. Nice!",
+          "ko": "봐! 그것은 컵이야. 멋지다!"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Dad: What's that?\nMina: It's a bike. Look!\nDad: Nice!",
+          "question": "Mina가 보여 준 물건은 무엇인가요?",
+          "choices": [
+            "bike",
+            "doll",
+            "cup"
+          ],
+          "answer": 0,
+          "explain": "Mina는 ‘It's a bike.’라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Juno: Hi, Sam. What's this?\nSam: It's a robot. Look!\nJuno: Wow, nice!",
+          "question": "Juno가 Sam에게 물어본 것은 무엇인가요?",
+          "choices": [
+            "어떻게 지내는지",
+            "이것이 무엇인지",
+            "이름이 무엇인지"
+          ],
+          "answer": 1,
+          "explain": "Juno는 ‘What's this?’라고 물었어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "선생님이 고양이 그림(🐱)을 들고 있어요. Kate의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Teacher",
+              "text": "What's this?"
+            },
+            {
+              "who": "Kate",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a hat.",
+            "It's a cat.",
+            "It's a dog."
+          ],
+          "answer": 1,
+          "explain": "고양이는 cat이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Eric이 새 자전거를 보여 줘요. Hoa의 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Eric",
+              "text": "Look! It's a bike."
+            },
+            {
+              "who": "Hoa",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm fine.",
+            "What's this?",
+            "Nice!"
+          ],
+          "answer": 2,
+          "explain": "멋진 물건을 보면 ‘Nice!’라고 칭찬해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Look! What's that?",
+          "answer": "Look! What's that?",
+          "distractors": [
+            "this?",
+            "It's"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것은 무엇이니? 그것은 모자야. 멋지다!",
+          "answer": "What's this? It's a hat. Nice!",
+          "distractors": [
+            "that?",
+            "cup."
+          ],
+          "explain": "묻고, 답하고, 칭찬해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "🪆 인형",
+          "answers": [
+            "doll"
+          ],
+          "hint": "d _ l l"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "☕ 컵",
+          "answers": [
+            "cup"
+          ],
+          "hint": "_ u p"
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ that? – It's a robot.",
+          "ko": "저것은 무엇이니? – 그것은 로봇이야.",
+          "choices": [
+            "What's",
+            "It's",
+            "Nice"
+          ],
+          "answer": 0,
+          "explain": "물건이 무엇인지 물을 때는 ‘What's ~?’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What's this? It's a bike. Nice!",
+          "ko": "이것은 무엇이니? 그것은 자전거야. 멋지다!"
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "재활용품으로 만든 작품 전시장에서 Kate와 Eric이 로봇과 자전거가 무엇인지 물어요.",
+      "lines": [
+        {
+          "who": "Kate",
+          "text": "What's this?"
+        },
+        {
+          "who": "안내원",
+          "text": "It's a robot."
+        },
+        {
+          "who": "Eric",
+          "text": "What's that?"
+        },
+        {
+          "who": "보라",
+          "text": "It's a bike."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "교실에서 준오의 모자와 Kate의 마트료시카 인형을 보고 묻고 칭찬해요.",
+      "lines": [
+        {
+          "who": "Hoa",
+          "text": "What's this?"
+        },
+        {
+          "who": "준오",
+          "text": "It's a hat."
+        },
+        {
+          "who": "Sam",
+          "text": "What's that?"
+        },
+        {
+          "who": "Kate",
+          "text": "It's a doll. Look!"
+        },
+        {
+          "who": "Sam",
+          "text": "Nice!"
+        }
+      ]
+    },
+    {
+      "name": "Story Time",
+      "period": 4,
+      "situation": "‘진저브레드 맨’: 오븐에서 나온 진저브레드 맨이 집 안의 물건이 무엇인지 물어봐요.",
+      "lines": [
+        {
+          "who": "Gingerbread Man",
+          "text": "What's this?"
+        },
+        {
+          "who": "할머니",
+          "text": "It's a cup."
+        },
+        {
+          "who": "Gingerbread Man",
+          "text": "What's that?"
+        },
+        {
+          "who": "할아버지",
+          "text": "It's a doll."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "Story Time: 진저브레드 맨 (The Gingerbread Man)",
+    "passage": "A gingerbread man jumps out of the oven. \"Hi!\" Grandpa asks, \"How are you?\" \"I'm fine.\" He sees a cup on the table. \"What's this?\" \"It's a cup.\" He sees a doll. \"What's that?\" \"It's a doll.\" \"Nice!\" In the yard, he finds a ball. He rolls away on it. \"Bye!\"",
+    "summaryKo": "오븐에서 나온 진저브레드 맨이 컵, 인형, 공이 무엇인지 묻고, 공을 타고 신나게 떠나요."
+  },
+  "writing": {
+    "frame": [
+      "ball",
+      "bike",
+      "cup",
+      "doll",
+      "It's a ____."
+    ],
+    "model": "What's this? – It's a ball. Nice!"
+  },
+  "project": "Work Together: 네 명이 한 모둠이 되어 단어 쓰기 카드(ball, bike, cup, doll)를 하나씩 따라 쓰고 뒷면에 특이한 모양의 물건을 상상해 그린 뒤, 그림을 보여 주며 ‘What's this?’ – ‘It's a cup.’ – ‘Nice!’로 묻고 답하고 칭찬한다."
+}

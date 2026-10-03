@@ -1,0 +1,2223 @@
+{
+ "id": "L11",
+ "no": 11,
+ "grade": 4,
+ "semester": 2,
+ "title": "I'm Drawing a Picture",
+ "emoji": "🎨",
+ "rationale": "지금 하고 있는 일이 무엇인지 묻고 답하는 말은 일상생활에서 흔히 사용하는 대화 주제이다. 지금 하는 일을 묻고 답하는 말과 도움을 제안하는 말을 익혀 실생활에서 사용하게 하고, 주변 사람들에게 관심을 갖고 배려하는 마음과 태도를 기르고자 한다.",
+ "topics": "개인 생활 관련(취미, 오락), 학교생활 관련(교우 관계), 가정생활 관련(음식), 민주시민 관련(배려)",
+ "functions": [
+  {
+   "ko": "지금 하고 있는 일 묻고 답하기",
+   "examples": [
+    "What are you doing?",
+    "I'm doing homework."
+   ]
+  },
+  {
+   "ko": "도움 제안하기",
+   "examples": [
+    "Can I help you?",
+    "Sure."
+   ]
+  }
+ ],
+ "forms": [
+  "What are you doing? - I'm doing homework.",
+  "I'm doing homework [drawing a picture / playing a game / reading a book]."
+ ],
+ "phonics": {
+  "focus": "e /e/",
+  "words": [
+   "help",
+   "bed",
+   "desk"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "cookie",
+   "ko": "쿠키"
+  },
+  {
+   "en": "draw",
+   "ko": "그리다"
+  },
+  {
+   "en": "homework",
+   "ko": "숙제"
+  },
+  {
+   "en": "make",
+   "ko": "만들다"
+  },
+  {
+   "en": "picture",
+   "ko": "그림"
+  },
+  {
+   "en": "read",
+   "ko": "읽다"
+  },
+  {
+   "en": "smell",
+   "ko": "냄새가 나다"
+  },
+  {
+   "en": "sure",
+   "ko": "물론, 그럼"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "doing homework",
+   "ko": "숙제하기",
+   "emoji": "📝"
+  },
+  {
+   "en": "drawing a picture",
+   "ko": "그림 그리기",
+   "emoji": "🎨"
+  },
+  {
+   "en": "playing a game",
+   "ko": "게임 하기",
+   "emoji": "🎲"
+  },
+  {
+   "en": "reading a book",
+   "ko": "책 읽기",
+   "emoji": "📖"
+  },
+  {
+   "en": "making cookies",
+   "ko": "쿠키 만들기",
+   "emoji": "🍪"
+  },
+  {
+   "en": "cleaning the table",
+   "ko": "식탁 청소하기",
+   "emoji": "🧽"
+  }
+ ],
+ "characters": [
+  "보라",
+  "Eric",
+  "준오",
+  "Hoa",
+  "Momo",
+  "Kate",
+  "Kate 아빠",
+  "Kevin",
+  "Paul",
+  "민우",
+  "Alice",
+  "Alice 엄마",
+  "신데렐라",
+  "새엄마",
+  "새 언니",
+  "요정"
+ ],
+ "goals": {
+  "understand": [
+   "지금 하고 있는 일을 묻고 답하는 말, 도움을 제안하는 말을 듣고 이해할 수 있다.",
+   "지금 하고 있는 일을 나타내는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /e/와 철자 ‘e’의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "지금 하고 있는 일을 묻고 답하는 말과 도움을 제안하는 말을 들으며 주변 사람들에게 관심을 가지고 다른 사람을 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "지금 하고 있는 일을 묻고 답하는 말, 도움을 제안하는 말을 할 수 있다.",
+   "지금 하고 있는 일을 나타내는 문장을 보고 쓸 수 있다.",
+   "소리 /e/와 철자 ‘e’의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "대인 관계의 기초인 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "지금 하고 있는 일 묻고 답하기",
+   "objectives": [
+    "지금 하고 있는 일을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘하고 있는 일을 묻고 답하며 사람 띠 빙고 놀이’로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 104~105쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "교사의 동작을 보고 무엇을 하는지 추측하기, 짝에게 지금 하고 있는 동작 묻고 답하기, 단원 목표 확인 및 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "보드게임을 함께 할 친구를 찾으며 하고 있는 일을 묻고 답하는 만화 영화 보기, 준오가 하고 있는 일 고르기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 동작 그림에 번호 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "동작 그림 카드를 들고 한 줄로 선 뒤, 교사가 말한 동작 카드를 가진 양 끝 학생이 대답하고 앉는 사람 띠 빙고 놀이 (모둠)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "동작 그림 카드로 묻고 답하며 복습, 대화 듣고 알맞은 그림 고르기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you doing?",
+    "I'm doing homework.",
+    "I'm drawing a picture."
+   ],
+   "tip": "지금 하고 있는 일은 ‘I'm + 동작ing ....’로 말해요. draw → drawing, read → reading, play → playing!",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 지금 하고 있는 일을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "homework",
+       "숙제"
+      ],
+      [
+       "picture",
+       "그림"
+      ],
+      [
+       "draw",
+       "그리다"
+      ],
+      [
+       "read",
+       "읽다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말을 고르세요.",
+     "emoji": "🎨",
+     "choices": [
+      "drawing a picture",
+      "reading a book",
+      "doing homework"
+     ],
+     "answer": 0,
+     "explain": "🎨는 그림 그리기, drawing a picture예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 말을 고르세요.",
+     "emoji": "📖",
+     "choices": [
+      "playing a game",
+      "making cookies",
+      "reading a book"
+     ],
+     "answer": 2,
+     "explain": "📖는 책 읽기, reading a book이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm doing homework.",
+     "choices": [
+      "나는 숙제를 하고 있어.",
+      "나는 그림을 그리고 있어.",
+      "나는 게임을 하고 있어."
+     ],
+     "answer": 0,
+     "explain": "doing homework는 ‘숙제를 하고 있는’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm playing a game.",
+     "choices": [
+      "📖",
+      "🎨",
+      "🎲"
+     ],
+     "answer": 2,
+     "explain": "playing a game은 ‘게임을 하고 있는’이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What are you doing?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "너는 무엇을 하고 있니?",
+      "너는 무엇을 원하니?",
+      "너는 어디에서 왔니?"
+     ],
+     "answer": 0,
+     "explain": "지금 하고 있는 일을 물을 때 ‘What are you doing?’이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오는 숙제를 하고 있어요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "What are you doing?"
+      },
+      {
+       "who": "Junho",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm drawing a picture.",
+      "Sorry, I can't.",
+      "I'm doing homework."
+     ],
+     "answer": 2,
+     "explain": "숙제를 하고 있으니 ‘I'm doing homework.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa는 그림을 그리고 있어요. Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Hoa, what are you doing?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm reading a book.",
+      "I'm drawing a picture.",
+      "Yes, it is."
+     ],
+     "answer": 1,
+     "explain": "그림을 그리고 있으니 ‘I'm drawing a picture.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ a book.",
+     "ko": "나는 책을 읽고 있어.",
+     "choices": [
+      "reading",
+      "drawing",
+      "doing"
+     ],
+     "answer": 0,
+     "explain": "‘읽고 있는’은 reading이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무엇을 하고 있니?",
+     "answer": "What are you doing?",
+     "distractors": [
+      "do",
+      "is"
+     ],
+     "explain": "지금 하고 있는 일은 ‘What are you doing?’으로 물어요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 알맞은 말을 짝지어 보세요.",
+     "pairs": [
+      [
+       "🍪",
+       "making cookies"
+      ],
+      [
+       "🧽",
+       "cleaning the table"
+      ],
+      [
+       "📝",
+       "doing homework"
+      ],
+      [
+       "🎲",
+       "playing a game"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What are you doing?",
+     "ko": "너는 무엇을 하고 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "?"
+      },
+      {
+       "who": "Ben",
+       "text": "I'm reading a book."
+      }
+     ],
+     "choices": [
+      "Ben, what do you want?",
+      "Ben, what are you doing?",
+      "Ben, where are you from?"
+     ],
+     "answer": 1,
+     "explain": "‘I'm reading a book.’은 지금 하고 있는 일을 말하는 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Mom, I'm ___ homework.",
+     "ko": "엄마, 나는 숙제를 하고 있어요.",
+     "choices": [
+      "making",
+      "playing",
+      "doing"
+     ],
+     "answer": 2,
+     "explain": "‘숙제를 하다’는 do homework예요. ‘하고 있는’은 doing이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Dad, I'm playing a ___.",
+     "ko": "아빠, 나는 게임을 하고 있어요.",
+     "choices": [
+      "game",
+      "book",
+      "picture"
+     ],
+     "answer": 0,
+     "explain": "게임은 game이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look! I'm drawing a dog.",
+     "answer": "Look! I'm drawing a dog.",
+     "distractors": [
+      "draw",
+      "book."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 쿠키를 만들고 있어.",
+     "answer": "I'm making cookies.",
+     "distractors": [
+      "make",
+      "doing"
+     ],
+     "explain": "‘만들고 있는’은 making이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대답한 사람이 하고 있는 일을 고르세요.",
+     "audio": "What are you doing? I'm cleaning the table.",
+     "choices": [
+      "쿠키 만들기",
+      "책 읽기",
+      "식탁 청소하기"
+     ],
+     "answer": 2,
+     "explain": "cleaning the table은 ‘식탁을 청소하고 있는’이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "준오는 숙제를 하느라 게임을 할 수 없어요. 준오의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Can you play a game?"
+      },
+      {
+       "who": "Junho",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good.",
+      "Sorry, I can't.",
+      "I'm playing a game."
+     ],
+     "answer": 1,
+     "explain": "숙제 때문에 게임을 할 수 없으니 ‘Sorry, I can't.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa는 게임을 하고 싶어요. Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Let's play this game."
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, I can't.",
+      "I'm doing homework.",
+      "Sounds good."
+     ],
+     "answer": 2,
+     "explain": "함께 하고 싶으니 ‘Sounds good.(좋아.)’이라고 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "숙제를 하고 있는 친구가 할 말로 알맞은 것은?",
+     "emoji": "📝",
+     "choices": [
+      "I'm reading a book now.",
+      "I'm doing homework now.",
+      "I'm making cookies now."
+     ],
+     "answer": 1,
+     "explain": "📝 숙제를 하고 있으니 ‘I'm doing homework now.’라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm reading a book now.",
+     "ko": "나는 지금 책을 읽고 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "숙제",
+     "answers": [
+      "homework"
+     ],
+     "hint": "h o m e w _ _ k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 고양이를 그리고 있어.",
+     "answers": [
+      "I'm drawing a cat.",
+      "I am drawing a cat."
+     ],
+     "hint": "I'm d r _ w i n g a cat."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What are you doing? I'm playing a game.",
+     "answer": "What are you doing? I'm playing a game.",
+     "distractors": [
+      "do",
+      "book."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Mina, 너는 무엇을 하고 있니?",
+     "answer": "Mina, what are you doing?",
+     "distractors": [
+      "do",
+      "is"
+     ],
+     "explain": "이름을 부른 뒤 ‘what are you doing?’이라고 물어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Eric: What are you doing, Junho?\nJunho: I'm doing homework.\nEric: Can you play a game?\nJunho: Sorry, I can't.",
+     "question": "준오가 게임을 할 수 없는 까닭은 무엇인가요?",
+     "choices": [
+      "책을 읽고 있어서",
+      "그림을 그리고 있어서",
+      "숙제를 하고 있어서"
+     ],
+     "answer": 2,
+     "explain": "준오는 ‘I'm doing homework.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ben: What are you doing, Lily?\nLily: I'm reading a book.\nBen: What are you doing, Tom?\nTom: I'm drawing a picture.",
+     "question": "Tom이 하고 있는 일은 무엇인가요?",
+     "choices": [
+      "그림 그리기",
+      "책 읽기",
+      "게임 하기"
+     ],
+     "answer": 0,
+     "explain": "Tom은 ‘I'm drawing a picture.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 소라의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "What are you doing, Sora?"
+      },
+      {
+       "who": "Sora",
+       "text": "?"
+      },
+      {
+       "who": "Teacher",
+       "text": "Wow, nice picture!"
+      }
+     ],
+     "choices": [
+      "I'm doing homework.",
+      "I'm drawing a bird.",
+      "I'm playing a game."
+     ],
+     "answer": 1,
+     "explain": "선생님이 ‘nice picture(멋진 그림)’라고 했으니 그림을 그리고 있어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "게임을 하자.",
+     "answers": [
+      "Let's play a game."
+     ],
+     "hint": "Let's p _ _ y a game."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스러운 것은?",
+     "choices": [
+      "A: What are you doing? B: Yes, I am.",
+      "A: What are you doing? B: I'm ten.",
+      "A: What are you doing? B: I'm making cookies."
+     ],
+     "answer": 2,
+     "explain": "하고 있는 일을 물으면 ‘I'm + 하고 있는 일.’로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play this game. Sounds good!",
+     "ko": "이 게임을 하자. 좋아!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "지금 하고 있는 일 묻고 답하기 / 도움 제안하기",
+   "objectives": [
+    "지금 하고 있는 일을 묻고 답하는 말을 할 수 있다.",
+    "도움을 제안하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘What Are You Doing?’ 노래와 ‘주사위를 굴려 그림이 나타내는 동작 묻고 답하기’ 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 106~107쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "동작 그림 카드로 하고 있는 일 묻고 답하며 복습, 쿠키 반죽 사진과 쿠키를 만드는 아이들 사진으로 대화 소재 예상하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "쿠키를 굽는 Kate 아빠를 Kate가 돕고, Kevin이 식탁 청소를 돕는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "게임을 하는 민우, 식탁을 닦는 엄마를 돕는 Alice 동영상 보고 따라 말하기, 짝과 그림 속 인물이 되어 하고 있는 일 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘What Are You Doing?’ 노래를 모둠별로 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "주사위를 굴려 나온 방의 그림에 맞게 하고 있는 일을 묻고 답하고, 별표 방에서는 도움을 제안하고 답하기, 수준별 활동(보충: 동작 그림 카드 짝 맞추기 / 심화: 동작 미로 탈출하기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "Talk Like This 장면으로 복습, 상황에 알맞은 대화하기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you doing?",
+    "I'm making cookies.",
+    "Can I help you? - Sure."
+   ],
+   "tip": "‘Can I help you?’는 ‘내가 도와줄까?’예요. 도움을 받고 싶으면 ‘Sure.’ 또는 ‘Sure. Thank you.’라고 답해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 지금 하고 있는 일을 묻고 답하는 말을 할 수 있는가? 도움을 제안하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cookie",
+       "쿠키"
+      ],
+      [
+       "make",
+       "만들다"
+      ],
+      [
+       "smell",
+       "냄새가 나다"
+      ],
+      [
+       "sure",
+       "물론, 그럼"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Can I help you?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나를 도와줄 수 있니?",
+      "내가 도와줄까?",
+      "너는 무엇을 하고 있니?"
+     ],
+     "answer": 1,
+     "explain": "‘Can I help you?’는 도움을 제안하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Sure.",
+     "choices": [
+      "미안해.",
+      "고마워.",
+      "물론이지."
+     ],
+     "answer": 2,
+     "explain": "sure는 ‘물론, 그럼’이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "It smells good.",
+     "choices": [
+      "냄새가 좋아.",
+      "그림이 멋져.",
+      "날씨가 좋아."
+     ],
+     "answer": 0,
+     "explain": "smell은 ‘냄새가 나다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "What are you doing, Dad?"
+      },
+      {
+       "who": "Dad",
+       "text": "I'm making cookies."
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      },
+      {
+       "who": "Dad",
+       "text": "Sure."
+      }
+     ],
+     "choices": [
+      "What time is it?",
+      "Is this your cookie?",
+      "Can I help you?"
+     ],
+     "answer": 2,
+     "explain": "아빠가 ‘Sure.’라고 답했으니 도움을 제안하는 말이 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마는 Alice의 도움을 받고 싶어요. 엄마의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Alice",
+       "text": "Can I help you?"
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sure.",
+      "Sorry, I can't.",
+      "No, it isn't."
+     ],
+     "answer": 0,
+     "explain": "도움을 받고 싶으면 ‘Sure.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can I ___ you?",
+     "ko": "내가 도와줄까?",
+     "choices": [
+      "make",
+      "help",
+      "read"
+     ],
+     "answer": 1,
+     "explain": "‘돕다’는 help예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ the table.",
+     "ko": "나는 식탁을 청소하고 있어.",
+     "choices": [
+      "cleaning",
+      "making",
+      "reading"
+     ],
+     "answer": 0,
+     "explain": "‘청소하고 있는’은 cleaning이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내가 도와줄까?",
+     "answer": "Can I help you?",
+     "distractors": [
+      "Do",
+      "me"
+     ],
+     "explain": "도움을 제안할 때는 ‘Can I help you?’라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "쿠키를 만드는 사람이 할 말로 알맞은 것은?",
+     "emoji": "🍪",
+     "choices": [
+      "I'm cleaning the table.",
+      "I'm reading a book.",
+      "I'm making cookies."
+     ],
+     "answer": 2,
+     "explain": "🍪 쿠키를 만들고 있으니 ‘I'm making cookies.’라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 Kevin이 하고 있는 일을 고르세요.",
+     "audio": "Kevin, what are you doing? I'm reading a book.",
+     "choices": [
+      "📖",
+      "🍪",
+      "🎲"
+     ],
+     "answer": 0,
+     "explain": "Kevin은 ‘I'm reading a book.’이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can I help you?",
+     "ko": "내가 도와줄까?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kevin",
+       "text": "Can I help you, Dad?"
+      },
+      {
+       "who": "Dad",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm reading a book.",
+      "No, it isn't.",
+      "Sure. Please clean the table."
+     ],
+     "answer": 2,
+     "explain": "도움을 제안하면 ‘Sure.’라고 받아들이고 할 일을 부탁할 수 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "Can I help you? Sure.",
+     "choices": [
+      "한 사람이 도움을 제안했지만 거절했어요.",
+      "한 사람이 도움을 제안하고, 다른 사람이 받아들였어요.",
+      "두 사람이 함께 게임을 하자고 했어요."
+     ],
+     "answer": 1,
+     "explain": "‘Can I help you?’는 도움 제안, ‘Sure.’는 ‘물론이지.’라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The cookies ___ good.",
+     "ko": "쿠키 냄새가 좋아.",
+     "choices": [
+      "smell",
+      "sound",
+      "make"
+     ],
+     "answer": 0,
+     "explain": "‘냄새가 나다’는 smell이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "쿠키를 먹자.",
+     "answer": "Let's eat cookies.",
+     "distractors": [
+      "make",
+      "I'm"
+     ],
+     "explain": "‘~하자’는 ‘Let's ~.’예요. eat은 ‘먹다’예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Please clean the table.",
+     "answer": "Please clean the table.",
+     "distractors": [
+      "cleaning",
+      "desk."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "엄마, 무엇을 하고 계세요?",
+     "answer": "Mom, what are you doing?",
+     "distractors": [
+      "do",
+      "is"
+     ],
+     "explain": "‘Mom,’으로 부른 뒤 ‘what are you doing?’이라고 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "I'm cleaning the table."
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      },
+      {
+       "who": "Mom",
+       "text": "Sure. Thank you."
+      }
+     ],
+     "choices": [
+      "What are you doing, Mom?",
+      "It smells good, Mom.",
+      "Can I help you, Mom?"
+     ],
+     "answer": 2,
+     "explain": "엄마가 ‘Sure. Thank you.’라고 했으니 도움을 제안한 말이 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 무거운 상자를 들고 힘들어해요. 도움을 제안하는 말로 알맞은 것은?",
+     "emoji": "📦",
+     "choices": [
+      "Can I help you, Jin?",
+      "Can you help me, Jin?",
+      "What do you want, Jin?"
+     ],
+     "answer": 0,
+     "explain": "내가 도와주겠다고 할 때는 ‘Can I help you?’예요. ‘Can you help me?’는 도와 달라는 말이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I'm making cookies.",
+       "쿠키를 만들고 있어."
+      ],
+      [
+       "I'm cleaning the table.",
+       "식탁을 청소하고 있어."
+      ],
+      [
+       "I'm playing a game.",
+       "게임을 하고 있어."
+      ],
+      [
+       "I'm doing homework.",
+       "숙제를 하고 있어."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Sure. Please clean the table.",
+     "ko": "물론이지. 식탁을 닦아 주렴."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "쿠키",
+     "answers": [
+      "cookie",
+      "cookies"
+     ],
+     "hint": "c o o k _ e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Mom, 내가 도와드릴까요?",
+     "answers": [
+      "Mom, can I help you?",
+      "Can I help you, Mom?"
+     ],
+     "hint": "Mom, can I h _ l p you?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "식탁",
+     "answers": [
+      "table"
+     ],
+     "hint": "t _ b l e"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate: It smells good. What are you doing, Dad?\nDad: I'm making cookies.\nKate: Can I help you?\nDad: Sure.",
+     "question": "아빠는 무엇을 하고 있나요?",
+     "choices": [
+      "식탁 청소하기",
+      "쿠키 만들기",
+      "책 읽기"
+     ],
+     "answer": 1,
+     "explain": "아빠가 ‘I'm making cookies.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jin's mom is cleaning the table. Jin says, \"Mom, can I help you?\" Mom says, \"Sure. Thank you, Jin.\" Then they make cookies together.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Jin은 엄마를 도와드렸어요.",
+      "엄마는 책을 읽고 있었어요.",
+      "Jin은 혼자 쿠키를 만들었어요."
+     ],
+     "answer": 0,
+     "explain": "Jin이 ‘Mom, can I help you?’라고 하자 엄마가 ‘Sure.’라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It smells good. Can I help you?",
+     "answer": "It smells good. Can I help you?",
+     "distractors": [
+      "sounds",
+      "me?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "할머니, 제가 도와드릴까요?",
+     "answer": "Grandma, can I help you?",
+     "distractors": [
+      "me",
+      "do"
+     ],
+     "explain": "부르는 말 뒤에 ‘can I help you?’라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "What are you doing, Ms. Kim?"
+      },
+      {
+       "who": "Ms. Kim",
+       "text": "I'm cleaning the desks."
+      },
+      {
+       "who": "Ben",
+       "text": "?"
+      },
+      {
+       "who": "Ms. Kim",
+       "text": "Sure. Thank you, Ben."
+      }
+     ],
+     "choices": [
+      "Sorry, I can't, Ms. Kim.",
+      "It smells good, Ms. Kim.",
+      "Can I help you, Ms. Kim?"
+     ],
+     "answer": 2,
+     "explain": "김 선생님이 ‘Sure. Thank you.’라고 했으니 Ben은 도움을 제안했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: Can I help you? B: Sure.",
+      "A: Can I help you? B: I'm reading a book.",
+      "A: What are you doing? B: I'm making cookies."
+     ],
+     "answer": 1,
+     "explain": "‘Can I help you?’에는 ‘Sure.’처럼 답해야 자연스러워요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It smells good. What are you doing?",
+     "ko": "냄새가 좋다. 무엇을 하고 있니?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽기·쓰기",
+   "icon": "pencil",
+   "studyPoint": "지금 하고 있는 일을 나타내는 문장 읽고 쓰기 / ‘e’가 들어가는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "지금 하고 있는 일을 나타내는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /e/와 철자 ‘e’의 관계를 이해하며 ‘e’가 들어가는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "‘하고 있는 일을 표현한 앨범 만들기’의 협력 과업으로 지금 하고 있는 일을 나타내는 문장을 읽고 쓰며, 지금 하고 있는 일을 묻고 답하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 108~109쪽, 134쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "동작 그림 카드로 복습, 문장 카드를 읽으며 동작을 나타내는 문장 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "세 아이의 말풍선 문장을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Number",
+     "desc": "문장을 읽고 알맞은 그림의 번호 쓰기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Match and Write / 스스로 다지기",
+     "desc": "단어 조각과 그림을 연결해 어구(doing homework 등)를 완성하고 쓰기, My Turn: 어구를 골라 문장으로 쓰고 동작으로 표현하기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "e /e/ 소리와 입 모양 익히기, help·bed·desk 따라 읽기, 확인 문제, 빈칸 철자 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "각자 하고 있는 일을 하는 자신의 모습을 그리고 문장을 써서 모둠 앨범 만들기 (쓰기를 어려워하는 친구에게 ‘Can I help you?’로 도움 제안)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "문장 읽고 쓰며 복습, 확인 문제, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I'm doing homework.",
+    "I'm reading a book.",
+    "help, bed, desk"
+   ],
+   "tip": "help, bed, desk의 e는 입을 살짝 벌리고 짧게 [에]처럼 소리 내요. 어구를 쓸 때 철자를 빠뜨리지 않도록 천천히 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오) — 지금 하고 있는 일을 나타내는 문장을 소리 내어 읽고 의미를 이해하며 보고 쓸 수 있는가? /e/와 ‘e’의 관계를 이해하며 단어를 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어 조각을 이어 어구를 완성해 보세요.",
+     "pairs": [
+      [
+       "doing",
+       "homework"
+      ],
+      [
+       "drawing",
+       "a picture"
+      ],
+      [
+       "playing",
+       "a game"
+      ],
+      [
+       "reading",
+       "a book"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "bed",
+     "choices": [
+      "bad",
+      "bid",
+      "bed"
+     ],
+     "answer": 2,
+     "explain": "bed[베드]의 e는 /e/ 소리가 나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "desk",
+     "choices": [
+      "disk",
+      "desk",
+      "dusk"
+     ],
+     "answer": 1,
+     "explain": "desk[데스크]의 e는 /e/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어를 고르세요.",
+     "emoji": "🛏️",
+     "choices": [
+      "bed",
+      "desk",
+      "help"
+     ],
+     "answer": 0,
+     "explain": "🛏️는 침대, bed예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I'm reading a book.’에 알맞은 그림을 고르세요.",
+     "choices": [
+      "🎨",
+      "📖",
+      "🎲"
+     ],
+     "answer": 1,
+     "explain": "reading a book은 책 읽기예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘I'm drawing a picture.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 사진을 찍고 있어.",
+      "나는 책을 읽고 있어.",
+      "나는 그림을 그리고 있어."
+     ],
+     "answer": 2,
+     "explain": "draw는 ‘그리다’, picture는 ‘그림’이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "h___lp",
+     "ko": "돕다",
+     "choices": [
+      "e",
+      "a",
+      "i"
+     ],
+     "answer": 0,
+     "explain": "‘돕다’는 help예요. e는 /e/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ a game.",
+     "ko": "나는 게임을 하고 있어.",
+     "choices": [
+      "reading",
+      "playing",
+      "doing"
+     ],
+     "answer": 1,
+     "explain": "‘게임을 하다’는 play a game이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가운데 e가 /e/ 소리가 나는 단어는?",
+     "choices": [
+      "pin",
+      "pan",
+      "sun",
+      "pen"
+     ],
+     "answer": 3,
+     "explain": "pen[펜]의 e가 /e/ 소리가 나요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 책을 읽고 있어.",
+     "answer": "I'm reading a book.",
+     "distractors": [
+      "read",
+      "game."
+     ],
+     "explain": "‘I'm reading a book.’ reading은 ‘읽고 있는’이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🛏️",
+       "bed"
+      ],
+      [
+       "🖊️",
+       "pen"
+      ],
+      [
+       "🔟",
+       "ten"
+      ],
+      [
+       "🥚",
+       "egg"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "help, bed, desk",
+     "ko": "돕다, 침대, 책상"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "ten",
+     "choices": [
+      "ten",
+      "tin",
+      "tan"
+     ],
+     "answer": 0,
+     "explain": "ten[텐]의 e는 /e/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 색깔 단어 중 e가 /e/ 소리가 나는 것은?",
+     "emoji": "🔴",
+     "choices": [
+      "blue",
+      "red",
+      "pink"
+     ],
+     "answer": 1,
+     "explain": "red[레드]의 e가 /e/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Look! I'm drawing a ___.",
+     "ko": "봐! 나는 그림을 그리고 있어.",
+     "choices": [
+      "book",
+      "game",
+      "picture"
+     ],
+     "answer": 2,
+     "explain": "그림은 picture예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Max: I'm doing homework.\nEmma: I'm drawing a picture.\nLiam: I'm reading a book.",
+     "question": "그림을 그리고 있는 사람은 누구인가요?",
+     "choices": [
+      "Max",
+      "Emma",
+      "Liam"
+     ],
+     "answer": 1,
+     "explain": "Emma가 ‘I'm drawing a picture.’라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Dad, I'm doing homework.",
+     "answer": "Dad, I'm doing homework.",
+     "distractors": [
+      "making",
+      "book."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 지금 게임을 하고 있어.",
+     "answer": "I'm playing a game now.",
+     "distractors": [
+      "play",
+      "book"
+     ],
+     "explain": "‘게임을 하고 있는’은 playing a game이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "숙제를 하고 있는 아이가 쓴 문장으로 알맞은 것은?",
+     "emoji": "📝",
+     "choices": [
+      "I'm doing homework.",
+      "I'm doing a book.",
+      "I'm playing homework."
+     ],
+     "answer": 0,
+     "explain": "‘숙제를 하다’는 do homework예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "달걀",
+     "answers": [
+      "egg"
+     ],
+     "hint": "e _ g"
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "reading a book",
+       "책 읽기"
+      ],
+      [
+       "playing a game",
+       "게임 하기"
+      ],
+      [
+       "drawing a picture",
+       "그림 그리기"
+      ],
+      [
+       "doing homework",
+       "숙제하기"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! I'm drawing a picture.",
+     "ko": "봐! 나는 그림을 그리고 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "다리",
+     "answers": [
+      "leg"
+     ],
+     "hint": "l _ g"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 책을 읽고 있어요, 엄마.",
+     "answers": [
+      "I'm reading a book, Mom.",
+      "I am reading a book, Mom.",
+      "Mom, I'm reading a book."
+     ],
+     "hint": "I'm r e _ _ i n g a book, Mom."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 그림을 그리고 있어.",
+     "answers": [
+      "I'm drawing a picture.",
+      "I am drawing a picture."
+     ],
+     "hint": "I'm d r _ w i n g a picture."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Album\nThis is Yuri. \"I'm reading a book.\"\nThis is Ken. \"I'm playing a game.\"\nThis is Ana. \"I'm doing homework.\"",
+     "question": "Ken이 하고 있는 일은 무엇인가요?",
+     "choices": [
+      "책 읽기",
+      "숙제하기",
+      "게임 하기"
+     ],
+     "answer": 2,
+     "explain": "Ken은 ‘I'm playing a game.’이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at me! I'm drawing a picture. It's my bed and my desk. My bed is red. My desk is brown.",
+     "question": "글쓴이의 책상은 무슨 색인가요?",
+     "choices": [
+      "빨간색",
+      "갈색",
+      "파란색"
+     ],
+     "answer": 1,
+     "explain": "‘My desk is brown.’이라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My bed is red.",
+     "answer": "My bed is red.",
+     "distractors": [
+      "bad",
+      "read."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "엄마, 나는 숙제를 하고 있어요.",
+     "answer": "Mom, I'm doing homework.",
+     "distractors": [
+      "making",
+      "do"
+     ],
+     "explain": "‘숙제를 하고 있는’은 doing homework예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "pet",
+     "choices": [
+      "pet",
+      "pot",
+      "pat"
+     ],
+     "answer": 0,
+     "explain": "pet[펫]의 e는 /e/ 소리가 나요. pet은 반려동물이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가운데 소리가 나머지와 다른 단어는?",
+     "choices": [
+      "bed",
+      "cat",
+      "desk",
+      "help"
+     ],
+     "answer": 1,
+     "explain": "bed, desk, help의 e는 /e/ 소리이고, cat의 a는 /æ/ 소리예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm doing homework at my desk.",
+     "ko": "나는 책상에서 숙제를 하고 있어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "‘Story Time’에서 ‘신데렐라’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 110~111쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "문장을 읽고 쓰며 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "‘신데렐라’ 원작 이야기하기, 그림 보고 ‘?’ 장면 추측, 만화 영화 보며 줄거리 이해, HOW ABOUT YOU?(신데렐라를 어떻게 도와주고 싶은지), 따라 말하기, 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "문제를 풀며 단원에서 배운 내용 확인하고 정리하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "4차시 성취도 점검, ‘정리해요’에 느낀 점과 복습 계획 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What are you doing? - I'm making cookies.",
+    "Can I help you? - Sure. Thank you."
+   ],
+   "tip": "역할극에서 동작을 직접 하면서 ‘I'm making cookies.’처럼 말해 보세요. 누군가 힘들어 보이면 ‘Can I help you?’!",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가), My Work 자기 평가(지필평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? 단원 내용을 문제를 풀며 정리할 수 있는가? (단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Stepmother: What are you doing?\nCinderella: I'm reading a book.\nStepmother: Come here. Make cookies.",
+     "question": "새엄마는 신데렐라에게 무엇을 하라고 했나요?",
+     "choices": [
+      "쿠키 만들기",
+      "책 읽기",
+      "식탁 청소하기"
+     ],
+     "answer": 0,
+     "explain": "새엄마가 ‘Make cookies.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A fairy comes. \"What are you doing?\" \"I'm making cookies.\" \"Can I help you?\" \"Sure. Thank you.\"",
+     "question": "요정이 신데렐라에게 도움을 제안한 말은 무엇인가요?",
+     "choices": [
+      "What are you doing?",
+      "Can I help you?",
+      "Sure. Thank you."
+     ],
+     "answer": 1,
+     "explain": "‘Can I help you?’가 도움을 제안하는 말이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "homework",
+       "숙제"
+      ],
+      [
+       "cookie",
+       "쿠키"
+      ],
+      [
+       "picture",
+       "그림"
+      ],
+      [
+       "sure",
+       "물론, 그럼"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Fairy",
+       "text": "Can I help you?"
+      },
+      {
+       "who": "Cinderella",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sure. Thank you.",
+      "I'm sorry.",
+      "No, it isn't."
+     ],
+     "answer": 0,
+     "explain": "도움을 받고 싶으면 ‘Sure. Thank you.’라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come here.",
+     "choices": [
+      "여기 앉아.",
+      "이리 와.",
+      "저리 가."
+     ],
+     "answer": 1,
+     "explain": "come은 ‘오다’, here는 ‘여기’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm making cookies.",
+     "choices": [
+      "📖",
+      "🎨",
+      "🍪"
+     ],
+     "answer": 2,
+     "explain": "making cookies는 쿠키를 만들고 있다는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ you doing?",
+     "ko": "너는 무엇을 하고 있니?",
+     "choices": [
+      "are",
+      "is",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "‘What are you doing?’ you 앞에는 are를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘Who's she?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그녀는 어디에 있니?",
+      "그녀는 누구니?",
+      "그녀는 무엇을 하고 있니?"
+     ],
+     "answer": 1,
+     "explain": "who는 ‘누구’예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이리 와. 쿠키를 만들어.",
+     "answer": "Come here. Make cookies.",
+     "distractors": [
+      "Making",
+      "go."
+     ],
+     "explain": "‘이리 와.’는 ‘Come here.’, ‘쿠키를 만들어.’는 ‘Make cookies.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "red",
+     "choices": [
+      "red",
+      "rid",
+      "rod"
+     ],
+     "answer": 0,
+     "explain": "red[레드]의 e는 /e/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "식탁을 닦고 있는 사람이 할 말로 알맞은 것은?",
+     "emoji": "🧽",
+     "choices": [
+      "I'm making cookies.",
+      "I'm cleaning the table.",
+      "I'm doing homework."
+     ],
+     "answer": 1,
+     "explain": "🧽 식탁을 청소하고 있으니 ‘I'm cleaning the table.’이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can I help you? Sure. Thank you.",
+     "ko": "내가 도와줄까? 물론이지. 고마워."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sister: Mom, it's seven thirty. Let's go.\nStepmother: Okay. Cinderella, make cookies!",
+     "question": "언니가 말한 시각은 몇 시인가요?",
+     "choices": [
+      "7:13",
+      "3:07",
+      "7:30"
+     ],
+     "answer": 2,
+     "explain": "‘It's seven thirty.’는 7시 30분이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the party, Cinderella is dancing with the prince. \"Who's she?\" asks the sister. \"Oh, no! She's Cinderella!\" says the mom.",
+     "question": "파티에서 왕자와 춤을 추고 있는 사람은 누구인가요?",
+     "choices": [
+      "신데렐라",
+      "언니",
+      "요정"
+     ],
+     "answer": 0,
+     "explain": "‘She's Cinderella!’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "신데렐라는 책을 읽고 있어요. 신데렐라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Stepmother",
+       "text": "What are you doing?"
+      },
+      {
+       "who": "Cinderella",
+       "text": "?"
+      },
+      {
+       "who": "Stepmother",
+       "text": "Come here."
+      }
+     ],
+     "choices": [
+      "I'm making cookies.",
+      "Sure. Thank you.",
+      "I'm reading a book."
+     ],
+     "answer": 2,
+     "explain": "책을 읽고 있으니 ‘I'm reading a book.’이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sister",
+       "text": "Who's she?"
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm reading a book.",
+      "She's Cinderella.",
+      "Sure."
+     ],
+     "answer": 1,
+     "explain": "‘Who's she?’는 누구인지 묻는 말이니 ‘She's Cinderella.’가 알맞아요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Mom, it's seven thirty. Let's go.",
+     "answer": "Mom, it's seven thirty. Let's go.",
+     "distractors": [
+      "eight",
+      "come."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무엇을 하고 있니? 내가 도와줄까?",
+     "answer": "What are you doing? Can I help you?",
+     "distractors": [
+      "do",
+      "me?"
+     ],
+     "explain": "먼저 하고 있는 일을 묻고, ‘Can I help you?’로 도움을 제안해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Now I'm ___ cookies.",
+     "ko": "이제 나는 쿠키를 만들고 있어.",
+     "choices": [
+      "making",
+      "reading",
+      "doing"
+     ],
+     "answer": 0,
+     "explain": "‘만들고 있는’은 making이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "누군가 도와주겠다고 할 때 고마운 마음으로 대답하는 말은?",
+     "choices": [
+      "Sorry, I can't.",
+      "Sure. Thank you so much.",
+      "Who's she?"
+     ],
+     "answer": 1,
+     "explain": "‘Sure. Thank you so much.(물론이야. 정말 고마워.)’라고 해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만들다",
+     "answers": [
+      "make"
+     ],
+     "hint": "m _ k e"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Oh, no! She's Cinderella.",
+     "ko": "오, 이런! 그녀는 신데렐라야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Cinderella is reading a book. Her stepmother says, \"Come here. Make cookies.\" Then the stepmother and the sisters go to the party. A fairy comes and helps Cinderella. Now Cinderella has a new dress. At the party, she dances with the prince.",
+     "question": "이야기의 내용과 맞는 것은?",
+     "choices": [
+      "새엄마가 쿠키를 만들었어요.",
+      "신데렐라는 파티에 가지 못했어요.",
+      "요정이 신데렐라를 도와주었어요."
+     ],
+     "answer": 2,
+     "explain": "‘A fairy comes and helps Cinderella.’ — 요정이 신데렐라를 도와주었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sunday at Home\nDad: What are you doing, Amy?\nAmy: I'm drawing a picture.\nDad: What are you doing, Leo?\nLeo: I'm cleaning the table. Can I help you, Dad?\nDad: Sure.",
+     "question": "Leo가 하고 있는 일은 무엇인가요?",
+     "choices": [
+      "식탁 청소하기",
+      "그림 그리기",
+      "쿠키 만들기"
+     ],
+     "answer": 0,
+     "explain": "Leo는 ‘I'm cleaning the table.’이라고 했어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Leo, 너는 무엇을 하고 있니?",
+     "answers": [
+      "Leo, what are you doing?",
+      "What are you doing, Leo?"
+     ],
+     "hint": "Leo, w _ _ t are you doing?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 게임을 하고 있어.",
+     "answers": [
+      "I'm playing a game.",
+      "I am playing a game."
+     ],
+     "hint": "I'm p l _ _ i n g a game."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Who's she? She's Cinderella.",
+     "answer": "Who's she? She's Cinderella.",
+     "distractors": [
+      "He's",
+      "What"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "신데렐라, 너는 무엇을 하고 있니?",
+     "answer": "Cinderella, what are you doing?",
+     "distractors": [
+      "do",
+      "is"
+     ],
+     "explain": "이름을 부른 뒤 ‘what are you doing?’이라고 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mia",
+       "text": "What are you doing, Grandpa?"
+      },
+      {
+       "who": "Grandpa",
+       "text": "I'm cleaning the table."
+      },
+      {
+       "who": "Mia",
+       "text": "?"
+      },
+      {
+       "who": "Grandpa",
+       "text": "Sure. Thank you, Mia."
+      }
+     ],
+     "choices": [
+      "Grandpa, who's he?",
+      "Grandpa, can I help you?",
+      "Grandpa, let's play this game."
+     ],
+     "answer": 1,
+     "explain": "할아버지가 ‘Sure. Thank you.’라고 했으니 도움을 제안하는 말이 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jin은 지금 숙제를 하고 있어서 놀 수 없어요. Jin의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Let's play soccer."
+      },
+      {
+       "who": "Jin",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good.",
+      "Sure. I'm doing homework.",
+      "Sorry, I can't. I'm doing homework."
+     ],
+     "answer": 2,
+     "explain": "숙제 때문에 놀 수 없으니 ‘Sorry, I can't.’라고 거절하고 이유를 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: What are you doing? B: I'm drawing a picture.",
+      "A: Who's she? B: I'm reading a book.",
+      "A: Can I help you? B: Sure."
+     ],
+     "answer": 1,
+     "explain": "‘Who's she?’는 누구인지 묻는 말이에요. 하고 있는 일로 답하면 어색해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Come here, Cinderella. What are you doing?",
+     "ko": "이리 와, 신데렐라. 무엇을 하고 있니?"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "보라와 Eric이 보드게임을 함께 할 친구를 찾으며 하고 있는 일을 물어요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "What are you doing?"
+    },
+    {
+     "who": "준오",
+     "text": "I'm doing homework."
+    },
+    {
+     "who": "Eric",
+     "text": "Can you play a game?"
+    },
+    {
+     "who": "준오",
+     "text": "Sorry, I can't."
+    },
+    {
+     "who": "보라",
+     "text": "Hoa, what are you doing?"
+    },
+    {
+     "who": "Hoa",
+     "text": "I'm drawing a picture."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "쿠키를 굽는 아빠를 Kate가 돕고, 쿠키를 먹은 뒤 Kevin이 식탁 청소를 도와요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "It smells good. What are you doing, Dad?"
+    },
+    {
+     "who": "Kate 아빠",
+     "text": "I'm making cookies."
+    },
+    {
+     "who": "Kate",
+     "text": "Can I help you?"
+    },
+    {
+     "who": "Kate 아빠",
+     "text": "Sure."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 게임을 하고 있다고 답하고, Alice가 식탁을 닦는 엄마를 도우려고 해요.",
+   "lines": [
+    {
+     "who": "Paul",
+     "text": "What are you doing?"
+    },
+    {
+     "who": "민우",
+     "text": "I'm playing a game."
+    },
+    {
+     "who": "Alice",
+     "text": "Can I help you?"
+    },
+    {
+     "who": "Alice 엄마",
+     "text": "Sure."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "신데렐라 — 쿠키를 만들던 신데렐라를 요정이 도와주고, 무도회에서 왕자와 춤을 춰요.",
+   "lines": [
+    {
+     "who": "새엄마",
+     "text": "What are you doing?"
+    },
+    {
+     "who": "신데렐라",
+     "text": "I'm reading a book."
+    },
+    {
+     "who": "요정",
+     "text": "Can I help you?"
+    },
+    {
+     "who": "신데렐라",
+     "text": "Sure. Thank you."
+    },
+    {
+     "who": "새 언니",
+     "text": "Who's she?"
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 신데렐라",
+  "passage": "Cinderella is reading a book when her stepmother calls her and tells her to make cookies. At seven thirty, the stepmother and her daughter leave for the ball. A fairy finds Cinderella in the kitchen and offers to help. With one wave, the cookies are done, and Cinderella gets a new dress, glass shoes and a pumpkin carriage. At the ball she dances with the prince, and her family can't believe it.",
+  "summaryKo": "쿠키를 만들던 신데렐라를 요정이 도와주고, 신데렐라가 무도회에서 왕자와 춤을 추는 이야기예요."
+ },
+ "writing": {
+  "frame": [
+   "I'm ____ing ____."
+  ],
+  "model": "I'm reading a book. I'm drawing a picture. I'm doing homework."
+ },
+ "project": "Work Together: 네 명이 한 모둠이 되어 동작 어구 중 하나를 골라 그 일을 하고 있는 자신의 모습을 그리고 ‘I'm ....’ 문장을 쓴 뒤, 서로 하고 있는 일을 묻고 답하며 색 도화지에 모아 붙여 모둠 앨범을 완성한다."
+}

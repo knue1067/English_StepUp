@@ -1,0 +1,3181 @@
+{
+  "id": "L02",
+  "no": 2,
+  "semester": 1,
+  "title": "What Are These?",
+  "emoji": "🔘",
+  "rationale": "일상생활에서 신기한 물건을 보고 대화하는 상황은 자주 생긴다. 여러 개의 물건이 무엇인지 묻고 답하는 말과 감탄하거나 칭찬하는 말을 익혀 실생활에서 활용하고, 주변의 여러 물건을 소개하는 글을 읽고 쓰며 영어 의사소통 능력을 기르고자 한다.",
+  "topics": "개인생활 관련(취미), 가정생활 관련(가정 일상), 일반교양 관련(심미적 심성)",
+  "functions": [
+    {
+      "ko": "여러 개의 물건이 무엇인지 묻고 답하기",
+      "examples": [
+        "What are these?",
+        "What are those?",
+        "They're buttons."
+      ]
+    },
+    {
+      "ko": "감탄하거나 칭찬하는 말 하기",
+      "examples": [
+        "How nice!"
+      ]
+    }
+  ],
+  "forms": [
+    "These are picture books.",
+    "Those are comic books."
+  ],
+  "newWords": [
+    {
+      "en": "album",
+      "ko": "앨범"
+    },
+    {
+      "en": "button",
+      "ko": "단추"
+    },
+    {
+      "en": "collect",
+      "ko": "모으다, 수집하다"
+    },
+    {
+      "en": "cut",
+      "ko": "자르다"
+    },
+    {
+      "en": "fork",
+      "ko": "포크"
+    },
+    {
+      "en": "kitchen",
+      "ko": "부엌"
+    },
+    {
+      "en": "late",
+      "ko": "늦은"
+    },
+    {
+      "en": "map",
+      "ko": "지도"
+    },
+    {
+      "en": "scissors",
+      "ko": "가위"
+    },
+    {
+      "en": "spoon",
+      "ko": "숟가락"
+    },
+    {
+      "en": "they",
+      "ko": "그것들, 그들"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "albums",
+      "ko": "앨범들",
+      "emoji": "📔"
+    },
+    {
+      "en": "buttons",
+      "ko": "단추들",
+      "emoji": "🔘"
+    },
+    {
+      "en": "forks",
+      "ko": "포크들",
+      "emoji": "🍴"
+    },
+    {
+      "en": "maps",
+      "ko": "지도들",
+      "emoji": "🗺️"
+    },
+    {
+      "en": "scissors",
+      "ko": "가위",
+      "emoji": "✂️"
+    },
+    {
+      "en": "spoons",
+      "ko": "숟가락들",
+      "emoji": "🥄"
+    }
+  ],
+  "characters": [
+    "Amy",
+    "Tom",
+    "우주",
+    "Linh",
+    "우주 아빠(Mr. Kim)",
+    "나리",
+    "Taylor",
+    "Noah",
+    "민우",
+    "보보",
+    "코코"
+  ],
+  "goals": {
+    "understand": [
+      "여러 개의 물건이 무엇인지 묻고 답하는 말을 듣고 이해할 수 있다.",
+      "감탄하거나 칭찬하는 말을 듣고 이해할 수 있다.",
+      "좋아하는 물건을 소개하는 글을 읽고 이해할 수 있다.",
+      "여러 개의 물건이 무엇인지 묻고 답하고 감탄하거나 칭찬하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "좋아하는 물건을 소개하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "여러 개의 물건이 무엇인지 묻고 답하는 말을 할 수 있다.",
+      "감탄하거나 칭찬하는 말을 할 수 있다.",
+      "여러 개의 물건이 무엇인지 묻고 답하는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 좋아하는 물건을 소개하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-04",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "여러 개의 물건이 무엇인지 묻고 답하기",
+      "objectives": [
+        "여러 개의 물건이 무엇인지 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 1’으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 21~23쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "음식 모양 지우개 사진을 보며 ‘What are these?’ 듣기, 주변 물건 이야기하기, 단원 목표 확인, 붙임딱지 붙이고 Word Chant 하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "학생 작품 전시회에서 단추로 만든 새 그림과 북 아트 작품을 구경하는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Number / Practice 1",
+          "desc": "포크·숟가락·가위·앨범·지도에 관한 대화를 듣고 순서대로 번호 쓰기, 주요 표현 따라 말하기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "카드 그림을 보지 않고 무슨 물건인지 추측하며 ‘What are these/those?’ 묻고 답하기 (짝)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "대화를 듣고 알맞은 그림 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What are these?",
+        "What are those?",
+        "They're buttons."
+      ],
+      "tip": "가까이 있는 여러 개는 these, 멀리 있는 여러 개는 those로 물어요. 대답은 둘 다 ‘They're ....’로 해요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 여러 개의 물건이 무엇인지 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "albums",
+              "앨범들"
+            ],
+            [
+              "buttons",
+              "단추들"
+            ],
+            [
+              "forks",
+              "포크들"
+            ],
+            [
+              "maps",
+              "지도들"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "scissors",
+              "가위"
+            ],
+            [
+              "spoons",
+              "숟가락들"
+            ],
+            [
+              "kitchen",
+              "부엌"
+            ],
+            [
+              "collect",
+              "모으다"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "그림에 알맞은 단어는?",
+          "emoji": "🥄",
+          "choices": [
+            "spoons",
+            "forks",
+            "maps",
+            "buttons"
+          ],
+          "answer": 0,
+          "explain": "숟가락 여러 개는 spoons예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘scissors’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "포크",
+            "지도",
+            "가위",
+            "앨범"
+          ],
+          "answer": 2,
+          "explain": "scissors는 ‘가위’예요. 가위는 날이 두 개라서 항상 -s를 붙여요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "They're maps.",
+          "choices": [
+            "🗺️",
+            "🍴",
+            "🔘"
+          ],
+          "answer": 0,
+          "explain": "maps는 ‘지도들’이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "What are those? They're albums.",
+          "choices": [
+            "이것들은 뭐니? 앨범이야.",
+            "저것들은 뭐니? 앨범이야.",
+            "저것들은 뭐니? 지도야."
+          ],
+          "answer": 1,
+          "explain": "those는 ‘저것들’(멀리 있는 것), albums는 ‘앨범들’이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "전시회의 새 그림은 단추로 만들었어요. Amy의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "What are these?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "They're buttons.",
+            "They're books.",
+            "It's a lion."
+          ],
+          "answer": 0,
+          "explain": "새 그림은 단추로 만들었으니 ‘They're buttons.’라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "남자아이가 저쪽의 책 작품들을 가리켜요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "What are those?"
+            },
+            {
+              "who": "여자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "They're buttons.",
+            "Yes, I do.",
+            "They're books."
+          ],
+          "answer": 2,
+          "explain": "저쪽에 있는 북 아트 작품을 가리키며 물었으니 ‘They're books.’가 알맞아요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What are ___?",
+          "ko": "(가까이 있는) 이것들은 무엇이니?",
+          "choices": [
+            "this",
+            "those",
+            "these"
+          ],
+          "answer": 2,
+          "explain": "가까이 있는 여러 개는 these예요. are와 함께 쓰니까 this는 쓸 수 없어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "(멀리 있는) 저것들은 무엇이니?",
+          "answer": "What are those?",
+          "distractors": [
+            "these?",
+            "is"
+          ],
+          "explain": "멀리 있는 여러 개의 물건은 ‘What are those?’로 물어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "They're spoons.",
+          "answer": "They're spoons.",
+          "distractors": [
+            "forks.",
+            "It's"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are these?",
+          "ko": "이것들은 무엇이니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "Tom이 가까이 있는 포크들을 가리켜요. Amy의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "What are these?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a fork.",
+            "They're maps.",
+            "They're forks."
+          ],
+          "answer": 2,
+          "explain": "가까이 있는 포크 여러 개이니 ‘They're forks.’예요. 여러 개라서 It's는 쓰지 않아요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "남자아이가 멀리 있는 앨범들을 가리켜요. 알맞은 질문을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "?"
+            },
+            {
+              "who": "여자아이",
+              "text": "They're albums."
+            }
+          ],
+          "choices": [
+            "What is this?",
+            "What are those?",
+            "Where are you from?"
+          ],
+          "answer": 1,
+          "explain": "멀리 있는 여러 개의 물건은 ‘What are those?’로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 무엇이니? — 그것들은 가위야.",
+          "answer": "What are these? They're scissors.",
+          "distractors": [
+            "those?",
+            "It's"
+          ],
+          "explain": "가까이 있는 것은 these로 묻고, They're로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 단추야.",
+          "answer": "What are those? They're buttons.",
+          "distractors": [
+            "these?",
+            "is"
+          ],
+          "explain": "멀리 있는 것은 those로 묻고, They're로 답해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Look at that! It's beautiful.",
+          "answer": "Look at that! It's beautiful.",
+          "distractors": [
+            "this!",
+            "are"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They're ___.",
+          "ko": "그것들은 앨범이야.",
+          "choices": [
+            "maps",
+            "albums",
+            "forks"
+          ],
+          "answer": 1,
+          "explain": "앨범은 album, 여러 개는 albums예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What ___ those?",
+          "ko": "저것들은 무엇이니?",
+          "choices": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": 0,
+          "explain": "those(여러 개)와 함께 are를 써요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "What are these?",
+              "이것들은 무엇이니?"
+            ],
+            [
+              "What are those?",
+              "저것들은 무엇이니?"
+            ],
+            [
+              "They're maps.",
+              "그것들은 지도야."
+            ],
+            [
+              "Look at that!",
+              "저것 좀 봐!"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "What are these? They're forks.",
+          "choices": [
+            "이것들은 뭐니? 숟가락이야.",
+            "저것들은 뭐니? 포크야.",
+            "이것들은 뭐니? 포크야."
+          ],
+          "answer": 2,
+          "explain": "these는 ‘이것들’, forks는 ‘포크들’이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are those? They're maps.",
+          "ko": "저것들은 무엇이니? 그것들은 지도야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 단추야.",
+          "answers": [
+            "They're buttons.",
+            "They are buttons."
+          ],
+          "hint": "They're ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 책이야.",
+          "answers": [
+            "What are those? They're books.",
+            "What are those? They are books."
+          ],
+          "hint": "What are ____? They're ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 무엇이니? — 그것들은 숟가락이야.",
+          "answers": [
+            "What are these? They're spoons.",
+            "What are these? They are spoons."
+          ],
+          "hint": "What are ____? They're ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Do you like birds? Yes, I do.",
+          "answer": "Do you like birds? Yes, I do.",
+          "distractors": [
+            "Are",
+            "No,"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "You can open the books.",
+          "answer": "You can open the books.",
+          "distractors": [
+            "book",
+            "are"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것 좀 봐! 사자야.",
+          "answer": "Look at this! It's a lion.",
+          "distractors": [
+            "that!",
+            "They're"
+          ],
+          "explain": "한 마리는 It's a lion.이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 앨범이야. 정말 아름다워.",
+          "answer": "They're albums. They're beautiful.",
+          "distractors": [
+            "It's",
+            "maps."
+          ],
+          "explain": "여러 개는 They're로 말해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "What are these?"
+            },
+            {
+              "who": "Amy",
+              "text": "They're buttons."
+            },
+            {
+              "who": "여자아이",
+              "text": "Buttons?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "It's a lion.",
+            "No, I don't.",
+            "Yes, they are."
+          ],
+          "answer": 2,
+          "explain": "‘단추라고?’ 하고 되물었으니 ‘Yes, they are.(응, 그래.)’라고 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "At the art show, a girl points to a picture near her. \"What are these?\" she asks. \"They're buttons,\" says Amy. Then a boy points to the books far away. \"What are those?\" he asks.",
+          "question": "남자아이는 무엇을 가리키며 물었나요?",
+          "choices": [
+            "단추",
+            "책",
+            "새"
+          ],
+          "answer": 1,
+          "explain": "남자아이는 멀리 있는 책을 가리키며 ‘What are those?’라고 물었어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Look at that! What are those?",
+          "ko": "저것 좀 봐! 저것들은 무엇이니?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "여러 개의 물건이 무엇인지 묻고 답하기 / 감탄하거나 칭찬하는 말 하기",
+      "objectives": [
+        "여러 개의 물건이 무엇인지 묻고 답하는 말을 할 수 있다.",
+        "감탄하거나 칭찬하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 24~25쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Listen and Number 그림으로 복습하기, 교실의 가위·연필을 가리키며 묻고 ‘How nice!’ 듣기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "우주네 부엌에서 Linh과 Tom이 숟가락과 달걀 컵을 보고 묻고 감탄하는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "나리와 Taylor(앨범), Noah와 민우(모자) 동영상을 보며 표현 익히고 짝과 연습하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "책상 위 교과서 그림 속 물건을 가리키며 these/those로 묻고 답하고 ‘How nice!’ 말하며 물건 빨리 찾기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "그림에 알맞은 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What are those?",
+        "They're egg cups.",
+        "How nice!"
+      ],
+      "tip": "멋진 물건을 보거나 칭찬하고 싶을 때 ‘How nice!’라고 말해요. 칭찬을 들으면 ‘Thank you.’로 답해요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 여러 개의 물건이 무엇인지 묻고 답하는 말을 할 수 있는가? 감탄하거나 칭찬하는 말을 듣고 이해하며 말할 수 있는가?",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "Linh이 컵에 꽂힌 동물 모양 숟가락들을 가리켜요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Linh",
+              "text": "What are these?"
+            },
+            {
+              "who": "우주 아빠",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "They're egg cups.",
+            "They're spoons.",
+            "I like pizza."
+          ],
+          "answer": 1,
+          "explain": "Linh이 가리킨 동물 모양 물건은 숟가락이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "What are those?"
+            },
+            {
+              "who": "우주 아빠",
+              "text": "They're egg cups. I collect them."
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "How nice!",
+            "Here you are.",
+            "Where are my scissors?"
+          ],
+          "answer": 0,
+          "explain": "멋진 수집품을 보고 감탄할 때 ‘How nice!’라고 해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Noah",
+              "text": "What are those?"
+            },
+            {
+              "who": "민우",
+              "text": "They're caps. I collect them."
+            },
+            {
+              "who": "Noah",
+              "text": "How nice!"
+            },
+            {
+              "who": "민우",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "They're caps.",
+            "What are those?",
+            "Thank you."
+          ],
+          "answer": 2,
+          "explain": "칭찬을 들었으니 ‘Thank you.’라고 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "멋지다!",
+          "answer": "How nice!",
+          "distractors": [
+            "What",
+            "are"
+          ],
+          "explain": "감탄하거나 칭찬할 때 ‘How nice!’라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 달걀 컵이야.",
+          "answer": "They're egg cups.",
+          "distractors": [
+            "It's",
+            "cup."
+          ],
+          "explain": "여러 개는 ‘They're ....’로 답하고, 물건 이름 뒤에 -s를 붙여요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "How nice!",
+          "choices": [
+            "멋지다!",
+            "고마워.",
+            "여기 있어."
+          ],
+          "answer": 0,
+          "explain": "How nice!는 ‘멋지다!’라는 감탄의 말이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "They're caps. I collect them.",
+          "choices": [
+            "그것들은 모자야. 나는 그것들을 모아.",
+            "그것들은 컵이야. 나는 그것들을 모아.",
+            "그것들은 모자야. 나는 그것들을 좋아해."
+          ],
+          "answer": 0,
+          "explain": "caps는 ‘모자들’, collect는 ‘모으다’예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Let's cut the pizza.",
+          "answer": "Let's cut the pizza.",
+          "distractors": [
+            "eat",
+            "a"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They're ___. I collect them.",
+          "ko": "그것들은 모자야. 나는 그것들을 모아.",
+          "choices": [
+            "cups",
+            "caps",
+            "maps"
+          ],
+          "answer": 1,
+          "explain": "모자는 cap, 여러 개는 caps예요. cups(컵)와 헷갈리지 마세요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "How nice!",
+          "ko": "멋지다!"
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are those?",
+          "ko": "저것들은 무엇이니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "우주 아빠",
+              "text": "Good afternoon. Welcome to my kitchen."
+            },
+            {
+              "who": "Tom, Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Good afternoon, Mr. Kim.",
+            "They're spoons.",
+            "How nice!"
+          ],
+          "answer": 0,
+          "explain": "오후 인사를 받았으니 ‘Good afternoon.’으로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Linh",
+              "text": "I like your kitchen, Mr. Kim."
+            },
+            {
+              "who": "우주 아빠",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Thank you.",
+            "What are those?",
+            "They're egg cups."
+          ],
+          "answer": 0,
+          "explain": "칭찬을 받으면 ‘Thank you.’라고 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "우리 아빠는 요리사야.",
+          "answer": "My dad is a cook.",
+          "distractors": [
+            "are",
+            "cooks."
+          ],
+          "explain": "cook은 ‘요리사’예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "우와, 그것들 예쁘다.",
+          "answer": "Wow, they're pretty.",
+          "distractors": [
+            "it's",
+            "those"
+          ],
+          "explain": "여러 개를 말할 때는 they're를 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "It smells good!",
+          "answer": "It smells good!",
+          "distractors": [
+            "is",
+            "smell"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ them.",
+          "ko": "나는 그것들을 모아.",
+          "choices": [
+            "eat",
+            "cut",
+            "collect"
+          ],
+          "answer": 2,
+          "explain": "‘모으다’는 collect예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ nice!",
+          "ko": "멋지다!",
+          "choices": [
+            "What",
+            "How",
+            "Who"
+          ],
+          "answer": 1,
+          "explain": "감탄하는 말은 ‘How nice!’예요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "kitchen",
+              "부엌"
+            ],
+            [
+              "cook",
+              "요리사"
+            ],
+            [
+              "egg cups",
+              "달걀 컵"
+            ],
+            [
+              "pretty",
+              "예쁜"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Where are my scissors? Here you are.",
+          "choices": [
+            "내 숟가락 어디 있지? 여기 있어요.",
+            "내 가위 어디 있지? 여기 있어요.",
+            "내 가위 멋지다! 고마워요."
+          ],
+          "answer": 1,
+          "explain": "scissors는 ‘가위’, Here you are.는 ‘여기 있어요’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Good afternoon, Mr. Kim.",
+          "ko": "안녕하세요, 김 선생님."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 단추야. 나는 그것들을 모아.",
+          "answers": [
+            "They're buttons. I collect them.",
+            "They are buttons. I collect them."
+          ],
+          "hint": "They're ____. I collect ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 컵이야.",
+          "answers": [
+            "What are those? They're cups.",
+            "What are those? They are cups."
+          ],
+          "hint": "What are ____? They're ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "우와, 멋지다!",
+          "answers": [
+            "Wow, how nice!",
+            "Wow! How nice!"
+          ],
+          "hint": "Wow, ____ ____!"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "They're albums. How nice!",
+          "answer": "They're albums. How nice!",
+          "distractors": [
+            "What",
+            "maps."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Okay, everyone. The pizza is ready.",
+          "answer": "Okay, everyone. The pizza is ready.",
+          "distractors": [
+            "are",
+            "cut"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 숟가락이야. — 멋지다!",
+          "answer": "What are those? They're spoons. How nice!",
+          "distractors": [
+            "these?",
+            "It's"
+          ],
+          "explain": "묻기(What are those?) → 답하기(They're ....) → 감탄하기(How nice!) 순서예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "김 선생님, 저는 선생님의 부엌이 좋아요.",
+          "answer": "I like your kitchen, Mr. Kim.",
+          "distractors": [
+            "my",
+            "are"
+          ],
+          "explain": "‘너의 부엌’은 your kitchen이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "민우가 모은 모자들이에요. 민우의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Noah",
+              "text": "What are those?"
+            },
+            {
+              "who": "민우",
+              "text": "?"
+            },
+            {
+              "who": "Noah",
+              "text": "How nice!"
+            }
+          ],
+          "choices": [
+            "They're caps. I collect them.",
+            "They're cups. I cut them.",
+            "It's a cap."
+          ],
+          "answer": 0,
+          "explain": "민우가 모은 모자들이니 ‘They're caps. I collect them.’이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Taylor has many albums. Nari asks, \"What are these?\" Taylor says, \"They're albums.\" Nari says, \"How nice!\"",
+          "question": "나리가 앨범을 보고 감탄하며 한 말은?",
+          "choices": [
+            "They're albums.",
+            "Thank you.",
+            "How nice!"
+          ],
+          "answer": 2,
+          "explain": "나리는 ‘How nice!’라고 감탄했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are those? They're egg cups. How nice!",
+          "ko": "저것들은 무엇이니? 그것들은 달걀 컵이야. 멋지다!"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Write",
+      "studyPoint": "여러 개의 물건이 무엇인지 묻고 답하는 문장 읽고 쓰기",
+      "objectives": [
+        "여러 개의 물건이 무엇인지 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "‘Play 3’로 여러 개의 물건이 무엇인지 묻고 답하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 26~27쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "달걀 컵 사진으로 복습하기, 지도 그림 퍼즐을 맞추고 ‘They are maps.’ 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "인어와 물고기의 말풍선 문장을 읽고 빈 말풍선에 알맞은 문장을 골라 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림을 보고 these/those와 물건 이름을 골라 대화 완성하기, 단어와 문장 읽고 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "그림과 단어를 연결한 뒤 가위바위보를 하며 ‘They are ....’ 문장 먼저 완성하기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "대화에 맞는 그림·문장 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "What are these?",
+        "What are those?",
+        "They are forks."
+      ],
+      "tip": "They're는 They are를 줄인 말이에요. 묻는 문장 끝에는 물음표(?)를 써요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 여러 개의 물건이 무엇인지 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What are ___?",
+          "ko": "(멀리 있는) 저것들은 무엇이니?",
+          "choices": [
+            "these",
+            "this",
+            "those"
+          ],
+          "answer": 2,
+          "explain": "멀리 있는 여러 개는 those예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They are ___.",
+          "ko": "그것들은 숟가락이야.",
+          "choices": [
+            "spoons",
+            "forks",
+            "maps"
+          ],
+          "answer": 0,
+          "explain": "숟가락은 spoon, 여러 개는 spoons예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They ___ buttons.",
+          "ko": "그것들은 단추야.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": 2,
+          "explain": "They 다음에는 are를 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 포크야.",
+          "answer": "They are forks.",
+          "distractors": [
+            "is",
+            "It"
+          ],
+          "explain": "여러 개의 물건은 ‘They are ....’로 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "(가까이 있는) 이것들은 무엇이니?",
+          "answer": "What are these?",
+          "distractors": [
+            "those?",
+            "is"
+          ],
+          "explain": "가까이 있는 여러 개는 ‘What are these?’로 물어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 지도야.",
+          "answers": [
+            "They are maps.",
+            "They're maps."
+          ],
+          "hint": "They are ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "(멀리 있는) 저것들은 무엇이니?",
+          "answers": [
+            "What are those?"
+          ],
+          "hint": "What are ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 가위야.",
+          "answers": [
+            "They are scissors.",
+            "They're scissors."
+          ],
+          "hint": "They are ____."
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "what are these?",
+            "What are these.",
+            "What are these?",
+            "What is these?"
+          ],
+          "answer": 2,
+          "explain": "문장 첫 글자는 대문자, 묻는 문장 끝에는 물음표를 써요. these와는 are를 써요."
+        },
+        {
+          "type": "mc",
+          "prompt": "멀리 있는 여러 개의 물건이 무엇인지 물을 때 알맞은 말은?",
+          "choices": [
+            "What are those?",
+            "What is this?",
+            "What are these?",
+            "What is that?"
+          ],
+          "answer": 0,
+          "explain": "멀리 있는 여러 개는 those, 가까이 있는 여러 개는 these예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "They are albums.",
+          "answer": "They are albums.",
+          "distractors": [
+            "is",
+            "album"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Mermaid: What are these?\nFish: They are spoons.\nMermaid: What are those?\nFish: They are buttons.\nMermaid: How nice!",
+          "question": "인어가 ‘those’로 물은 멀리 있는 물건은 무엇인가요?",
+          "choices": [
+            "숟가락",
+            "단추",
+            "포크"
+          ],
+          "answer": 1,
+          "explain": "‘What are those?’에 ‘They are buttons.’라고 답했어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "What are ___? They are maps.",
+          "ko": "(가까이 있는) 이것들은 무엇이니? 그것들은 지도야.",
+          "choices": [
+            "this",
+            "that",
+            "these"
+          ],
+          "answer": 2,
+          "explain": "가까이 있는 여러 개는 these예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "They are ___.",
+          "ko": "그것들은 가위야.",
+          "choices": [
+            "spoons",
+            "scissors",
+            "forks"
+          ],
+          "answer": 1,
+          "explain": "가위는 scissors예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are albums.",
+          "ko": "그것들은 앨범이야.",
+          "choices": [
+            "They",
+            "It",
+            "This"
+          ],
+          "answer": 0,
+          "explain": "여러 개는 They are ....예요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 컵이야.",
+          "answers": [
+            "They are cups.",
+            "They're cups."
+          ],
+          "hint": "They are ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 책이야.",
+          "answers": [
+            "They are books.",
+            "They're books."
+          ],
+          "hint": "They are ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 무엇이니? — 그것들은 모자야.",
+          "answers": [
+            "What are these? They are caps.",
+            "What are these? They're caps."
+          ],
+          "hint": "What are ____? They are ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 지도야.",
+          "answer": "What are those? They are maps.",
+          "distractors": [
+            "these?",
+            "is"
+          ],
+          "explain": "멀리 있는 여러 개는 those로 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 숟가락이야. 멋지다!",
+          "answer": "They are spoons. How nice!",
+          "distractors": [
+            "What",
+            "is"
+          ],
+          "explain": "They are spoons. 다음에 감탄하는 말 How nice!를 써요."
+        },
+        {
+          "type": "mc",
+          "prompt": "A: What are ___? (멀리 있는 단추들을 가리키며)  B: They are buttons.  빈칸에 알맞은 말은?",
+          "choices": [
+            "this",
+            "those",
+            "these",
+            "that"
+          ],
+          "answer": 1,
+          "explain": "멀리 있는 여러 개는 those예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What are those? They are forks.",
+          "answer": "What are those? They are forks.",
+          "distractors": [
+            "these?",
+            "is"
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 앨범이야.",
+          "answers": [
+            "What are those? They are albums.",
+            "What are those? They're albums."
+          ],
+          "hint": "What are ____? They are ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "그것들은 달걀 컵이야.",
+          "answers": [
+            "They are egg cups.",
+            "They're egg cups."
+          ],
+          "hint": "They are ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 무엇이니? — 그것들은 가위야.",
+          "answers": [
+            "What are these? They are scissors.",
+            "What are these? They're scissors."
+          ],
+          "hint": "What are ____? They are ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What are these? They are buttons.",
+          "answer": "What are these? They are buttons.",
+          "distractors": [
+            "those?",
+            "is"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "They are maps. How nice!",
+          "answer": "They are maps. How nice!",
+          "distractors": [
+            "is",
+            "What"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 숟가락이야.",
+          "answer": "What are those? They are spoons.",
+          "distractors": [
+            "these?",
+            "It"
+          ],
+          "explain": "멀리 있는 것은 those로 묻고 They are로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 포크야. 나는 그것들을 좋아해.",
+          "answer": "They are forks. I like them.",
+          "distractors": [
+            "is",
+            "collect"
+          ],
+          "explain": "‘그것들을’은 them이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "물고기가 멀리 있는 지도들을 보며 답해요.",
+          "lines": [
+            {
+              "who": "인어",
+              "text": "What are those?"
+            },
+            {
+              "who": "물고기",
+              "text": "?"
+            },
+            {
+              "who": "인어",
+              "text": "How nice!"
+            }
+          ],
+          "choices": [
+            "What are these?",
+            "It is a map.",
+            "They are maps."
+          ],
+          "answer": 2,
+          "explain": "여러 개의 지도이니 ‘They are maps.’예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Sora points to the forks on her desk. \"What are these?\" \"They are forks.\" Then she points to the maps on the wall. \"What are those?\" \"They are maps.\"",
+          "question": "Sora가 ‘those’로 물은 물건은 무엇인가요?",
+          "choices": [
+            "포크",
+            "지도",
+            "가위"
+          ],
+          "answer": 1,
+          "explain": "벽에 있는(멀리 있는) 지도를 가리키며 ‘What are those?’라고 물었어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "They are egg cups. How nice!",
+          "ko": "그것들은 달걀 컵이야. 멋지다!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "좋아하는 물건을 소개하는 글 읽고 이해하기",
+      "objectives": [
+        "좋아하는 물건을 소개하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 28~29쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "‘They are buttons.’를 읽고 알맞은 그림 카드 찾기, 장난감 자동차 사진을 보며 수집하는 물건 이야기하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "dolls, comic books를 알맞은 그림과 연결하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "책을 좋아하는 남자아이와 인형을 모으는 여자아이의 글을 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "각 아이가 가지고 있는 물건에 모두 ○ 하기, 컵을 소개하는 글 읽고 문장 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "숟가락을 소개하는 글 읽고 문제 풀기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "I have many books.",
+        "These are picture books.",
+        "Those are comic books.",
+        "I like dolls very much."
+      ],
+      "tip": "글 속의 These는 가까이 있는 물건, Those는 멀리 있는 물건을 가리켜요. 그림을 보며 어떤 물건인지 찾아봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 좋아하는 물건을 소개하는 글을 읽고 이해할 수 있는가?",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at the boy. He has lots of books. These are his picture books. Those are his comic books. Books are his favorite things. He reads them every day.",
+          "question": "남자아이가 매일 하는 일은 무엇인가요?",
+          "choices": [
+            "책 읽기",
+            "인형 모으기",
+            "그림 그리기"
+          ],
+          "answer": 0,
+          "explain": "‘He reads them every day.’ — 남자아이는 매일 책을 읽어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at the girl. She has lots of dolls. These are Korean dolls. Those are Russian dolls. She loves her dolls. She collects them.",
+          "question": "여자아이가 가지고 있는 인형이 아닌 것은?",
+          "choices": [
+            "한국 인형",
+            "러시아 인형",
+            "미국 인형"
+          ],
+          "answer": 2,
+          "explain": "여자아이는 한국 인형(Korean dolls)과 러시아 인형(Russian dolls)을 가지고 있어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at the boy. He has lots of books. These are his picture books. Those are his comic books. Books are his favorite things. He reads them every day.",
+          "question": "남자아이가 가지고 있는 책 두 종류는?",
+          "choices": [
+            "그림책과 만화책",
+            "그림책과 영어책",
+            "만화책과 사전"
+          ],
+          "answer": 0,
+          "explain": "picture books(그림책)와 comic books(만화책)가 나와요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many cups. These are red cups. Those are blue cups. I like cups very much.",
+          "question": "글쓴이 가까이에 있는 컵은 무슨 색인가요?",
+          "choices": [
+            "파란색",
+            "빨간색",
+            "노란색"
+          ],
+          "answer": 1,
+          "explain": "These(가까이 있는 것)는 red cups, 빨간 컵이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Minu. I have many caps. I collect them. These are green caps. Those are yellow caps. I like caps very much.",
+          "question": "멀리 있는 모자는 무슨 색인가요?",
+          "choices": [
+            "노란색",
+            "초록색",
+            "빨간색"
+          ],
+          "answer": 0,
+          "explain": "Those(멀리 있는 것)는 yellow caps, 노란 모자예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at the girl. She has lots of dolls. These are Korean dolls. Those are Russian dolls. She loves her dolls. She collects them.",
+          "question": "여자아이는 인형을 어떻게 하나요?",
+          "choices": [
+            "매일 읽어요.",
+            "직접 만들어요.",
+            "모아요."
+          ],
+          "answer": 2,
+          "explain": "‘She collects them.’ — 여자아이는 인형을 모아요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘collect’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "모으다",
+            "자르다",
+            "읽다",
+            "늦은"
+          ],
+          "answer": 0,
+          "explain": "collect는 ‘모으다, 수집하다’예요. I collect them."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘kitchen’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "침실",
+            "교실",
+            "부엌",
+            "공원"
+          ],
+          "answer": 2,
+          "explain": "kitchen은 ‘부엌’이에요. Welcome to my kitchen."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘late’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "멋진",
+            "많은",
+            "작은",
+            "늦은"
+          ],
+          "answer": 3,
+          "explain": "late는 ‘늦은’이에요. I'm late.(나는 늦었어.)"
+        },
+        {
+          "type": "match",
+          "prompt": "새 단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "album",
+              "앨범"
+            ],
+            [
+              "button",
+              "단추"
+            ],
+            [
+              "map",
+              "지도"
+            ],
+            [
+              "cut",
+              "자르다"
+            ],
+            [
+              "they",
+              "그것들"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "These are Korean dolls.",
+          "choices": [
+            "저것들은 한국 인형이야.",
+            "이것들은 러시아 인형이야.",
+            "이것들은 한국 인형이야."
+          ],
+          "answer": 2,
+          "explain": "These는 ‘이것들’, Korean dolls는 ‘한국 인형들’이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are comic books.",
+          "ko": "저것들은 만화책이에요.",
+          "choices": [
+            "These",
+            "They're",
+            "Those"
+          ],
+          "answer": 2,
+          "explain": "‘저것들’은 Those예요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many books. I read them every day. These are English books. Those are comic books.",
+          "question": "글쓴이 가까이에 있는 책은 무엇인가요?",
+          "choices": [
+            "만화책",
+            "영어책",
+            "그림책"
+          ],
+          "answer": 1,
+          "explain": "These(가까이 있는 것)는 English books, 영어책이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Nari has many albums. These are pink albums. Those are green albums. She collects them.",
+          "question": "멀리 있는 앨범은 무슨 색인가요?",
+          "choices": [
+            "초록색",
+            "분홍색",
+            "파란색"
+          ],
+          "answer": 0,
+          "explain": "Those(멀리 있는 것)는 green albums, 초록색이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many dolls. These are small dolls. Those are big dolls. I like dolls very much.",
+          "question": "글쓴이가 매우 좋아하는 것은 무엇인가요?",
+          "choices": [
+            "컵",
+            "책",
+            "인형"
+          ],
+          "answer": 2,
+          "explain": "‘I like dolls very much.’ — 인형을 매우 좋아해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "The boy has lots of books, and he reads them every day. The girl has lots of dolls, and she collects them.",
+          "question": "물건을 모으는(수집하는) 아이는 누구인가요?",
+          "choices": [
+            "남자아이",
+            "둘 다",
+            "여자아이"
+          ],
+          "answer": 2,
+          "explain": "‘she collects them’ — 여자아이가 인형을 모아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at my buttons. These are yellow buttons. Those are white buttons. I collect them.",
+          "question": "글쓴이가 단추로 하는 일은 무엇인가요?",
+          "choices": [
+            "단추를 판다.",
+            "단추를 모은다.",
+            "단추를 만든다."
+          ],
+          "answer": 1,
+          "explain": "‘I collect them.’ — 단추를 모아요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "They're comic books.",
+          "choices": [
+            "그것들은 만화책이야.",
+            "그것들은 그림책이야.",
+            "그것들은 공책이야."
+          ],
+          "answer": 0,
+          "explain": "comic books는 ‘만화책’, picture books는 ‘그림책’이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "These are Korean dolls. Those are Russian dolls.",
+          "question": "러시아 인형은 글쓴이에게서 어디에 있나요?",
+          "choices": [
+            "가까이",
+            "멀리"
+          ],
+          "answer": 1,
+          "explain": "Those(저것들)로 소개했으니 멀리 있어요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I read ___ every day.",
+          "ko": "나는 매일 그것들을 읽어요.",
+          "choices": [
+            "is",
+            "they",
+            "them"
+          ],
+          "answer": 2,
+          "explain": "‘그것들을’은 them이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Those are Russian dolls.",
+          "choices": [
+            "이것들은 러시아 인형이야.",
+            "저것들은 러시아 인형이야.",
+            "저것들은 한국 인형이야."
+          ],
+          "answer": 1,
+          "explain": "Those는 ‘저것들’, Russian dolls는 ‘러시아 인형’이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "picture books",
+              "그림책"
+            ],
+            [
+              "comic books",
+              "만화책"
+            ],
+            [
+              "Korean dolls",
+              "한국 인형"
+            ],
+            [
+              "every day",
+              "매일"
+            ]
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi, I'm Linh. I have many cups. These are blue cups. Those are white cups. I like cups very much. I use them every day.",
+          "question": "Linh 가까이에 있는 컵은 무엇인가요?",
+          "choices": [
+            "하얀 컵",
+            "파란 컵",
+            "빨간 컵"
+          ],
+          "answer": 1,
+          "explain": "These(가까이 있는 것)는 blue cups예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Tom has many maps. These are maps of Canada. Those are maps of Korea. He collects them.",
+          "question": "Tom에게서 멀리 있는 지도는 어느 나라 지도인가요?",
+          "choices": [
+            "한국",
+            "캐나다",
+            "미국"
+          ],
+          "answer": 0,
+          "explain": "Those(멀리 있는 것)는 maps of Korea, 한국 지도예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many books. These are picture books. ⓐ ___ are comic books. I like books very much.",
+          "question": "만화책은 글쓴이에게서 멀리 있어요. 빈칸 ⓐ에 알맞은 말은?",
+          "choices": [
+            "These",
+            "This",
+            "Those"
+          ],
+          "answer": 2,
+          "explain": "멀리 있는 여러 개는 Those예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Mohan has many albums. These are big albums. Those are small albums. He likes albums very much.",
+          "question": "Mohan이 매우 좋아하는 물건은 무엇인가요?",
+          "choices": [
+            "포크",
+            "지도",
+            "앨범"
+          ],
+          "answer": 2,
+          "explain": "‘He likes albums very much.’ — 앨범을 좋아해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 많은 인형을 가지고 있어요.",
+          "answers": [
+            "I have many dolls."
+          ],
+          "hint": "I have many ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 그림책이에요.",
+          "answers": [
+            "These are picture books."
+          ],
+          "hint": "These are ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I like books very much. I read them every day.",
+          "answer": "I like books very much. I read them every day.",
+          "distractors": [
+            "dolls",
+            "collect"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 인형을 매우 좋아해요. 나는 그것들을 모아요.",
+          "answer": "I like dolls very much. I collect them.",
+          "distractors": [
+            "read",
+            "many"
+          ],
+          "explain": "‘모으다’는 collect, ‘그것들을’은 them이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "여자아이가 가까이 있는 한국 인형들을 가리켜요. 여자아이의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "What are these?"
+            },
+            {
+              "who": "여자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "They're Russian dolls.",
+            "They're Korean dolls.",
+            "They're comic books."
+          ],
+          "answer": 1,
+          "explain": "가까이 있는 한국 인형이니 ‘They're Korean dolls.’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "These are Korean dolls. Those are Russian dolls.",
+          "ko": "이것들은 한국 인형이에요. 저것들은 러시아 인형이에요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "좋아하는 물건을 소개하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 좋아하는 물건을 소개하는 글을 쓸 수 있다.",
+        "좋아하는 물건을 소개하는 글을 발표하며 배운 표현을 활용할 수 있다."
+      ],
+      "pages": "교과서 30~31쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read 글을 모둠별로 번갈아 읽기, 단추 사진을 보고 ‘These are buttons.’ 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "그림을 보고 물건 이름 철자 완성하기(Words), 고양이·토끼가 말하는 물건으로 These/Those 문장 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "내가 가진 물건에 ○ 하고, 예시문(모자)을 참고하여 좋아하는 물건을 그리고 소개하는 글 쓰기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "내가 쓴 글을 짝에게 읽어 주기, 자기·상호 평가",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Review / Check It / My Study",
+          "desc": "포크를 소개하는 글 읽고 그림 카드 고르기, 글의 빈칸 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "I have many caps.",
+        "These are red caps.",
+        "Those are blue caps.",
+        "I like caps very much."
+      ],
+      "tip": "물건 이름 앞에 색깔 말을 넣으면 더 자세하게 소개할 수 있어요. (yellow buttons, green buttons)",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 좋아하는 물건을 소개하는 글을 쓸 수 있는가? 짝과 공유하는 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 많은 단추를 가지고 있어요.",
+          "answers": [
+            "I have many buttons."
+          ],
+          "hint": "I have many ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 노란 단추예요.",
+          "answers": [
+            "These are yellow buttons."
+          ],
+          "hint": "These are ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 초록 단추예요.",
+          "answers": [
+            "Those are green buttons."
+          ],
+          "hint": "Those are ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 단추를 매우 좋아해요.",
+          "answers": [
+            "I like buttons very much."
+          ],
+          "hint": "I like ____ very much."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 포크예요.",
+          "answer": "These are forks.",
+          "distractors": [
+            "Those",
+            "is"
+          ],
+          "explain": "‘이것들’은 These예요. These are forks."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 앨범이에요.",
+          "answer": "Those are albums.",
+          "distractors": [
+            "These",
+            "album."
+          ],
+          "explain": "‘저것들’은 Those, 여러 개의 앨범은 albums예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 지도를 매우 좋아해요.",
+          "answer": "I like maps very much.",
+          "distractors": [
+            "have",
+            "many"
+          ],
+          "explain": "‘매우 좋아해요’는 like ... very much예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I have ___ forks.",
+          "ko": "나는 많은 포크를 가지고 있어요.",
+          "choices": [
+            "many",
+            "much",
+            "very"
+          ],
+          "answer": 0,
+          "explain": "셀 수 있는 여러 개의 물건이 ‘많은’ 것은 many예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I like scissors very ___.",
+          "ko": "나는 가위를 매우 좋아해요.",
+          "choices": [
+            "many",
+            "much",
+            "nice"
+          ],
+          "answer": 1,
+          "explain": "‘매우 좋아해요’는 like ... very much예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "멀리 있는 빨간 모자들을 소개하는 문장은?",
+          "choices": [
+            "Those are red caps.",
+            "These are red caps.",
+            "This is a red cap.",
+            "I like caps very much."
+          ],
+          "answer": 0,
+          "explain": "멀리 있는 여러 개는 Those are ....로 소개해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many spoons. These are pink spoons. Those are white spoons. I like spoons very much.",
+          "question": "글쓴이 가까이에 있는 숟가락은 무슨 색인가요?",
+          "choices": [
+            "분홍색",
+            "하얀색",
+            "파란색"
+          ],
+          "answer": 0,
+          "explain": "These(가까이 있는 것)는 pink spoons, 분홍색 숟가락이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I like buttons very much.",
+          "ko": "나는 단추를 매우 좋아해요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 많은 모자를 가지고 있어요.",
+          "answers": [
+            "I have many caps."
+          ],
+          "hint": "I have many ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 빨간 모자예요.",
+          "answers": [
+            "These are red caps."
+          ],
+          "hint": "These are ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 파란 모자예요.",
+          "answers": [
+            "Those are blue caps."
+          ],
+          "hint": "Those are ____ ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 많은 숟가락을 가지고 있어요.",
+          "answer": "I have many spoons.",
+          "distractors": [
+            "much",
+            "like"
+          ],
+          "explain": "‘많은 ~을 가지고 있다’는 have many ....예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 작은 포크예요.",
+          "answer": "Those are small forks.",
+          "distractors": [
+            "These",
+            "big"
+          ],
+          "explain": "‘저것들’은 Those, ‘작은’은 small이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are big albums.",
+          "ko": "이것들은 큰 앨범이에요.",
+          "choices": [
+            "These",
+            "Those",
+            "They're"
+          ],
+          "answer": 0,
+          "explain": "‘이것들’은 These예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ many cups.",
+          "ko": "나는 많은 컵을 가지고 있어요.",
+          "choices": [
+            "have",
+            "like",
+            "am"
+          ],
+          "answer": 0,
+          "explain": "‘가지고 있다’는 have예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "These are pink cups.",
+          "answer": "These are pink cups.",
+          "distractors": [
+            "Those",
+            "cup."
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many scissors. These are big scissors. Those are small scissors. I like scissors very much.",
+          "question": "글쓴이에게서 멀리 있는 가위는 어떤 가위인가요?",
+          "choices": [
+            "큰 가위",
+            "빨간 가위",
+            "작은 가위"
+          ],
+          "answer": 2,
+          "explain": "Those(멀리 있는 것)는 small scissors, 작은 가위예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I have many caps. I like caps very much.",
+          "ko": "나는 많은 모자를 가지고 있어요. 나는 모자를 매우 좋아해요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 많은 책을 가지고 있어요. 나는 책을 매우 좋아해요.",
+          "answers": [
+            "I have many books. I like books very much."
+          ],
+          "hint": "I have many ____. I like ____ very much."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 노란 연필이에요.",
+          "answers": [
+            "These are yellow pencils."
+          ],
+          "hint": "These are ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 초록 컵이에요.",
+          "answers": [
+            "Those are green cups."
+          ],
+          "hint": "Those are ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I have many albums. Those are blue albums.",
+          "answer": "I have many albums. Those are blue albums.",
+          "distractors": [
+            "These",
+            "much"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "These are small spoons. I like spoons very much.",
+          "answer": "These are small spoons. I like spoons very much.",
+          "distractors": [
+            "Those",
+            "many"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 빨간 단추예요. 저것들은 노란 단추예요.",
+          "answer": "These are red buttons. Those are yellow buttons.",
+          "distractors": [
+            "is",
+            "green"
+          ],
+          "explain": "가까이 있는 것은 These, 멀리 있는 것은 Those로 소개해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 많은 지도를 가지고 있어요. 나는 그것들을 모아요.",
+          "answer": "I have many maps. I collect them.",
+          "distractors": [
+            "like",
+            "much"
+          ],
+          "explain": "have many ....와 collect them을 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "내 글: I have many caps. These are red caps. Those are blue caps.",
+          "lines": [
+            {
+              "who": "짝",
+              "text": "What are these?"
+            },
+            {
+              "who": "나",
+              "text": "?"
+            },
+            {
+              "who": "짝",
+              "text": "How nice!"
+            }
+          ],
+          "choices": [
+            "They're blue cups.",
+            "They're red caps.",
+            "I like caps."
+          ],
+          "answer": 1,
+          "explain": "내 글에 맞게 빨간 모자라고 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many forks. These are pink forks. Those are ⓐ ___ forks. I like forks very much.",
+          "question": "멀리 있는 포크는 초록색이에요. 빈칸 ⓐ에 알맞은 말은?",
+          "choices": [
+            "pink",
+            "green",
+            "red"
+          ],
+          "answer": 1,
+          "explain": "멀리 있는(Those) 포크가 초록색이니 green이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I have many books. These are picture books.",
+          "ko": "나는 많은 책을 가지고 있어요. 이것들은 그림책이에요."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project & My Work",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 32~33쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "신발 그림을 보고 ‘These are shoes.’처럼 알맞은 문장 골라 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "시 ‘These Are My Shoes’를 모둠원과 읽고, 시의 일부를 바꿔 쓰고 그림을 그려 모둠 시를 완성해 발표하기 (모둠)",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 물건 연결하기, 묻고 답하며 감탄하는 대화하기, 연필을 소개하는 글 읽고 문제 풀기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 점검하고 ‘정리해요’ 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "These are my shoes.",
+        "Those are my shoes.",
+        "What are those?",
+        "How nice!"
+      ],
+      "tip": "시를 바꿔 쓸 때는 물건 이름이나 색깔 말을 바꿔 봐요. (Red shoes → Blue caps)",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "What are these? They're scissors.",
+          "choices": [
+            "🥄",
+            "✂️",
+            "🔘"
+          ],
+          "answer": 1,
+          "explain": "scissors는 ‘가위’예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "What are those?"
+            },
+            {
+              "who": "여자아이",
+              "text": "They're buttons."
+            },
+            {
+              "who": "남자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "How nice!",
+            "They're buttons.",
+            "I'm late."
+          ],
+          "answer": 0,
+          "explain": "멋진 물건을 보고 감탄할 때 ‘How nice!’라고 해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "I have many maps. These are big maps. Those are small maps. I collect them.",
+          "question": "글쓴이가 소개하는 물건은 무엇인가요?",
+          "choices": [
+            "단추",
+            "연필",
+            "지도"
+          ],
+          "answer": 2,
+          "explain": "maps는 ‘지도들’이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 내 신발이에요.",
+          "answer": "These are my shoes.",
+          "distractors": [
+            "Those",
+            "is"
+          ],
+          "explain": "‘이것들’은 These, ‘내 신발’은 my shoes예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Those are red pencils.",
+          "answer": "Those are red pencils.",
+          "distractors": [
+            "These",
+            "pencil."
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "문장과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "These are my shoes.",
+              "이것들은 내 신발이에요."
+            ],
+            [
+              "Those are my shoes.",
+              "저것들은 내 신발이에요."
+            ],
+            [
+              "How nice!",
+              "멋지다!"
+            ],
+            [
+              "I'm late.",
+              "나는 늦었어."
+            ]
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are my shoes.",
+          "ko": "저것들은 내 신발이에요.",
+          "choices": [
+            "These",
+            "This",
+            "Those"
+          ],
+          "answer": 2,
+          "explain": "‘저것들’은 Those예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "These are my shoes.",
+          "ko": "이것들은 내 신발이에요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 빨간 연필이에요.",
+          "answers": [
+            "Those are red pencils."
+          ],
+          "hint": "Those are ____ ____."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "우주 아빠",
+              "text": "Let's cut the pizza. Where are my scissors?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "How nice!",
+            "Here you are.",
+            "They're spoons."
+          ],
+          "answer": 1,
+          "explain": "물건을 건네줄 때는 ‘Here you are.’라고 해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘Let's cut the pizza.’에서 ‘cut’의 뜻은?",
+          "choices": [
+            "자르다",
+            "먹다",
+            "만들다"
+          ],
+          "answer": 0,
+          "explain": "cut은 ‘자르다’예요. 우주 아빠는 가위로 피자를 잘랐어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "남자아이가 숟가락들을 들고 있어요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "What are these?"
+            },
+            {
+              "who": "남자아이",
+              "text": "?"
+            },
+            {
+              "who": "여자아이",
+              "text": "How nice!"
+            }
+          ],
+          "choices": [
+            "They're spoons.",
+            "They're forks.",
+            "How nice!"
+          ],
+          "answer": 0,
+          "explain": "남자아이가 가진 물건은 숟가락이니 ‘They're spoons.’예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "What are those?"
+            },
+            {
+              "who": "아저씨",
+              "text": "They're maps."
+            },
+            {
+              "who": "남자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "What are these?",
+            "They're maps.",
+            "How nice!"
+          ],
+          "answer": 2,
+          "explain": "물건을 보고 감탄할 때 ‘How nice!’라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 빨간 신발이에요.",
+          "answer": "These are red shoes.",
+          "distractors": [
+            "Those",
+            "shoe."
+          ],
+          "explain": "‘이것들’은 These, 신발은 shoes예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 초록 신발이에요.",
+          "answer": "Those are green shoes.",
+          "distractors": [
+            "These",
+            "is"
+          ],
+          "explain": "‘저것들’은 Those예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Those are yellow shoes.",
+          "answer": "Those are yellow shoes.",
+          "distractors": [
+            "These",
+            "shoe."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I have many ___.",
+          "ko": "나는 많은 신발을 가지고 있어요.",
+          "choices": [
+            "a shoe",
+            "shoe",
+            "shoes"
+          ],
+          "answer": 2,
+          "explain": "many 뒤에는 여러 개를 나타내는 shoes를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "These are ___ shoes.",
+          "ko": "이것들은 노란 신발이에요.",
+          "choices": [
+            "green",
+            "yellow",
+            "red"
+          ],
+          "answer": 1,
+          "explain": "‘노란’은 yellow예요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "shoes",
+              "신발"
+            ],
+            [
+              "pencils",
+              "연필"
+            ],
+            [
+              "caps",
+              "모자"
+            ],
+            [
+              "cups",
+              "컵"
+            ],
+            [
+              "dolls",
+              "인형"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "What are these? They're spoons.",
+          "choices": [
+            "🥄",
+            "🍴",
+            "🗺️"
+          ],
+          "answer": 0,
+          "explain": "spoons는 ‘숟가락들’이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "These are red shoes. Those are green shoes.",
+          "ko": "이것들은 빨간 신발이에요. 저것들은 초록 신발이에요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "저것들은 무엇이니? — 그것들은 단추야. — 멋지다!",
+          "answers": [
+            "What are those? They're buttons. How nice!",
+            "What are those? They are buttons. How nice!"
+          ],
+          "hint": "What are ____? They're ____. How ____!"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 많은 연필을 가지고 있어요.",
+          "answers": [
+            "I have many pencils."
+          ],
+          "hint": "I have many ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이것들은 파란 신발이에요.",
+          "answers": [
+            "These are blue shoes."
+          ],
+          "hint": "These are ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I have many dolls. I collect them.",
+          "answer": "I have many dolls. I collect them.",
+          "distractors": [
+            "like",
+            "much"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "What are these? They're maps. How nice!",
+          "answer": "What are these? They're maps. How nice!",
+          "distractors": [
+            "those?",
+            "It's"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이것들은 내 모자예요. 저것들도 내 모자예요.",
+          "answer": "These are my caps. Those are my caps, too.",
+          "distractors": [
+            "is",
+            "shoes."
+          ],
+          "explain": "‘~도’는 문장 끝에 too를 붙여요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "그것들은 가위야. 나는 가위를 매우 좋아해.",
+          "answer": "They're scissors. I like scissors very much.",
+          "distractors": [
+            "many",
+            "is"
+          ],
+          "explain": "‘매우 좋아해’는 like ... very much예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Amy가 모은 앨범들이에요. Amy의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Linh",
+              "text": "What are these?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            },
+            {
+              "who": "Linh",
+              "text": "How nice!"
+            }
+          ],
+          "choices": [
+            "They're albums. I collect them.",
+            "They're maps. I cut them.",
+            "It's an album."
+          ],
+          "answer": 0,
+          "explain": "Amy가 모은 앨범들이니 ‘They're albums. I collect them.’이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My Caps\nBlue caps. Red caps.\nThese are my caps.\nThose are my caps.\nI have many caps!",
+          "question": "이 시에 나오는 모자 색깔이 아닌 것은?",
+          "choices": [
+            "파란색",
+            "빨간색",
+            "초록색"
+          ],
+          "answer": 2,
+          "explain": "시에는 Blue caps와 Red caps만 나와요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "What are those? They're pencils. How nice!",
+          "ko": "저것들은 무엇이니? 그것들은 연필이야. 멋지다!"
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "학생 작품 전시회에서 아이들이 단추로 만든 새 그림과 북 아트 작품을 구경해요.",
+      "lines": [
+        {
+          "who": "남자아이",
+          "text": "Look at that!"
+        },
+        {
+          "who": "여자아이",
+          "text": "It's beautiful."
+        },
+        {
+          "who": "여자아이",
+          "text": "What are these?"
+        },
+        {
+          "who": "Amy",
+          "text": "They're buttons."
+        },
+        {
+          "who": "남자아이",
+          "text": "What are those?"
+        },
+        {
+          "who": "여자아이",
+          "text": "They're books."
+        },
+        {
+          "who": "Tom",
+          "text": "You can open the books."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "Tom과 Linh이 우주네 부엌에서 우주 아빠의 숟가락과 달걀 컵을 구경해요.",
+      "lines": [
+        {
+          "who": "우주 아빠",
+          "text": "Good afternoon. Welcome to my kitchen."
+        },
+        {
+          "who": "Linh",
+          "text": "What are these?"
+        },
+        {
+          "who": "우주 아빠",
+          "text": "They're spoons."
+        },
+        {
+          "who": "Linh",
+          "text": "Wow, they're pretty."
+        },
+        {
+          "who": "Tom",
+          "text": "What are those?"
+        },
+        {
+          "who": "우주 아빠",
+          "text": "They're egg cups. I collect them."
+        },
+        {
+          "who": "Tom",
+          "text": "How nice!"
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "나리는 Taylor의 앨범에 대해, Noah는 민우가 모은 모자에 대해 묻고 감탄해요.",
+      "lines": [
+        {
+          "who": "나리",
+          "text": "What are these?"
+        },
+        {
+          "who": "Taylor",
+          "text": "They're albums."
+        },
+        {
+          "who": "나리",
+          "text": "How nice!"
+        },
+        {
+          "who": "Noah",
+          "text": "What are those?"
+        },
+        {
+          "who": "민우",
+          "text": "They're caps. I collect them."
+        },
+        {
+          "who": "Noah",
+          "text": "How nice!"
+        },
+        {
+          "who": "민우",
+          "text": "Thank you."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "좋아하는 물건을 소개하는 글",
+    "passage": "Two friends show us their favorite things. The boy has lots of books. These are his picture books, and those are his comic books. Books are his favorite things, so he reads them every day. The girl has lots of dolls. These are Korean dolls, and those are Russian dolls. She loves her dolls, and she collects them.",
+    "summaryKo": "책을 좋아해 매일 읽는 남자아이(그림책, 만화책)와 인형을 모으는 여자아이(한국 인형, 러시아 인형)가 좋아하는 물건을 소개해요."
+  },
+  "writing": {
+    "frame": [
+      "I have many ____.",
+      "These are ____ ____.",
+      "Those are ____ ____.",
+      "I like ____ very much."
+    ],
+    "model": "I have many toy cars. These are blue toy cars. Those are black toy cars. I like toy cars very much."
+  },
+  "project": "모둠원과 함께 시 ‘These Are My Shoes’를 읽고 시에 나온 신발을 찾은 뒤, 시의 일부(물건 이름, 색깔 등)를 바꿔 쓰고 그림을 그려 모둠 시를 완성하여 발표·전시한다.",
+  "special": {
+    "no": 2,
+    "kind": "Into the History",
+    "title": "펜의 기원을 알아봐요",
+    "summaryKo": "보보와 코코가 아주 더운 고대 이집트에 갔어요. 사람들이 쓰는 갈대 펜을 보고 ‘What are those?’라고 묻고, 펜을 본 사람들은 ‘How nice!’라고 감탄해요.",
+    "facts": [
+      "세상에서 가장 오래된 기록은 약 4,000년 전 고대 이집트인이 파피루스에 쓴 글이에요.",
+      "그래서 펜을 처음 발명한 사람들은 고대 이집트인이라고 생각해요.",
+      "이집트인은 대나무나 갈대처럼 속이 빈 줄기의 끝을 비스듬히 잘라 갈대 펜을 만들었어요.",
+      "빈 줄기에 물을 채우면 펜 끝(촉)으로 흘러내려 글을 쓸 수 있었어요.",
+      "갈대 펜은 끝이 쉽게 닳아서 자주 새 펜으로 바꿔야 했어요."
+    ],
+    "expressions": [
+      "What are those? — Aha! They're pens.",
+      "What are these? — They're pens.",
+      "How nice!"
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "보보와 코코가 간 곳은 어느 나라인가요?",
+        "choices": [
+          "그리스",
+          "이집트",
+          "인도",
+          "중국"
+        ],
+        "answer": 1,
+        "explain": "보보와 코코는 고대 이집트에 갔어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "고대 이집트인들은 무엇으로 펜을 만들었나요?",
+        "choices": [
+          "갈대",
+          "새의 깃털",
+          "쇠",
+          "플라스틱"
+        ],
+        "answer": 0,
+        "explain": "이집트인은 갈대처럼 속이 빈 줄기로 펜을 만들었어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "이집트인들은 갈대 펜으로 무엇에 글을 썼나요?",
+        "choices": [
+          "공책",
+          "칠판",
+          "파피루스와 양피지",
+          "돌"
+        ],
+        "answer": 2,
+        "explain": "이집트인은 파피루스와 양피지에 글을 쓰기 위해 갈대 펜을 만들었어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "갈대 펜을 자주 새 펜으로 바꿔야 했던 까닭은?",
+        "choices": [
+          "너무 무거워서",
+          "물에 녹아서",
+          "끝이 쉽게 닳아서"
+        ],
+        "answer": 2,
+        "explain": "갈대 펜은 끝이 쉽게 닳아서 자주 바꿔야 했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "갈대 펜으로 어떻게 글을 쓸 수 있었나요?",
+        "choices": [
+          "빈 줄기에 물을 채워 펜 끝으로 흘러내리게 했다.",
+          "전기를 이용했다.",
+          "끝에 숯을 붙였다."
+        ],
+        "answer": 0,
+        "explain": "빈 줄기에 물을 채우면 펜 끝으로 흘러내려 글을 쓸 수 있었어요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "보보",
+            "text": "What are those?"
+          },
+          {
+            "who": "코코",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "How nice!",
+          "Oh, it's very hot here.",
+          "Aha! They're pens."
+        ],
+        "answer": 2,
+        "explain": "멀리 있는 물건이 무엇인지 물었으니 ‘They're pens.’라고 답해요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "이집트 사람",
+            "text": "What are these?"
+          },
+          {
+            "who": "보보",
+            "text": "They're pens."
+          },
+          {
+            "who": "이집트 사람",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "How nice!",
+          "What are those?",
+          "Oh, it's very hot here."
+        ],
+        "answer": 0,
+        "explain": "보보의 펜을 본 사람들은 ‘How nice!’라고 감탄했어요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "Oh, it's very hot here.",
+        "choices": [
+          "아, 여기는 무척 춥네.",
+          "아, 여기는 무척 덥네.",
+          "아, 이것들은 펜이야."
+        ],
+        "answer": 1,
+        "explain": "hot은 ‘더운’이에요. 이집트는 무척 더웠어요."
+      }
+    ]
+  }
+}

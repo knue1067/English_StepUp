@@ -1,0 +1,3205 @@
+{
+  "id": "L01",
+  "no": 1,
+  "semester": 1,
+  "title": "Where Are You From?",
+  "emoji": "🌍",
+  "rationale": "교통과 통신의 발달로 세계 여러 나라 사람과 의사소통할 기회가 많아졌다. 외국인을 만났을 때 출신 국가를 묻고 답하는 말, 소개하고 소개에 답하는 말을 익혀 실생활에 활용하게 하고, 자기를 소개하는 글을 읽고 쓰는 능력을 기르고자 한다.",
+  "topics": "학교생활 관련(학교 활동, 교우 관계), 사회생활 관련(대인 관계), 문화 관련(다양한 문화권 의사소통)",
+  "functions": [
+    {
+      "ko": "출신 국가 묻고 답하기",
+      "examples": [
+        "Where are you from?",
+        "I'm from Canada."
+      ]
+    },
+    {
+      "ko": "소개하기와 소개에 답하기",
+      "examples": [
+        "This is my friend, Uju.",
+        "Nice to meet you."
+      ]
+    }
+  ],
+  "forms": [
+    "I am from the U.S.",
+    "My name is Mia."
+  ],
+  "newWords": [
+    {
+      "en": "about",
+      "ko": "~에 대해"
+    },
+    {
+      "en": "beautiful",
+      "ko": "아름다운"
+    },
+    {
+      "en": "country",
+      "ko": "나라"
+    },
+    {
+      "en": "cousin",
+      "ko": "사촌"
+    },
+    {
+      "en": "from",
+      "ko": "~에서(온)"
+    },
+    {
+      "en": "guy",
+      "ko": "사람, 녀석 (guys: 얘들아)"
+    },
+    {
+      "en": "ride",
+      "ko": "(탈것을) 타다"
+    },
+    {
+      "en": "team",
+      "ko": "팀"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    },
+    {
+      "en": "well",
+      "ko": "잘"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "Canada",
+      "ko": "캐나다",
+      "emoji": "🇨🇦"
+    },
+    {
+      "en": "France",
+      "ko": "프랑스",
+      "emoji": "🇫🇷"
+    },
+    {
+      "en": "India",
+      "ko": "인도",
+      "emoji": "🇮🇳"
+    },
+    {
+      "en": "Korea",
+      "ko": "한국",
+      "emoji": "🇰🇷"
+    },
+    {
+      "en": "the U.S.",
+      "ko": "미국",
+      "emoji": "🇺🇸"
+    },
+    {
+      "en": "Vietnam",
+      "ko": "베트남",
+      "emoji": "🇻🇳"
+    }
+  ],
+  "characters": [
+    "Tom",
+    "Mohan",
+    "하나",
+    "우주",
+    "Linh",
+    "Amy",
+    "Ms. Green",
+    "Lucas",
+    "Emma",
+    "민우",
+    "Jesse",
+    "Olivia",
+    "Peter",
+    "Mia",
+    "Huy"
+  ],
+  "goals": {
+    "understand": [
+      "출신 국가를 묻고 답하는 말을 듣고 이해할 수 있다.",
+      "소개하는 말과 소개에 답하는 말을 듣고 이해할 수 있다.",
+      "자기를 소개하는 글을 읽고 이해할 수 있다.",
+      "출신 국가를 묻고 답하는 말과 소개하고 소개에 답하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "자기를 소개하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "출신 국가를 묻고 답하는 말을 할 수 있다.",
+      "소개하는 말과 소개에 답하는 말을 할 수 있다.",
+      "출신 국가를 말하는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 자기를 소개하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-04",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "출신 국가 묻고 답하기",
+      "objectives": [
+        "출신 국가를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 1’으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 7~9쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "세계 지도를 보며 아는 나라 이름 말하기, 단원 목표 확인, 나라 이름 붙임딱지 붙이고 Word Chant 하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "Tom, Mohan, 하나가 출신 국가를 묻고 답하며 팀 이름 ‘KOINCA’를 만드는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Number / Practice 1",
+          "desc": "국기를 든 아이들의 대화를 듣고 순서대로 번호 쓰기, 주요 표현 따라 말하기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "교사가 뒤집은 인물 카드와 같은 카드를 든 학생이 출신 국가를 답하고 자리에 앉기 (모둠)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "대화를 듣고 알맞은 그림 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Where are you from?",
+        "I'm from Canada."
+      ],
+      "tip": "나라 이름의 첫 글자는 항상 대문자로 써요. 미국은 ‘the U.S.’처럼 앞에 the를 붙여요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 출신 국가를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "나라 이름과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Canada",
+              "캐나다"
+            ],
+            [
+              "France",
+              "프랑스"
+            ],
+            [
+              "India",
+              "인도"
+            ],
+            [
+              "Korea",
+              "한국"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "the U.S.",
+              "미국"
+            ],
+            [
+              "Vietnam",
+              "베트남"
+            ],
+            [
+              "country",
+              "나라"
+            ],
+            [
+              "beautiful",
+              "아름다운"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "이 국기는 어느 나라의 국기일까요?",
+          "emoji": "🇮🇳",
+          "choices": [
+            "India",
+            "Canada",
+            "France",
+            "Korea"
+          ],
+          "answer": 0,
+          "explain": "주황·흰색·초록 국기는 인도(India)의 국기예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘Vietnam’의 뜻으로 알맞은 것은?",
+          "emoji": "🇻🇳",
+          "choices": [
+            "미국",
+            "프랑스",
+            "베트남",
+            "인도"
+          ],
+          "answer": 2,
+          "explain": "Vietnam은 베트남이에요. Linh이 베트남에서 왔어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I'm from France.",
+          "choices": [
+            "나는 캐나다에서 왔어.",
+            "나는 프랑스에서 왔어.",
+            "나는 베트남에서 왔어."
+          ],
+          "answer": 1,
+          "explain": "France는 프랑스예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 국기를 고르세요.",
+          "audio": "Where are you from? I'm from the U.S.",
+          "choices": [
+            "🇻🇳",
+            "🇰🇷",
+            "🇫🇷",
+            "🇺🇸"
+          ],
+          "answer": 3,
+          "explain": "the U.S.는 미국이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Tom은 캐나다에서 왔어요. Tom의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "Where are you from, Tom?"
+            },
+            {
+              "who": "Tom",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from India.",
+            "I'm Hana.",
+            "I'm from Canada."
+          ],
+          "answer": 2,
+          "explain": "Tom은 캐나다에서 왔으니까 ‘I'm from Canada.’라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "빈칸에 들어갈 Tom의 질문을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "?"
+            },
+            {
+              "who": "Mohan",
+              "text": "I'm from India."
+            }
+          ],
+          "choices": [
+            "Nice to meet you, too.",
+            "Let's make our team name.",
+            "Where are you from, Mohan?"
+          ],
+          "answer": 2,
+          "explain": "‘I'm from India.’는 출신 국가를 묻는 말 ‘Where are you from?’에 대한 대답이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm ___ Korea.",
+          "ko": "나는 한국에서 왔어.",
+          "choices": [
+            "to",
+            "from",
+            "at"
+          ],
+          "answer": 1,
+          "explain": "‘~에서 왔다’는 from을 써요. I'm from Korea."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 어디에서 왔니?",
+          "answer": "Where are you from?",
+          "distractors": [
+            "What",
+            "is"
+          ],
+          "explain": "출신 국가를 물을 때는 ‘Where are you from?’이라고 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'm from Vietnam.",
+          "answer": "I'm from Vietnam.",
+          "distractors": [
+            "Korea.",
+            "to"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Where are you from?",
+          "ko": "너는 어디에서 왔니?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "Lucas는 프랑스에서 왔어요. Lucas의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "우주",
+              "text": "Where are you from, Lucas?"
+            },
+            {
+              "who": "Lucas",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice to meet you.",
+            "I'm from Korea.",
+            "I'm from France."
+          ],
+          "answer": 2,
+          "explain": "Lucas는 프랑스에서 왔으니 ‘I'm from France.’라고 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "하나",
+              "text": "?"
+            },
+            {
+              "who": "Linh",
+              "text": "I'm from Vietnam. Where are you from?"
+            },
+            {
+              "who": "하나",
+              "text": "I'm from Korea."
+            }
+          ],
+          "choices": [
+            "What's your name?",
+            "Where are you from, Linh?",
+            "Let's make our team name."
+          ],
+          "answer": 1,
+          "explain": "Linh이 ‘I'm from Vietnam.’이라고 답했으니 출신 국가를 묻는 말이 알맞아요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 캐나다에서 왔어. 너는 어디에서 왔니?",
+          "answer": "I'm from Canada. Where are you from?",
+          "distractors": [
+            "India.",
+            "is"
+          ],
+          "explain": "먼저 ‘I'm from Canada.’로 답하고, ‘Where are you from?’으로 되물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "와, 아름다운 나라구나.",
+          "answer": "Wow, it's a beautiful country.",
+          "distractors": [
+            "team",
+            "are"
+          ],
+          "explain": "beautiful은 ‘아름다운’, country는 ‘나라’예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Where are you from, Linh?",
+          "answer": "Where are you from, Linh?",
+          "distractors": [
+            "What",
+            "Uju?"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm from ___ U.S.",
+          "ko": "나는 미국에서 왔어.",
+          "choices": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 1,
+          "explain": "미국은 앞에 the를 붙여 the U.S.라고 해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ are you from, Amy?",
+          "ko": "Amy, 너는 어디에서 왔니?",
+          "choices": [
+            "Where",
+            "What",
+            "Who"
+          ],
+          "answer": 0,
+          "explain": "‘어디에서’는 Where예요."
+        },
+        {
+          "type": "match",
+          "prompt": "나라 이름의 앞 두 글자와 나라를 짝지어 보세요.",
+          "pairs": [
+            [
+              "KO",
+              "Korea"
+            ],
+            [
+              "IN",
+              "India"
+            ],
+            [
+              "CA",
+              "Canada"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "That's great. Our team name is KOINCA.",
+          "choices": [
+            "멋지다. 우리 학교 이름은 KOINCA야.",
+            "좋아. 우리 나라 이름은 KOINCA야.",
+            "멋지다. 우리 팀 이름은 KOINCA야."
+          ],
+          "answer": 2,
+          "explain": "team name은 ‘팀 이름’이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Thank you. Where are you from, Mohan?",
+          "ko": "고마워. Mohan, 너는 어디에서 왔니?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Emma, 너는 어디에서 왔니?",
+          "answers": [
+            "Where are you from, Emma?",
+            "Emma, where are you from?"
+          ],
+          "hint": "Where are you from, ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "안녕, 나는 Emma야. 나는 프랑스에서 왔어.",
+          "answers": [
+            "Hi, I'm Emma. I'm from France.",
+            "Hi, I'm Emma. I am from France.",
+            "Hi, I am Emma. I am from France.",
+            "Hi, I am Emma. I'm from France.",
+            "Hello, I'm Emma. I'm from France.",
+            "Hello, I'm Emma. I am from France."
+          ],
+          "hint": "Hi, I'm ____. I'm from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "만나서 반가워. 너는 어디에서 왔니?",
+          "answers": [
+            "Nice to meet you. Where are you from?"
+          ],
+          "hint": "Nice to meet you. Where ____ ____ ____?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hello, I'm Tom. Nice to meet you.",
+          "answer": "Hello, I'm Tom. Nice to meet you.",
+          "distractors": [
+            "too.",
+            "from"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, I'm Hana. I'm from Korea.",
+          "answer": "Hi, I'm Hana. I'm from Korea.",
+          "distractors": [
+            "am",
+            "India."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "얘들아, 같이 팀 이름을 만들자.",
+          "answer": "Hey, guys. Let's make our team name together.",
+          "distractors": [
+            "flag",
+            "are"
+          ],
+          "explain": "guys는 ‘얘들아’, together는 ‘함께’예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 미국에서 왔어. 너는 어디에서 왔니?",
+          "answer": "I'm from the U.S. Where are you from?",
+          "distractors": [
+            "a",
+            "is"
+          ],
+          "explain": "미국은 the U.S.라고 쓰고, 이어서 Where are you from?으로 물어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Amy는 미국에서 왔어요. Amy의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "Where are you from, Rahul?"
+            },
+            {
+              "who": "Rahul",
+              "text": "I'm from India. How about you, Amy?"
+            },
+            {
+              "who": "Amy",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice to meet you, Rahul.",
+            "I'm from India.",
+            "I'm from the U.S."
+          ],
+          "answer": 2,
+          "explain": "Amy는 미국에서 왔으니 ‘I'm from the U.S.’라고 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Four children hold flags. Ken says, \"I'm from the U.S.\" Marie says, \"I'm from France.\" Minji says, \"I'm from Korea.\" Anh says, \"I'm from Vietnam.\"",
+          "question": "프랑스 국기를 든 아이는 누구인가요?",
+          "choices": [
+            "Marie",
+            "Ken",
+            "Minji",
+            "Anh"
+          ],
+          "answer": 0,
+          "explain": "Marie가 ‘I'm from France.’라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello, my name is Mohan. I'm from India.",
+          "ko": "안녕, 내 이름은 Mohan이야. 나는 인도에서 왔어."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "출신 국가 묻고 답하기 / 소개하기와 소개에 답하기",
+      "objectives": [
+        "출신 국가를 묻고 답하는 말을 할 수 있다.",
+        "소개하는 말과 소개에 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 10~11쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Listen and Number 그림으로 복습하기, 선생님이 외국인 친구 사진을 보여 주며 소개하는 말 듣기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "새로 이사 온 Linh이 우주를 만나고, 교실에서 친구들에게 소개되는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "Emma와 민우, Jesse·Olivia·Peter의 동영상을 보며 표현 익히고 짝과 연습하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "출신 국가를 묻고 답하며 사다리를 타고, 나온 인물을 소개하고 소개에 답하기 (모둠)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "그림에 알맞은 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "This is my friend, Uju.",
+        "Nice to meet you.",
+        "Nice to meet you, too."
+      ],
+      "tip": "누군가를 소개할 때는 ‘This is my friend, ○○.’라고 해요. ‘Nice to meet you.’에는 ‘Nice to meet you, too.’로 답해요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 출신 국가를 묻고 답하는 말을 할 수 있는가? 소개하는 말과 소개에 답하는 말을 듣고 이해하며 말할 수 있는가?",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Linh",
+              "text": "Uju, this is my dad."
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice to meet you. I'm Uju.",
+            "I'm from Vietnam.",
+            "You're welcome."
+          ],
+          "answer": 0,
+          "explain": "누군가를 소개받으면 ‘Nice to meet you.’라고 인사해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "I'm from the U.S. This is my friend, Uju."
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from the U.S.",
+            "Here you are.",
+            "Hi, Uju. Nice to meet you."
+          ],
+          "answer": 2,
+          "explain": "Amy가 우주를 소개했으니 우주에게 인사하는 말이 알맞아요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Jesse",
+              "text": "This is my cousin, Peter."
+            },
+            {
+              "who": "Olivia",
+              "text": "Nice to meet you, Peter."
+            },
+            {
+              "who": "Peter",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice to meet you, too.",
+            "This is my cousin.",
+            "I'm Olivia."
+          ],
+          "answer": 0,
+          "explain": "‘Nice to meet you.’에는 ‘Nice to meet you, too.’(나도 만나서 반가워.)로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이 아이는 내 친구 우주야.",
+          "answer": "This is my friend, Uju.",
+          "distractors": [
+            "cousin,",
+            "are"
+          ],
+          "explain": "친구를 소개할 때는 ‘This is my friend, 이름.’이라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나도 만나서 반가워.",
+          "answer": "Nice to meet you, too.",
+          "distractors": [
+            "see",
+            "from"
+          ],
+          "explain": "‘나도’는 문장 끝에 too를 붙여요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "This is my cousin, Sam.",
+          "choices": [
+            "이 아이는 내 친구 Sam이야.",
+            "이 아이는 내 사촌 Sam이야.",
+            "이분은 우리 선생님이셔."
+          ],
+          "answer": 1,
+          "explain": "cousin은 ‘사촌’이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "This is my teacher, Ms. Green.",
+          "choices": [
+            "이분은 우리 아빠셔.",
+            "이 아이는 내 사촌이야.",
+            "이분은 우리 선생님, Green 선생님이셔."
+          ],
+          "answer": 2,
+          "explain": "teacher는 ‘선생님’이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Where are you from, Amy?",
+          "answer": "Where are you from, Amy?",
+          "distractors": [
+            "What",
+            "Linh?"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "This is my ___, Peter.",
+          "ko": "이 아이는 내 사촌 Peter야.",
+          "choices": [
+            "cousin",
+            "friend",
+            "teacher"
+          ],
+          "answer": 0,
+          "explain": "‘사촌’은 cousin이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "This is my friend, Uju.",
+          "ko": "이 아이는 내 친구 우주야."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Nice to meet you, too.",
+          "ko": "나도 만나서 반가워."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Ms. Green",
+              "text": "Good morning, everyone. We have a new friend today."
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hello, my name is Linh. Nice to meet you.",
+            "This is my dad.",
+            "You're welcome."
+          ],
+          "answer": 0,
+          "explain": "새 친구로 소개되었으니 자기 이름을 말하며 인사해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "우주",
+              "text": "Hi, my name is Uju."
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Hi, I'm Linh. I'm new here.",
+            "Here you are.",
+            "This is my friend, Uju."
+          ],
+          "answer": 0,
+          "explain": "인사를 받으면 자기 이름을 말하며 인사해요. new here는 ‘새로 왔다’는 뜻이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이분은 우리 엄마셔.",
+          "answer": "This is my mom.",
+          "distractors": [
+            "are",
+            "friend"
+          ],
+          "explain": "가족을 소개할 때도 ‘This is my ....’라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "만나서 반가워, Peter.",
+          "answer": "Nice to meet you, Peter.",
+          "distractors": [
+            "too.",
+            "see"
+          ],
+          "explain": "소개받은 사람의 이름을 넣어 ‘Nice to meet you, 이름.’이라고 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, Uju. Nice to meet you, too.",
+          "answer": "Hi, Uju. Nice to meet you, too.",
+          "distractors": [
+            "Welcome,",
+            "from"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "This is my ___, Ms. Green.",
+          "ko": "이분은 우리 선생님, Green 선생님이셔.",
+          "choices": [
+            "cousin",
+            "friend",
+            "teacher"
+          ],
+          "answer": 2,
+          "explain": "‘선생님’은 teacher예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___, Linh.",
+          "ko": "환영해, Linh.",
+          "choices": [
+            "Thank",
+            "Welcome",
+            "Sorry"
+          ],
+          "answer": 1,
+          "explain": "‘환영해’는 Welcome이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "cousin",
+              "사촌"
+            ],
+            [
+              "friend",
+              "친구"
+            ],
+            [
+              "teacher",
+              "선생님"
+            ],
+            [
+              "dad",
+              "아빠"
+            ],
+            [
+              "mom",
+              "엄마"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Good morning, everyone. We have a new friend today.",
+          "choices": [
+            "좋은 아침이에요. 오늘 새 선생님이 오셨어요.",
+            "좋은 아침이에요. 오늘 새 친구가 왔어요.",
+            "안녕히 가세요. 내일 새 친구가 와요."
+          ],
+          "answer": 1,
+          "explain": "new friend는 ‘새 친구’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "This is my friend, Mohan.",
+          "ko": "이 아이는 내 친구 Mohan이야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이 아이는 내 사촌 Minji야.",
+          "answers": [
+            "This is my cousin, Minji.",
+            "This is my cousin Minji."
+          ],
+          "hint": "This is my ____, ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "만나서 반가워, Mohan. 너는 어디에서 왔니?",
+          "answers": [
+            "Nice to meet you, Mohan. Where are you from?"
+          ],
+          "hint": "Nice to meet you, ____. Where ...?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이분은 우리 아빠셔.",
+          "answers": [
+            "This is my dad.",
+            "This is my father."
+          ],
+          "hint": "This is my ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Uju, this is my friend, Emma.",
+          "answer": "Uju, this is my friend, Emma.",
+          "distractors": [
+            "cousin,",
+            "are"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Nice to meet you, too. I'm from France.",
+          "answer": "Nice to meet you, too. I'm from France.",
+          "distractors": [
+            "Korea.",
+            "see"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Amy, 이 아이는 내 사촌 Sam이야.",
+          "answer": "Amy, this is my cousin, Sam.",
+          "distractors": [
+            "friend,",
+            "are"
+          ],
+          "explain": "부르는 이름(Amy,)을 먼저 말하고 ‘this is my cousin, Sam.’으로 소개해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 우주야. 나는 새로 왔어.",
+          "answer": "Hi, Uju. I'm new here.",
+          "distractors": [
+            "from",
+            "is"
+          ],
+          "explain": "‘새로 왔어’는 I'm new here.예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Minho는 한국에서 왔어요. Minho의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "하나",
+              "text": "Tom, this is my cousin, Minho."
+            },
+            {
+              "who": "Tom",
+              "text": "Hi, Minho. Nice to meet you. Where are you from?"
+            },
+            {
+              "who": "Minho",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Nice to meet you, too. I'm from Korea.",
+            "This is my cousin.",
+            "I'm from Canada."
+          ],
+          "answer": 0,
+          "explain": "인사에 답하고 출신 국가(한국)를 말해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Ms. Green: Good morning, everyone. This is our new friend, Sofia.\nSofia: Hello! Nice to meet you. I'm from France.\nClass: Nice to meet you, too!",
+          "question": "Sofia는 어느 나라에서 왔나요?",
+          "choices": [
+            "미국",
+            "베트남",
+            "프랑스"
+          ],
+          "answer": 2,
+          "explain": "Sofia는 ‘I'm from France.’라고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "This is my cousin, Sam. He is from Canada.",
+          "ko": "이 아이는 내 사촌 Sam이야. 그는 캐나다에서 왔어."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Write",
+      "studyPoint": "출신 국가를 묻고 답하는 문장 읽고 쓰기",
+      "objectives": [
+        "출신 국가를 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "‘Play 3’로 출신 국가를 묻고 답하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 12~13쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Practice 2 그림으로 짝과 대화하며 복습하기, 우표 속 간디 그림을 보고 ‘I'm from India.’ 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "얼굴에 국기를 그린 아이들의 말풍선을 읽고 알맞은 문장을 골라 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림을 보고 나라 이름을 골라 문장 완성하기, 단어와 문장 읽고 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "주사위를 굴려 세계 일주 말판 놀이를 하며 출신 국가를 묻고 답하기 (모둠)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "그림에 맞는 문장·단어 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Where are you from?",
+        "I'm from India.",
+        "I'm from Korea."
+      ],
+      "tip": "나라 이름의 첫 글자는 항상 대문자로 써요. (Korea, India, Canada)",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 출신 국가를 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm from ___.",
+          "ko": "나는 캐나다에서 왔어.",
+          "choices": [
+            "Canada",
+            "France",
+            "Vietnam"
+          ],
+          "answer": 0,
+          "explain": "캐나다는 Canada예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm from ___.",
+          "ko": "나는 베트남에서 왔어.",
+          "choices": [
+            "France",
+            "India",
+            "Vietnam"
+          ],
+          "answer": 2,
+          "explain": "베트남은 Vietnam이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Where ___ you from?",
+          "ko": "너는 어디에서 왔니?",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": 2,
+          "explain": "you와 함께 쓸 때는 are를 써요. Where are you from?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 인도에서 왔어.",
+          "answer": "I'm from India.",
+          "distractors": [
+            "are",
+            "to"
+          ],
+          "explain": "‘나는 ~에서 왔어’는 ‘I'm from 나라.’예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 프랑스에서 왔어.",
+          "answer": "I'm from France.",
+          "distractors": [
+            "the",
+            "you"
+          ],
+          "explain": "프랑스는 France, 첫 글자는 대문자예요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 한국에서 왔어요.",
+          "answers": [
+            "I'm from Korea.",
+            "I am from Korea."
+          ],
+          "hint": "I'm from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "너는 어디에서 왔니?",
+          "answers": [
+            "Where are you from?"
+          ],
+          "hint": "Where ____ you ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 미국에서 왔어요.",
+          "answers": [
+            "I'm from the U.S.",
+            "I am from the U.S.",
+            "I'm from the US",
+            "I am from the US",
+            "I'm from the U.S",
+            "I am from the U.S"
+          ],
+          "hint": "I'm from the ____."
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "I'm from canada.",
+            "i'm from Canada.",
+            "I'm from Canada.",
+            "I'm from Canada"
+          ],
+          "answer": 2,
+          "explain": "문장 첫 글자 I와 나라 이름 첫 글자는 대문자로 쓰고, 문장 끝에는 마침표(.)를 찍어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘Where are you from?’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "만나서 반가워.",
+            "너는 이름이 뭐니?",
+            "너는 어디에 가니?",
+            "너는 어디에서 왔니?"
+          ],
+          "answer": 3,
+          "explain": "Where are you from?은 출신 국가(어디에서 왔는지)를 묻는 말이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'm from the U.S.",
+          "answer": "I'm from the U.S.",
+          "distractors": [
+            "to",
+            "Korea."
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Ms. Green: Where are you from?\nRahul: I'm from India.\nMinji: I'm from Korea.\nKen: I'm from the U.S.",
+          "question": "Ken은 어느 나라에서 왔나요?",
+          "choices": [
+            "인도",
+            "한국",
+            "미국"
+          ],
+          "answer": 2,
+          "explain": "Ken은 ‘I'm from the U.S.’라고 했어요. the U.S.는 미국이에요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I'm from ___.",
+          "ko": "나는 인도에서 왔어.",
+          "choices": [
+            "France",
+            "Korea",
+            "India"
+          ],
+          "answer": 2,
+          "explain": "인도는 India예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ from Korea.",
+          "ko": "나는 한국에서 왔어.",
+          "choices": [
+            "I",
+            "I'm",
+            "You're"
+          ],
+          "answer": 1,
+          "explain": "‘나는 ~에서 왔어’는 I'm from ....이에요. I 뒤에는 am이 필요해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 캐나다에서 왔어요.",
+          "answers": [
+            "I'm from Canada.",
+            "I am from Canada."
+          ],
+          "hint": "I'm from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 베트남에서 왔어요.",
+          "answers": [
+            "I'm from Vietnam.",
+            "I am from Vietnam."
+          ],
+          "hint": "I'm from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 캐나다에서 왔어. 너는 어디에서 왔니?",
+          "answers": [
+            "I'm from Canada. Where are you from?",
+            "I am from Canada. Where are you from?"
+          ],
+          "hint": "I'm from ____. Where ...?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "Ken, 너는 어디에서 왔니?",
+          "answer": "Where are you from, Ken?",
+          "distractors": [
+            "What",
+            "is"
+          ],
+          "explain": "이름을 부를 때는 문장 끝에 쉼표와 함께 이름을 붙여요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "너는 어디에서 왔니? — 나는 미국에서 왔어.",
+          "answer": "Where are you from? I'm from the U.S.",
+          "distractors": [
+            "is",
+            "a"
+          ],
+          "explain": "질문 Where are you from?에 I'm from the U.S.로 답해요."
+        },
+        {
+          "type": "mc",
+          "prompt": "나라 이름을 바르게 쓴 것은?",
+          "choices": [
+            "Korea",
+            "korea",
+            "koRea"
+          ],
+          "answer": 0,
+          "explain": "나라 이름은 첫 글자만 대문자로 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I'm from India, too.",
+          "answer": "I'm from India, too.",
+          "distractors": [
+            "to",
+            "Korea."
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "‘I'm from Korea.’라고 말할 아이는 누구일까요?",
+          "choices": [
+            "🇮🇳 국기를 그린 아이",
+            "🇰🇷 국기를 그린 아이",
+            "🇨🇦 국기를 그린 아이"
+          ],
+          "answer": 1,
+          "explain": "태극기(🇰🇷)는 한국의 국기예요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Rahul, 너는 어디에서 왔니?",
+          "answers": [
+            "Where are you from, Rahul?",
+            "Rahul, where are you from?"
+          ],
+          "hint": "Where are you from, ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 인도에서 왔어. 너는 어디에서 왔니?",
+          "answers": [
+            "I'm from India. Where are you from?",
+            "I am from India. Where are you from?"
+          ],
+          "hint": "I'm from ____. Where ...?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나도 한국에서 왔어.",
+          "answers": [
+            "I'm from Korea, too.",
+            "I am from Korea, too.",
+            "I'm from Korea too.",
+            "I am from Korea too."
+          ],
+          "hint": "I'm from ____, too."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Where are you from, Marie? I'm from France.",
+          "answer": "Where are you from, Marie? I'm from France.",
+          "distractors": [
+            "Canada.",
+            "is"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hi, I'm Anh. I'm from Vietnam.",
+          "answer": "Hi, I'm Anh. I'm from Vietnam.",
+          "distractors": [
+            "India.",
+            "are"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 나는 Rahul이야. 나는 인도에서 왔어.",
+          "answer": "Hi, I'm Rahul. I'm from India.",
+          "distractors": [
+            "Canada.",
+            "is"
+          ],
+          "explain": "‘I'm 이름.’으로 소개하고 ‘I'm from 나라.’로 출신 국가를 말해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 프랑스에서 왔어. 너는?",
+          "answer": "I'm from France. How about you?",
+          "distractors": [
+            "What",
+            "is"
+          ],
+          "explain": "‘너는?’이라고 되물을 때 How about you?를 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "여자아이 얼굴에는 캐나다 국기가 그려져 있어요. 여자아이의 말을 고르세요.",
+          "lines": [
+            {
+              "who": "화가",
+              "text": "Where are you from?"
+            },
+            {
+              "who": "남자아이",
+              "text": "I'm from India."
+            },
+            {
+              "who": "여자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Where are you from?",
+            "I'm from India.",
+            "I'm from Canada."
+          ],
+          "answer": 2,
+          "explain": "여자아이 얼굴에는 캐나다 국기가 있으니 ‘I'm from Canada.’예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Marie is my cousin. She is from France. Ken is my friend. He is from the U.S. Rahul is my friend, too. He is from India.",
+          "question": "미국에서 온 친구는 누구인가요?",
+          "choices": [
+            "Marie",
+            "Ken",
+            "Rahul"
+          ],
+          "answer": 1,
+          "explain": "‘He is from the U.S.’ — Ken이 미국에서 왔어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Where are you from? I'm from Canada.",
+          "ko": "너는 어디에서 왔니? 나는 캐나다에서 왔어."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "자기를 소개하는 글 읽고 이해하기",
+      "objectives": [
+        "자기를 소개하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 14~15쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Read and Talk 문장으로 복습하기, 자기를 소개할 때 무엇을 말하는지 이야기하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "자유의 여신상과 베트남 거리 사진을 보고 어느 나라인지 추측하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "Mia와 Huy가 자기를 소개하는 글을 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "글의 내용에 맞게 표(이름, 출신 국가, 잘하는 것, 좋아하는 음식) 완성하기, Anika의 글 읽고 문장 완성하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "Paul의 소개 글을 읽고 문제 풀기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "My name is Mia.",
+        "I am from the U.S.",
+        "I can play baseball well.",
+        "I like hot dogs."
+      ],
+      "tip": "‘Xin chào(씬짜오)’는 베트남어로 ‘안녕하세요’라는 뜻이에요. 글을 읽을 때 손가락으로 한 문장씩 짚어 가며 읽어 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 자기를 소개하는 글을 읽고 이해할 수 있는가?",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "This is Mia. She is from the U.S. She can play baseball well. Her favorite food is hot dogs.",
+          "question": "Mia가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "자전거 타기",
+            "야구",
+            "수영"
+          ],
+          "answer": 1,
+          "explain": "‘She can play baseball well.’ — Mia는 야구를 잘해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello, everyone! I'm Mia. My country is the U.S. Baseball is my sport. I like hot dogs very much.",
+          "question": "Mia가 좋아하는 음식은 무엇인가요?",
+          "choices": [
+            "국수",
+            "피자",
+            "핫도그"
+          ],
+          "answer": 2,
+          "explain": "‘I like hot dogs very much.’ — Mia는 핫도그를 좋아해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "This boy says, \"Xin chào!\" His name is Huy. He is from Vietnam. He can ride a bike well. He likes noodles.",
+          "question": "Huy는 어느 나라에서 왔나요?",
+          "choices": [
+            "베트남",
+            "미국",
+            "인도"
+          ],
+          "answer": 0,
+          "explain": "‘He is from Vietnam.’ — Huy는 베트남에서 왔어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "This boy says, \"Xin chào!\" His name is Huy. He is from Vietnam. He can ride a bike well. He likes noodles.",
+          "question": "Huy가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "야구",
+            "배드민턴",
+            "자전거 타기",
+            "스케이트"
+          ],
+          "answer": 2,
+          "explain": "‘He can ride a bike well.’ — Huy는 자전거를 잘 타요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! My name is Lucas. I am from France. I can swim well. I like bread.",
+          "question": "Lucas에 대한 설명으로 맞지 않는 것은?",
+          "choices": [
+            "프랑스에서 왔다.",
+            "수영을 잘한다.",
+            "핫도그를 좋아한다."
+          ],
+          "answer": 2,
+          "explain": "Lucas는 빵(bread)을 좋아한다고 했어요. 핫도그는 나오지 않아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Mia: I can play baseball well.\nHuy: I can ride a bike well.\nMia: I like hot dogs.\nHuy: I like noodles.",
+          "question": "국수를 좋아하는 친구는 누구인가요?",
+          "choices": [
+            "Huy",
+            "Mia",
+            "둘 다"
+          ],
+          "answer": 0,
+          "explain": "Huy가 ‘I like noodles.’라고 했어요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘country’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "도시",
+            "학교",
+            "팀",
+            "나라"
+          ],
+          "answer": 3,
+          "explain": "country는 ‘나라’예요. ‘It's a beautiful country.’"
+        },
+        {
+          "type": "mc",
+          "prompt": "‘I can ride a bike well.’에서 ‘ride’의 뜻은?",
+          "choices": [
+            "(탈것을) 타다",
+            "먹다",
+            "좋아하다",
+            "가다"
+          ],
+          "answer": 0,
+          "explain": "ride는 자전거 같은 탈것을 ‘타다’라는 뜻이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘I can play baseball well.’에서 ‘well’의 뜻은?",
+          "choices": [
+            "함께",
+            "잘",
+            "아름다운",
+            "~에서"
+          ],
+          "answer": 1,
+          "explain": "well은 ‘잘’이라는 뜻이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "새 단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "about",
+              "~에 대해"
+            ],
+            [
+              "beautiful",
+              "아름다운"
+            ],
+            [
+              "cousin",
+              "사촌"
+            ],
+            [
+              "together",
+              "함께"
+            ],
+            [
+              "team",
+              "팀"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I can play baseball well.",
+          "choices": [
+            "나는 자전거를 잘 타.",
+            "나는 핫도그를 좋아해.",
+            "나는 야구를 잘해."
+          ],
+          "answer": 2,
+          "explain": "play baseball은 ‘야구를 하다’, well은 ‘잘’이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I can ___ a bike well.",
+          "ko": "나는 자전거를 잘 타요.",
+          "choices": [
+            "play",
+            "like",
+            "ride"
+          ],
+          "answer": 2,
+          "explain": "자전거를 ‘타다’는 ride를 써요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! I'm Emily. I'm from Canada. I can skate well. I like pizza.",
+          "question": "Emily가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "축구",
+            "스케이트 타기",
+            "수영"
+          ],
+          "answer": 1,
+          "explain": "‘I can skate well.’ — Emily는 스케이트를 잘 타요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! I'm Emily. I'm from Canada. I can skate well. I like pizza.",
+          "question": "Emily가 좋아하는 음식은 무엇인가요?",
+          "choices": [
+            "피자",
+            "치킨",
+            "국수"
+          ],
+          "answer": 0,
+          "explain": "‘I like pizza.’ — Emily는 피자를 좋아해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Xin chào! I'm Linh. I am from Vietnam. I can swim well. I like noodles.",
+          "question": "Linh에 대한 설명으로 맞는 것은?",
+          "choices": [
+            "미국에서 왔다.",
+            "핫도그를 좋아한다.",
+            "수영을 잘한다."
+          ],
+          "answer": 2,
+          "explain": "‘I can swim well.’ — Linh은 수영을 잘해요. 베트남에서 왔고 국수를 좋아해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "이름: Taeho\n출신 국가: Korea\n잘하는 것: play soccer\n좋아하는 음식: chicken",
+          "question": "표를 보고 Taeho가 할 말로 알맞은 것은?",
+          "choices": [
+            "I like noodles.",
+            "I can ride a bike well.",
+            "I can play soccer well."
+          ],
+          "answer": 2,
+          "explain": "Taeho가 잘하는 것은 축구(play soccer)예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Look at the two photos. The Statue of Liberty is in the U.S. Many people ride bikes on the streets of Vietnam.",
+          "question": "자유의 여신상이 있는 나라는 어디인가요?",
+          "choices": [
+            "베트남",
+            "미국",
+            "프랑스"
+          ],
+          "answer": 1,
+          "explain": "‘The Statue of Liberty is in the U.S.’ — 자유의 여신상은 미국에 있어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "I like noodles.",
+          "choices": [
+            "나는 국수를 좋아해.",
+            "나는 국수를 잘 만들어.",
+            "나는 핫도그를 좋아해."
+          ],
+          "answer": 0,
+          "explain": "noodles는 ‘국수’, like는 ‘좋아하다’예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Xin chào! My name is Huy. I am from Vietnam.",
+          "question": "‘Xin chào’는 어느 나라 말일까요?",
+          "choices": [
+            "베트남어",
+            "프랑스어",
+            "인도어"
+          ],
+          "answer": 0,
+          "explain": "Huy는 베트남에서 왔어요. Xin chào는 베트남어로 ‘안녕하세요’라는 뜻이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I like hot ___.",
+          "ko": "나는 핫도그를 좋아해요.",
+          "choices": [
+            "bikes",
+            "cats",
+            "dogs"
+          ],
+          "answer": 2,
+          "explain": "핫도그는 hot dogs예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "My name is Huy. I like noodles.",
+          "choices": [
+            "내 이름은 Huy야. 나는 자전거를 좋아해.",
+            "내 이름은 Huy야. 나는 국수를 좋아해.",
+            "내 이름은 Mia야. 나는 국수를 좋아해."
+          ],
+          "answer": 1,
+          "explain": "이름은 Huy, 좋아하는 것은 noodles(국수)예요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "play baseball",
+              "야구를 하다"
+            ],
+            [
+              "ride a bike",
+              "자전거를 타다"
+            ],
+            [
+              "hot dogs",
+              "핫도그"
+            ],
+            [
+              "noodles",
+              "국수"
+            ]
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! My name is Sofia. I am from France. I can swim well. I like bread. My cousin, Marie, is from France, too. She can play tennis well.",
+          "question": "Marie가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "수영",
+            "테니스",
+            "스케이트"
+          ],
+          "answer": 1,
+          "explain": "‘She can play tennis well.’ — Marie는 테니스를 잘 쳐요. 수영은 Sofia예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! I'm Rahul. I am from India. I can play badminton well. I like chicken. This is my friend, Jack. He is from Canada. He can skate well.",
+          "question": "캐나다에서 온 친구가 잘하는 것은?",
+          "choices": [
+            "스케이트",
+            "배드민턴",
+            "야구"
+          ],
+          "answer": 0,
+          "explain": "캐나다에서 온 Jack은 ‘He can skate well.’ — 스케이트를 잘 타요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Mia: I am from the U.S. I like hot dogs.\nHuy: I am from Vietnam. I like noodles.\nTaeho: I am from Korea. I like chicken.",
+          "question": "치킨을 좋아하는 친구는 어느 나라에서 왔나요?",
+          "choices": [
+            "미국",
+            "베트남",
+            "한국"
+          ],
+          "answer": 2,
+          "explain": "치킨을 좋아하는 Taeho는 한국에서 왔어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hello! My name is Lucas. ___ I can swim well. I like bread.",
+          "question": "Lucas는 프랑스 사람이에요. 빈칸에 알맞은 문장은?",
+          "choices": [
+            "I can France well.",
+            "I like France.",
+            "I am from France."
+          ],
+          "answer": 2,
+          "explain": "출신 국가는 ‘I am from 나라.’로 써요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 핫도그를 좋아해요.",
+          "answers": [
+            "I like hot dogs."
+          ],
+          "hint": "I like ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 수영을 잘해요.",
+          "answers": [
+            "I can swim well."
+          ],
+          "hint": "I can ____ well."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Xin chào! My name is Huy.",
+          "answer": "Xin chào! My name is Huy.",
+          "distractors": [
+            "am",
+            "Mia."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 베트남에서 왔어요. 나는 국수를 좋아해요.",
+          "answer": "I am from Vietnam. I like noodles.",
+          "distractors": [
+            "can",
+            "hot"
+          ],
+          "explain": "출신 국가 문장 다음에 좋아하는 음식 문장을 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Mia는 야구를 잘해요. Mia가 되어 선생님의 질문에 답해 보세요.",
+          "lines": [
+            {
+              "who": "선생님",
+              "text": "What can you do well, Mia?"
+            },
+            {
+              "who": "Mia",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I like hot dogs.",
+            "I can play baseball well.",
+            "I am from the U.S."
+          ],
+          "answer": 1,
+          "explain": "무엇을 잘하는지 물었으니 잘하는 것(야구)으로 답해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I am from the U.S. I can play baseball well.",
+          "ko": "나는 미국에서 왔어요. 나는 야구를 잘해요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "자기를 소개하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 자기를 소개하는 글을 쓸 수 있다.",
+        "자기를 소개하는 글을 발표하며 배운 내용을 활용할 수 있다."
+      ],
+      "pages": "교과서 16~17쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read 글을 짝과 번갈아 읽기, 헬렌 켈러가 되어 ‘My name is ... / I am from ...’ 문장 완성하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "그림을 보고 나라 이름 철자 완성하기(Words), 알맞은 말을 골라 문장 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "상상 속의 나를 그리고 이름·출신 국가·잘하는 것·좋아하는 음식을 정해 자기소개 글 쓰기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "자신이 쓴 글을 모둠에서 돌아가며 읽기, 자기·상호 평가",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Review / Check It / My Study",
+          "desc": "Taeho의 소개 글 읽고 질문에 답하기, 글의 빈칸 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "My name is Jack.",
+        "I am from Canada.",
+        "I can skate well.",
+        "I like pizza."
+      ],
+      "tip": "자기소개 글은 이름 → 출신 국가 → 잘하는 것 → 좋아하는 음식 순서로 써 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 자기를 소개하는 글을 쓸 수 있는가? 글을 모둠원과 공유하는 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 Sam이에요.",
+          "answers": [
+            "My name is Sam."
+          ],
+          "hint": "My name is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 인도에서 왔어요.",
+          "answers": [
+            "I am from India.",
+            "I'm from India."
+          ],
+          "hint": "I am from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 스케이트를 잘 타요.",
+          "answers": [
+            "I can skate well."
+          ],
+          "hint": "I can ____ well."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 피자를 좋아해요.",
+          "answers": [
+            "I like pizza."
+          ],
+          "hint": "I like ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 베트남에서 왔어요.",
+          "answer": "I am from Vietnam.",
+          "distractors": [
+            "are",
+            "to"
+          ],
+          "explain": "‘I am from 나라.’ 순서로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 수영을 잘해요.",
+          "answer": "I can swim well.",
+          "distractors": [
+            "like",
+            "good"
+          ],
+          "explain": "‘~을 잘해요’는 ‘I can ~ well.’이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내 이름은 Sofia예요.",
+          "answer": "My name is Sofia.",
+          "distractors": [
+            "I",
+            "am"
+          ],
+          "explain": "‘내 이름은 ~예요’는 ‘My name is ~.’예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I ___ from Canada.",
+          "ko": "나는 캐나다에서 왔어요.",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": 1,
+          "explain": "I 다음에는 am을 써요. I am from Canada."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I like ___.",
+          "ko": "나는 빵을 좋아해요.",
+          "choices": [
+            "pizza",
+            "noodles",
+            "bread"
+          ],
+          "answer": 2,
+          "explain": "빵은 bread예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "자기소개 글에서 ‘좋아하는 음식’을 쓸 때 알맞은 문장 틀은?",
+          "choices": [
+            "My name is ____.",
+            "I am from ____.",
+            "I can ____ well.",
+            "I like ____."
+          ],
+          "answer": 3,
+          "explain": "좋아하는 것은 ‘I like ____.’로 써요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Yuna. I am from Korea. I can dance well. I like kimbap.",
+          "question": "Yuna가 잘하는 것은 무엇인가요?",
+          "choices": [
+            "춤추기",
+            "스케이트 타기",
+            "노래하기"
+          ],
+          "answer": 0,
+          "explain": "‘I can dance well.’ — Yuna는 춤을 잘 춰요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I can ride a bike well.",
+          "ko": "나는 자전거를 잘 타요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 Jack이에요.",
+          "answers": [
+            "My name is Jack."
+          ],
+          "hint": "My name is ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 프랑스에서 왔어요.",
+          "answers": [
+            "I am from France.",
+            "I'm from France."
+          ],
+          "hint": "I am from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 테니스를 잘 쳐요.",
+          "answers": [
+            "I can play tennis well."
+          ],
+          "hint": "I can play ____ well."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 치킨을 좋아해요.",
+          "answer": "I like chicken.",
+          "distractors": [
+            "can",
+            "well."
+          ],
+          "explain": "좋아하는 것은 ‘I like ....’로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 배드민턴을 잘 쳐요.",
+          "answer": "I can play badminton well.",
+          "distractors": [
+            "like",
+            "ride"
+          ],
+          "explain": "운동을 잘한다고 할 때는 ‘I can play 운동 well.’이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "My ___ is Marie.",
+          "ko": "내 이름은 Marie예요.",
+          "choices": [
+            "name",
+            "from",
+            "like"
+          ],
+          "answer": 0,
+          "explain": "‘내 이름’은 my name이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "I can ___ well.",
+          "ko": "나는 춤을 잘 춰요.",
+          "choices": [
+            "dance",
+            "swim",
+            "skate"
+          ],
+          "answer": 0,
+          "explain": "‘춤추다’는 dance예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I can play soccer well.",
+          "answer": "I can play soccer well.",
+          "distractors": [
+            "like",
+            "ride"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "My name is Ana. I am from France. I can play tennis well. I like bread.",
+          "question": "Ana에 대한 표를 완성할 때 ‘좋아하는 음식’ 칸에 쓸 말은?",
+          "choices": [
+            "tennis",
+            "France",
+            "bread"
+          ],
+          "answer": 2,
+          "explain": "‘I like bread.’ — 좋아하는 음식은 bread(빵)예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "My name is Jack. I am from Canada.",
+          "ko": "내 이름은 Jack이에요. 나는 캐나다에서 왔어요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 이름은 Taeho예요. 나는 한국에서 왔어요.",
+          "answers": [
+            "My name is Taeho. I am from Korea.",
+            "My name is Taeho. I'm from Korea."
+          ],
+          "hint": "My name is ____. I am from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 축구를 잘해요. 나는 치킨을 좋아해요.",
+          "answers": [
+            "I can play soccer well. I like chicken."
+          ],
+          "hint": "I can ____ ____ well. I like ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "나는 자전거를 잘 타요. 나는 국수를 좋아해요.",
+          "answers": [
+            "I can ride a bike well. I like noodles."
+          ],
+          "hint": "I can ____ a ____ well. I like ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "My name is Rani. I am from India.",
+          "answer": "My name is Rani. I am from India.",
+          "distractors": [
+            "Korea.",
+            "are"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "I can swim well. I like bread.",
+          "answer": "I can swim well. I like bread.",
+          "distractors": [
+            "play",
+            "pizza."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 캐나다에서 왔어요. 나는 스케이트를 잘 타요.",
+          "answer": "I am from Canada. I can skate well.",
+          "distractors": [
+            "like",
+            "is"
+          ],
+          "explain": "출신 국가 → 잘하는 것 순서로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 미국에서 왔어요. 나는 피자를 좋아해요.",
+          "answer": "I am from the U.S. I like pizza.",
+          "distractors": [
+            "can",
+            "hot"
+          ],
+          "explain": "미국은 the U.S., 좋아하는 것은 I like ....예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "내가 쓴 글: My name is Sofia. I am from France. I can swim well. I like bread.",
+          "lines": [
+            {
+              "who": "친구",
+              "text": "What's your name?"
+            },
+            {
+              "who": "나",
+              "text": "My name is Sofia."
+            },
+            {
+              "who": "친구",
+              "text": "Where are you from?"
+            },
+            {
+              "who": "나",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I can swim well.",
+            "I am from France.",
+            "I like bread."
+          ],
+          "answer": 1,
+          "explain": "출신 국가를 물었으니 ‘I am from France.’로 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! My name is Minji. I am from Korea. I can sing well. I like tteokbokki.",
+          "question": "Minji의 자기소개 표로 알맞은 것은? (출신 국가 – 잘하는 것 – 좋아하는 음식)",
+          "choices": [
+            "한국 – 춤 – 떡볶이",
+            "한국 – 노래 – 떡볶이",
+            "인도 – 노래 – 치킨"
+          ],
+          "answer": 1,
+          "explain": "Korea(한국), sing(노래), tteokbokki(떡볶이)예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello! My name is Minji. I can sing well.",
+          "ko": "안녕하세요! 내 이름은 민지예요. 나는 노래를 잘해요."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project & My Work",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 18~19쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "Read and Talk 문장을 읽고 손가락으로 손바닥에 써 보기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "모둠별 나라를 정해 자신만의 여권을 만들고, 입국 심사관에게 출신 국가를 묻고 답하는 입국 심사대 놀이 하기 (모둠)",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 친구와 출신 국가 연결하기, 상황에 맞는 대화하기, 글 읽고 문제 풀기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 점검하고 ‘정리해요’ 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Where are you from?",
+        "I'm from Korea.",
+        "This is my friend, Emily.",
+        "Nice to meet you."
+      ],
+      "tip": "입국 심사관이 ‘Where are you from?’이라고 물으면 여권에 쓴 나라로 ‘I'm from ....’라고 답해요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 Cindy가 온 나라의 국기를 고르세요.",
+          "audio": "This is my cousin, Cindy. Nice to meet you, Cindy. Where are you from? I'm from Canada.",
+          "choices": [
+            "🇨🇦",
+            "🇺🇸",
+            "🇮🇳"
+          ],
+          "answer": 0,
+          "explain": "Cindy는 ‘I'm from Canada.’라고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "내 여권에는 ‘France’라고 쓰여 있어요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "입국 심사관",
+              "text": "Where are you from?"
+            },
+            {
+              "who": "나",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from France.",
+            "I'm from Korea.",
+            "Nice to meet you."
+          ],
+          "answer": 0,
+          "explain": "여권에 쓴 나라인 프랑스로 답해야 해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! My name is Rahul. I am from India. I can play badminton well. I like chicken.",
+          "question": "Rahul과 관계없는 것은?",
+          "choices": [
+            "인도",
+            "배드민턴",
+            "치킨",
+            "야구"
+          ],
+          "answer": 3,
+          "explain": "Rahul은 배드민턴을 잘한다고 했어요. 야구는 나오지 않아요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이 아이는 내 사촌 Sam이야.",
+          "answer": "This is my cousin, Sam.",
+          "distractors": [
+            "friend,",
+            "from"
+          ],
+          "explain": "사촌을 소개할 때는 ‘This is my cousin, 이름.’이라고 해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Nice to meet you, Emily.",
+          "answer": "Nice to meet you, Emily.",
+          "distractors": [
+            "too",
+            "Hello"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "질문과 알맞은 대답을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Where are you from?",
+              "I'm from Korea."
+            ],
+            [
+              "This is my friend, Emily.",
+              "Nice to meet you, Emily."
+            ],
+            [
+              "Nice to meet you.",
+              "Nice to meet you, too."
+            ],
+            [
+              "What's your name?",
+              "My name is Rahul."
+            ]
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Nice to meet ___.",
+          "ko": "만나서 반가워.",
+          "choices": [
+            "me",
+            "you",
+            "from"
+          ],
+          "answer": 1,
+          "explain": "‘만나서 반가워’는 ‘Nice to meet you.’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'm from Korea.",
+          "ko": "나는 한국에서 왔어."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "이 아이는 내 친구 Emily야.",
+          "answers": [
+            "This is my friend, Emily.",
+            "This is my friend Emily."
+          ],
+          "hint": "This is my ____, ____."
+        },
+        {
+          "type": "mc",
+          "prompt": "팀 이름 ‘KOINCA’는 세 나라 이름의 앞 두 글자를 모아 만들었어요. ‘IN’은 어느 나라일까요?",
+          "emoji": "🚩",
+          "choices": [
+            "Korea",
+            "Canada",
+            "France",
+            "India"
+          ],
+          "answer": 3,
+          "explain": "KO는 Korea, IN은 India, CA는 Canada예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "에펠 탑이 있는 나라는 어디일까요?",
+          "emoji": "🗼",
+          "choices": [
+            "France",
+            "India",
+            "Canada",
+            "Korea"
+          ],
+          "answer": 0,
+          "explain": "에펠 탑은 프랑스 파리에 있는 대표 건축물이에요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 국기를 고르세요.",
+          "audio": "My name is Rahul. I'm from India.",
+          "choices": [
+            "🇫🇷",
+            "🇻🇳",
+            "🇮🇳"
+          ],
+          "answer": 2,
+          "explain": "Rahul은 인도(India)에서 왔어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "내 여권에는 ‘India’라고 쓰여 있어요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "입국 심사관",
+              "text": "Hello. Where are you from?"
+            },
+            {
+              "who": "나",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from India.",
+            "I'm from Vietnam.",
+            "This is my friend."
+          ],
+          "answer": 0,
+          "explain": "여권에 쓴 나라인 인도로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "This is my friend, Emily."
+            },
+            {
+              "who": "남자아이",
+              "text": "Nice to meet you, Emily."
+            },
+            {
+              "who": "Emily",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Where is Emily?",
+            "This is my friend.",
+            "Nice to meet you, too."
+          ],
+          "answer": 2,
+          "explain": "‘Nice to meet you.’에는 ‘Nice to meet you, too.’로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "이 아이는 내 친구 Rahul이야.",
+          "answer": "This is my friend, Rahul.",
+          "distractors": [
+            "cousin,",
+            "from"
+          ],
+          "explain": "친구를 소개할 때는 ‘This is my friend, 이름.’이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "안녕, 내 이름은 Jane이야.",
+          "answer": "Hi, my name is Jane.",
+          "distractors": [
+            "am",
+            "from"
+          ],
+          "explain": "‘내 이름은 ~야’는 my name is ....예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "We have a new friend.",
+          "answer": "We have a new friend.",
+          "distractors": [
+            "are",
+            "teacher."
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Hello, what's your ___?",
+          "ko": "안녕, 네 이름은 뭐니?",
+          "choices": [
+            "from",
+            "country",
+            "name"
+          ],
+          "answer": 2,
+          "explain": "이름을 물을 때는 ‘What's your name?’이라고 해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "This is my ___, Cindy.",
+          "ko": "이 아이는 내 사촌 Cindy야.",
+          "choices": [
+            "friend",
+            "cousin",
+            "teacher"
+          ],
+          "answer": 1,
+          "explain": "‘사촌’은 cousin이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "나라와 대표 상징을 짝지어 보세요.",
+          "pairs": [
+            [
+              "France",
+              "에펠 탑"
+            ],
+            [
+              "the U.S.",
+              "자유의 여신상"
+            ],
+            [
+              "India",
+              "타지마할"
+            ],
+            [
+              "Korea",
+              "경복궁"
+            ],
+            [
+              "Canada",
+              "단풍잎"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 Jane이 온 나라의 국기를 고르세요.",
+          "audio": "Hi, I'm Jane. I'm from the U.S.",
+          "choices": [
+            "🇺🇸",
+            "🇨🇦",
+            "🇫🇷"
+          ],
+          "answer": 0,
+          "explain": "Jane은 미국(the U.S.)에서 왔어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Hello, what's your name?",
+          "ko": "안녕, 네 이름은 뭐니?"
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "안녕, 나는 Cindy야. 나는 캐나다에서 왔어.",
+          "answers": [
+            "Hi, I'm Cindy. I'm from Canada.",
+            "Hi, I'm Cindy. I am from Canada.",
+            "Hi, I am Cindy. I am from Canada.",
+            "Hello, I'm Cindy. I'm from Canada.",
+            "Hello, I'm Cindy. I am from Canada."
+          ],
+          "hint": "Hi, I'm ____. I'm from ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Cindy, 너는 어디에서 왔니?",
+          "answers": [
+            "Where are you from, Cindy?",
+            "Cindy, where are you from?"
+          ],
+          "hint": "Where are you from, ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "만나서 반가워, Rahul. 나는 한국에서 왔어.",
+          "answers": [
+            "Nice to meet you, Rahul. I'm from Korea.",
+            "Nice to meet you, Rahul. I am from Korea."
+          ],
+          "hint": "Nice to meet you, ____. I'm from ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "This is my teacher. Nice to meet you.",
+          "answer": "This is my teacher. Nice to meet you.",
+          "distractors": [
+            "cousin.",
+            "too"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hello, what's your name? My name is Rahul.",
+          "answer": "Hello, what's your name? My name is Rahul.",
+          "distractors": [
+            "are",
+            "Jane."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "얘는 내 친구 Emily야. 그리고 이 아이는 내 사촌 Sam이야.",
+          "answer": "This is my friend, Emily. This is my cousin, Sam.",
+          "distractors": [
+            "teacher,",
+            "from"
+          ],
+          "explain": "친구는 friend, 사촌은 cousin으로 소개해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "나는 한국에서 왔어. 나는 축구를 잘해.",
+          "answer": "I am from Korea. I can play soccer well.",
+          "distractors": [
+            "like",
+            "is"
+          ],
+          "explain": "‘I am from 나라.’ 다음에 ‘I can ~ well.’을 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "선생님은 베트남에서 오셨어요. 선생님의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "Hi. Nice to meet you."
+            },
+            {
+              "who": "선생님",
+              "text": "Nice to meet you, too."
+            },
+            {
+              "who": "남자아이",
+              "text": "Where are you from?"
+            },
+            {
+              "who": "선생님",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "I'm from Vietnam.",
+            "I'm from France.",
+            "This is my teacher."
+          ],
+          "answer": 0,
+          "explain": "선생님은 베트남에서 오셨으니 ‘I'm from Vietnam.’이에요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Hi! I'm Leo. I am from France. I can play tennis well. I like bread. This is my friend, Taeho. He is from Korea. He can play soccer well.",
+          "question": "Taeho에 대한 설명으로 알맞은 것은?",
+          "choices": [
+            "프랑스에서 왔다.",
+            "테니스를 잘한다.",
+            "축구를 잘한다."
+          ],
+          "answer": 2,
+          "explain": "‘He can play soccer well.’ — Taeho는 축구를 잘해요. 테니스는 Leo예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "I'm from Korea. Nice to meet you, too.",
+          "ko": "나는 한국에서 왔어. 나도 만나서 반가워."
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "교실에서 처음 만난 Tom, Mohan, 하나가 인사하며 출신 국가를 묻고 답해요.",
+      "lines": [
+        {
+          "who": "Mohan",
+          "text": "Hello, my name is Mohan."
+        },
+        {
+          "who": "하나",
+          "text": "Hello, Mohan. I'm Hana."
+        },
+        {
+          "who": "Tom",
+          "text": "Hello, I'm Tom. Nice to meet you."
+        },
+        {
+          "who": "Mohan",
+          "text": "Nice to meet you, too. Where are you from, Tom?"
+        },
+        {
+          "who": "Tom",
+          "text": "I'm from Canada."
+        },
+        {
+          "who": "Mohan",
+          "text": "Wow, it's a beautiful country."
+        },
+        {
+          "who": "Tom",
+          "text": "Thank you. Where are you from, Mohan?"
+        },
+        {
+          "who": "Mohan",
+          "text": "I'm from India."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "새로 이사 온 Linh이 우주에게 아빠를 소개하고, 교실에서 Amy가 Linh에게 우주를 소개해요.",
+      "lines": [
+        {
+          "who": "우주",
+          "text": "Where are you from?"
+        },
+        {
+          "who": "Linh",
+          "text": "I'm from Vietnam."
+        },
+        {
+          "who": "Linh",
+          "text": "Uju, this is my dad."
+        },
+        {
+          "who": "우주",
+          "text": "Nice to meet you. I'm Uju."
+        },
+        {
+          "who": "Linh 아빠",
+          "text": "Hi, Uju. Nice to meet you, too."
+        },
+        {
+          "who": "Amy",
+          "text": "I'm from the U.S. This is my friend, Uju."
+        },
+        {
+          "who": "Linh",
+          "text": "Hi, Uju."
+        },
+        {
+          "who": "우주",
+          "text": "Welcome, Linh."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "Emma와 민우가 출신 국가를 묻고 답하고, Jesse가 Olivia에게 사촌 Peter를 소개해요.",
+      "lines": [
+        {
+          "who": "Emma",
+          "text": "Hi, I'm Emma."
+        },
+        {
+          "who": "민우",
+          "text": "Hi, Emma. Where are you from?"
+        },
+        {
+          "who": "Emma",
+          "text": "I'm from France. Where are you from?"
+        },
+        {
+          "who": "민우",
+          "text": "I'm from Korea."
+        },
+        {
+          "who": "Jesse",
+          "text": "This is my cousin, Peter."
+        },
+        {
+          "who": "Olivia",
+          "text": "Nice to meet you, Peter."
+        },
+        {
+          "who": "Peter",
+          "text": "Nice to meet you, too."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "자기를 소개하는 글",
+    "passage": "Meet two new friends! This is Mia. She is from the U.S. She can play baseball well, and her favorite food is hot dogs. This is Huy. He says \"Xin chào!\" to everyone. He is from Vietnam. He can ride a bike well. He likes noodles very much.",
+    "summaryKo": "미국에서 온 Mia(야구, 핫도그)와 베트남에서 온 Huy(자전거, 국수)가 자기를 소개해요."
+  },
+  "writing": {
+    "frame": [
+      "My name is ____.",
+      "I am from ____.",
+      "I can ____ well.",
+      "I like ____."
+    ],
+    "model": "My name is Leo. I am from Canada. I can play soccer well. I like chicken."
+  },
+  "project": "모둠별로 한 나라를 정해 그 나라에 어울리는 자신의 모습·이름·출신 국가를 쓴 여권을 만들고, 방문할 나라의 도장을 그린 뒤 입국 심사관에게 ‘Where are you from?’ ‘I'm from ....’를 주고받는 입국 심사대 놀이를 한다.",
+  "special": {
+    "no": 1,
+    "kind": "Into the World",
+    "title": "동화 속 인물들을 만나 봐요",
+    "summaryKo": "숲속에서 앨리스, 돈키호테, 지니, 삐삐가 만났어요. 서로 이름과 어느 나라에서 왔는지 묻고 답하고, 친구를 소개한 뒤 다 함께 파티를 하기로 해요.",
+    "facts": [
+      "《이상한 나라의 앨리스》는 영국의 루이스 캐럴이 쓴 동화예요. 만화에서 앨리스는 영국(the U.K.)에서 왔다고 해요.",
+      "《돈키호테》는 스페인의 세르반테스가 쓴 소설이에요. 만화에서 돈키호테는 스페인(Spain)에서 왔다고 해요.",
+      "지니가 나오는 《알라딘과 요술 램프》는 여러 지역의 이야기를 모은 《천일야화》에 실린 이야기예요.",
+      "《말괄량이 삐삐》는 스웨덴의 아스트리드 린드그렌이 쓴, 힘이 아주 센 소녀 삐삐의 모험 이야기예요."
+    ],
+    "expressions": [
+      "Where are you from? — I'm from the U.K. / I'm from Spain.",
+      "This is my friend, Genie. — Nice to meet you.",
+      "Nice to meet you, too."
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "만화에서 앨리스는 어느 나라에서 왔다고 했나요?",
+        "choices": [
+          "스페인",
+          "미국",
+          "스웨덴",
+          "영국"
+        ],
+        "answer": 3,
+        "explain": "앨리스는 ‘I'm from the U.K.’라고 했어요. the U.K.는 영국이에요."
+      },
+      {
+        "type": "mc",
+        "prompt": "만화에서 돈키호테는 어느 나라에서 왔다고 했나요?",
+        "choices": [
+          "영국",
+          "프랑스",
+          "스페인",
+          "인도"
+        ],
+        "answer": 2,
+        "explain": "돈키호테는 ‘I'm from Spain.’이라고 했어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "《말괄량이 삐삐》를 쓴 아스트리드 린드그렌은 어느 나라 작가인가요?",
+        "choices": [
+          "영국",
+          "스웨덴",
+          "스페인",
+          "미국"
+        ],
+        "answer": 1,
+        "explain": "《말괄량이 삐삐》는 스웨덴 작가가 쓴 동화예요."
+      },
+      {
+        "type": "mc",
+        "prompt": "지니가 나오는 《알라딘과 요술 램프》가 실린 이야기 모음집은?",
+        "choices": [
+          "《천일야화》",
+          "《돈키호테》",
+          "《이상한 나라의 앨리스》"
+        ],
+        "answer": 0,
+        "explain": "《알라딘과 요술 램프》는 《천일야화》에 실린 이야기예요."
+      },
+      {
+        "type": "mc",
+        "prompt": "《돈키호테》를 쓴 작가는 누구인가요?",
+        "choices": [
+          "루이스 캐럴",
+          "아스트리드 린드그렌",
+          "세르반테스"
+        ],
+        "answer": 2,
+        "explain": "《돈키호테》는 스페인의 세르반테스가 썼어요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "앨리스는 영국에서 왔어요. 앨리스의 대답을 고르세요.",
+        "lines": [
+          {
+            "who": "돈키호테",
+            "text": "Where are you from?"
+          },
+          {
+            "who": "앨리스",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "I'm from the U.K. Where are you from?",
+          "I'm from Spain.",
+          "Let's have a party."
+        ],
+        "answer": 0,
+        "explain": "앨리스는 영국에서 왔으니 ‘I'm from the U.K.’라고 답해요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "앨리스",
+            "text": "This is my friend, Genie."
+          },
+          {
+            "who": "지니",
+            "text": "Nice to meet you."
+          },
+          {
+            "who": "돈키호테",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "Nice to meet you, too.",
+          "I'm from Spain.",
+          "Okay."
+        ],
+        "answer": 0,
+        "explain": "‘Nice to meet you.’에는 ‘Nice to meet you, too.’로 답해요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "Hey! Let's have a party.",
+        "choices": [
+          "안녕, 앨리스.",
+          "너는 어느 나라에서 왔니?",
+          "이봐! 파티를 하자."
+        ],
+        "answer": 2,
+        "explain": "삐삐가 친구들에게 파티를 하자고 했어요."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2295 @@
+{
+ "id": "L12",
+ "no": 12,
+ "grade": 4,
+ "semester": 2,
+ "title": "What Do You Do?",
+ "emoji": "🧑‍⚕️",
+ "rationale": "학생이 자신의 소질과 적성을 알고 꿈을 키우는 것은 매우 중요하다. 상대방과 다른 사람의 직업을 묻고 답하는 말을 익히며 다양한 직업에 관심을 두게 하고, 자신의 장래 직업에 대해 생각해 보게 한다.",
+ "topics": "학교생활 관련(학교 활동), 사회생활 관련(일, 지역 행사), 민주시민 관련(봉사)",
+ "functions": [
+  {
+   "ko": "상대방의 직업 묻고 답하기",
+   "examples": [
+    "What do you do?",
+    "I'm a doctor."
+   ]
+  },
+  {
+   "ko": "다른 사람의 직업 묻고 답하기",
+   "examples": [
+    "What does he do?",
+    "He's a model.",
+    "What does she do?",
+    "She's a pilot."
+   ]
+  }
+ ],
+ "forms": [
+  "What do you do? - I'm a doctor.",
+  "What does he / she do? - He's / She's a model.",
+  "He / She is a doctor [nurse / painter / pilot / teacher / writer]."
+ ],
+ "phonics": {
+  "focus": "o /ɑː/",
+  "words": [
+   "doctor",
+   "model",
+   "mom"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "cool",
+   "ko": "멋진"
+  },
+  {
+   "en": "doctor",
+   "ko": "의사"
+  },
+  {
+   "en": "model",
+   "ko": "모델"
+  },
+  {
+   "en": "nurse",
+   "ko": "간호사"
+  },
+  {
+   "en": "painter",
+   "ko": "화가"
+  },
+  {
+   "en": "pilot",
+   "ko": "비행기 조종사"
+  },
+  {
+   "en": "teacher",
+   "ko": "선생님, 교사"
+  },
+  {
+   "en": "uncle",
+   "ko": "삼촌, 외삼촌"
+  },
+  {
+   "en": "writer",
+   "ko": "작가"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "doctor",
+   "ko": "의사",
+   "emoji": "🩺"
+  },
+  {
+   "en": "nurse",
+   "ko": "간호사",
+   "emoji": "🏥"
+  },
+  {
+   "en": "painter",
+   "ko": "화가",
+   "emoji": "🧑‍🎨"
+  },
+  {
+   "en": "pilot",
+   "ko": "비행기 조종사",
+   "emoji": "🧑‍✈️"
+  },
+  {
+   "en": "teacher",
+   "ko": "선생님",
+   "emoji": "🧑‍🏫"
+  },
+  {
+   "en": "writer",
+   "ko": "작가",
+   "emoji": "✍️"
+  },
+  {
+   "en": "model",
+   "ko": "모델",
+   "emoji": "📸"
+  },
+  {
+   "en": "dancer",
+   "ko": "무용수, 댄서",
+   "emoji": "💃"
+  },
+  {
+   "en": "cook",
+   "ko": "요리사",
+   "emoji": "🧑‍🍳"
+  }
+ ],
+ "characters": [
+  "Sam",
+  "보라",
+  "Eric",
+  "Kate",
+  "Mr. Jones",
+  "Momo",
+  "준오",
+  "Hoa",
+  "Hoa의 삼촌",
+  "요리사",
+  "Paul",
+  "화가",
+  "Cora",
+  "하나",
+  "걸리버",
+  "소인들"
+ ],
+ "goals": {
+  "understand": [
+   "상대방의 직업을 묻고 답하는 말, 다른 사람의 직업을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "다른 사람의 직업을 소개하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /ɑː/와 철자 ‘o’의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "다양한 직업에 관해 관심을 두고 모든 직업을 소중하게 생각하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "상대방의 직업을 묻고 답하는 말, 다른 사람의 직업을 묻고 답하는 말을 할 수 있다.",
+   "다른 사람의 직업을 소개하는 문장을 보고 쓸 수 있다.",
+   "소리 /ɑː/와 철자 ‘o’의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "상대방과 다른 사람의 직업을 존중하는 태도를 기르고, 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "상대방의 직업 묻고 답하기",
+   "objectives": [
+    "상대방의 직업을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 ‘직업 기차 만들기’로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 112~113쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Let's Learn / My Study",
+     "desc": "직업과 관련된 동작을 보고 직업 추측하기, 우리 주변에서 볼 수 있는 직업 이야기하기, 단원 목표 확인 및 학습 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1 / 표현 익히기",
+     "desc": "시청각실에서 직업 발표 수업을 하며 Sam(댄서)과 보라(의사)가 직업을 말하는 만화 영화 보기, 친구들이 발표한 직업 연결하기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "찬트를 하며 들은 순서대로 직업 그림 짚기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "직업 그림 카드를 들고 ‘What do you do?’로 묻고 답하며 같은 직업끼리 줄을 서서 직업 기차 만들기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "직업 그림 카드로 짝과 묻고 답하며 복습, 대화 듣고 알맞은 그림 고르기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What do you do?",
+    "I'm a doctor.",
+    "I'm a dancer."
+   ],
+   "tip": "‘What do you do?’는 직업을 묻는 말이에요. ‘I'm a + 직업.’으로 답해요. 지금 하고 있는 일을 묻는 ‘What are you doing?’과 헷갈리지 마세요!",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가(수행평가) — 상대방의 직업을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "직업 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "doctor",
+       "의사"
+      ],
+      [
+       "nurse",
+       "간호사"
+      ],
+      [
+       "teacher",
+       "선생님"
+      ],
+      [
+       "pilot",
+       "비행기 조종사"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "직업 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "painter",
+       "화가"
+      ],
+      [
+       "writer",
+       "작가"
+      ],
+      [
+       "model",
+       "모델"
+      ],
+      [
+       "dancer",
+       "무용수, 댄서"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 직업을 고르세요.",
+     "emoji": "🧑‍✈️",
+     "choices": [
+      "doctor",
+      "writer",
+      "pilot",
+      "painter"
+     ],
+     "answer": 2,
+     "explain": "🧑‍✈️는 비행기 조종사, pilot이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 직업을 고르세요.",
+     "emoji": "🧑‍🏫",
+     "choices": [
+      "teacher",
+      "nurse",
+      "model",
+      "pilot"
+     ],
+     "answer": 0,
+     "explain": "🧑‍🏫는 선생님, teacher예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm a doctor.",
+     "choices": [
+      "나는 간호사야.",
+      "나는 의사야.",
+      "나는 선생님이야."
+     ],
+     "answer": 1,
+     "explain": "doctor는 의사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm a teacher.",
+     "choices": [
+      "🧑‍🏫",
+      "🧑‍✈️",
+      "🧑‍🎨"
+     ],
+     "answer": 0,
+     "explain": "teacher는 선생님이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What do you do?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "당신은 지금 무엇을 하고 있나요?",
+      "당신의 직업은 무엇인가요?",
+      "당신은 무엇을 원하나요?"
+     ],
+     "answer": 1,
+     "explain": "‘What do you do?’는 직업을 묻는 말이에요. 지금 하고 있는 일은 ‘What are you doing?’으로 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam의 직업은 무용수(댄서)예요. Sam의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "What do you do?"
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm a dancer.",
+      "I'm dancing.",
+      "I'm a doctor."
+     ],
+     "answer": 0,
+     "explain": "직업을 물었으니 ‘I'm a dancer.’라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "보라는 의사가 되어 발표하고 있어요. 보라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "What do you do, Bora?"
+      },
+      {
+       "who": "Bora",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm a teacher.",
+      "I'm Bora.",
+      "I'm a doctor."
+     ],
+     "answer": 2,
+     "explain": "의사이니 ‘I'm a doctor.’라고 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm a ___.",
+     "ko": "나는 간호사야.",
+     "choices": [
+      "nurse",
+      "writer",
+      "pilot"
+     ],
+     "answer": 0,
+     "explain": "간호사는 nurse예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "당신의 직업은 무엇인가요?",
+     "answer": "What do you do?",
+     "distractors": [
+      "does",
+      "are"
+     ],
+     "explain": "상대방의 직업은 ‘What do you do?’로 물어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What do you do?",
+     "ko": "당신의 직업은 무엇인가요?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "?"
+      },
+      {
+       "who": "Mr. Han",
+       "text": "I'm a teacher. I like my students."
+      }
+     ],
+     "choices": [
+      "Mr. Han, what are you doing?",
+      "Mr. Han, what do you do?",
+      "Mr. Han, who's she?"
+     ],
+     "answer": 1,
+     "explain": "‘I'm a teacher.’는 직업을 말하는 대답이니 직업을 묻는 말이 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What do you ___, Jina?",
+     "ko": "Jina, 당신의 직업은 무엇인가요?",
+     "choices": [
+      "does",
+      "doing",
+      "do"
+     ],
+     "answer": 2,
+     "explain": "상대방의 직업은 ‘What do you do?’로 물어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대답한 사람의 직업을 고르세요.",
+     "audio": "What do you do? I'm a writer.",
+     "choices": [
+      "작가",
+      "화가",
+      "모델"
+     ],
+     "answer": 0,
+     "explain": "writer는 작가예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm a cook.",
+     "answer": "I'm a cook.",
+     "distractors": [
+      "an",
+      "cooking."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 화가야.",
+     "answer": "I'm a painter.",
+     "distractors": [
+      "an",
+      "painting"
+     ],
+     "explain": "화가는 painter예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "패션쇼에서 멋진 옷을 입고 걷는 일을 하는 사람이 할 말은?",
+     "emoji": "📸",
+     "choices": [
+      "I'm a nurse.",
+      "I'm a writer.",
+      "I'm a model."
+     ],
+     "answer": 2,
+     "explain": "모델은 model이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘You look nice.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "너 멋져 보여.",
+      "너 피곤해 보여.",
+      "너 바빠 보여."
+     ],
+     "answer": 0,
+     "explain": "look nice는 ‘멋져 보이다’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mr. Jones",
+       "text": "Are you ready?"
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "Yes, I am.",
+      "I'm a dancer."
+     ],
+     "answer": 1,
+     "explain": "‘Are you ...?’에는 ‘Yes, I am.’이나 ‘No, I'm not.’으로 답해요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 직업을 짝지어 보세요.",
+     "pairs": [
+      [
+       "🩺",
+       "doctor"
+      ],
+      [
+       "🧑‍✈️",
+       "pilot"
+      ],
+      [
+       "🧑‍🎨",
+       "painter"
+      ],
+      [
+       "✍️",
+       "writer"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look! Momo is dancing!",
+     "ko": "봐! Momo가 춤추고 있어!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "의사",
+     "answers": [
+      "doctor"
+     ],
+     "hint": "d o c t _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "안녕, 나는 Leo야. 나는 비행기 조종사야.",
+     "answers": [
+      "Hi, I'm Leo. I'm a pilot.",
+      "Hello, I'm Leo. I'm a pilot.",
+      "Hi, I am Leo. I am a pilot.",
+      "Hello, I am Leo. I am a pilot.",
+      "Hi, I'm Leo. I am a pilot.",
+      "Hello, I'm Leo. I am a pilot."
+     ],
+     "hint": "Hi, I'm Leo. I'm a p _ l o t."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Mr. Kim, 당신의 직업은 무엇인가요?",
+     "answers": [
+      "What do you do, Mr. Kim?",
+      "Mr. Kim, what do you do?"
+     ],
+     "hint": "What do you d _, Mr. Kim?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What do you do? I'm a nurse.",
+     "answer": "What do you do? I'm a nurse.",
+     "distractors": [
+      "does",
+      "doctor."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Job Day at School\nAmy: What do you do?\nJake: I'm a pilot.\nAmy: What do you do, Lisa?\nLisa: I'm a writer.",
+     "question": "Lisa의 직업은 무엇인가요?",
+     "choices": [
+      "비행기 조종사",
+      "화가",
+      "작가"
+     ],
+     "answer": 2,
+     "explain": "Lisa는 ‘I'm a writer.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi! I'm Ms. Lee. I'm a painter. I can draw cats and dogs. I like my job.",
+     "question": "Ms. Lee가 할 수 있는 것은 무엇인가요?",
+     "choices": [
+      "노래하기",
+      "고양이와 개 그리기",
+      "비행기 조종하기"
+     ],
+     "answer": 1,
+     "explain": "‘I can draw cats and dogs.’라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Hello. What do you do?"
+      },
+      {
+       "who": "Woman",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Wow! I like airplanes."
+      }
+     ],
+     "choices": [
+      "I'm a nurse.",
+      "I'm a writer.",
+      "I'm a pilot."
+     ],
+     "answer": 2,
+     "explain": "남자아이가 비행기를 좋아한다고 했으니 비행기 조종사(pilot)가 가장 알맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 의사가 아니야. 나는 간호사야.",
+     "answer": "I'm not a doctor. I'm a nurse.",
+     "distractors": [
+      "isn't",
+      "teacher."
+     ],
+     "explain": "‘~가 아니야’는 ‘I'm not a ~.’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 대화가 자연스러운 것은?",
+     "choices": [
+      "A: What do you do? B: I'm fine.",
+      "A: What do you do? B: I'm a model.",
+      "A: What do you do? B: Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "직업을 물으면 ‘I'm a + 직업.’으로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you ready? You look nice.",
+     "ko": "준비됐니? 너 멋져 보여."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "상대방의 직업 묻고 답하기 / 다른 사람의 직업 묻고 답하기",
+   "objectives": [
+    "상대방의 직업을 묻고 답하는 말을 할 수 있다.",
+    "다른 사람의 직업을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "‘What Do You Do?’ 노래와 ‘직업 말판 놀이’를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 114~115쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "직업과 관련된 물건 사진을 보며 직업 묻고 답하기, 유명인 사진으로 다른 사람의 직업을 묻는 말 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "지역 공동체 센터 ‘이웃 사랑 나눔’ 행사에서 요리사를 만나고, Hoa의 삼촌(모델)의 직업을 묻는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "화가에게 직업을 묻고, 하나의 엄마(조종사)를 소개하는 동영상 보고 따라 말하기, 짝과 다른 사람의 직업을 묻고 답하며 붙임딱지 붙이기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "‘What Do You Do?’ 노래를 모둠별로 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "직업 말판에서 말을 옮기며 ‘What does he / she do?’로 묻고 답하고, 별표 칸에서는 ‘What do you do?’로 묻고 답하기, 수준별 활동(보충: 동작 보고 직업 추측하기 / 심화: 직업 묻고 답하며 계단 오르기)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "말판 그림을 보며 복습, 상황에 알맞은 대화하기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What does he do?",
+    "He's a model.",
+    "What does she do? - She's a pilot."
+   ],
+   "tip": "남자는 he, 여자는 she! ‘What does he do?’에는 ‘He's a ....’, ‘What does she do?’에는 ‘She's a ....’로 답해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 상대방의 직업을 묻고 답하는 말을 할 수 있는가? 다른 사람의 직업을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "uncle",
+       "삼촌"
+      ],
+      [
+       "cool",
+       "멋진"
+      ],
+      [
+       "he",
+       "그(남자)"
+      ],
+      [
+       "she",
+       "그녀(여자)"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "‘What does she do?’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그녀의 직업은 무엇이니?",
+      "그녀는 지금 무엇을 하고 있니?",
+      "그녀는 누구니?"
+     ],
+     "answer": 0,
+     "explain": "‘What does she do?’는 다른 사람(여자)의 직업을 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "He's a model.",
+     "choices": [
+      "그녀는 모델이야.",
+      "그는 화가야.",
+      "그는 모델이야."
+     ],
+     "answer": 2,
+     "explain": "He는 남자, model은 모델이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "She's a writer.",
+     "choices": [
+      "🧑‍✈️",
+      "✍️",
+      "🧑‍🍳"
+     ],
+     "answer": 1,
+     "explain": "writer는 작가예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ he do?",
+     "ko": "그의 직업은 무엇이니?",
+     "choices": [
+      "does",
+      "do",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "he, she의 직업을 물을 때는 does를 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ a nurse.",
+     "ko": "그녀는 간호사야.",
+     "choices": [
+      "He's",
+      "She's",
+      "I'm"
+     ],
+     "answer": 1,
+     "explain": "‘그녀는 ~이야.’는 ‘She's ~.’예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa의 삼촌은 모델이에요. Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "What does he do?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She's a model.",
+      "He's my uncle.",
+      "He's a model."
+     ],
+     "answer": 2,
+     "explain": "직업을 물었으니 ‘He's a model.’이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Who's he?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's my uncle.",
+      "Yes, he is.",
+      "I'm Hoa."
+     ],
+     "answer": 0,
+     "explain": "‘Who's he?’는 그가 누구인지 묻는 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그의 직업은 무엇이니?",
+     "answer": "What does he do?",
+     "distractors": [
+      "do",
+      "is"
+     ],
+     "explain": "다른 사람(남자)의 직업은 ‘What does he do?’로 물어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘cook’의 뜻으로 알맞은 것은?",
+     "emoji": "🧑‍🍳",
+     "choices": [
+      "의사",
+      "요리사",
+      "작가"
+     ],
+     "answer": 1,
+     "explain": "cook은 ‘요리사’ 또는 ‘요리하다’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "여자 선생님을 소개하는 말로 알맞은 것은?",
+     "emoji": "👩‍🏫",
+     "choices": [
+      "She's a teacher.",
+      "He's a teacher.",
+      "I'm a teacher."
+     ],
+     "answer": 0,
+     "explain": "여자는 She, 선생님은 teacher예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "She's a teacher. She's cool.",
+     "ko": "그녀는 선생님이야. 그녀는 멋져."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "하나의 엄마는 비행기 조종사예요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Cora",
+       "text": "What does she do?"
+      },
+      {
+       "who": "Hana",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "He's a pilot.",
+      "She's my mom.",
+      "She's a pilot."
+     ],
+     "answer": 2,
+     "explain": "엄마(여자)의 직업을 말하니 ‘She's a pilot.’이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자는 화가가 아니라 요리사예요. 여자의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Are you a painter?"
+      },
+      {
+       "who": "Woman",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am.",
+      "No, I'm not. I'm a cook.",
+      "No, I'm not. I'm a painter."
+     ],
+     "answer": 1,
+     "explain": "화가가 아니니 ‘No, I'm not.’이라고 하고 요리사(cook)라고 말해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 아빠의 직업을 고르세요.",
+     "audio": "Who's he? He's my dad. What does he do? He's a doctor.",
+     "choices": [
+      "간호사",
+      "선생님",
+      "의사"
+     ],
+     "answer": 2,
+     "explain": "‘He's a doctor.’라고 했어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What does ___ do?",
+     "ko": "그녀의 직업은 무엇이니?",
+     "choices": [
+      "he",
+      "she",
+      "you"
+     ],
+     "answer": 1,
+     "explain": "‘그녀’는 she예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, he's cool.",
+     "answer": "Wow, he's cool.",
+     "distractors": [
+      "she's",
+      "cold."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 의사야.",
+     "answer": "She's a doctor.",
+     "distractors": [
+      "He's",
+      "an"
+     ],
+     "explain": "여자는 She's, 의사는 doctor예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "남자 화가를 소개하는 말로 알맞은 것은?",
+     "emoji": "👨‍🎨",
+     "choices": [
+      "He's a painter.",
+      "She's a painter.",
+      "He's a writer."
+     ],
+     "answer": 0,
+     "explain": "남자는 He, 화가는 painter예요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "He's a pilot.",
+       "그는 비행기 조종사야."
+      ],
+      [
+       "She's a nurse.",
+       "그녀는 간호사야."
+      ],
+      [
+       "He's a teacher.",
+       "그는 선생님이야."
+      ],
+      [
+       "She's a model.",
+       "그녀는 모델이야."
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "?"
+      },
+      {
+       "who": "Ann",
+       "text": "He's a writer."
+      }
+     ],
+     "choices": [
+      "Ann, what do you do?",
+      "Ann, who's she?",
+      "Ann, what does he do?"
+     ],
+     "answer": 2,
+     "explain": "‘He's a writer.’는 그(남자)의 직업을 말하는 대답이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's he? He's my uncle.",
+     "ko": "그는 누구니? 그는 우리 삼촌이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "삼촌",
+     "answers": [
+      "uncle"
+     ],
+     "hint": "u n c _ e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀는 화가야.",
+     "answers": [
+      "She's a painter.",
+      "She is a painter."
+     ],
+     "hint": "She's a p _ _ n t e r."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Sora, 그녀의 직업은 무엇이니?",
+     "answers": [
+      "Sora, what does she do?",
+      "What does she do, Sora?"
+     ],
+     "hint": "Sora, what d _ _ s she do?"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my aunt, Mina. She's a nurse. She helps sick people. She's very nice.",
+     "question": "Mina 이모의 직업은 무엇인가요?",
+     "choices": [
+      "의사",
+      "간호사",
+      "작가"
+     ],
+     "answer": 1,
+     "explain": "‘She's a nurse.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Family\nMy dad is a pilot.\nMy mom is a writer.\nMy uncle is a cook.",
+     "question": "글쓴이 엄마의 직업은 무엇인가요?",
+     "choices": [
+      "작가",
+      "비행기 조종사",
+      "요리사"
+     ],
+     "answer": 0,
+     "explain": "‘My mom is a writer.’라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What does she do? She's a model.",
+     "answer": "What does she do? She's a model.",
+     "distractors": [
+      "he",
+      "doctor."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 누구니? 그녀는 우리 엄마야.",
+     "answer": "Who's she? She's my mom.",
+     "distractors": [
+      "He's",
+      "What"
+     ],
+     "explain": "‘Who's she?’로 묻고 ‘She's my mom.’으로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kim",
+       "text": "Who's he?"
+      },
+      {
+       "who": "Jun",
+       "text": "He's my brother."
+      },
+      {
+       "who": "Kim",
+       "text": "?"
+      },
+      {
+       "who": "Jun",
+       "text": "He's a painter."
+      }
+     ],
+     "choices": [
+      "Cool! What does she do?",
+      "Cool! What are you doing?",
+      "Cool! What does he do?"
+     ],
+     "answer": 2,
+     "explain": "Jun이 형의 직업을 답했으니 남자의 직업을 묻는 ‘What does he do?’가 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: What does he do? B: She's a nurse.",
+      "A: What does she do? B: She's a nurse.",
+      "A: Who's he? B: He's my uncle."
+     ],
+     "answer": 0,
+     "explain": "he(그)에 대해 물었는데 She(그녀)로 답하면 어색해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What does he do? He's a pilot.",
+     "ko": "그의 직업은 무엇이니? 그는 비행기 조종사야."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "읽기·쓰기",
+   "icon": "pencil",
+   "studyPoint": "다른 사람의 직업을 소개하는 문장 읽고 쓰기 / ‘o’가 들어가는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "다른 사람의 직업을 소개하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /ɑː/와 철자 ‘o’의 관계를 이해하며 ‘o’가 들어가는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "‘우리 마을 사람의 직업 소개하기’의 협력 과업으로 다른 사람의 직업을 소개하는 문장을 읽고 쓰며, 다른 사람의 직업을 묻고 답하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 116~117쪽, 135쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "My Turn의 직업 그림으로 다른 사람의 직업 묻고 답하기, 학생들이 아는 교사 사진의 일부를 보고 누구인지 추측하며 직업 소개 문장 소개하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "앨범 사진 아래의 직업 소개 문장을 읽고 네 번째 빈칸에 알맞은 문장 골라 넣기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Match",
+     "desc": "문장을 읽고 알맞은 직업을 가진 사람 찾아 연결하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Write and Say / 스스로 다지기",
+     "desc": "동네에서 만난 이웃의 직업을 소개하는 문장을 순서대로 쓰고 말하기, My Turn: 자주 만나는 이웃의 직업 소개 문장 쓰기",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "o /ɑː/ 소리와 입 모양 익히기, doctor·model·mom 따라 읽기, 확인 문제, 빈칸 철자 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "모둠별로 마을 사람 네 명을 정해 그림과 ‘He / She is a ....’ 문장으로 직업 소개 포스터를 만들고 반 친구들과 묻고 답하기",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "포스터 문장 읽고 쓰며 복습, 확인 문제, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "He is a pilot.",
+    "She is a doctor.",
+    "doctor, model, mom"
+   ],
+   "tip": "말할 때는 He's / She's로 줄여 말하지만, 문장을 읽고 쓸 때는 He is / She is로 익혀요. doctor, model, mom의 o는 입을 크게 벌려 [아]처럼 소리 내요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "심",
+    "공"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가(수행평가, 포트폴리오) — 다른 사람의 직업을 소개하는 문장을 소리 내어 읽고 의미를 이해하며 보고 쓸 수 있는가? /ɑː/와 ‘o’의 관계를 이해하며 단어를 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "그림과 직업을 짝지어 보세요.",
+     "pairs": [
+      [
+       "🩺",
+       "doctor"
+      ],
+      [
+       "✍️",
+       "writer"
+      ],
+      [
+       "🧑‍🎨",
+       "painter"
+      ],
+      [
+       "🧑‍✈️",
+       "pilot"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "hot",
+     "choices": [
+      "hat",
+      "hot",
+      "hit"
+     ],
+     "answer": 1,
+     "explain": "hot[핫]의 o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "doctor",
+     "choices": [
+      "doctor",
+      "dancer",
+      "teacher"
+     ],
+     "answer": 0,
+     "explain": "doctor[닥터]의 o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘엄마’를 뜻하는 단어를 고르세요.",
+     "emoji": "👩",
+     "choices": [
+      "map",
+      "mom",
+      "man"
+     ],
+     "answer": 1,
+     "explain": "mom[맘]의 o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘She is a nurse.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그는 간호사이다.",
+      "그녀는 의사이다.",
+      "그녀는 간호사이다."
+     ],
+     "answer": 2,
+     "explain": "She는 그녀, nurse는 간호사예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘He is a writer.’에 알맞은 그림을 고르세요.",
+     "choices": [
+      "✍️",
+      "🧑‍✈️",
+      "🩺"
+     ],
+     "answer": 0,
+     "explain": "writer는 글을 쓰는 작가예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "d___ctor",
+     "ko": "의사",
+     "choices": [
+      "a",
+      "u",
+      "o"
+     ],
+     "answer": 2,
+     "explain": "의사는 doctor예요. o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ is a teacher.",
+     "ko": "그는 선생님이다.",
+     "choices": [
+      "He",
+      "She",
+      "I"
+     ],
+     "answer": 0,
+     "explain": "‘그는’은 He예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 o가 /ɑ/ 소리가 나는 단어는?",
+     "choices": [
+      "sun",
+      "dog",
+      "bed",
+      "cat"
+     ],
+     "answer": 1,
+     "explain": "dog[독]의 o가 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 의사이다.",
+     "answer": "She is a doctor.",
+     "distractors": [
+      "He",
+      "am"
+     ],
+     "explain": "‘그녀는 ~이다.’는 ‘She is a ~.’예요."
+    },
+    {
+     "type": "match",
+     "prompt": "그림과 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🐶",
+       "dog"
+      ],
+      [
+       "📦",
+       "box"
+      ],
+      [
+       "🔥",
+       "hot"
+      ],
+      [
+       "🦊",
+       "fox"
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "doctor, model, mom",
+     "ko": "의사, 모델, 엄마"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "top",
+     "choices": [
+      "tap",
+      "tip",
+      "top"
+     ],
+     "answer": 2,
+     "explain": "top[탑]의 o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가운데 o가 /ɑ/ 소리가 나는 단어는?",
+     "choices": [
+      "pet",
+      "pat",
+      "pit",
+      "pot"
+     ],
+     "answer": 3,
+     "explain": "pot[팟]의 o가 /ɑ/ 소리가 나요. pot은 냄비예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Album\nPicture 1: He is a pilot.\nPicture 2: She is a doctor.\nPicture 3: She is a painter.\nPicture 4: He is a writer.",
+     "question": "2번 사진 속 의사는 남자인가요, 여자인가요?",
+     "choices": [
+      "남자",
+      "알 수 없어요",
+      "여자"
+     ],
+     "answer": 2,
+     "explain": "‘She is a doctor.’ She는 여자예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She is a ___.",
+     "ko": "그녀는 화가이다.",
+     "choices": [
+      "painter",
+      "pilot",
+      "writer"
+     ],
+     "answer": 0,
+     "explain": "화가는 painter예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He is a nurse.",
+     "answer": "He is a nurse.",
+     "distractors": [
+      "She",
+      "doctor."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 비행기 조종사이다.",
+     "answer": "He is a pilot.",
+     "distractors": [
+      "She",
+      "an"
+     ],
+     "explain": "‘그는 ~이다.’는 ‘He is a ~.’예요."
+    },
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "He is a painter.",
+       "그는 화가이다."
+      ],
+      [
+       "She is a teacher.",
+       "그녀는 선생님이다."
+      ],
+      [
+       "He is a model.",
+       "그는 모델이다."
+      ],
+      [
+       "She is a cook.",
+       "그녀는 요리사이다."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "책을 쓰는 여자를 소개하는 문장으로 알맞은 것은?",
+     "emoji": "✍️",
+     "choices": [
+      "He is a writer.",
+      "She is a nurse.",
+      "She is a writer."
+     ],
+     "answer": 2,
+     "explain": "여자이고 글을 쓰는 작가이니 ‘She is a writer.’예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "상자",
+     "answers": [
+      "box"
+     ],
+     "hint": "b _ x"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "He is a writer. She is a painter.",
+     "ko": "그는 작가이다. 그녀는 화가이다."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "간호사",
+     "answers": [
+      "nurse"
+     ],
+     "hint": "n _ r s e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 의사이다.",
+     "answers": [
+      "He is a doctor.",
+      "He's a doctor."
+     ],
+     "hint": "He is a d _ c t o r."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "모델",
+     "answers": [
+      "model"
+     ],
+     "hint": "m _ d e l"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Town\nThis is Mr. Kim. He is a doctor.\nThis is Ms. Lee. She is a teacher.\nThis is Mr. Park. He is a pilot.",
+     "question": "Ms. Lee의 직업은 무엇인가요?",
+     "choices": [
+      "의사",
+      "선생님",
+      "비행기 조종사"
+     ],
+     "answer": 1,
+     "explain": "‘She is a teacher.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my street. Ms. Han is a writer. She writes books. Mr. Choi is a painter. He draws pictures.",
+     "question": "그림을 그리는 사람은 누구인가요?",
+     "choices": [
+      "Mr. Choi",
+      "Ms. Han",
+      "글쓴이"
+     ],
+     "answer": 0,
+     "explain": "Mr. Choi는 화가(painter)이고 그림을 그려요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "She is a nurse. He is a doctor.",
+     "answer": "She is a nurse. He is a doctor.",
+     "distractors": [
+      "teacher.",
+      "am"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그녀는 우리 엄마야. 그녀는 비행기 조종사이다.",
+     "answer": "She is my mom. She is a pilot.",
+     "distractors": [
+      "He",
+      "his"
+     ],
+     "explain": "‘우리 엄마’는 my mom이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "fox",
+     "choices": [
+      "fix",
+      "fax",
+      "fox"
+     ],
+     "answer": 2,
+     "explain": "fox[팍스]의 o는 /ɑ/ 소리가 나요. fox는 여우예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 가운데 소리가 나머지와 다른 단어는?",
+     "choices": [
+      "bus",
+      "fox",
+      "sun",
+      "cup"
+     ],
+     "answer": 1,
+     "explain": "bus, sun, cup의 u는 /ʌ/ 소리이고, fox의 o는 /ɑ/ 소리예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My mom is a model.",
+     "ko": "우리 엄마는 모델이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "‘Story Time’에서 ‘걸리버 여행기’ 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 118~119쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Work Together 포스터의 문장을 읽으며 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "‘걸리버 여행기’ 원작 이야기하기, 그림 보고 이야기 추측, 만화 영화 보며 줄거리 이해, HOW ABOUT YOU?(소인이라면 걸리버에게 어떻게 고마움을 나타낼지), 따라 말하기, 모둠 역할극",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "단어 퍼즐에서 직업을 찾아 그림과 연결하고 문장 완성하기, 존경하는 사람의 직업 소개 문장 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "4차시 성취도 점검, ‘정리해요’에 느낀 점과 복습 계획 쓰기, Special 단원 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Are you a nurse? - No, I'm not.",
+    "What do you do? - I'm a doctor.",
+    "What does he do? - He is a painter."
+   ],
+   "tip": "역할극에서 직업을 물을 때 상대에게는 ‘What do you do?’, 다른 사람에 대해서는 ‘What does he / she do?’를 써요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가(수행평가), My Work 자기 평가(지필평가) — 배운 표현을 활용하여 역할극을 잘할 수 있는가? 역할극에 적극 참여하는가? 단원 내용을 문제를 풀며 정리할 수 있는가? (단원평가 지도서 802쪽)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Little man: Thank you. Are you a nurse?\nGulliver: No, I'm not.\nLittle man: What do you do?\nGulliver: I'm a doctor.",
+     "question": "걸리버의 직업은 무엇인가요?",
+     "choices": [
+      "의사",
+      "간호사",
+      "화가"
+     ],
+     "answer": 0,
+     "explain": "걸리버가 ‘I'm a doctor.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Gulliver: What does he do?\nLittle woman: He is a painter.",
+     "question": "‘he’의 직업은 무엇인가요?",
+     "choices": [
+      "요리사",
+      "화가",
+      "작가"
+     ],
+     "answer": 1,
+     "explain": "‘He is a painter.’라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "cook",
+       "요리사"
+      ],
+      [
+       "uncle",
+       "삼촌"
+      ],
+      [
+       "cool",
+       "멋진"
+      ],
+      [
+       "writer",
+       "작가"
+      ]
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Little man",
+       "text": "This is for you."
+      },
+      {
+       "who": "Gulliver",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "I'm a doctor.",
+      "Oh, thanks."
+     ],
+     "answer": 2,
+     "explain": "선물을 받으면 ‘Oh, thanks.’라고 고마움을 표현해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Are you a nurse?",
+     "choices": [
+      "당신은 간호사인가요?",
+      "당신은 의사인가요?",
+      "그는 간호사인가요?"
+     ],
+     "answer": 0,
+     "explain": "nurse는 간호사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I'm cooking dinner.",
+     "choices": [
+      "🎨",
+      "🍳",
+      "📖"
+     ],
+     "answer": 1,
+     "explain": "cooking dinner는 저녁을 요리하고 있다는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ you do?",
+     "ko": "당신의 직업은 무엇인가요?",
+     "choices": [
+      "do",
+      "does",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "상대방의 직업은 ‘What do you do?’로 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Gulliver",
+       "text": "Can I help you?"
+      },
+      {
+       "who": "Little woman",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm a doctor.",
+      "Sure.",
+      "He is a painter."
+     ],
+     "answer": 1,
+     "explain": "도움을 제안하면 ‘Sure.’라고 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "‘This is for you.’의 뜻으로 알맞은 것은?",
+     "choices": [
+      "이것은 너를 위한 거야.",
+      "이것은 너의 것이니?",
+      "이것은 무엇이니?"
+     ],
+     "answer": 0,
+     "explain": "for you는 ‘너를 위한’이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 화가이다.",
+     "answer": "He is a painter.",
+     "distractors": [
+      "She",
+      "paint"
+     ],
+     "explain": "‘그는 ~이다.’는 ‘He is a ~.’예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "dog",
+     "choices": [
+      "dig",
+      "dog",
+      "dug"
+     ],
+     "answer": 1,
+     "explain": "dog[독]의 o는 /ɑ/ 소리가 나요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What do you do? I'm a doctor.",
+     "ko": "당신의 직업은 무엇인가요? 나는 의사예요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Gulliver sees a little woman. \"What are you doing?\" he asks. \"I'm cooking dinner,\" she says. Gulliver helps her. \"Thank you!\"",
+     "question": "소인 여자는 무엇을 하고 있었나요?",
+     "choices": [
+      "그림 그리기",
+      "책 읽기",
+      "저녁 요리하기"
+     ],
+     "answer": 2,
+     "explain": "‘I'm cooking dinner.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "The little people say, \"Gulliver, come here.\" They give him a picture. \"This is for you.\" \"Oh, thanks!\" says Gulliver. Then they have a party.",
+     "question": "소인들이 걸리버에게 준 선물은 무엇인가요?",
+     "choices": [
+      "그림",
+      "쿠키",
+      "모자"
+     ],
+     "answer": 0,
+     "explain": "‘They give him a picture.’ — 그림을 주었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "Are you a nurse?"
+      },
+      {
+       "who": "Ted",
+       "text": "?"
+      },
+      {
+       "who": "Ann",
+       "text": "What do you do?"
+      },
+      {
+       "who": "Ted",
+       "text": "I'm a doctor."
+      }
+     ],
+     "choices": [
+      "Yes, I am.",
+      "Sure.",
+      "No, I'm not."
+     ],
+     "answer": 2,
+     "explain": "Ted는 간호사가 아니라 의사이니 ‘No, I'm not.’이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Gulliver",
+       "text": "?"
+      },
+      {
+       "who": "Little man",
+       "text": "He is a painter."
+      }
+     ],
+     "choices": [
+      "What do you do?",
+      "What does he do?",
+      "What are you doing?"
+     ],
+     "answer": 1,
+     "explain": "‘He is a painter.’는 그(남자)의 직업을 말하는 대답이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Gulliver, come here. This is for you.",
+     "answer": "Gulliver, come here. This is for you.",
+     "distractors": [
+      "your",
+      "go"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ is a cook.",
+     "ko": "그녀는 요리사야.",
+     "choices": [
+      "He",
+      "You",
+      "She"
+     ],
+     "answer": 2,
+     "explain": "‘그녀는’은 She예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "당신은 화가인가요?",
+     "answer": "Are you a painter?",
+     "distractors": [
+      "Is",
+      "do"
+     ],
+     "explain": "‘당신은 ~인가요?’는 ‘Are you a ~?’예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "비행기를 조종하는 사람의 직업은 무엇인가요?",
+     "emoji": "✈️",
+     "choices": [
+      "painter",
+      "pilot",
+      "model"
+     ],
+     "answer": 1,
+     "explain": "비행기 조종사는 pilot이에요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "작가",
+     "answers": [
+      "writer"
+     ],
+     "hint": "w r _ t e r"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you a painter? No, I'm not.",
+     "ko": "당신은 화가인가요? 아니요, 그렇지 않아요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Gulliver is in a land of little people. Some little people are hurt. Gulliver helps them. \"Are you a nurse?\" \"No, I'm not. I'm a doctor.\" A little man draws a picture of Gulliver. He is a painter. At the end, they all have a party.",
+     "question": "이야기의 내용과 맞는 것은?",
+     "choices": [
+      "소인 화가가 걸리버의 그림을 그렸어요.",
+      "걸리버는 간호사예요.",
+      "걸리버가 저녁을 요리했어요."
+     ],
+     "answer": 0,
+     "explain": "‘A little man draws a picture of Gulliver. He is a painter.’라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Job Fair\n- I'm Ben. My dad is a doctor.\n- I'm Yuna. My mom is a pilot.\n- I'm Max. My uncle is a writer.",
+     "question": "Yuna 엄마의 직업은 무엇인가요?",
+     "choices": [
+      "의사",
+      "비행기 조종사",
+      "작가"
+     ],
+     "answer": 1,
+     "explain": "Yuna가 ‘My mom is a pilot.’이라고 했어요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀의 직업은 무엇이니?",
+     "answers": [
+      "What does she do?"
+     ],
+     "hint": "What d _ _ s she do?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 비행기 조종사야.",
+     "answers": [
+      "He's a pilot.",
+      "He is a pilot."
+     ],
+     "hint": "He's a p _ l _ t."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What are you doing? I'm cooking dinner.",
+     "answer": "What are you doing? I'm cooking dinner.",
+     "distractors": [
+      "do",
+      "lunch."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 누구니? 그는 우리 삼촌이야.",
+     "answer": "Who's he? He's my uncle.",
+     "distractors": [
+      "She's",
+      "What"
+     ],
+     "explain": "‘Who's he?’로 묻고 ‘He's my uncle.’로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "Who's she?"
+      },
+      {
+       "who": "Jin",
+       "text": "She's my aunt."
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      },
+      {
+       "who": "Jin",
+       "text": "She's a writer."
+      }
+     ],
+     "choices": [
+      "What does she do?",
+      "What does he do?",
+      "Who's he?"
+     ],
+     "answer": 0,
+     "explain": "Jin이 이모의 직업을 답했으니 여자의 직업을 묻는 ‘What does she do?’가 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kid",
+       "text": "What do you do?"
+      },
+      {
+       "who": "Woman",
+       "text": "?"
+      },
+      {
+       "who": "Kid",
+       "text": "Wow! Can you draw my dog?"
+      },
+      {
+       "who": "Woman",
+       "text": "Sure."
+      }
+     ],
+     "choices": [
+      "I'm a pilot.",
+      "I'm a nurse.",
+      "I'm a painter."
+     ],
+     "answer": 2,
+     "explain": "아이가 강아지를 그려 줄 수 있냐고 물었으니 화가(painter)가 알맞아요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 짝지어진 대화가 어색한 것은?",
+     "choices": [
+      "A: Are you a nurse? B: No, I'm not.",
+      "A: Are you a nurse? B: Sure.",
+      "A: What does he do? B: He is a painter."
+     ],
+     "answer": 1,
+     "explain": "‘Are you a nurse?’에는 ‘Yes, I am.’이나 ‘No, I'm not.’으로 답해야 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Who's she? What does she do?",
+     "ko": "그녀는 누구니? 그녀의 직업은 무엇이니?"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "시청각실에서 직업 발표 수업을 하며 친구들이 직업을 묻고 답해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "What do you do?"
+    },
+    {
+     "who": "Sam",
+     "text": "I'm a dancer."
+    },
+    {
+     "who": "보라",
+     "text": "Look! Momo is dancing!"
+    },
+    {
+     "who": "Eric",
+     "text": "What do you do, Bora?"
+    },
+    {
+     "who": "보라",
+     "text": "I'm a doctor."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "‘이웃 사랑 나눔’ 행사에서 그림을 그리는 요리사를 만나고, Hoa의 삼촌을 소개받아요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Are you a painter?"
+    },
+    {
+     "who": "여자",
+     "text": "No, I'm not. I'm a cook."
+    },
+    {
+     "who": "Sam",
+     "text": "What does he do?"
+    },
+    {
+     "who": "Hoa",
+     "text": "He's a model."
+    },
+    {
+     "who": "Eric",
+     "text": "Wow, he's cool."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "Paul이 화가에게 직업을 묻고, 하나가 Cora에게 엄마(조종사)를 소개해요.",
+   "lines": [
+    {
+     "who": "Paul",
+     "text": "What do you do?"
+    },
+    {
+     "who": "화가",
+     "text": "I'm a painter."
+    },
+    {
+     "who": "Cora",
+     "text": "What does she do?"
+    },
+    {
+     "who": "하나",
+     "text": "She's a pilot."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "걸리버 여행기 — 소인국에서 다친 소인들을 치료해 준 걸리버가 소인들에게 그림 선물을 받아요.",
+   "lines": [
+    {
+     "who": "소인 1",
+     "text": "Are you a nurse?"
+    },
+    {
+     "who": "걸리버",
+     "text": "No, I'm not."
+    },
+    {
+     "who": "소인 2",
+     "text": "What do you do?"
+    },
+    {
+     "who": "걸리버",
+     "text": "I'm a doctor."
+    },
+    {
+     "who": "걸리버",
+     "text": "What does he do?"
+    },
+    {
+     "who": "소인 3",
+     "text": "He is a painter."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 걸리버 여행기",
+  "passage": "Gulliver lands in a country of tiny people. He takes care of the hurt little people, and they ask if he is a nurse. He tells them he is a doctor. Later he helps a little cook reach things on a high shelf. He sees a little man painting and learns that the man is a painter. At the end, the little people give Gulliver a picture as a thank-you gift and they have a party.",
+  "summaryKo": "소인국에 간 의사 걸리버가 소인들을 치료하고 도와준 뒤, 소인들에게 그림 선물을 받고 함께 파티를 하는 이야기예요."
+ },
+ "writing": {
+  "frame": [
+   "He is a ____.",
+   "She is a ____."
+  ],
+  "model": "This is my uncle. He is a pilot. This is my aunt. She is a writer."
+ },
+ "project": "Work Together: 네 명이 한 모둠이 되어 포스터에 소개할 마을 사람 네 명을 정해 그림을 그리거나 사진을 붙이고, ‘He / She is a ....’ 문장을 써서 직업 소개 포스터를 만든 뒤 반 친구들과 ‘What does he / she do?’로 묻고 답한다.",
+ "special": {
+  "no": 6,
+  "kind": "CULTURE·PROJECT",
+  "title": "세계 위인들의 직업을 알아봐요 / 움직이는 조각상 놀이",
+  "summaryKo": "CULTURE에서는 안데르센, 나이팅게일, 슈바이처, 설리번의 직업을 ‘What does he / she do?’로 묻고 답하며 알아보고, 생텍쥐페리의 직업을 조사한 뒤 친구들과 ‘직업 알아맞히기’ 놀이를 해요. Let's Try!(직업 체험관 그림 과제), PROJECT ‘움직이는 조각상 놀이’, Let's Check!로 11~12단원을 복습해요.",
+  "facts": [
+   "안데르센은 덴마크의 동화 작가(writer)로 《인어 공주》, 《미운 오리 새끼》, 《성냥팔이 소녀》 등을 썼어요.",
+   "나이팅게일은 영국의 간호사(nurse)로, 크림 전쟁 때 부상병을 돌보았고 뒤에 간호 학교를 세웠어요.",
+   "슈바이처는 아프리카에서 의료 봉사를 하며 인류애를 실천한 의사(doctor)예요.",
+   "설리번은 헬렌 켈러를 인내와 사랑으로 가르친 미국의 선생님(teacher)이에요.",
+   "《어린 왕자》를 쓴 생텍쥐페리는 작가(writer)이면서 비행기 조종사(pilot)였어요.",
+   "PROJECT ‘움직이는 조각상 놀이’: 모둠이 조각상처럼 멈춰 있다가 ‘What are you doing?’이라는 질문에 ‘I'm dancing.’처럼 답하며 동작을 해요."
+  ],
+  "expressions": [
+   "Who's he? — He's Andersen.",
+   "What does he do? — He's a writer.",
+   "What does she do? — She's a nurse.",
+   "What are you doing? — I'm drawing a picture."
+  ],
+  "exercises": []
+ }
+}

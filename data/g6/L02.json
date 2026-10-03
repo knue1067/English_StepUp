@@ -1,0 +1,3183 @@
+{
+ "id": "L02",
+ "no": 2,
+ "grade": 6,
+ "semester": 1,
+ "title": "What Season Do You Like?",
+ "emoji": "🌸",
+ "rationale": "우리나라는 사계절에 따라 자연의 모습과 여가 생활이 달라져 계절과 관련된 대화를 자주 나눈다. 좋아하는 계절을 묻고 답하는 표현과 칭찬하는 말을 익혀 자기 생각을 표현하고 다른 사람의 의견을 존중하는 태도를 기르며, 실생활에서 유용하게 활용하도록 한다.",
+ "topics": "개인생활 관련(관심사), 일반교양 관련(계절, 날씨)",
+ "functions": [
+  {
+   "ko": "좋아하는 계절 묻고 답하기",
+   "examples": [
+    "What season do you like?",
+    "I like spring. I can see beautiful flowers."
+   ]
+  },
+  {
+   "ko": "칭찬하기",
+   "examples": [
+    "Good job!"
+   ]
+  }
+ ],
+ "forms": [
+  "I like spring.",
+  "I can see beautiful flowers in spring."
+ ],
+ "newWords": [
+  {
+   "en": "also",
+   "ko": "또한"
+  },
+  {
+   "en": "bright",
+   "ko": "밝은"
+  },
+  {
+   "en": "card",
+   "ko": "카드"
+  },
+  {
+   "en": "clear",
+   "ko": "맑은"
+  },
+  {
+   "en": "cold",
+   "ko": "추운"
+  },
+  {
+   "en": "fall",
+   "ko": "가을"
+  },
+  {
+   "en": "field",
+   "ko": "들판 (field trip 현장 체험 학습)"
+  },
+  {
+   "en": "little",
+   "ko": "어린, 작은 (little brother 남동생)"
+  },
+  {
+   "en": "river",
+   "ko": "강"
+  },
+  {
+   "en": "season",
+   "ko": "계절"
+  },
+  {
+   "en": "sky",
+   "ko": "하늘"
+  },
+  {
+   "en": "spring",
+   "ko": "봄"
+  },
+  {
+   "en": "trip",
+   "ko": "여행"
+  },
+  {
+   "en": "warm",
+   "ko": "따뜻한"
+  },
+  {
+   "en": "winter",
+   "ko": "겨울"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "spring",
+   "ko": "봄",
+   "emoji": "🌸"
+  },
+  {
+   "en": "summer",
+   "ko": "여름",
+   "emoji": "☀️"
+  },
+  {
+   "en": "fall",
+   "ko": "가을",
+   "emoji": "🍁"
+  },
+  {
+   "en": "winter",
+   "ko": "겨울",
+   "emoji": "⛄"
+  },
+  {
+   "en": "see beautiful flowers",
+   "ko": "아름다운 꽃을 보다",
+   "emoji": "💐"
+  },
+  {
+   "en": "swim in the sea",
+   "ko": "바다에서 수영하다",
+   "emoji": "🏊"
+  },
+  {
+   "en": "see colorful trees",
+   "ko": "알록달록한 나무를 보다",
+   "emoji": "🍂"
+  },
+  {
+   "en": "make a snowman",
+   "ko": "눈사람을 만들다",
+   "emoji": "☃️"
+  }
+ ],
+ "characters": [
+  "하나",
+  "Linh",
+  "Tom",
+  "Mohan",
+  "Amy",
+  "우주",
+  "Ms. Green",
+  "민우",
+  "Olivia",
+  "Taylor",
+  "Noah",
+  "비발디"
+ ],
+ "goals": {
+  "understand": [
+   "좋아하는 계절을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "칭찬하는 말을 듣고 이해할 수 있다.",
+   "사계절에 관한 시를 읽고 이해할 수 있다.",
+   "좋아하는 계절을 묻고 답하며 칭찬하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "사계절에 관한 시를 공감하며 읽을 수 있다."
+  ],
+  "express": [
+   "좋아하는 계절을 묻고 답하는 말을 할 수 있다.",
+   "칭찬하는 말을 할 수 있다.",
+   "좋아하는 계절을 묻고 답하는 문장을 쓸 수 있다.",
+   "예시문을 참고로 좋아하는 계절에 관한 시를 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-04",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "좋아하는 계절 묻고 답하기",
+   "objectives": [
+    "좋아하는 계절을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 21~23쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "사계절 풍경 사진 보며 계절 말하기, 가장 좋아하는 계절과 이유 이야기하기, 계절·계절 활동 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "공원을 산책하며 하나·Linh·Tom이 좋아하는 계절을 이야기하는 만화 영화 보고 Linh과 Tom이 좋아하는 계절 쓰기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Do / Practice 1",
+     "desc": "대화를 듣고 알맞은 계절 그림을 골라 길 따라가기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "모둠별로 계절 카드 앞에 서고, 교사의 대답과 같은 계절이면 계절 활동 카드를 들고 따라 말하며 점수 얻기 (모둠)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "계절 활동 카드를 보며 맞으면 따라 말하고 틀리면 ╳ 하기, 듣고 ○╳ 문제 풀기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What season do you like?",
+    "I like winter. I can make a snowman.",
+    "I like fall. I can see colorful trees."
+   ],
+   "tip": "좋아하는 계절을 말할 때는 'I like 계절.' 다음에 'I can ....'으로 그 계절에 할 수 있는 일을 덧붙여 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 좋아하는 계절을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "계절과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "spring",
+       "봄"
+      ],
+      [
+       "summer",
+       "여름"
+      ],
+      [
+       "fall",
+       "가을"
+      ],
+      [
+       "winter",
+       "겨울"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "see beautiful flowers",
+       "아름다운 꽃을 보다"
+      ],
+      [
+       "swim in the sea",
+       "바다에서 수영하다"
+      ],
+      [
+       "see colorful trees",
+       "알록달록한 나무를 보다"
+      ],
+      [
+       "make a snowman",
+       "눈사람을 만들다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 계절은?",
+     "emoji": "⛄",
+     "choices": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+     ],
+     "answer": 3,
+     "explain": "눈사람을 만들 수 있는 계절은 겨울(winter)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 계절은?",
+     "emoji": "🌸",
+     "choices": [
+      "fall",
+      "winter",
+      "spring",
+      "summer"
+     ],
+     "answer": 2,
+     "explain": "꽃이 피는 계절은 봄(spring)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'season'의 뜻은?",
+     "choices": [
+      "하늘",
+      "날씨",
+      "계절",
+      "들판"
+     ],
+     "answer": 2,
+     "explain": "season은 '계절'이에요. What season do you like? = 너는 무슨 계절을 좋아하니?"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What season do you like?",
+     "choices": [
+      "너는 무슨 계절을 좋아하니?",
+      "너는 무슨 색을 좋아하니?",
+      "오늘 날씨는 어때?"
+     ],
+     "answer": 0,
+     "explain": "season(계절)을 묻고 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Summer! I can swim in the sea.",
+     "choices": [
+      "🏊 여름",
+      "🍂 가을",
+      "⛄ 겨울"
+     ],
+     "answer": 0,
+     "explain": "summer는 여름, swim in the sea는 바다에서 수영하기예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 겨울을 좋아해요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "What season do you like, Tom?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like winter. I can make a snowman.",
+      "Let's sit here.",
+      "I like snow. It's cold."
+     ],
+     "answer": 0,
+     "explain": "좋아하는 계절을 물으면 'I like 계절. I can ....'으로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Linh의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "?"
+      },
+      {
+       "who": "하나",
+       "text": "I like fall. We can eat delicious food."
+      }
+     ],
+     "choices": [
+      "What's that, Hana?",
+      "How are you, Hana?",
+      "What season do you like, Hana?"
+     ],
+     "answer": 2,
+     "explain": "'I like fall.'은 좋아하는 계절을 묻는 말에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like spring. I can see beautiful ___.",
+     "ko": "나는 봄이 좋아. 아름다운 꽃을 볼 수 있어.",
+     "choices": [
+      "snowmen",
+      "seas",
+      "flowers"
+     ],
+     "answer": 2,
+     "explain": "봄에는 아름다운 꽃(flowers)을 볼 수 있어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무슨 계절을 좋아하니?",
+     "answer": "What season do you like?",
+     "distractors": [
+      "grade",
+      "is"
+     ],
+     "explain": "좋아하는 계절을 물을 때는 'What season do you like?'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What season do you like?",
+     "ko": "너는 무슨 계절을 좋아하니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장은?",
+     "emoji": "🍁",
+     "choices": [
+      "I like fall. I can make a snowman.",
+      "I like fall. I can see colorful trees.",
+      "I like spring. I can swim in the sea."
+     ],
+     "answer": 1,
+     "explain": "단풍 든 나무는 가을(fall)이에요. see colorful trees = 알록달록한 나무를 보다."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 좋아하는 계절을 고르세요.",
+     "audio": "What season do you like? I like spring. I can see beautiful flowers.",
+     "choices": [
+      "겨울",
+      "여름",
+      "봄"
+     ],
+     "answer": 2,
+     "explain": "spring은 봄이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Oh, look! It's ___!",
+     "ko": "오, 봐! 아름다워!",
+     "choices": [
+      "cold",
+      "beautiful",
+      "delicious"
+     ],
+     "answer": 1,
+     "explain": "아름다운 = beautiful."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We have Chuseok. We can eat delicious ___.",
+     "ko": "추석이 있어. 맛있는 음식을 먹을 수 있어.",
+     "choices": [
+      "food",
+      "flowers",
+      "snow"
+     ],
+     "answer": 0,
+     "explain": "맛있는 음식 = delicious food."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나는 여름을 좋아해요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mohan",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I like it.",
+      "I like summer. I can make a snowman.",
+      "I like summer. I can swim in the sea."
+     ],
+     "answer": 2,
+     "explain": "여름에는 바다에서 수영할 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나는 겨울을 좋아하지 않아요. 하나의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "I like spring. I can see beautiful flowers."
+      },
+      {
+       "who": "하나",
+       "text": "That's right. What season do you like, Tom?"
+      },
+      {
+       "who": "Tom",
+       "text": "I like winter."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Let's make a birthday card.",
+      "I don't like winter. It's too cold.",
+      "I don't like spring. It's warm."
+     ],
+     "answer": 1,
+     "explain": "겨울이 싫은 이유로 '너무 추워(too cold)'가 알맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 가을이 좋아. 알록달록한 나무를 볼 수 있어.",
+     "answer": "I like fall. I can see colorful trees.",
+     "distractors": [
+      "make",
+      "likes"
+     ],
+     "explain": "'I like 계절.' 다음에 'I can ....'으로 할 수 있는 일을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Tom likes winter. He can make a snowman.",
+     "answer": "Tom likes winter. He can make a snowman.",
+     "distractors": [
+      "see",
+      "like"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina likes summer. She can swim in the sea. Jun likes fall. He can see colorful trees.",
+     "question": "Jun이 좋아하는 계절은?",
+     "choices": [
+      "여름",
+      "가을",
+      "봄"
+     ],
+     "answer": 1,
+     "explain": "'Jun likes fall.' Jun은 가을을 좋아해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Look at the flowers. They're beautiful.",
+     "ko": "꽃 좀 봐. 아름다워."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "겨울",
+     "answers": [
+      "winter"
+     ],
+     "hint": "w _ _ _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 여름이 좋아.",
+     "answers": [
+      "I like summer."
+     ],
+     "hint": "I like ______."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Tom, 너는 무슨 계절을 좋아하니?",
+     "answers": [
+      "Tom, what season do you like?",
+      "What season do you like, Tom?"
+     ],
+     "hint": "Tom, what ______ do you like?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 겨울이 좋아. 눈사람을 만들 수 있어. 너는?",
+     "answer": "I like winter. I can make a snowman. How about you?",
+     "distractors": [
+      "see",
+      "What"
+     ],
+     "explain": "좋아하는 계절과 이유를 말한 뒤 'How about you?'로 되물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What season do you like, Hana? I like fall.",
+     "answer": "What season do you like, Hana? I like fall.",
+     "distractors": [
+      "spring.",
+      "is"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ryan이 겨울을 좋아하는 이유로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Look! Snow!"
+      },
+      {
+       "who": "Ryan",
+       "text": "Wow! I like winter."
+      },
+      {
+       "who": "Dad",
+       "text": "Why?"
+      },
+      {
+       "who": "Ryan",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can swim in the sea.",
+      "I can make a snowman.",
+      "I can see beautiful flowers."
+     ],
+     "answer": 1,
+     "explain": "눈이 오는 겨울에는 눈사람을 만들 수 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hana, Linh and Tom are in the park. Linh likes spring because she can see beautiful flowers. Tom likes winter. He can make a snowman. Hana doesn't like winter. It's too cold for her.",
+     "question": "글의 내용과 맞지 않는 것은?",
+     "choices": [
+      "Linh은 봄을 좋아한다.",
+      "하나는 겨울을 좋아한다.",
+      "Tom은 눈사람을 만들 수 있어서 겨울을 좋아한다."
+     ],
+     "answer": 1,
+     "explain": "'Hana doesn't like winter.' 하나는 겨울을 좋아하지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "We have Chuseok in fall. We can eat delicious food. We can see colorful trees, too.",
+     "question": "가을에 할 수 있는 일로 글에 나온 것은?",
+     "choices": [
+      "바다에서 수영하기",
+      "눈사람 만들기",
+      "맛있는 음식 먹기"
+     ],
+     "answer": 2,
+     "explain": "'We can eat delicious food.' 추석에 맛있는 음식을 먹을 수 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'It looks like snow.'(꽃잎이 흩날릴 때)의 뜻은?",
+     "choices": [
+      "눈처럼 보여.",
+      "눈이 좋아.",
+      "눈사람 같아.",
+      "눈이 와."
+     ],
+     "answer": 0,
+     "explain": "look like는 '~처럼 보이다'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like fall. We have Chuseok. We can eat delicious food.",
+     "ko": "나는 가을이 좋아. 추석이 있잖아. 맛있는 음식을 먹을 수 있어."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "좋아하는 계절 묻고 답하기 / 칭찬하기",
+   "objectives": [
+    "좋아하는 계절을 묻고 답하는 말을 할 수 있다.",
+    "칭찬하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 24~25쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 1 그림으로 좋아하는 계절 묻고 답하기, 수업 시간에 들어 본 칭찬하는 말 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Green 선생님 반 아이들이 좋아하는 계절을 하나씩 그려 큰 그림을 완성하고 칭찬받는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "민우·Olivia(좋아하는 계절), Taylor·Noah(생일 카드 칭찬) 동영상으로 표현 익히기, 짝과 연습하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "좋아하는 계절 그림을 그리고 교실을 돌아다니며 묻고 답한 뒤 'Good job!'으로 칭찬하고, 같은 계절을 좋아하는 친구 이름 쓰기 (전체)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What season do you like, Mohan?",
+    "I like summer. I can swim in the sea.",
+    "I like spring. I can go on field trips.",
+    "Good job!"
+   ],
+   "tip": "친구가 무언가를 잘했을 때 'Good job!'이라고 칭찬해 줘요. Great!, Excellent!도 칭찬하는 말이에요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 좋아하는 계절을 묻고 답하는 말을 할 수 있는가? 칭찬하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "표현과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Good job!",
+       "잘했어!"
+      ],
+      [
+       "field trip",
+       "현장 체험 학습"
+      ],
+      [
+       "card",
+       "카드"
+      ],
+      [
+       "little brother",
+       "남동생"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 멋진 그림을 완성했어요. 칭찬하는 말로 알맞은 것은?",
+     "emoji": "🎨",
+     "choices": [
+      "I'm sorry.",
+      "Good job!",
+      "What's that?",
+      "Good night."
+     ],
+     "answer": 1,
+     "explain": "Good job!은 '잘했어!'라는 칭찬의 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'go on field trips'의 뜻은?",
+     "choices": [
+      "현장 체험 학습을 가다",
+      "여행 카드를 만들다",
+      "들판에서 수영하다",
+      "꽃을 보다"
+     ],
+     "answer": 0,
+     "explain": "field trip은 '현장 체험 학습'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Good job!",
+     "choices": [
+      "미안해.",
+      "잘했어!",
+      "괜찮아."
+     ],
+     "answer": 1,
+     "explain": "Good job!은 칭찬할 때 하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 Amy에 대해 알맞은 것을 고르세요.",
+     "audio": "Amy likes spring. She can go on field trips.",
+     "choices": [
+      "봄 - 현장 체험 학습",
+      "봄 - 꽃 구경",
+      "여름 - 수영"
+     ],
+     "answer": 0,
+     "explain": "go on field trips = 현장 체험 학습을 가다."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Taylor가 Noah를 칭찬하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Taylor",
+       "text": "What's that?"
+      },
+      {
+       "who": "Noah",
+       "text": "It's a birthday card for my mom. Look!"
+      },
+      {
+       "who": "Taylor",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Nice to meet you.",
+      "Good job!",
+      "I like winter."
+     ],
+     "answer": 1,
+     "explain": "친구가 만든 카드를 보고 'Good job!'이라고 칭찬해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "민우는 겨울을 좋아해요. 민우의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Olivia",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like winter. I like snowmen.",
+      "Good job!",
+      "It's a snowman."
+     ],
+     "answer": 0,
+     "explain": "좋아하는 계절을 물었으니 'I like 계절.'로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Good ___!",
+     "ko": "잘했어!",
+     "choices": [
+      "night",
+      "luck",
+      "job"
+     ],
+     "answer": 2,
+     "explain": "칭찬할 때는 Good job!이라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like summer. I can eat ___.",
+     "ko": "나는 여름이 좋아. 수박을 먹을 수 있어.",
+     "choices": [
+      "watermelon",
+      "snowman",
+      "flowers"
+     ],
+     "answer": 0,
+     "explain": "수박 = watermelon."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 봄이 좋아. 현장 체험 학습을 갈 수 있어.",
+     "answer": "I like spring. I can go on field trips.",
+     "distractors": [
+      "see",
+      "likes"
+     ],
+     "explain": "go on field trips = 현장 체험 학습을 가다."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good job!",
+     "answer": "Good job!",
+     "distractors": [
+      "Nice",
+      "luck!"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good job!",
+     "ko": "잘했어!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 칭찬하는 말이 아닌 것은?",
+     "choices": [
+      "Good job!",
+      "Great!",
+      "What's that?",
+      "Excellent!"
+     ],
+     "answer": 2,
+     "explain": "'What's that?'은 '저게 뭐야?'라고 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "What season do you like? — I like summer. I can eat watermelon.",
+     "choices": [
+      "⛄",
+      "🍉",
+      "🌸"
+     ],
+     "answer": 1,
+     "explain": "여름에 수박(watermelon)을 먹을 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "하나의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Green",
+       "text": "Let's draw the four seasons."
+      },
+      {
+       "who": "하나",
+       "text": "What season do you like, Mohan?"
+      },
+      {
+       "who": "Mohan",
+       "text": "I like summer."
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good job, everyone!",
+      "You can draw summer. How about you, Amy?",
+      "I like winter. It's too cold."
+     ],
+     "answer": 1,
+     "explain": "Mohan이 여름을 좋아하니 여름을 그리라고 하고 Amy에게 물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "선생님의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Green",
+       "text": "Now, we can make one big picture."
+      },
+      {
+       "who": "Kids",
+       "text": "This is spring, summer, fall and winter!"
+      },
+      {
+       "who": "Ms. Green",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What season do you like?",
+      "Good job, everyone!",
+      "I'm sorry."
+     ],
+     "answer": 1,
+     "explain": "학생들이 그림을 완성했으니 선생님이 칭찬하는 말이 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'll draw winter. I like ___.",
+     "ko": "나는 겨울을 그릴게. 나는 눈이 좋아.",
+     "choices": [
+      "sea",
+      "flowers",
+      "snow"
+     ],
+     "answer": 2,
+     "explain": "겨울과 어울리는 것은 snow(눈)예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이것은 아빠를 위한 생일 케이크야.",
+     "answer": "It's a birthday cake for my dad.",
+     "distractors": [
+      "to",
+      "card"
+     ],
+     "explain": "'~을 위한'은 for를 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Mohan은 여름을 좋아해. 그는 바다에서 수영할 수 있어.",
+     "answer": "Mohan likes summer. He can swim in the sea.",
+     "distractors": [
+      "like",
+      "see"
+     ],
+     "explain": "다른 사람이 좋아하는 것을 말할 때는 likes를 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Put all the pictures together.",
+     "answer": "Put all the pictures together.",
+     "distractors": [
+      "picture",
+      "is"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Minu: This is my family. Mom, Dad and my little brother.\nOlivia: Wow, the snowman is big.\nMinu: I like winter. What season do you like?\nOlivia: I like summer.",
+     "question": "Olivia가 좋아하는 계절은?",
+     "choices": [
+      "겨울",
+      "여름",
+      "봄"
+     ],
+     "answer": 1,
+     "explain": "'I like summer.' Olivia는 여름을 좋아해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'll draw winter. I like snow.",
+     "ko": "나는 겨울을 그릴게. 나는 눈이 좋아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "잘했어, Noah!",
+     "answers": [
+      "Good job, Noah!",
+      "Good job, Noah"
+     ],
+     "hint": "Good ___, Noah!"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 봄이 좋아.",
+     "answers": [
+      "I like spring."
+     ],
+     "hint": "I like ______."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그건 우리 엄마를 위한 생일 카드야.",
+     "answer": "It's a birthday card for my mom.",
+     "distractors": [
+      "to",
+      "cake"
+     ],
+     "explain": "birthday card for my mom = 엄마를 위한 생일 카드."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What season do you like, Amy? I like spring.",
+     "answer": "What season do you like, Amy? I like spring.",
+     "distractors": [
+      "fall.",
+      "is"
+     ]
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, it looks delicious. Good job!",
+     "answer": "Wow, it looks delicious. Good job!",
+     "distractors": [
+      "luck!",
+      "is"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sue의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Jin",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Sue",
+       "text": "I like fall. I can eat delicious food."
+      },
+      {
+       "who": "Jin",
+       "text": "Me, too! I drew a picture of fall. Look!"
+      },
+      {
+       "who": "Sue",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's too cold.",
+      "I like summer.",
+      "Wow, good job!"
+     ],
+     "answer": 2,
+     "explain": "친구의 그림을 보고 칭찬하는 말을 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Four friends draw a big picture. Mohan draws summer because he can swim in the sea. Amy draws spring. She can go on field trips in spring. Uju draws winter because he likes snow. Hana draws fall.",
+     "question": "봄을 그린 사람은?",
+     "choices": [
+      "Mohan",
+      "Amy",
+      "Uju"
+     ],
+     "answer": 1,
+     "explain": "'Amy draws spring.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Noah makes a birthday card for his mom. Tomorrow is her birthday. Taylor sees the card and says, \"Good job!\"",
+     "question": "Taylor가 'Good job!'이라고 말한 이유는?",
+     "choices": [
+      "Noah가 그림을 망쳐서",
+      "Noah의 생일이어서",
+      "Noah가 멋진 카드를 만들어서"
+     ],
+     "answer": 2,
+     "explain": "Noah가 만든 생일 카드를 보고 칭찬했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "친구가 겨울을 좋아한다고 했어요. 그 이유로 알맞지 않은 것은?",
+     "choices": [
+      "I can swim in the sea.",
+      "I can go skiing.",
+      "I can make a snowman.",
+      "I like snow."
+     ],
+     "answer": 0,
+     "explain": "바다에서 수영하기는 여름에 하는 일이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like summer. I can eat watermelon. How about you?",
+     "ko": "나는 여름이 좋아. 수박을 먹을 수 있어. 너는?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "좋아하는 계절을 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "좋아하는 계절을 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 좋아하는 계절을 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 26~27쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화하기, 계절 그림을 보며 'I like spring.' 읽고 할 수 있는 일 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "미술관에서 선생님과 아이들의 말풍선을 읽고 빈 말풍선에 알맞은 문장을 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "낱말 찾기에서 계절 단어를 찾아 문장 완성하기, 단어·어구·문장 읽고 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "땅따먹기 판의 빈칸에 계절 단어를 써서 문장을 완성하고, 지우개를 튕겨 나온 칸의 문장으로 답하며 'Good job!' 하기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 읽고 알맞은 그림 고르기, 그림에 맞는 어구 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What season do you like?",
+    "I like spring. I can see beautiful flowers.",
+    "I like fall. I can see colorful trees.",
+    "I like winter. I can go skiing."
+   ],
+   "tip": "summer는 m이 두 번, fall은 l이 두 번이에요. 철자를 잘 보고 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 좋아하는 계절을 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I like spring.",
+       "나는 봄이 좋아."
+      ],
+      [
+       "I like summer.",
+       "나는 여름이 좋아."
+      ],
+      [
+       "I like fall.",
+       "나는 가을이 좋아."
+      ],
+      [
+       "I like winter.",
+       "나는 겨울이 좋아."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "sumer",
+      "summar",
+      "sammer",
+      "summer"
+     ],
+     "answer": 3,
+     "explain": "여름 = s-u-m-m-e-r. m이 두 번 들어가요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "wintar",
+      "winnter",
+      "wenter",
+      "winter"
+     ],
+     "answer": 3,
+     "explain": "겨울 = w-i-n-t-e-r."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 문장은?",
+     "emoji": "🏖️",
+     "choices": [
+      "I can make a snowman.",
+      "I can see colorful trees.",
+      "I can swim in the sea."
+     ],
+     "answer": 2,
+     "explain": "바다에서 수영하는 그림이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like ___. I can see colorful trees.",
+     "ko": "나는 가을이 좋아. 알록달록한 나무를 볼 수 있어.",
+     "choices": [
+      "winter",
+      "spring",
+      "fall"
+     ],
+     "answer": 2,
+     "explain": "알록달록한 나무를 볼 수 있는 계절은 가을(fall)이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's go ___!",
+     "ko": "스키 타러 가자!",
+     "choices": [
+      "swimming",
+      "trips",
+      "skiing"
+     ],
+     "answer": 2,
+     "explain": "스키 타러 가다 = go skiing."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "I can go skiing in winter.",
+     "choices": [
+      "⛷️",
+      "🏊",
+      "🌸"
+     ],
+     "answer": 0,
+     "explain": "go skiing은 스키를 타러 가는 거예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 가을을 좋아해요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Girl",
+       "text": "I like spring. I can see beautiful flowers."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What season do you like?",
+      "I like fall. I can see colorful trees.",
+      "I like fall flowers."
+     ],
+     "answer": 1,
+     "explain": "남자아이는 가을과 그 이유를 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 겨울이 좋아.",
+     "answer": "I like winter.",
+     "distractors": [
+      "likes",
+      "winters."
+     ],
+     "explain": "I like + 계절."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 수박을 먹을 수 있어.",
+     "answer": "I can eat watermelon.",
+     "distractors": [
+      "see",
+      "cans"
+     ],
+     "explain": "can 다음에 eat watermelon이 와요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like fall. I can see colorful trees.",
+     "answer": "I like fall. I can see colorful trees.",
+     "distractors": [
+      "eat",
+      "spring."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What season do you like? I like winter.",
+     "ko": "너는 무슨 계절을 좋아하니? 나는 겨울이 좋아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like ___. I can swim in the sea.",
+     "ko": "나는 여름이 좋아. 바다에서 수영할 수 있어.",
+     "choices": [
+      "summer",
+      "winter",
+      "fall"
+     ],
+     "answer": 0,
+     "explain": "바다 수영은 여름(summer)에 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like spring. I ___ go on field trips.",
+     "ko": "나는 봄이 좋아. 현장 체험 학습을 갈 수 있어.",
+     "choices": [
+      "do",
+      "can",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "'~할 수 있다'는 can을 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 계절이 바르게 짝지어진 것은? 'I like ___. I can make a snowman.' / 'I like ___. I can see beautiful flowers.'",
+     "choices": [
+      "winter / spring",
+      "fall / summer",
+      "spring / winter",
+      "summer / fall"
+     ],
+     "answer": 0,
+     "explain": "눈사람은 겨울, 아름다운 꽃은 봄이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: What season do you like?\nB: I like fall. I can see colorful trees.",
+     "question": "B가 좋아하는 계절과 관련된 그림은?",
+     "choices": [
+      "⛄",
+      "🌸",
+      "🍁"
+     ],
+     "answer": 2,
+     "explain": "B는 가을(fall)을 좋아하고 알록달록한 나무를 볼 수 있다고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I like spring. I can ___.",
+     "question": "봄 그림에 꽃이 가득해요. 빈칸에 알맞은 어구는?",
+     "choices": [
+      "see beautiful flowers",
+      "go skiing",
+      "make a snowman"
+     ],
+     "answer": 0,
+     "explain": "봄에는 아름다운 꽃을 볼 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이는 눈사람 만들기를 좋아해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like summer. I can make a snowman.",
+      "I like a snowman.",
+      "I like winter. I can make a snowman."
+     ],
+     "answer": 2,
+     "explain": "눈사람 만들기는 겨울에 할 수 있어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 여름이 좋아. 바다에서 수영할 수 있어.",
+     "answer": "I like summer. I can swim in the sea.",
+     "distractors": [
+      "see",
+      "summers"
+     ],
+     "explain": "I like summer. 다음에 I can swim in the sea."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무슨 계절을 좋아하니?",
+     "answer": "What season do you like?",
+     "distractors": [
+      "grade",
+      "likes"
+     ],
+     "explain": "What season do you like?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like spring. I can see beautiful flowers.",
+     "answer": "I like spring. I can see beautiful flowers.",
+     "distractors": [
+      "fall.",
+      "make"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What season do you like? I like summer.",
+     "ko": "너는 무슨 계절을 좋아하니? 나는 여름이 좋아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "봄",
+     "answers": [
+      "spring"
+     ],
+     "hint": "s _ _ _ n g"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "가을",
+     "answers": [
+      "fall",
+      "autumn"
+     ],
+     "hint": "f _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 여름이 좋아. 나는 수박을 먹을 수 있어.",
+     "answers": [
+      "I like summer. I can eat watermelon."
+     ],
+     "hint": "I like ______. I can eat __________."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 스키를 타러 갈 수 있어.",
+     "answers": [
+      "I can go skiing."
+     ],
+     "hint": "I can go ______."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 가을이 좋아. 맛있는 음식을 먹을 수 있어.",
+     "answer": "I like fall. I can eat delicious food.",
+     "distractors": [
+      "see",
+      "foods"
+     ],
+     "explain": "eat delicious food = 맛있는 음식을 먹다."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like winter. I can go skiing. What season do you like?",
+     "answer": "I like winter. I can go skiing. What season do you like?",
+     "distractors": [
+      "summer.",
+      "is"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "In the art museum, the teacher asks, \"What season do you like?\" Sora says, \"I like spring. I can see beautiful flowers.\" Ben says, \"I like fall. I can see colorful trees.\" Kai says, \"I like winter. I can go skiing.\"",
+     "question": "스키를 타러 갈 수 있는 계절을 좋아하는 사람은?",
+     "choices": [
+      "Ben",
+      "Kai",
+      "Sora"
+     ],
+     "answer": 1,
+     "explain": "Kai가 'I like winter. I can go skiing.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Spring: see beautiful flowers / go on field trips\nSummer: swim in the sea / eat watermelon\nFall: see colorful trees / eat delicious food\nWinter: make a snowman / go skiing",
+     "question": "'I like summer. I can ___.'의 빈칸에 들어갈 수 있는 것은?",
+     "choices": [
+      "go skiing",
+      "see colorful trees",
+      "eat watermelon"
+     ],
+     "answer": 2,
+     "explain": "표에서 여름(Summer)에 할 수 있는 일은 swim in the sea, eat watermelon이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jake의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Jake",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Mia",
+       "text": "I like summer. I can swim in the sea."
+      },
+      {
+       "who": "Jake",
+       "text": "Good job! You can swim well."
+      },
+      {
+       "who": "Mia",
+       "text": "Thanks. What season do you like?"
+      },
+      {
+       "who": "Jake",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good job!",
+      "I can swim well.",
+      "I like winter. I can go skiing."
+     ],
+     "answer": 2,
+     "explain": "Mia가 Jake에게 좋아하는 계절을 되물었어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like spring. I can go on field trips with my friends.",
+     "ko": "나는 봄이 좋아. 친구들과 현장 체험 학습을 갈 수 있어."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "사계절에 관한 시 읽고 이해하기",
+   "objectives": [
+    "사계절에 관한 시를 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 28~29쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장을 듣고 그림 가리키기, 계절별 날씨(warm, cool 등) 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "그림을 보며 see beautiful flowers, swim in the sea, see clear skies, make a snowman 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "계절마다 날씨와 할 수 있는 일을 노래하는 시 'Four Seasons'를 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "그림에 알맞은 단어나 어구 고르기, 여름에 관한 글 읽고 알맞은 그림 고르고 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "겨울에 관한 글을 읽고 그림과 단어 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Spring, spring, I like spring.",
+    "It's warm and bright.",
+    "I can see clear skies in fall.",
+    "I like all seasons."
+   ],
+   "tip": "시에서는 같은 말이 반복돼요. 리듬을 살려 소리 내어 읽어 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(포트폴리오 평가) — 사계절에 관한 시를 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "날씨를 나타내는 말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "warm",
+       "따뜻한"
+      ],
+      [
+       "bright",
+       "밝은"
+      ],
+      [
+       "cold",
+       "추운"
+      ],
+      [
+       "clear",
+       "맑은"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sky",
+       "하늘"
+      ],
+      [
+       "river",
+       "강"
+      ],
+      [
+       "field",
+       "들판"
+      ],
+      [
+       "season",
+       "계절"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 어구는?",
+     "emoji": "☀️",
+     "choices": [
+      "see beautiful flowers",
+      "see clear skies",
+      "swim in the sea",
+      "make a snowman"
+     ],
+     "answer": 1,
+     "explain": "맑고 파란 하늘을 보는 그림이에요. clear skies = 맑은 하늘."
+    },
+    {
+     "type": "mc",
+     "prompt": "'It's cold and snowy.'에 어울리는 계절은?",
+     "emoji": "❄️",
+     "choices": [
+      "fall",
+      "spring",
+      "winter",
+      "summer"
+     ],
+     "answer": 2,
+     "explain": "춥고 눈이 오는 계절은 겨울이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Spring is warm and bright.",
+     "choices": [
+      "봄은 따뜻하고 밝아요.",
+      "봄은 덥고 해가 쨍쨍해요.",
+      "봄은 춥고 눈이 와요."
+     ],
+     "answer": 0,
+     "explain": "warm은 따뜻한, bright는 밝은이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 계절을 고르세요.",
+     "audio": "Summer is sunny and hot.",
+     "choices": [
+      "❄️ 겨울",
+      "☀️ 여름",
+      "🍂 가을"
+     ],
+     "answer": 1,
+     "explain": "sunny and hot(해가 쨍쨍하고 더운)은 여름 날씨예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Seasons\nSpring, spring, I like spring.\nIt's warm and bright.\nI can see flowers in the field.\n\nWinter, winter, I like winter.\nIt's cold and snowy.\nI can make a snowman in winter.",
+     "question": "이 시에서 봄 날씨는 어떻다고 했나요?",
+     "choices": [
+      "시원하고 알록달록하다",
+      "춥고 눈이 온다",
+      "따뜻하고 밝다"
+     ],
+     "answer": 2,
+     "explain": "'It's warm and bright.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Seasons\nSpring, spring, I like spring.\nIt's warm and bright.\nI can see flowers in the field.\n\nWinter, winter, I like winter.\nIt's cold and snowy.\nI can make a snowman in winter.",
+     "question": "겨울에 할 수 있다고 한 것은?",
+     "choices": [
+      "꽃 보기",
+      "수영하기",
+      "눈사람 만들기"
+     ],
+     "answer": 2,
+     "explain": "'I can make a snowman in winter.'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Fall is cool and ___.",
+     "ko": "가을은 시원하고 알록달록해요.",
+     "choices": [
+      "snowy",
+      "colorful",
+      "hot"
+     ],
+     "answer": 1,
+     "explain": "가을은 cool and colorful(시원하고 알록달록한)이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "겨울은 춥고 눈이 와요.",
+     "answer": "Winter is cold and snowy.",
+     "distractors": [
+      "hot",
+      "are"
+     ],
+     "explain": "Winter is 다음에 날씨를 나타내는 말 두 개를 and로 이어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Spring, spring, I like spring.",
+     "answer": "Spring, spring, I like spring.",
+     "distractors": [
+      "fall,",
+      "likes"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "It's cold and snowy.",
+     "ko": "춥고 눈이 와요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Summer, summer, I like summer.\nIt's sunny and hot.\nI can swim in the river in summer.\n\nFall, fall, I like fall.\nIt's cool and colorful.\nI can see clear skies in fall.",
+     "question": "여름에 할 수 있다고 한 것은?",
+     "choices": [
+      "맑은 하늘 보기",
+      "강에서 수영하기",
+      "바다에서 수영하기"
+     ],
+     "answer": 1,
+     "explain": "'I can swim in the river in summer.' 강(river)에서 수영한다고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Summer, summer, I like summer.\nIt's sunny and hot.\nI can swim in the river in summer.\n\nFall, fall, I like fall.\nIt's cool and colorful.\nI can see clear skies in fall.",
+     "question": "가을 날씨를 바르게 말한 것은?",
+     "choices": [
+      "sunny and hot",
+      "cool and colorful",
+      "warm and bright"
+     ],
+     "answer": 1,
+     "explain": "'It's cool and colorful.'이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I can see clear skies in fall.'의 뜻은?",
+     "choices": [
+      "봄에 나는 맑은 하늘을 볼 수 있어요.",
+      "가을에 나는 알록달록한 나무를 볼 수 있어요.",
+      "가을에 나는 맑은 하늘을 볼 수 있어요."
+     ],
+     "answer": 2,
+     "explain": "clear skies = 맑은 하늘, in fall = 가을에."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can see flowers ___ spring.",
+     "ko": "봄에 나는 꽃을 볼 수 있어요.",
+     "choices": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 1,
+     "explain": "계절 앞에는 in을 써요. in spring = 봄에."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "It's sunny and ___.",
+     "ko": "해가 쨍쨍하고 더워요.",
+     "choices": [
+      "cool",
+      "hot",
+      "cold"
+     ],
+     "answer": 1,
+     "explain": "덥다 = hot."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "How's the weather in spring?"
+      },
+      {
+       "who": "Student",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like spring.",
+      "It's cold and snowy.",
+      "It's warm and bright."
+     ],
+     "answer": 2,
+     "explain": "봄 날씨는 따뜻하고 밝아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "겨울에 나는 눈사람을 만들 수 있어요.",
+     "answer": "I can make a snowman in winter.",
+     "distractors": [
+      "see",
+      "on"
+     ],
+     "explain": "'in winter(겨울에)'는 문장 끝에 와요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 모든 계절이 좋아요.",
+     "answer": "I like all seasons.",
+     "distractors": [
+      "season.",
+      "likes"
+     ],
+     "explain": "all seasons = 모든 계절."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Fall, fall, I like fall. It's cool and colorful.",
+     "answer": "Fall, fall, I like fall. It's cool and colorful.",
+     "distractors": [
+      "cold",
+      "spring,"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I can see clear skies in fall.",
+     "ko": "가을에 나는 맑은 하늘을 볼 수 있어요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Winter Is Fun\nWinter, winter, I like winter.\nIt's cold and snowy.\nI can go skating in winter.\nI can make a snowman, too.\nWhat season do you like?",
+     "question": "이 시의 글쓴이가 겨울에 할 수 있다고 한 것을 모두 고른 것은?",
+     "choices": [
+      "스케이트 타기, 눈사람 만들기",
+      "꽃 보기, 눈사람 만들기",
+      "스키 타기, 수영하기"
+     ],
+     "answer": 0,
+     "explain": "go skating과 make a snowman이 나와요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Winter Is Fun\nWinter, winter, I like winter.\nIt's cold and snowy.\nI can go skating in winter.\nI can make a snowman, too.\nWhat season do you like?",
+     "question": "시의 마지막 줄에서 글쓴이가 한 것은?",
+     "choices": [
+      "읽는 사람에게 좋아하는 계절을 물었다",
+      "친구를 칭찬했다",
+      "겨울 날씨를 설명했다"
+     ],
+     "answer": 0,
+     "explain": "'What season do you like?' 읽는 사람에게 묻고 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Spring, summer, fall and winter.\nI like all seasons.\nSpring is warm. Summer is hot.\nFall is cool. Winter is cold.",
+     "question": "글쓴이가 좋아하는 계절은?",
+     "choices": [
+      "겨울",
+      "모든 계절",
+      "봄"
+     ],
+     "answer": 1,
+     "explain": "'I like all seasons.' 모든 계절을 좋아해요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "따뜻한",
+     "answers": [
+      "warm"
+     ],
+     "hint": "w _ _ m"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "하늘",
+     "answers": [
+      "sky"
+     ],
+     "hint": "s _ y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "여름에 나는 바다에서 수영할 수 있어요.",
+     "answers": [
+      "I can swim in the sea in summer."
+     ],
+     "hint": "I can swim in the ___ in ______."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "시원하고 알록달록해요.",
+     "answer": "It's cool and colorful.",
+     "distractors": [
+      "cold",
+      "colors"
+     ],
+     "explain": "cool = 시원한, colorful = 알록달록한."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Summer, summer, I like summer. It's sunny and hot.",
+     "answer": "Summer, summer, I like summer. It's sunny and hot.",
+     "distractors": [
+      "cold",
+      "winter,"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "시의 빈칸에 들어갈 말로 알맞은 것은? 'Winter, winter, I like ___.'",
+     "choices": [
+      "summer",
+      "spring",
+      "winter"
+     ],
+     "answer": 2,
+     "explain": "시에서는 같은 계절 이름을 반복해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Spring, summer, fall and winter. I like all seasons.",
+     "ko": "봄, 여름, 가을 그리고 겨울. 나는 모든 계절이 좋아요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "좋아하는 계절에 관한 시 쓰기",
+   "objectives": [
+    "예시문을 참고하여 좋아하는 계절에 관한 시를 쓸 수 있다.",
+    "좋아하는 계절에 관한 시를 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 30~31쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "시 'Four Seasons'를 모둠별로 번갈아 읽기, 칠판 그림을 보고 좋아하는 계절 맞히고 문장 만들기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림을 보고 계절 단어 철자 완성하기(Words), 계절과 할 수 있는 일로 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "생각 그물에 좋아하는 계절·날씨·할 수 있는 것을 쓰고, 예시 시 'I Like Spring'을 참고해 시를 쓰고 그림 그리기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 시를 모둠 친구들에게 읽어 주기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "친구의 시를 함께 읽고 질문에 답하기, 그림을 보고 시의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Summer, summer, I like summer.",
+    "It's sunny and hot.",
+    "I can swim in the sea in summer."
+   ],
+   "tip": "시를 쓸 때 '계절, 계절, I like 계절.' → 'It's 날씨 and 날씨.' → 'I can 할 수 있는 일 in 계절.' 순서로 써 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 좋아하는 계절에 관한 시를 쓸 수 있는가? 시를 모둠원과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "'sp _ _ ng'의 빈칸에 들어갈 철자는? (봄)",
+     "choices": [
+      "e, i",
+      "i, r",
+      "r, e",
+      "r, i"
+     ],
+     "answer": 3,
+     "explain": "spring = s-p-r-i-n-g."
+    },
+    {
+     "type": "mc",
+     "prompt": "'s _ mm _ r'의 빈칸에 들어갈 철자는? (여름)",
+     "choices": [
+      "o, e",
+      "u, e",
+      "a, e",
+      "u, a"
+     ],
+     "answer": 1,
+     "explain": "summer = s-u-m-m-e-r."
+    },
+    {
+     "type": "mc",
+     "prompt": "'f _ _ l'의 빈칸에 들어갈 철자는? (가을)",
+     "choices": [
+      "e, l",
+      "o, l",
+      "a, l",
+      "a, i"
+     ],
+     "answer": 2,
+     "explain": "fall = f-a-l-l."
+    },
+    {
+     "type": "mc",
+     "prompt": "'w _ nt _ r'의 빈칸에 들어갈 철자는? (겨울)",
+     "choices": [
+      "i, a",
+      "a, e",
+      "e, i",
+      "i, e"
+     ],
+     "answer": 3,
+     "explain": "winter = w-i-n-t-e-r."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 여자아이가 단풍잎을 보고 있어요. 알맞은 문장은?",
+     "emoji": "🍁",
+     "choices": [
+      "I like fall. I can see colorful trees.",
+      "I like summer. I can swim in the sea.",
+      "I like winter. I can make a snowman."
+     ],
+     "answer": 0,
+     "explain": "단풍잎은 가을이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like ___. It's cold and snowy.",
+     "ko": "나는 겨울이 좋아. 춥고 눈이 와.",
+     "choices": [
+      "spring",
+      "summer",
+      "winter"
+     ],
+     "answer": 2,
+     "explain": "춥고 눈 오는 계절 = winter."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can make a snowman ___ winter.",
+     "ko": "겨울에 나는 눈사람을 만들 수 있어.",
+     "choices": [
+      "at",
+      "in",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "계절 앞에는 in을 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I can see clear skies in fall.",
+     "choices": [
+      "가을에 나는 알록달록한 나무를 볼 수 있어.",
+      "가을에 나는 맑은 하늘을 볼 수 있어.",
+      "여름에 나는 맑은 하늘을 볼 수 있어."
+     ],
+     "answer": 1,
+     "explain": "clear skies = 맑은 하늘, in fall = 가을에."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "What can you do in summer?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can swim in the sea.",
+      "It's cold.",
+      "I can make a snowman."
+     ],
+     "answer": 0,
+     "explain": "여름에 할 수 있는 일을 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "봄, 봄, 나는 봄이 좋아.",
+     "answer": "Spring, spring, I like spring.",
+     "distractors": [
+      "fall,",
+      "likes"
+     ],
+     "explain": "시처럼 계절 이름을 반복하고 'I like spring.'으로 이어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "It's warm and bright. I can see beautiful flowers in spring.",
+     "answer": "It's warm and bright. I can see beautiful flowers in spring.",
+     "distractors": [
+      "cold",
+      "fall."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Summer, summer, I like summer.",
+     "ko": "여름, 여름, 나는 여름이 좋아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "시의 제목이 'I Like Fall'이에요. 어울리는 문장은?",
+     "choices": [
+      "It's cold and snowy.",
+      "It's cool and colorful.",
+      "It's sunny and hot."
+     ],
+     "answer": 1,
+     "explain": "가을은 시원하고 알록달록해요(cool and colorful)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I Like Summer\nSummer, summer, I like summer.\nIt's sunny and ⓐ ___.\nI can swim in the sea in summer.",
+     "question": "ⓐ에 알맞은 단어는?",
+     "choices": [
+      "cool",
+      "hot",
+      "snowy"
+     ],
+     "answer": 1,
+     "explain": "여름 날씨는 sunny and hot이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I Like Fall\nFall, fall, I like fall.\nIt's cool and colorful.\nⓑ ___",
+     "question": "ⓑ에 알맞은 문장은?",
+     "choices": [
+      "I can swim in the sea in summer.",
+      "I can make a snowman in winter.",
+      "I can see colorful trees in fall."
+     ],
+     "answer": 2,
+     "explain": "가을에 대한 시이므로 가을에 할 수 있는 일을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can eat delicious food in ___.",
+     "ko": "가을에 나는 맛있는 음식을 먹을 수 있어.",
+     "choices": [
+      "fall",
+      "spring",
+      "summer"
+     ],
+     "answer": 0,
+     "explain": "가을 = fall."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can go on field ___ in spring.",
+     "ko": "봄에 나는 현장 체험 학습을 갈 수 있어.",
+     "choices": [
+      "trips",
+      "cards",
+      "skies"
+     ],
+     "answer": 0,
+     "explain": "현장 체험 학습 = field trip(s)."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jake가 Mina를 칭찬하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mina",
+       "text": "This is my poem. 'Winter, winter, I like winter. It's cold and snowy.'"
+      },
+      {
+       "who": "Jake",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What season do you like?",
+      "I'm sorry, Mina.",
+      "Good job, Mina!"
+     ],
+     "answer": 2,
+     "explain": "친구가 쓴 시를 듣고 칭찬해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "가을에 나는 맛있는 음식을 먹을 수 있어.",
+     "answer": "I can eat delicious food in fall.",
+     "distractors": [
+      "see",
+      "on"
+     ],
+     "explain": "I can + 하는 일 + in 계절."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여름은 해가 쨍쨍하고 더워.",
+     "answer": "Summer is sunny and hot.",
+     "distractors": [
+      "cold",
+      "are"
+     ],
+     "explain": "sunny and hot = 해가 쨍쨍하고 더운."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Winter, winter, I like winter. It's cold and snowy.",
+     "answer": "Winter, winter, I like winter. It's cold and snowy.",
+     "distractors": [
+      "hot",
+      "summer,"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Fall, fall, I like fall. It's cool and colorful.",
+     "ko": "가을, 가을, 나는 가을이 좋아. 시원하고 알록달록해."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "여름",
+     "answers": [
+      "summer"
+     ],
+     "hint": "s _ _ _ e r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "춥고 눈이 와.",
+     "answers": [
+      "It's cold and snowy.",
+      "It is cold and snowy."
+     ],
+     "hint": "It's ____ and ______."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "봄에 나는 아름다운 꽃을 볼 수 있어.",
+     "answers": [
+      "I can see beautiful flowers in spring."
+     ],
+     "hint": "I can see beautiful ______ in ______."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 가을이 좋아.",
+     "answers": [
+      "I like fall.",
+      "I like autumn."
+     ],
+     "hint": "I like ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "겨울에 나는 스키를 타러 갈 수 있어.",
+     "answer": "I can go skiing in winter.",
+     "distractors": [
+      "swim",
+      "on"
+     ],
+     "explain": "go skiing = 스키를 타러 가다, in winter = 겨울에."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여름에 나는 강에서 수영할 수 있어.",
+     "answer": "I can swim in the river in summer.",
+     "distractors": [
+      "sea",
+      "at"
+     ],
+     "explain": "river = 강, in summer = 여름에."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I Like Spring\nSpring, spring, I like spring.\nIt's warm and bright.\nI can see beautiful flowers in spring.",
+     "question": "이 시에 나오지 않는 내용은?",
+     "choices": [
+      "봄에 수영을 한다.",
+      "봄을 좋아한다.",
+      "봄은 따뜻하고 밝다."
+     ],
+     "answer": 0,
+     "explain": "수영 이야기는 나오지 않아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Look at your poem, Ben. What season do you like?"
+      },
+      {
+       "who": "Ben",
+       "text": "I like summer."
+      },
+      {
+       "who": "Teacher",
+       "text": "How's the weather in summer?"
+      },
+      {
+       "who": "Ben",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can swim in the sea.",
+      "It's cold and snowy.",
+      "It's sunny and hot."
+     ],
+     "answer": 2,
+     "explain": "날씨를 물었으니 날씨로 답해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I can see clear skies in fall. Good job!",
+     "answer": "I can see clear skies in fall. Good job!",
+     "distractors": [
+      "spring.",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Winter, winter, I like winter. It's cold and snowy. I can go skiing in winter.",
+     "ko": "겨울, 겨울, 나는 겨울이 좋아. 춥고 눈이 와. 겨울에 나는 스키를 타러 갈 수 있어."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 32~33쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Let's Write 예시 시를 읽고 교사가 읽은 문장을 찾아 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "모둠원이 각자 계절을 골라 나무를 꾸미고 뒷면에 'I like .... I can ....'을 쓴 뒤, 이어 붙여 사계절 병풍을 만들고 좋아하는 계절 묻고 답하기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 순서대로 번호 쓰기, 좋아하는 계절 묻고 답하기와 칭찬하기, 가을에 관한 시 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What season do you like?",
+    "I like winter. I can make a snowman.",
+    "Good job!"
+   ],
+   "tip": "친구가 나무를 멋지게 꾸몄다면 'Good job!'이라고 칭찬해 줘요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 사계절 병풍을 만들고 좋아하는 계절을 묻고 답할 수 있는가? 모둠원과 협력하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "계절과 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "spring",
+       "🌸"
+      ],
+      [
+       "summer",
+       "🍉"
+      ],
+      [
+       "fall",
+       "🍁"
+      ],
+      [
+       "winter",
+       "⛄"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "season",
+       "계절"
+      ],
+      [
+       "bright",
+       "밝은"
+      ],
+      [
+       "also",
+       "또한"
+      ],
+      [
+       "trip",
+       "여행"
+      ],
+      [
+       "little",
+       "어린, 작은"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 계절은?",
+     "emoji": "🏖️",
+     "choices": [
+      "summer",
+      "winter",
+      "spring",
+      "fall"
+     ],
+     "answer": 0,
+     "explain": "수박을 먹고 바다에서 수영하는 계절은 여름이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 두 사람이 좋아하는 계절을 고르세요.",
+     "audio": "Wow, it's cool. I like fall. — Me, too. I can see colorful trees.",
+     "choices": [
+      "겨울",
+      "봄",
+      "가을"
+     ],
+     "answer": 2,
+     "explain": "두 사람 모두 가을(fall)을 좋아해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 어떤 말인지 고르세요.",
+     "audio": "Good job!",
+     "choices": [
+      "계절을 묻는 말",
+      "칭찬하는 말",
+      "사과하는 말"
+     ],
+     "answer": 1,
+     "explain": "Good job!은 '잘했어!'라는 칭찬의 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이는 겨울을 좋아해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I like winter. I can make a snowman.",
+      "Good job!",
+      "It's a snowman."
+     ],
+     "answer": 0,
+     "explain": "좋아하는 계절과 할 수 있는 일을 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Look! I made a tree for the folding screen."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What season do you like?",
+      "Good job!",
+      "I'm sorry."
+     ],
+     "answer": 1,
+     "explain": "친구가 만든 작품을 보고 칭찬해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I like summer. I can ___ in the sea.",
+     "ko": "나는 여름이 좋아. 바다에서 수영할 수 있어.",
+     "choices": [
+      "make",
+      "swim",
+      "see"
+     ],
+     "answer": 1,
+     "explain": "바다에서 수영하다 = swim in the sea."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I can eat delicious food ___ fall.",
+     "ko": "가을에 나는 맛있는 음식을 먹을 수 있어.",
+     "choices": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 2,
+     "explain": "in fall = 가을에."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 무슨 계절을 좋아하니?",
+     "answer": "What season do you like?",
+     "distractors": [
+      "grade",
+      "likes"
+     ],
+     "explain": "What season do you like?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I like spring. I can see beautiful flowers. What season do you like?",
+     "answer": "I like spring. I can see beautiful flowers. What season do you like?",
+     "distractors": [
+      "fall.",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What season do you like? I like fall.",
+     "ko": "너는 무슨 계절을 좋아하니? 나는 가을이 좋아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 남자아이가 여름을 좋아하는 이유를 고르세요.",
+     "audio": "I like spring. I can see beautiful flowers. What season do you like? — I like summer. I can eat watermelon.",
+     "choices": [
+      "꽃을 볼 수 있어서",
+      "수영을 할 수 있어서",
+      "수박을 먹을 수 있어서"
+     ],
+     "answer": 2,
+     "explain": "남자아이는 'I can eat watermelon.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I Like Fall\nFall, fall, I like fall.\nIt's cool and colorful.\nI can eat delicious food in ⓐ ___.",
+     "question": "ⓐ에 알맞은 단어는?",
+     "choices": [
+      "fall",
+      "winter",
+      "spring"
+     ],
+     "answer": 0,
+     "explain": "가을에 관한 시이므로 in fall이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "병풍의 네 그림을 보고 친구가 'I like winter.'라고 했어요. 이어서 할 말로 알맞은 것은?",
+     "choices": [
+      "I can eat watermelon.",
+      "I can make a snowman.",
+      "I can see beautiful flowers."
+     ],
+     "answer": 1,
+     "explain": "겨울에 할 수 있는 일을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What ___ do you like? — I like spring.",
+     "ko": "너는 무슨 계절을 좋아하니? 나는 봄이 좋아.",
+     "choices": [
+      "grade",
+      "color",
+      "season"
+     ],
+     "answer": 2,
+     "explain": "계절 = season."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eva의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "I like spring. I can go on field trips. What season do you like?"
+      },
+      {
+       "who": "Eva",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Cool! You can go skiing."
+      }
+     ],
+     "choices": [
+      "I like winter.",
+      "I like summer.",
+      "I like spring, too."
+     ],
+     "answer": 0,
+     "explain": "Sam이 '스키를 탈 수 있겠다'고 했으니 Eva는 겨울을 좋아해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "선생님의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Here is our four-season folding screen."
+      },
+      {
+       "who": "Student",
+       "text": "This is spring. It's warm and bright."
+      },
+      {
+       "who": "Teacher",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good job!",
+      "It's too cold.",
+      "What's that?"
+     ],
+     "answer": 0,
+     "explain": "학생의 발표를 듣고 칭찬해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 여름이 좋아. 해가 쨍쨍하고 더워.",
+     "answer": "I like summer. It's sunny and hot.",
+     "distractors": [
+      "cold",
+      "likes"
+     ],
+     "explain": "좋아하는 계절과 날씨를 차례로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나도 그래. 나는 가을이 좋아.",
+     "answer": "Me, too. I like fall.",
+     "distractors": [
+      "spring.",
+      "Too"
+     ],
+     "explain": "'나도 그래'는 Me, too.예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What season do you like? I like winter. I can go skiing.",
+     "answer": "What season do you like? I like winter. I can go skiing.",
+     "distractors": [
+      "summer.",
+      "see"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I like winter. It's cold and snowy. I can make a snowman.",
+     "ko": "나는 겨울이 좋아. 춥고 눈이 와. 눈사람을 만들 수 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "계절",
+     "answers": [
+      "season"
+     ],
+     "hint": "s _ _ s _ n"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 무슨 계절을 좋아하니, Leo?",
+     "answers": [
+      "What season do you like, Leo?",
+      "Leo, what season do you like?"
+     ],
+     "hint": "What ______ do you like, Leo?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 봄이 좋아. 따뜻하고 밝아.",
+     "answers": [
+      "I like spring. It's warm and bright.",
+      "I like spring. It is warm and bright."
+     ],
+     "hint": "I like ______. It's ____ and ______."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "잘했어!",
+     "answers": [
+      "Good job!",
+      "Good job",
+      "Great job!"
+     ],
+     "hint": "G _ _ d  j _ b!"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 여름이 좋아. 강에서 수영할 수 있어.",
+     "answer": "I like summer. I can swim in the river.",
+     "distractors": [
+      "sea.",
+      "see"
+     ],
+     "explain": "river = 강."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Spring, summer, fall and winter. I like all seasons.",
+     "answer": "Spring, summer, fall and winter. I like all seasons.",
+     "distractors": [
+      "season.",
+      "likes"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our class made a four-season folding screen. Sora drew spring trees with flowers. Min drew summer trees. Jay drew colorful fall trees. Ella drew winter trees with snow. Our teacher said, \"Good job!\"",
+     "question": "단풍이 든 나무를 그린 사람은?",
+     "choices": [
+      "Ella",
+      "Jay",
+      "Sora"
+     ],
+     "answer": 1,
+     "explain": "'Jay drew colorful fall trees.' Jay가 가을 나무를 그렸어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Grandma,\nI like spring. It's warm and bright. I can see beautiful flowers in the park. My little brother likes winter. He can make a snowman. What season do you like?\nLove, Mina",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Mina는 겨울을 좋아한다.",
+      "Mina는 공원에서 수영을 한다.",
+      "Mina의 남동생은 겨울을 좋아한다."
+     ],
+     "answer": 2,
+     "explain": "'My little brother likes winter.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ann의 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "What season do you like?"
+      },
+      {
+       "who": "Leo",
+       "text": "I like summer. I can swim in the sea."
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      },
+      {
+       "who": "Leo",
+       "text": "Really? Let's swim together!"
+      }
+     ],
+     "choices": [
+      "Good job!",
+      "I don't like winter.",
+      "Me, too! I like summer."
+     ],
+     "answer": 2,
+     "explain": "Leo가 '같이 수영하자!'라고 했으니 Ann도 여름을 좋아해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What season do you like? I like spring. I can go on field trips in spring.",
+     "ko": "너는 무슨 계절을 좋아하니? 나는 봄이 좋아. 봄에는 현장 체험 학습을 갈 수 있어."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "공원을 산책하던 하나, Linh, Tom이 벤치에 앉아 좋아하는 계절에 관해 이야기해요.",
+   "lines": [
+    {
+     "who": "Linh",
+     "text": "I like spring. I can see beautiful flowers."
+    },
+    {
+     "who": "하나",
+     "text": "That's right. What season do you like, Tom?"
+    },
+    {
+     "who": "Tom",
+     "text": "I like winter. I can make a snowman."
+    },
+    {
+     "who": "하나",
+     "text": "I don't like winter. It's too cold."
+    },
+    {
+     "who": "Linh",
+     "text": "What season do you like, Hana?"
+    },
+    {
+     "who": "하나",
+     "text": "I like fall. We have Chuseok. We can eat delicious food."
+    },
+    {
+     "who": "Linh",
+     "text": "Also, we can see colorful trees."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "Green 선생님 반 아이들이 각자 좋아하는 계절을 그려 하나의 큰 그림을 완성해요.",
+   "lines": [
+    {
+     "who": "Ms. Green",
+     "text": "Let's draw the four seasons."
+    },
+    {
+     "who": "하나",
+     "text": "What season do you like, Mohan?"
+    },
+    {
+     "who": "Mohan",
+     "text": "I like summer. I can swim in the sea."
+    },
+    {
+     "who": "Amy",
+     "text": "I like spring. I can go on field trips."
+    },
+    {
+     "who": "우주",
+     "text": "I'll draw winter. I like snow."
+    },
+    {
+     "who": "Ms. Green",
+     "text": "Good job!"
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우와 Olivia가 좋아하는 계절을 이야기하고, Taylor가 Noah의 생일 카드를 칭찬해요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "I like winter. What season do you like?"
+    },
+    {
+     "who": "Olivia",
+     "text": "I like summer. I can eat watermelon."
+    },
+    {
+     "who": "Noah",
+     "text": "It's a birthday card for my mom."
+    },
+    {
+     "who": "Taylor",
+     "text": "Good job!"
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Four Seasons (사계절에 관한 시)",
+  "passage": "The poet loves every season. Spring is warm and bright, so the poet can see pretty flowers. Summer is sunny and hot, and the sea is great for swimming. Fall is cool and colorful, with clear blue skies. Winter is cold and snowy, a good time to build a snowman. At the end, the poet asks us which season we like.",
+  "summaryKo": "봄·여름·가을·겨울의 날씨와 그 계절에 할 수 있는 일을 반복되는 리듬으로 노래하며, 모든 계절이 좋다고 말하는 시예요."
+ },
+ "writing": {
+  "frame": [
+   "I Like ____",
+   "____, ____, I like ____.",
+   "It's ____ and ____.",
+   "I can ____ in ____."
+  ],
+  "model": "I Like Winter\nWinter, winter, I like winter.\nIt's cold and snowy.\nI can go skiing in winter."
+ },
+ "project": "네 명이 한 모둠이 되어 각자 계절을 골라 나무를 계절에 맞게 꾸미고 뒷면에 'I like .... I can ....'을 쓴 뒤, 그림을 이어 붙여 사계절 병풍을 만들고 친구들에게 보여 주며 좋아하는 계절을 묻고 답한다(미술 교과 연계).",
+ "special": {
+  "no": 2,
+  "kind": "Into the Art",
+  "title": "비발디의 사계 중 봄 이야기",
+  "summaryKo": "봄을 좋아하는 여자아이와 비발디가 공원을 산책하다가 새소리를 듣고, 갑자기 내린 비를 피해 뛰어가요. 비가 그친 뒤 비발디가 바이올린으로 봄을 연주하자 여자아이가 'Good job!'이라고 칭찬해요.",
+  "facts": [
+   "비발디는 이탈리아의 작곡가로, 베네치아의 피에타 음악원에서 1723년경 '사계'를 작곡한 것으로 짐작돼요.",
+   "'사계'는 봄·여름·가을·겨울의 풍경과 사람들의 모습을 그린 네 곡의 바이올린 협주곡이에요.",
+   "네 곡은 각각 세 악장으로 되어 있고, 악장마다 짧은 시(소네트)가 붙어 있어요.",
+   "'봄'(바이올린 협주곡 1번 E장조)은 새소리, 시냇물, 천둥과 비 같은 화사한 봄날의 풍경을 경쾌하게 표현해요."
+  ],
+  "expressions": [
+   "What season do you like? — I like spring.",
+   "It's warm and bright.",
+   "Good job! There are birds, a river, and rain!"
+  ],
+  "exercises": []
+ }
+}

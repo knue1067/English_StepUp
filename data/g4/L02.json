@@ -1,0 +1,2261 @@
+{
+ "id": "L02",
+ "no": 2,
+ "grade": 4,
+ "semester": 1,
+ "title": "I'm Happy",
+ "emoji": "😊",
+ "rationale": "감정을 표현하는 것은 사회적 관계를 형성하는 데 기본이 되며 의사소통에서 매우 중요하다. 감정이나 상태를 묻고 답하는 말을 배워 실생활에서 자신의 감정이나 상태를 자연스럽게 표현하게 하고, 다른 사람의 감정이나 상태를 존중하고 이해하는 태도를 길러 원만한 대인 관계를 형성하도록 한다.",
+ "topics": "개인 생활 관련(취미, 오락, 운동), 학교생활 관련(교우 관계), 민주시민 관련(배려)",
+ "functions": [
+  {
+   "ko": "감정이나 상태 묻고 답하기",
+   "examples": [
+    "Are you happy?",
+    "Yes, I am.",
+    "No, I'm not."
+   ]
+  },
+  {
+   "ko": "감정이나 상태 표현하기",
+   "examples": [
+    "I'm thirsty."
+   ]
+  }
+ ],
+ "forms": [
+  "Are you happy? - Yes, I am. / No, I'm not.",
+  "I'm angry [happy / sad / sleepy / thirsty / tired]."
+ ],
+ "phonics": {
+  "focus": "y /i/ (끝소리)",
+  "words": [
+   "happy",
+   "sleepy",
+   "angry"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "again",
+   "ko": "다시"
+  },
+  {
+   "en": "angry",
+   "ko": "화난"
+  },
+  {
+   "en": "happy",
+   "ko": "행복한, 기쁜"
+  },
+  {
+   "en": "sad",
+   "ko": "슬픈"
+  },
+  {
+   "en": "sleepy",
+   "ko": "졸린"
+  },
+  {
+   "en": "some",
+   "ko": "약간의, 좀"
+  },
+  {
+   "en": "thirsty",
+   "ko": "목마른"
+  },
+  {
+   "en": "tired",
+   "ko": "피곤한"
+  },
+  {
+   "en": "try",
+   "ko": "해 보다, 노력하다"
+  },
+  {
+   "en": "water",
+   "ko": "물"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "angry",
+   "ko": "화난",
+   "emoji": "😠"
+  },
+  {
+   "en": "happy",
+   "ko": "행복한",
+   "emoji": "😊"
+  },
+  {
+   "en": "sad",
+   "ko": "슬픈",
+   "emoji": "😢"
+  },
+  {
+   "en": "sleepy",
+   "ko": "졸린",
+   "emoji": "😪"
+  },
+  {
+   "en": "thirsty",
+   "ko": "목마른",
+   "emoji": "🥤"
+  },
+  {
+   "en": "tired",
+   "ko": "피곤한",
+   "emoji": "😫"
+  }
+ ],
+ "characters": [
+  "Kate",
+  "Eric",
+  "보라(Bora)",
+  "Momo",
+  "Sam",
+  "준오(Juno)",
+  "Hoa",
+  "민우",
+  "Cora",
+  "하나",
+  "Paul",
+  "앤",
+  "매슈 아저씨",
+  "마릴라 아주머니"
+ ],
+ "goals": {
+  "understand": [
+   "감정이나 상태를 묻고 답하는 말, 감정이나 상태를 표현하는 말을 듣고 이해할 수 있다.",
+   "감정이나 상태를 표현하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /i/와 철자 'y'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "감정이나 상태를 표현하는 말을 들으며 다른 사람의 기분을 알고 이해하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "감정이나 상태를 묻고 답하는 말, 감정이나 상태를 표현하는 말을 할 수 있다.",
+   "감정이나 상태를 표현하는 문장을 보고 쓸 수 있다.",
+   "소리 /i/와 철자 'y'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "감정이나 상태를 묻고 답하는 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-07",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "감정이나 상태 묻고 답하기",
+   "objectives": [
+    "감정이나 상태를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '감정·상태 카드 모으기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 22~23쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready",
+     "desc": "표정으로 감정 보여 주기, 가장 기뻤거나 슬펐던 일 말하기, 단원 학습 목표 확인, My Study 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "종이컵 탑 쌓기에 다시 도전하는 Kate와 친구들의 만화 영화 보기, 완성된 탑을 본 Kate의 감정 고르기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "감정·상태 찬트를 하며 들은 순서대로 그림 짚기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "감정·상태 카드 모으기 — 카드에 맞게 Are you ...?로 묻고 Yes, I am. / No, I'm not.으로 답하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "듣고 그림과 맞으면 ○, 틀리면 × 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Are you happy?",
+    "Yes, I am.",
+    "No, I'm not.",
+    "Can you try again?"
+   ],
+   "tip": "'Are you ~?'로 물으면 맞을 때는 'Yes, I am.', 아닐 때는 'No, I'm not.'으로 답해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 감정이나 상태를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "happy",
+       "행복한"
+      ],
+      [
+       "sad",
+       "슬픈"
+      ],
+      [
+       "angry",
+       "화난"
+      ],
+      [
+       "tired",
+       "피곤한"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "표정과 알맞은 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "😊",
+       "happy"
+      ],
+      [
+       "😢",
+       "sad"
+      ],
+      [
+       "😠",
+       "angry"
+      ],
+      [
+       "😪",
+       "sleepy"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "이 친구의 기분을 나타내는 단어는?",
+     "emoji": "😠",
+     "choices": [
+      "sleepy",
+      "happy",
+      "angry",
+      "thirsty"
+     ],
+     "answer": 2,
+     "explain": "얼굴이 빨개지고 찡그린 표정은 angry(화난)예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Are you sad?'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "너는 슬프니?",
+      "너는 화가 났니?",
+      "너는 행복하니?"
+     ],
+     "answer": 0,
+     "explain": "sad는 '슬픈'이에요. Are you ~?는 '너는 ~하니?'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Are you happy?",
+     "choices": [
+      "너는 행복하니?",
+      "너는 피곤하니?",
+      "너는 목마르니?"
+     ],
+     "answer": 0,
+     "explain": "happy는 '행복한'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 표정을 고르세요.",
+     "audio": "sleepy",
+     "choices": [
+      "😪",
+      "😠",
+      "😊",
+      "😢"
+     ],
+     "answer": 0,
+     "explain": "sleepy는 '졸린'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 지금 행복해요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Are you happy?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "Yes, I am.",
+      "Nice to meet you."
+     ],
+     "answer": 1,
+     "explain": "행복하니까 'Yes, I am.(응, 그래.)'으로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 슬프지 않아요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Are you sad?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good morning.",
+      "Yes, I am.",
+      "No, I'm not."
+     ],
+     "answer": 2,
+     "explain": "슬프지 않으니까 'No, I'm not.(아니, 그렇지 않아.)'으로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Are you ___?",
+     "ko": "너는 피곤하니?",
+     "choices": [
+      "tired",
+      "happy",
+      "sleepy"
+     ],
+     "answer": 0,
+     "explain": "'피곤한'은 tired예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 슬프니?",
+     "answer": "Are you sad?",
+     "distractors": [
+      "I",
+      "am"
+     ],
+     "explain": "'너는 ~하니?'는 Are you ~?로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "No, I'm not.",
+     "answer": "No, I'm not.",
+     "distractors": [
+      "am.",
+      "Yes,"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you sad? Yes, I am.",
+     "ko": "너는 슬프니? 응, 그래."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "보라가 Sam에게 졸린지 물어요. 보라가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "No, I'm not."
+      }
+     ],
+     "choices": [
+      "Are you angry?",
+      "What's your name?",
+      "Are you sleepy?"
+     ],
+     "answer": 2,
+     "explain": "졸린지 물을 때는 'Are you sleepy?'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Juno는 화가 나지 않았어요. Juno의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Are you angry, Juno?"
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not, Mom.",
+      "Yes, I am, Mom.",
+      "Good night, Mom."
+     ],
+     "answer": 0,
+     "explain": "화가 나지 않았으니 No, I'm not.으로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate가 다시 해 보겠다고 해요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Can you try again, Kate?"
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "Okay.",
+      "No, I'm not."
+     ],
+     "answer": 1,
+     "explain": "다시 해 보겠다고 할 때는 'Okay.'라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Can you try again?'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "다시 만나서 반가워.",
+      "너는 피곤하니?",
+      "다시 해 볼 수 있니?"
+     ],
+     "answer": 2,
+     "explain": "try는 '해 보다', again은 '다시'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 지금 행복하니?",
+     "answer": "Are you happy now?",
+     "distractors": [
+      "am",
+      "sad"
+     ],
+     "explain": "now는 '지금'이에요. Are you happy now?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 나는 할 수 있어!",
+     "answer": "No, I'm not. I can do it!",
+     "distractors": [
+      "am.",
+      "Yes,"
+     ],
+     "explain": "No, I'm not.으로 답하고 I can do it!(나는 할 수 있어!)으로 힘을 내요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Are you tired, Hoa?",
+     "answer": "Are you tired, Hoa?",
+     "distractors": [
+      "happy,",
+      "am"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Yes, I ___.",
+     "ko": "응, 그래.",
+     "choices": [
+      "not",
+      "are",
+      "am"
+     ],
+     "answer": 2,
+     "explain": "Are you ~?에 그렇다고 답할 때는 Yes, I am.이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "No, I'm ___.",
+     "ko": "아니, 그렇지 않아.",
+     "choices": [
+      "not",
+      "am",
+      "sad"
+     ],
+     "answer": 0,
+     "explain": "아니라고 답할 때는 No, I'm not.이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you happy now? Yes, I am.",
+     "ko": "너는 지금 행복하니? 응, 그래."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "행복한",
+     "answers": [
+      "happy"
+     ],
+     "hint": "h a _ _ y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "슬픈",
+     "answers": [
+      "sad"
+     ],
+     "hint": "s _ d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 화가 났니?",
+     "answers": [
+      "Are you angry?"
+     ],
+     "hint": "Are you a _ _ _ y?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Are you sad? No, I'm not.",
+     "answer": "Are you sad? No, I'm not.",
+     "distractors": [
+      "am.",
+      "happy?"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Kate, 너는 졸리니?",
+     "answer": "Are you sleepy, Kate?",
+     "distractors": [
+      "I'm",
+      "not"
+     ],
+     "explain": "Are you sleepy? 뒤에 친구 이름을 붙여 물을 수 있어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Minji는 새 자전거를 받아서 기뻐요. Minji의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "You have a new bike. Are you happy?"
+      },
+      {
+       "who": "Minji",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am. Thank you, Dad.",
+      "Are you happy?",
+      "No, I'm not."
+     ],
+     "answer": 0,
+     "explain": "기쁘니까 Yes, I am.으로 답하고 고맙다고 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 화가 난 게 아니라 슬퍼요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Are you angry, Tom?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not. I'm sad.",
+      "Yes, I am. I'm angry.",
+      "Yes, I am. I'm sad."
+     ],
+     "answer": 0,
+     "explain": "화가 난 게 아니니까 No, I'm not.으로 답하고, 슬프다고 I'm sad.라고 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Kate makes a cup tower. Oh, no! It falls. Kate tries again. Now the tower is tall. Kate is happy.",
+     "question": "탑이 완성된 뒤 Kate의 기분은 어떤가요?",
+     "choices": [
+      "슬퍼요",
+      "졸려요",
+      "화가 나요",
+      "행복해요"
+     ],
+     "answer": 3,
+     "explain": "마지막 문장에 'Kate is happy.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam: Are you sleepy, Eric?\nEric: No, I'm not.\nSam: Are you tired?\nEric: Yes, I am.",
+     "question": "Eric의 상태로 알맞은 것은?",
+     "choices": [
+      "피곤해요",
+      "졸려요",
+      "행복해요"
+     ],
+     "answer": 0,
+     "explain": "Are you tired?에 Yes, I am.이라고 답했으니 피곤해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you thirsty? No, I'm not.",
+     "ko": "너는 목마르니? 아니, 그렇지 않아."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "감정이나 상태 묻고 답하기 / 감정이나 상태 표현하기",
+   "objectives": [
+    "감정이나 상태를 묻고 답하는 말을 할 수 있다.",
+    "감정이나 상태를 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Are You Sad?' 노래와 '땅따먹기 놀이를 하며 감정이나 상태 표현하기' 놀이에서 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 24~25쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "감정·상태 카드로 묻고 답하기, 다양한 표정의 동물 사진 보며 표현 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "놀이터에서 피곤한 Hoa와 목마른 보라를 친구들이 도와주는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상 보며 표현 익히기, 그림을 보며 짝과 감정·상태 묻고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'Are You Sad?' 노래를 표정과 몸짓을 하며 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "땅따먹기 놀이 — 지우개를 튕겨 들어간 칸에 맞게 Yes, I am. / No, I'm not. I'm ....으로 답하기 (모둠 활동)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "상황에 알맞은 대화 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I'm thirsty.",
+    "Do you have some water?",
+    "Are you tired?",
+    "No, I'm not. I'm sleepy."
+   ],
+   "tip": "'No, I'm not.'으로 답한 뒤 'I'm sleepy.'처럼 지금 기분이나 상태를 덧붙여 말해 봐요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 감정이나 상태를 묻고 답하는 말을 할 수 있는가? 감정이나 상태를 표현하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "thirsty",
+       "목마른"
+      ],
+      [
+       "sleepy",
+       "졸린"
+      ],
+      [
+       "tired",
+       "피곤한"
+      ],
+      [
+       "water",
+       "물"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "목이 말라서 물을 마시고 싶어요. 알맞은 말은?",
+     "emoji": "🥤",
+     "choices": [
+      "I'm thirsty.",
+      "I'm sleepy.",
+      "I'm sad.",
+      "I'm angry."
+     ],
+     "answer": 0,
+     "explain": "thirsty는 '목마른'이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "하품이 나고 자고 싶어요. 알맞은 말은?",
+     "emoji": "🥱",
+     "choices": [
+      "I'm happy.",
+      "I'm sleepy.",
+      "I'm thirsty."
+     ],
+     "answer": 1,
+     "explain": "sleepy는 '졸린'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm tired.",
+     "choices": [
+      "나는 화가 나.",
+      "나는 피곤해.",
+      "나는 목말라."
+     ],
+     "answer": 1,
+     "explain": "tired는 '피곤한'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Do you have some water, Sam?",
+     "choices": [
+      "Sam, 너는 목마르니?",
+      "Sam, 물을 좋아하니?",
+      "Sam, 물 좀 있니?"
+     ],
+     "answer": 2,
+     "explain": "Do you have ~?는 '~이 있니?', some water는 '물 좀'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Minu가 Cora에게 물을 건네요. Minu가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Minu",
+       "text": "Are you thirsty?"
+      },
+      {
+       "who": "Cora",
+       "text": "Yes, I am."
+      },
+      {
+       "who": "Minu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "Here.",
+      "No, I'm not."
+     ],
+     "answer": 1,
+     "explain": "물건을 건넬 때 'Here.(여기 있어.)'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Paul은 피곤하지 않고 졸려요. Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Hana",
+       "text": "Are you tired?"
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not. I'm happy.",
+      "No, I'm not. I'm sleepy.",
+      "Yes, I am. I'm tired."
+     ],
+     "answer": 1,
+     "explain": "피곤하지 않으니 No, I'm not.이라고 하고, 졸리다고 I'm sleepy.라고 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___.",
+     "ko": "나는 목말라.",
+     "choices": [
+      "sad",
+      "tired",
+      "thirsty"
+     ],
+     "answer": 2,
+     "explain": "'목마른'은 thirsty예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I have some water.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 물을 좋아해.",
+      "나는 물을 마시지 않아.",
+      "나에게 물이 좀 있어."
+     ],
+     "answer": 2,
+     "explain": "have는 '가지고 있다', some water는 '물 좀'이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 졸려.",
+     "answer": "I'm sleepy.",
+     "distractors": [
+      "am",
+      "sad."
+     ],
+     "explain": "'나는 ~해.'는 I'm ~.으로 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Yes, I am. I'm tired.",
+     "answer": "Yes, I am. I'm tired.",
+     "distractors": [
+      "not.",
+      "sleepy."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm thirsty.",
+     "ko": "나는 목말라."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Sam이 보라에게 물을 줘요. Sam이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "I'm thirsty. Do you have some water?"
+      },
+      {
+       "who": "Hoa",
+       "text": "No, I don't."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Are you tired?",
+      "I have some water. Here it is.",
+      "I'm thirsty, too."
+     ],
+     "answer": 1,
+     "explain": "물이 있다고 말하며 건네줄 때 'I have some water. Here it is.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Juno가 옆자리를 가리켜요. Juno가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "Are you tired?"
+      },
+      {
+       "who": "Hoa",
+       "text": "Yes, I am. I'm tired."
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good morning.",
+      "Here I go!",
+      "Sit here."
+     ],
+     "answer": 2,
+     "explain": "피곤한 친구에게 '여기 앉아.'라고 할 때 Sit here.라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 슬프지 않고 피곤해요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Are you sad?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not. I'm tired.",
+      "Yes, I am. I'm sad.",
+      "No, I'm not. I'm thirsty."
+     ],
+     "answer": 0,
+     "explain": "슬프지 않으니 No, I'm not.이고, 피곤하다고 I'm tired.라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "물 좀 있니?",
+     "answer": "Do you have some water?",
+     "distractors": [
+      "I",
+      "are"
+     ],
+     "explain": "'~이 있니?'는 Do you have ~?예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 나는 화가 나.",
+     "answer": "No, I'm not. I'm angry.",
+     "distractors": [
+      "am.",
+      "happy."
+     ],
+     "explain": "No, I'm not.으로 답하고 지금 기분을 I'm angry.로 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm sleepy. Good night.",
+     "answer": "I'm sleepy. Good night.",
+     "distractors": [
+      "thirsty.",
+      "morning."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I have some ___.",
+     "ko": "나에게 물이 좀 있어.",
+     "choices": [
+      "water",
+      "happy",
+      "tired"
+     ],
+     "answer": 0,
+     "explain": "'물'은 water예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___. Good night.",
+     "ko": "나는 졸려. 잘 자.",
+     "choices": [
+      "thirsty",
+      "sleepy",
+      "angry"
+     ],
+     "answer": 1,
+     "explain": "자러 갈 때는 졸리다는 뜻의 sleepy가 어울려요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 표정을 고르세요.",
+     "audio": "I'm happy.",
+     "choices": [
+      "😠",
+      "😊",
+      "😢"
+     ],
+     "answer": 1,
+     "explain": "happy는 '행복한'이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm thirsty. Do you have some water?",
+     "ko": "나는 목말라. 물 좀 있니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "목마른",
+     "answers": [
+      "thirsty"
+     ],
+     "hint": "t h _ r s t y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "피곤한",
+     "answers": [
+      "tired"
+     ],
+     "hint": "t _ r e d"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 슬퍼.",
+     "answers": [
+      "I'm sad.",
+      "I am sad."
+     ],
+     "hint": "I'm s _ d."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "응, 그래. 나는 목말라. 물 좀 있니?",
+     "answer": "Yes, I am. I'm thirsty. Do you have some water?",
+     "distractors": [
+      "not.",
+      "tired."
+     ],
+     "explain": "Yes, I am.으로 답하고 I'm thirsty.로 상태를 말한 뒤 물이 있는지 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Are you angry? No, I'm not. I'm tired.",
+     "answer": "Are you angry? No, I'm not. I'm tired.",
+     "distractors": [
+      "am.",
+      "happy?"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "밤늦게 Jiho가 하품을 해요. Jiho의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Are you sleepy, Jiho?"
+      },
+      {
+       "who": "Jiho",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not. I'm angry.",
+      "Yes, I am. Good night, Mom.",
+      "Good morning, Mom."
+     ],
+     "answer": 1,
+     "explain": "졸리니까 Yes, I am.이라고 하고 밤 인사를 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "선생님이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Are you happy, Amy?"
+      },
+      {
+       "who": "Amy",
+       "text": "No, I'm not."
+      },
+      {
+       "who": "Teacher",
+       "text": "?"
+      },
+      {
+       "who": "Amy",
+       "text": "Yes, I am. I'm tired."
+      }
+     ],
+     "choices": [
+      "Are you thirsty?",
+      "What's your name?",
+      "Are you tired?"
+     ],
+     "answer": 2,
+     "explain": "Amy가 'Yes, I am. I'm tired.'라고 답했으니 선생님은 피곤한지 물었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's a hot day. Bora rides her bike to the park. \"I'm thirsty,\" she says. Sam gives her some water. \"Thank you, Sam!\"",
+     "question": "보라에게 물을 준 친구는 누구인가요?",
+     "choices": [
+      "Sam",
+      "Hoa",
+      "Juno",
+      "Bora"
+     ],
+     "answer": 0,
+     "explain": "'Sam gives her some water.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hana: Are you angry, Paul?\nPaul: No, I'm not.\nHana: Are you sad?\nPaul: Yes, I am. I'm sad.",
+     "question": "Paul은 어떤 기분인가요?",
+     "choices": [
+      "슬퍼요",
+      "화가 나요",
+      "행복해요"
+     ],
+     "answer": 0,
+     "explain": "Are you sad?에 Yes, I am.이라고 답했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm tired. Are you tired, too?",
+     "ko": "나는 피곤해. 너도 피곤하니?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "감정이나 상태를 표현하는 문장 읽고 쓰기 / 'y'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "감정이나 상태를 표현하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /i/와 철자 'y'의 관계를 이해하며 'y'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'나와 친구들의 감정이나 상태를 그림그래프로 표현하기'의 협력 과업으로 감정이나 상태를 표현하는 문장을 읽고 쓰거나 말할 수 있다."
+   ],
+   "pages": "교과서 26~27쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "감정·상태 그림 카드 보고 질문에 답하기, 생일 케이크 사진 보며 배울 내용 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "그림을 보며 감정·상태 문장 읽고, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read, Match and Draw",
+     "desc": "문장을 읽고 줄을 따라 올라가 어울리는 표정 그리기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Write and Say",
+     "desc": "이모티콘에 알맞은 단어 완성 후 자신의 감정 말하기, 스스로 다지기(지금 나의 감정을 문장으로 쓰기)",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'y'로 끝나는 단어(happy, sleepy, angry) 소리 내어 읽고 끝소리 /i/ 확인하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "나와 친구들의 감정·상태를 묻고 답하여 표를 완성하고 그림그래프로 표현해 발표하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "감정·상태 문장 읽고 쓰며 복습, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "I'm happy.",
+    "I'm sad.",
+    "I'm angry.",
+    "I'm sleepy.",
+    "I'm thirsty.",
+    "I'm tired."
+   ],
+   "tip": "'나'를 나타내는 I는 문장 어디에서나 항상 대문자로 써요. happy, sleepy, angry처럼 끝의 y는 /i/ 소리가 나요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가 — 감정이나 상태를 표현하는 문장을 읽고 쓸 수 있는가? 'y'로 끝나는 단어를 소리 내어 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 알맞은 표정을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I'm happy.",
+       "😊"
+      ],
+      [
+       "I'm sad.",
+       "😢"
+      ],
+      [
+       "I'm angry.",
+       "😠"
+      ],
+      [
+       "I'm sleepy.",
+       "😪"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "'y'로 끝나는 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "happy",
+       "행복한"
+      ],
+      [
+       "sleepy",
+       "졸린"
+      ],
+      [
+       "angry",
+       "화난"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 'y'로 끝나고 끝소리가 /i/인 단어는?",
+     "choices": [
+      "hat",
+      "tired",
+      "happy",
+      "sad"
+     ],
+     "answer": 2,
+     "explain": "happy는 'y'로 끝나고 끝소리가 /i/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "baby",
+     "choices": [
+      "d",
+      "t",
+      "y"
+     ],
+     "answer": 2,
+     "explain": "baby(아기)의 마지막 글자는 y예요. 소리는 /i/로 나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 표정을 고르세요.",
+     "audio": "Are you angry?",
+     "choices": [
+      "😊",
+      "😠",
+      "😪"
+     ],
+     "answer": 1,
+     "explain": "angry는 '화난'이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I'm thirsty.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 목말라.",
+      "나는 피곤해.",
+      "나는 졸려."
+     ],
+     "answer": 0,
+     "explain": "thirsty는 '목마른'이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___.",
+     "ko": "나는 행복해.",
+     "choices": [
+      "sad",
+      "happy",
+      "sleepy"
+     ],
+     "answer": 1,
+     "explain": "'행복한'은 happy예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "happ___",
+     "ko": "행복한",
+     "choices": [
+      "y",
+      "i",
+      "e"
+     ],
+     "answer": 0,
+     "explain": "happy는 y로 끝나요. 끝소리 /i/를 y로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "생일 케이크를 받은 여자아이는 기뻐요. 여자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Are you happy?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm thirsty.",
+      "No, I'm not. I'm sad.",
+      "Yes, I am. I'm happy."
+     ],
+     "answer": 2,
+     "explain": "기쁘니까 Yes, I am. I'm happy.라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 피곤해.",
+     "answer": "I'm tired.",
+     "distractors": [
+      "am",
+      "sad."
+     ],
+     "explain": "'피곤한'은 tired예요. I'm tired."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm sleepy.",
+     "answer": "I'm sleepy.",
+     "distractors": [
+      "tired.",
+      "am"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "happy, sleepy, angry",
+     "ko": "행복한, 졸린, 화난 (끝소리 /i/)"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 다른 하나는?",
+     "choices": [
+      "sleepy",
+      "happy",
+      "angry",
+      "tired"
+     ],
+     "answer": 3,
+     "explain": "happy, sleepy, angry는 'y'로 끝나 끝소리가 /i/이고, tired는 /d/로 끝나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "monkey",
+     "choices": [
+      "k",
+      "y",
+      "t"
+     ],
+     "answer": 1,
+     "explain": "monkey(원숭이)도 y로 끝나고 끝소리가 /i/예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "slee___y",
+     "ko": "졸린",
+     "choices": [
+      "d",
+      "p",
+      "t"
+     ],
+     "answer": 1,
+     "explain": "졸린은 sleepy예요. s-l-e-e-p-y."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "angr___",
+     "ko": "화난",
+     "choices": [
+      "i",
+      "e",
+      "y"
+     ],
+     "answer": 2,
+     "explain": "화난은 angry예요. 끝소리 /i/를 y로 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I'를 바르게 쓴 문장은?",
+     "choices": [
+      "i am sad.",
+      "I'm sad.",
+      "i'm sad."
+     ],
+     "answer": 1,
+     "explain": "'나'를 뜻하는 I는 항상 대문자로 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Bora: I'm thirsty.\nEric: I'm tired.\nKate: I'm sleepy.",
+     "question": "목이 마른 사람은 누구인가요?",
+     "choices": [
+      "Kate",
+      "Eric",
+      "Bora"
+     ],
+     "answer": 2,
+     "explain": "Bora가 'I'm thirsty.(나는 목말라.)'라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 화가 나.",
+     "answer": "I'm angry.",
+     "distractors": [
+      "happy.",
+      "am"
+     ],
+     "explain": "'화난'은 angry예요. I'm angry."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm sad.",
+     "answer": "I'm sad.",
+     "distractors": [
+      "happy.",
+      "Are"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이는 졸리지 않고 목이 말라요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Are you sleepy?"
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not. I'm thirsty.",
+      "Yes, I am. I'm sleepy.",
+      "No, I'm not. I'm happy."
+     ],
+     "answer": 0,
+     "explain": "졸리지 않으니 No, I'm not.이고, 목이 마르다고 I'm thirsty.라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm happy. I'm not sad.",
+     "ko": "나는 행복해. 나는 슬프지 않아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "졸린",
+     "answers": [
+      "sleepy"
+     ],
+     "hint": "s l _ _ p y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "화난",
+     "answers": [
+      "angry"
+     ],
+     "hint": "a n g r _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "행복한 (끝소리 /i/)",
+     "answers": [
+      "happy"
+     ],
+     "hint": "h a p p _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 목말라.",
+     "answers": [
+      "I'm thirsty.",
+      "I am thirsty."
+     ],
+     "hint": "I'm t h _ r s t y."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 행복해.",
+     "answers": [
+      "I'm happy.",
+      "I am happy."
+     ],
+     "hint": "I'm h _ _ _ y."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 졸리지 않아. 나는 피곤해.",
+     "answer": "I'm not sleepy. I'm tired.",
+     "distractors": [
+      "am",
+      "happy."
+     ],
+     "explain": "I'm not sleepy.는 '나는 졸리지 않아.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our group's feelings\nhappy 😊 : 3 friends\nsad 😢 : 1 friend\ntired 😫 : 2 friends",
+     "question": "가장 많은 친구들이 느끼는 기분은 무엇인가요?",
+     "choices": [
+      "happy",
+      "tired",
+      "sad"
+     ],
+     "answer": 0,
+     "explain": "happy가 3명으로 가장 많아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's my birthday. I have a big cake. My friends say, \"Happy birthday!\" I'm very happy.",
+     "question": "글쓴이의 기분은 어떤가요?",
+     "choices": [
+      "매우 행복해요",
+      "슬퍼요",
+      "목이 말라요"
+     ],
+     "answer": 0,
+     "explain": "'I'm very happy.'라고 했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm thirsty and tired.",
+     "answer": "I'm thirsty and tired.",
+     "distractors": [
+      "sad",
+      "am"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you sleepy? Yes, I am.",
+     "ko": "너는 졸리니? 응, 그래."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '빨간 머리 앤' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 28~29쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "감정·상태 문장 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'빨간 머리 앤' 이야기 추측하기, 만화 영화 보며 이해하기, HOW ABOUT YOU?, 모둠별 역할극 하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 그림 연결하기, 문장 완성하기, 마지막 장면 상상해 감정 문장 쓰기 등 단원 정리",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study",
+     "desc": "단원 성취도 점검, 느낀 점과 복습 계획 쓰기, Special 1 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Are you tired?",
+    "No, I'm not. I'm not tired.",
+    "Are you thirsty?",
+    "Oh, I'm happy."
+   ],
+   "tip": "다른 사람의 기분을 물어보고 그 기분을 존중해 주는 말을 해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? My Work 자기 평가 — 단원 학습 내용을 문제를 풀며 정리할 수 있는가? (단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Anne meets Matthew and Marilla at the train station. Anne says, \"Good afternoon. My name is Anne.\"",
+     "question": "Anne이 인사한 때는 언제인가요?",
+     "choices": [
+      "밤",
+      "오후",
+      "아침"
+     ],
+     "answer": 1,
+     "explain": "Good afternoon은 오후 인사예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Marilla: Are you tired?\nAnne: No, I'm not. I'm not tired.",
+     "question": "Anne은 피곤한가요?",
+     "choices": [
+      "네, 졸려요.",
+      "아니요, 피곤하지 않아요.",
+      "네, 피곤해요."
+     ],
+     "answer": 1,
+     "explain": "Anne이 'I'm not tired.(나는 피곤하지 않아요.)'라고 했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Hi, trees!",
+       "안녕, 나무들아!"
+      ],
+      [
+       "Hi, flowers!",
+       "안녕, 꽃들아!"
+      ],
+      [
+       "Please sit down.",
+       "앉으렴."
+      ],
+      [
+       "I'm happy.",
+       "나는 행복해."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Are you sleepy?",
+     "choices": [
+      "너는 피곤하니?",
+      "너는 졸리니?",
+      "너는 행복하니?"
+     ],
+     "answer": 1,
+     "explain": "sleepy는 '졸린'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "You are very tall.",
+     "choices": [
+      "너는 정말 예쁘구나.",
+      "너는 정말 행복하구나.",
+      "너는 정말 키가 크구나."
+     ],
+     "answer": 2,
+     "explain": "tall은 '키가 큰'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Anne은 목이 말라요. Anne의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Matthew",
+       "text": "Are you thirsty?"
+      },
+      {
+       "who": "Anne",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "Good afternoon.",
+      "Yes, I am. Thank you."
+     ],
+     "answer": 2,
+     "explain": "목이 마르니까 Yes, I am.이라고 하고 주스를 받으며 고맙다고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Marilla 아주머니가 앉으라고 해요. Anne의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Marilla",
+       "text": "Anne. Please sit down."
+      },
+      {
+       "who": "Anne",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "Are you tired?",
+      "Okay."
+     ],
+     "answer": 2,
+     "explain": "부탁을 들어줄 때 Okay.라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You are very ___.",
+     "ko": "너희는 정말 예쁘구나.",
+     "choices": [
+      "angry",
+      "tired",
+      "pretty"
+     ],
+     "answer": 2,
+     "explain": "'예쁜'은 pretty예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Anne이 새 집에 가게 되어 기뻐요. Anne이 할 말로 알맞은 것은?",
+     "emoji": "😊",
+     "choices": [
+      "Oh, I'm happy.",
+      "Oh, I'm sad.",
+      "Oh, I'm angry."
+     ],
+     "answer": 0,
+     "explain": "기쁠 때는 I'm happy.라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "아니, 그렇지 않아. 나는 피곤하지 않아.",
+     "answer": "No, I'm not. I'm not tired.",
+     "distractors": [
+      "am.",
+      "sleepy."
+     ],
+     "explain": "I'm not tired.는 '나는 피곤하지 않아.'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good afternoon. My name is Anne.",
+     "answer": "Good afternoon. My name is Anne.",
+     "distractors": [
+      "morning.",
+      "your"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hi, flowers! You are very pretty.",
+     "ko": "안녕, 꽃들아! 너희는 정말 예쁘구나."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Anne sees tall trees and pretty flowers. \"Hi, trees! Hi, flowers!\" Anne is very happy.",
+     "question": "Anne의 기분은 어떤가요?",
+     "choices": [
+      "슬퍼요",
+      "매우 행복해요",
+      "화가 나요"
+     ],
+     "answer": 1,
+     "explain": "'Anne is very happy.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Matthew 아저씨가 주스를 꺼내며 물어요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Marilla",
+       "text": "Are you tired?"
+      },
+      {
+       "who": "Anne",
+       "text": "No, I'm not."
+      },
+      {
+       "who": "Matthew",
+       "text": "?"
+      },
+      {
+       "who": "Anne",
+       "text": "Yes, I am. Thank you."
+      }
+     ],
+     "choices": [
+      "Are you angry?",
+      "Are you thirsty?",
+      "What's your name?"
+     ],
+     "answer": 1,
+     "explain": "Anne이 Yes, I am. Thank you.라고 하며 주스를 받았으니 목이 마른지 물었어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 목마르니?",
+     "answer": "Are you thirsty?",
+     "distractors": [
+      "I'm",
+      "not"
+     ],
+     "explain": "'너는 목마르니?'는 Are you thirsty?예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "앉으렴, Anne.",
+     "answer": "Please sit down, Anne.",
+     "distractors": [
+      "up,",
+      "stand"
+     ],
+     "explain": "sit down은 '앉다', please를 붙이면 공손한 말이 돼요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hi, trees! You are very tall.",
+     "answer": "Hi, trees! You are very tall.",
+     "distractors": [
+      "pretty.",
+      "flowers!"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Oh, I'm ___.",
+     "ko": "오, 나는 행복해.",
+     "choices": [
+      "happy",
+      "sad",
+      "sleepy"
+     ],
+     "answer": 0,
+     "explain": "'행복한'은 happy예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 기분이나 상태를 나타내는 단어가 아닌 것은?",
+     "choices": [
+      "angry",
+      "happy",
+      "sad",
+      "water"
+     ],
+     "answer": 3,
+     "explain": "water는 '물'이에요. 나머지는 기분을 나타내요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm not tired.",
+     "choices": [
+      "나는 졸려.",
+      "나는 피곤하지 않아.",
+      "나는 피곤해."
+     ],
+     "answer": 1,
+     "explain": "not이 들어가면 '~하지 않아'라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Anne은 졸리지 않고 행복해요. Anne의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Grandma",
+       "text": "Are you sleepy, Anne?"
+      },
+      {
+       "who": "Anne",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am. I'm sleepy.",
+      "No, I'm not. I'm happy.",
+      "No, I'm not. I'm sad."
+     ],
+     "answer": 1,
+     "explain": "졸리지 않으니 No, I'm not.이고, 기분이 좋다고 I'm happy.라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good afternoon. My name is Anne. I'm happy.",
+     "ko": "안녕하세요(오후 인사). 제 이름은 Anne이에요. 저는 행복해요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 목말라.",
+     "answers": [
+      "I'm thirsty.",
+      "I am thirsty."
+     ],
+     "hint": "I'm th _ _ _ t y."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 화가 났니?",
+     "answers": [
+      "Are you angry?"
+     ],
+     "hint": "Are you a _ _ _ _?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아니, 그렇지 않아.",
+     "answers": [
+      "No, I'm not.",
+      "No, I am not."
+     ],
+     "hint": "No, I'm _ _ _."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Jina: Are you happy?\nTom: No, I'm not.\nJina: Are you angry?\nTom: No, I'm not. I'm sleepy.",
+     "question": "Tom의 상태로 알맞은 것은?",
+     "choices": [
+      "행복해요",
+      "화가 나요",
+      "졸려요"
+     ],
+     "answer": 2,
+     "explain": "Tom이 마지막에 'I'm sleepy.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at Momo. Momo plays soccer for a long time. Now Momo is tired and thirsty.",
+     "question": "지금 Momo의 상태로 알맞은 것은?",
+     "choices": [
+      "화나고 행복해요",
+      "졸리고 슬퍼요",
+      "피곤하고 목말라요"
+     ],
+     "answer": 2,
+     "explain": "'Momo is tired and thirsty.'라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 피곤하니? 응, 그래. 나는 피곤해.",
+     "answer": "Are you tired? Yes, I am. I'm tired.",
+     "distractors": [
+      "not.",
+      "sleepy?"
+     ],
+     "explain": "Are you tired?로 묻고 Yes, I am. I'm tired.로 답해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Are you sad, Juno? No, I'm not.",
+     "answer": "Are you sad, Juno? No, I'm not.",
+     "distractors": [
+      "am.",
+      "happy,"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Are you thirsty?"
+      },
+      {
+       "who": "Kate",
+       "text": "Yes, I am."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      },
+      {
+       "who": "Kate",
+       "text": "Thank you."
+      }
+     ],
+     "choices": [
+      "Here. I have some water.",
+      "Good night, Kate.",
+      "No, I'm not."
+     ],
+     "answer": 0,
+     "explain": "목마른 친구에게 물을 건넬 때 'Here. I have some water.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "밤이 되어 하나는 졸려요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Good night, Hana."
+      },
+      {
+       "who": "Hana",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Nice to meet you, Mom.",
+      "Good morning, Mom. I'm happy.",
+      "Good night, Mom. I'm sleepy."
+     ],
+     "answer": 2,
+     "explain": "밤 인사에는 Good night.으로 답하고, 졸리다고 I'm sleepy.라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Are you happy? Yes, I am. I'm very happy.",
+     "ko": "너는 행복하니? 응, 그래. 나는 정말 행복해."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "종이컵 탑이 무너지자 Eric이 Kate에게 다시 해 보자고 해요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Can you try again, Kate?"
+    },
+    {
+     "who": "Kate",
+     "text": "Okay."
+    },
+    {
+     "who": "Eric",
+     "text": "Are you sad?"
+    },
+    {
+     "who": "Kate",
+     "text": "No, I'm not. I can do it!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "놀이터에서 목이 마른 보라에게 Sam이 물을 건네요.",
+   "lines": [
+    {
+     "who": "보라",
+     "text": "I'm thirsty. Do you have some water?"
+    },
+    {
+     "who": "Hoa",
+     "text": "No, I don't."
+    },
+    {
+     "who": "Sam",
+     "text": "I have some water. Here it is."
+    },
+    {
+     "who": "보라",
+     "text": "Oh, thank you."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "하나가 Paul에게 피곤한지 물어요.",
+   "lines": [
+    {
+     "who": "하나",
+     "text": "Are you tired?"
+    },
+    {
+     "who": "Paul",
+     "text": "No, I'm not. I'm sleepy."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "기차역에서 앤이 매슈 아저씨, 마릴라 아주머니를 처음 만나요.",
+   "lines": [
+    {
+     "who": "마릴라 아주머니",
+     "text": "Are you tired?"
+    },
+    {
+     "who": "앤",
+     "text": "No, I'm not. I'm not tired."
+    },
+    {
+     "who": "매슈 아저씨",
+     "text": "Are you thirsty?"
+    },
+    {
+     "who": "앤",
+     "text": "Yes, I am. Thank you."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 빨간 머리 앤",
+  "passage": "Anne meets Matthew and Marilla at the station. \"Good afternoon. My name is Anne.\" Marilla asks, \"Are you tired?\" Anne is not tired. Matthew asks, \"Are you thirsty?\" Anne is thirsty, so he gives her some juice. On the way home, Anne says hello to the tall trees and the pretty flowers. \"Oh, I'm happy,\" says Anne.",
+  "summaryKo": "앤이 매슈 아저씨, 마릴라 아주머니를 만나 인사하고, 기분과 상태를 묻는 말에 답하며 새 집으로 가는 길에 행복해해요."
+ },
+ "writing": {
+  "frame": [
+   "I'm ____.",
+   "Are you ____?"
+  ],
+  "model": "Are you sleepy? No, I'm not. I'm happy."
+ },
+ "project": "Work Together: 여섯 명씩 모둠을 만들어 서로의 감정·상태를 묻고 답하며 표를 완성한 뒤, 그래프 양식에 감정·상태 단어 6개와 인원수를 표시해 그림그래프로 만들고 모둠별로 발표한다.",
+ "special": {
+  "no": 1,
+  "kind": "CULTURE·PROJECT",
+  "title": "나라마다 성과 이름을 쓰는 방법이 달라요 / 시 감상하고 낭송하기",
+  "summaryKo": "CULTURE에서는 이순신, 제인 구달, 파블로 루이스 피카소가 자기 이름을 소개하는 장면을 보며 나라마다 성과 이름을 쓰는 순서가 다르다는 것을 알아보고, 영어식·스페인어식 명함을 만들어 이름을 묻고 답해요. PROJECT에서는 아침·밤 인사를 담은 시를 듣고 느낀 감정을 이야기한 뒤 모둠별로 다양한 방법으로 낭송하며, Let's Try!·Let's Check!로 1, 2단원을 복습해요.",
+  "facts": [
+   "우리나라는 성을 먼저 쓰고 이름을 나중에 써요. (예: Yi Sunsin)",
+   "영국 등 영어권 나라에서는 이름을 먼저 쓰고 성을 나중에 써요. 제인 구달(Jane Goodall)의 성은 Goodall이에요.",
+   "스페인에서는 이름, 아버지 성, 어머니 성 순서로 써요. (예: Pablo Ruiz Picasso)",
+   "아이슬란드 사람들은 성이 없고, 이름 뒤에 아버지 이름과 '손(아들)' 또는 '도티르(딸)'를 붙여요.",
+   "덴마크 사람의 절반 정도는 '누구의 후손'이라는 뜻의 '-sen'으로 끝나는 성을 가지고 있어요. (예: 안데르센)"
+  ],
+  "expressions": [
+   "My name is Yi Sunsin. Nice to meet you.",
+   "Nice to meet you, too. My name is Jane Goodall.",
+   "Hi. I'm Pablo Ruiz Picasso.",
+   "Good morning, Mom. / Good night, Dad."
+  ],
+  "exercises": []
+ }
+}

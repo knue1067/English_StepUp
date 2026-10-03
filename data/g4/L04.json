@@ -1,0 +1,2260 @@
+{
+ "id": "L04",
+ "no": 4,
+ "grade": 4,
+ "semester": 1,
+ "title": "Let's Play Basketball",
+ "emoji": "🏀",
+ "rationale": "친구들과 함께 운동하는 것은 대인 관계 형성과 건강한 심신 발달에 중요하다. 운동을 소재로 제안하고 답하는 말, 유감을 표현하는 말을 배워 주변 사람에 대한 존중과 배려의 태도를 기르고 원만한 사회관계를 형성하도록 한다.",
+ "topics": "개인 생활 관련(운동), 학교생활 관련(학교 활동, 교우 관계)",
+ "functions": [
+  {
+   "ko": "제안하고 답하기",
+   "examples": [
+    "Let's play baseball.",
+    "Sounds good.",
+    "Sorry, I can't."
+   ]
+  },
+  {
+   "ko": "유감 표현하기",
+   "examples": [
+    "That's too bad."
+   ]
+  }
+ ],
+ "forms": [
+  "Let's play baseball.",
+  "Let's play badminton [baseball / basketball / soccer / tennis]."
+ ],
+ "phonics": {
+  "focus": "r /r/ (끝소리)",
+  "words": [
+   "soccer",
+   "four",
+   "door"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "bad",
+   "ko": "나쁜, 안 좋은 (That's too bad: 안됐다)"
+  },
+  {
+   "en": "badminton",
+   "ko": "배드민턴"
+  },
+  {
+   "en": "baseball",
+   "ko": "야구"
+  },
+  {
+   "en": "basketball",
+   "ko": "농구"
+  },
+  {
+   "en": "busy",
+   "ko": "바쁜"
+  },
+  {
+   "en": "let",
+   "ko": "~하게 하다 (Let's: ~하자)"
+  },
+  {
+   "en": "pass",
+   "ko": "(공을) 패스하다, 건네다"
+  },
+  {
+   "en": "play",
+   "ko": "(운동·놀이를) 하다"
+  },
+  {
+   "en": "sick",
+   "ko": "아픈"
+  },
+  {
+   "en": "soccer",
+   "ko": "축구"
+  },
+  {
+   "en": "sound",
+   "ko": "~하게 들리다 (Sounds good: 좋아)"
+  },
+  {
+   "en": "tennis",
+   "ko": "테니스"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "badminton",
+   "ko": "배드민턴",
+   "emoji": "🏸"
+  },
+  {
+   "en": "baseball",
+   "ko": "야구",
+   "emoji": "⚾"
+  },
+  {
+   "en": "basketball",
+   "ko": "농구",
+   "emoji": "🏀"
+  },
+  {
+   "en": "soccer",
+   "ko": "축구",
+   "emoji": "⚽"
+  },
+  {
+   "en": "tennis",
+   "ko": "테니스",
+   "emoji": "🎾"
+  }
+ ],
+ "characters": [
+  "Eric",
+  "Kate",
+  "보라(Bora)",
+  "준오(Juno)",
+  "Momo",
+  "Sam",
+  "Hoa",
+  "하나",
+  "Paul",
+  "민우",
+  "Alice",
+  "삐삐",
+  "토미",
+  "안니카",
+  "도둑"
+ ],
+ "goals": {
+  "understand": [
+   "제안하고 답하는 말, 유감을 표현하는 말을 듣고 이해할 수 있다.",
+   "제안하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /r/과 철자 'r'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "제안하고 답하는 말과 유감을 표현하는 말을 들으며 상대방을 존중하고 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "제안하고 답하는 말, 유감을 표현하는 말을 할 수 있다.",
+   "제안하는 문장을 보고 쓸 수 있다.",
+   "소리 /r/과 철자 'r'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "대인 관계의 기초인 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-07",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "제안하고 답하기",
+   "objectives": [
+    "제안하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '제안할 운동을 동작으로 전달하기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 40~41쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Motivation / Get Ready",
+     "desc": "운동 경기에 쓰이는 공 그림 보기, 친구와 함께 하고 싶은 운동 말하기, 단원 학습 목표 확인, My Study 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "학교 체육관에서 Eric이 배드민턴을, 보라가 농구를 제안하는 만화 영화 보기, 운동을 제안한 친구 이름 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "운동 찬트를 하며 들은 순서대로 번호 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "제안할 운동을 동작으로 전달하기 — 마지막 학생이 Let's play ....로 제안하고 교사가 답하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "듣고 그림과 맞으면 ○, 틀리면 × 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Let's play badminton.",
+    "Sounds good!",
+    "Sorry, I can't. I'm tired.",
+    "Pass!"
+   ],
+   "tip": "'Let's play ~.'는 '~하자.'라는 제안이에요. 좋으면 'Sounds good.', 못 하면 'Sorry, I can't.'라고 답해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 제안하고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "운동과 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "⚽",
+       "soccer"
+      ],
+      [
+       "⚾",
+       "baseball"
+      ],
+      [
+       "🏀",
+       "basketball"
+      ],
+      [
+       "🎾",
+       "tennis"
+      ],
+      [
+       "🏸",
+       "badminton"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "이 운동의 이름은?",
+     "emoji": "🏸",
+     "choices": [
+      "baseball",
+      "soccer",
+      "tennis",
+      "badminton"
+     ],
+     "answer": 3,
+     "explain": "셔틀콕과 라켓으로 하는 운동은 badminton(배드민턴)이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Let's play soccer.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 축구를 좋아해.",
+      "축구하자.",
+      "축구를 하지 마."
+     ],
+     "answer": 1,
+     "explain": "Let's ~는 '~하자'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+     "audio": "Let's play tennis.",
+     "choices": [
+      "🏀",
+      "⚾",
+      "⚽",
+      "🎾"
+     ],
+     "answer": 3,
+     "explain": "tennis는 '테니스'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Sounds good.",
+     "choices": [
+      "안됐다.",
+      "좋아.",
+      "미안, 못 해."
+     ],
+     "answer": 1,
+     "explain": "Sounds good.은 제안에 '좋아.'라고 찬성하는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric은 농구를 하고 싶어요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "Let's play basketball."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "No, I'm not.",
+      "Sorry, I can't.",
+      "Sounds good!"
+     ],
+     "answer": 2,
+     "explain": "하고 싶을 때는 Sounds good!(좋아!)이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Kate는 피곤해서 할 수 없어요. Kate의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Let's play badminton."
+      },
+      {
+       "who": "Kate",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good!",
+      "Yes, I am.",
+      "Sorry, I can't. I'm tired."
+     ],
+     "answer": 2,
+     "explain": "할 수 없을 때는 Sorry, I can't.라고 하고 이유를 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's ___ baseball.",
+     "ko": "야구하자.",
+     "choices": [
+      "sit",
+      "eat",
+      "play"
+     ],
+     "answer": 2,
+     "explain": "운동을 '하다'는 play예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ good.",
+     "ko": "좋아.",
+     "choices": [
+      "Let's",
+      "Don't",
+      "Sounds"
+     ],
+     "answer": 2,
+     "explain": "제안에 찬성할 때는 Sounds good.이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "농구하자.",
+     "answer": "Let's play basketball.",
+     "distractors": [
+      "soccer.",
+      "Don't"
+     ],
+     "explain": "Let's play 뒤에 운동 이름을 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Sorry, I can't.",
+     "answer": "Sorry, I can't.",
+     "distractors": [
+      "can",
+      "good."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play baseball. Sounds good.",
+     "ko": "야구하자. 좋아."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Eric이 Kate에게 배드민턴을 하자고 해요. Eric이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "Kate! Do you like badminton?"
+      },
+      {
+       "who": "Kate",
+       "text": "Yes, I do."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't play badminton.",
+      "Let's play badminton.",
+      "Are you happy?"
+     ],
+     "answer": 1,
+     "explain": "함께 하자고 제안할 때는 Let's play ~.라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "?"
+      },
+      {
+       "who": "Girl",
+       "text": "Sounds good. I like baseball."
+      }
+     ],
+     "choices": [
+      "Let's play baseball.",
+      "Don't kick.",
+      "Let's play tennis."
+     ],
+     "answer": 0,
+     "explain": "여자아이가 야구를 좋아한다며 찬성했으니 야구를 하자고 제안했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Pass!'는 언제 하는 말일까요?",
+     "choices": [
+      "공을 패스해 달라고 할 때",
+      "공을 차지 말라고 할 때",
+      "운동을 하자고 할 때"
+     ],
+     "answer": 0,
+     "explain": "pass는 '(공을) 패스하다, 건네다'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I love basketball!'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "농구하자!",
+      "나는 농구가 정말 좋아!",
+      "나는 농구를 못 해!"
+     ],
+     "answer": 1,
+     "explain": "love는 '정말 좋아하다'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Kate, 축구하자.",
+     "answer": "Kate, let's play soccer.",
+     "distractors": [
+      "tennis.",
+      "Sounds"
+     ],
+     "explain": "Let's play soccer.는 '축구하자.'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Pass, Eric! Pass!",
+     "answer": "Pass, Eric! Pass!",
+     "distractors": [
+      "Play,",
+      "Kate!"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Do you ___ tennis?",
+     "ko": "너는 테니스를 좋아하니?",
+     "choices": [
+      "like",
+      "are",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "'좋아하다'는 like예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Sorry, I ___.",
+     "ko": "미안, 나는 못 해.",
+     "choices": [
+      "can",
+      "can't",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "'못 해'는 can't예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+     "audio": "Let's play baseball. Sorry, I can't.",
+     "choices": [
+      "야구를 하자고 했고 좋다고 했어요.",
+      "축구를 하자고 했지만 거절했어요.",
+      "야구를 하자고 했지만 거절했어요."
+     ],
+     "answer": 2,
+     "explain": "Let's play baseball.(야구하자.)에 Sorry, I can't.(미안, 못 해.)라고 거절했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Do you like badminton? Yes, I do.",
+     "ko": "너는 배드민턴을 좋아하니? 응, 좋아해."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축구",
+     "answers": [
+      "soccer"
+     ],
+     "hint": "s o c _ _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "야구",
+     "answers": [
+      "baseball"
+     ],
+     "hint": "b a s e _ _ _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "테니스",
+     "answers": [
+      "tennis"
+     ],
+     "hint": "t e n _ _ s"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Eric, 테니스 하자.",
+     "answer": "Eric, let's play tennis.",
+     "distractors": [
+      "basketball.",
+      "Sounds"
+     ],
+     "explain": "Let's play tennis.는 '테니스 하자.'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's play badminton. Sorry, I can't. I'm tired.",
+     "answer": "Let's play badminton. Sorry, I can't. I'm tired.",
+     "distractors": [
+      "good.",
+      "sleepy."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "지민이는 야구를 정말 좋아해요. 지민이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Grandpa",
+       "text": "Let's play baseball, Jimin."
+      },
+      {
+       "who": "Jimin",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't play baseball.",
+      "Sounds good! I love baseball.",
+      "Sorry, I can't."
+     ],
+     "answer": 1,
+     "explain": "하고 싶으니 Sounds good!이라고 답하고 야구를 정말 좋아한다고 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "남자아이가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Do you like tennis?"
+      },
+      {
+       "who": "Amy",
+       "text": "Yes, I do."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      },
+      {
+       "who": "Amy",
+       "text": "Sounds good!"
+      }
+     ],
+     "choices": [
+      "Let's play tennis, Amy.",
+      "Don't touch.",
+      "Do you like soccer?"
+     ],
+     "answer": 0,
+     "explain": "Amy가 Sounds good!이라고 찬성했으니 테니스를 하자고 제안했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Eric and Bora are in the gym. Bora says, \"Let's play basketball.\" Eric says, \"Sounds good!\" Momo gets the ball. \"Pass, Eric!\"",
+     "question": "보라가 하자고 한 운동은 무엇인가요?",
+     "choices": [
+      "배드민턴",
+      "농구",
+      "야구",
+      "축구"
+     ],
+     "answer": 1,
+     "explain": "Bora가 'Let's play basketball.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno: Let's play soccer, Hoa.\nHoa: Sorry, I can't. I'm tired.\nJuno: Okay. Let's play soccer, Sam.\nSam: Sounds good!",
+     "question": "Juno와 축구를 하는 친구는 누구인가요?",
+     "choices": [
+      "Sam",
+      "Hoa",
+      "Juno"
+     ],
+     "answer": 0,
+     "explain": "Sam이 'Sounds good!'이라고 찬성했어요. Hoa는 피곤해서 못 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Kate! Do you like badminton? Let's play badminton.",
+     "ko": "Kate! 너는 배드민턴을 좋아하니? 배드민턴 하자."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "제안하고 답하기 / 유감 표현하기",
+   "objectives": [
+    "제안하고 답하는 말을 할 수 있다.",
+    "유감을 표현하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Let's Play Soccer!' 노래와 '운동을 제안하고 답하며 징검다리 색칠하기' 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 42~43쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "운동 그림 카드로 복습, 유감을 표현할 만한 사진 보며 배울 내용 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Sam이 야구를 제안하고 아픈 보라에게 유감을 표현하는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상 보며 표현 익히기, 하고 싶은 운동을 골라 짝에게 제안하고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'Let's Play Soccer!' 노래 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "주사위를 던져 나온 징검다리 그림의 운동을 제안하고 답하며 색칠하기 (모둠 활동)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "상황에 알맞은 대화 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Sorry, I can't. I'm sick.",
+    "Oh, that's too bad.",
+    "Sorry, I can't. I'm busy.",
+    "You can do it!"
+   ],
+   "tip": "친구가 아프거나 바빠서 못 한다고 하면 'That's too bad.(그것 참 안됐다.)'라고 마음을 표현해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 제안하고 답하는 말을 할 수 있는가? 유감을 표현하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sick",
+       "아픈"
+      ],
+      [
+       "busy",
+       "바쁜"
+      ],
+      [
+       "play",
+       "(운동을) 하다"
+      ],
+      [
+       "pass",
+       "패스하다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'That's too bad.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "그거 좋다.",
+      "정말 미안해.",
+      "그것 참 안됐다."
+     ],
+     "answer": 2,
+     "explain": "That's too bad.는 유감을 나타내는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "몸이 아파서 운동을 못 할 때 하는 말은?",
+     "emoji": "🤒",
+     "choices": [
+      "Sorry, I can't. I'm sick.",
+      "Sounds good!",
+      "Sorry, I can't. I'm busy."
+     ],
+     "answer": 0,
+     "explain": "sick은 '아픈'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm busy.",
+     "choices": [
+      "나는 피곤해.",
+      "나는 아파.",
+      "나는 바빠."
+     ],
+     "answer": 2,
+     "explain": "busy는 '바쁜'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 언제 하는 말인지 고르세요.",
+     "audio": "That's too bad.",
+     "choices": [
+      "친구에게 안 좋은 일이 있을 때",
+      "친구가 고맙다고 할 때",
+      "친구를 처음 만났을 때"
+     ],
+     "answer": 0,
+     "explain": "That's too bad.는 '그것 참 안됐다.'라는 뜻으로 유감을 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Let's play baseball."
+      },
+      {
+       "who": "Bora",
+       "text": "Sorry, I can't. I'm sick."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good!",
+      "Oh, that's too bad.",
+      "You're welcome."
+     ],
+     "answer": 1,
+     "explain": "친구가 아프다고 하니 Oh, that's too bad.라고 유감을 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Alice는 바빠서 축구를 할 수 없어요. Alice의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Minu",
+       "text": "Let's play soccer."
+      },
+      {
+       "who": "Alice",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I do.",
+      "Sorry, I can't. I'm busy.",
+      "Sounds good."
+     ],
+     "answer": 1,
+     "explain": "바빠서 못 할 때는 Sorry, I can't. I'm busy.라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "That's too ___.",
+     "ko": "그것 참 안됐다.",
+     "choices": [
+      "sick",
+      "bad",
+      "good"
+     ],
+     "answer": 1,
+     "explain": "'안됐다'는 That's too bad.예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Sorry, I can't. I'm ___.",
+     "ko": "미안, 못 해. 나는 아파.",
+     "choices": [
+      "sick",
+      "good",
+      "happy"
+     ],
+     "answer": 0,
+     "explain": "'아픈'은 sick이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그것 참 안됐다.",
+     "answer": "That's too bad.",
+     "distractors": [
+      "good.",
+      "sick."
+     ],
+     "explain": "유감을 표현할 때 That's too bad.라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I can play.",
+     "answer": "I can play.",
+     "distractors": [
+      "can't",
+      "Sorry,"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Sorry, I can't. I'm sick.",
+     "ko": "미안, 못 해. 나는 아파."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Paul의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Hana",
+       "text": "Do you like tennis?"
+      },
+      {
+       "who": "Paul",
+       "text": "Yes, I do."
+      },
+      {
+       "who": "Hana",
+       "text": "Let's play tennis!"
+      },
+      {
+       "who": "Paul",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good. I like tennis.",
+      "That's too bad.",
+      "Sorry, I can't."
+     ],
+     "answer": 0,
+     "explain": "테니스를 좋아하니 Sounds good.이라고 찬성해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Juno가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "Let's play basketball, Kate."
+      },
+      {
+       "who": "Kate",
+       "text": "Sorry, I can't. I'm busy."
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good, Kate.",
+      "Pass, Kate!",
+      "That's too bad, Kate."
+     ],
+     "answer": 2,
+     "explain": "친구가 바빠서 못 한다고 하니 That's too bad.라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam이 공을 치지 못했어요. Kate가 응원해요. Kate가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Thank you!"
+      }
+     ],
+     "choices": [
+      "Don't play, Sam.",
+      "That's too bad. Bye.",
+      "That's okay, Sam. You can do it!"
+     ],
+     "answer": 2,
+     "explain": "실수한 친구에게 That's okay.(괜찮아.) You can do it!(너는 할 수 있어!)이라고 응원해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 제안을 거절하는 말은?",
+     "choices": [
+      "Okay.",
+      "Sounds good.",
+      "Sorry, I can't."
+     ],
+     "answer": 2,
+     "explain": "Sorry, I can't.는 '미안, 못 해.'라는 거절의 말이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안, 못 해. 나는 피곤해.",
+     "answer": "Sorry, I can't. I'm tired.",
+     "distractors": [
+      "can",
+      "good."
+     ],
+     "explain": "Sorry, I can't.로 거절하고 이유를 I'm tired.로 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 할 수 있어!",
+     "answer": "You can do it!",
+     "distractors": [
+      "can't",
+      "I"
+     ],
+     "explain": "You can do it!은 응원하는 말이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Oh, that's too bad. Bye.",
+     "answer": "Oh, that's too bad. Bye.",
+     "distractors": [
+      "good.",
+      "Hi."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's play ___.",
+     "ko": "농구하자.",
+     "choices": [
+      "badminton",
+      "baseball",
+      "basketball"
+     ],
+     "answer": 2,
+     "explain": "'농구'는 basketball이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 제안을 거절한 이유를 고르세요.",
+     "audio": "Let's play soccer. Sorry, I can't. I'm sick.",
+     "choices": [
+      "피곤해서",
+      "아파서",
+      "바빠서"
+     ],
+     "answer": 1,
+     "explain": "I'm sick.은 '나는 아파.'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play tennis! Sounds good.",
+     "ko": "테니스 하자! 좋아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아픈",
+     "answers": [
+      "sick"
+     ],
+     "hint": "s _ c k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "바쁜",
+     "answers": [
+      "busy"
+     ],
+     "hint": "b _ s y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "좋아.(제안에 찬성하기)",
+     "answers": [
+      "Sounds good."
+     ],
+     "hint": "S o u n d s g _ _ d."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안, 못 해. 나는 아파. 안녕.",
+     "answer": "Sorry, I can't. I'm sick. Bye.",
+     "distractors": [
+      "can",
+      "busy."
+     ],
+     "explain": "거절하고 이유를 말한 뒤 작별 인사를 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's play badminton. Sounds good.",
+     "answer": "Let's play badminton. Sounds good.",
+     "distractors": [
+      "can't.",
+      "tennis."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "아빠가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Let's play badminton, Mina."
+      },
+      {
+       "who": "Mina",
+       "text": "Sorry, I can't, Dad. I'm sick."
+      },
+      {
+       "who": "Dad",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Pass, Mina!",
+      "Sounds good, Mina.",
+      "Oh, that's too bad, Mina."
+     ],
+     "answer": 2,
+     "explain": "딸이 아파서 못 한다고 하니 유감을 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben이 '안됐다'고 말했어요. Amy의 대답으로 알맞은 것은?",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "Let's play soccer, Amy."
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      },
+      {
+       "who": "Ben",
+       "text": "That's too bad."
+      }
+     ],
+     "choices": [
+      "Sounds good!",
+      "Sorry, I can't. I'm sleepy.",
+      "Yes, I do."
+     ],
+     "answer": 1,
+     "explain": "Ben이 That's too bad.(안됐다.)라고 했으니 Amy는 거절하고 이유를 말했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam: Let's play baseball!\nEric, Juno, Kate: Sounds good!\nBora: Sorry, I can't. I'm sick.\nHoa: I can play.",
+     "question": "야구를 하지 못하는 친구는 누구인가요?",
+     "choices": [
+      "Bora",
+      "Hoa",
+      "Kate",
+      "Eric"
+     ],
+     "answer": 0,
+     "explain": "Bora가 'Sorry, I can't. I'm sick.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Minu: Let's play soccer, Alice.\nAlice: Sorry, I can't. I'm busy.\nMinu: That's too bad.",
+     "question": "Alice가 축구를 할 수 없는 이유는?",
+     "choices": [
+      "바빠서",
+      "아파서",
+      "졸려서"
+     ],
+     "answer": 0,
+     "explain": "Alice가 'I'm busy.(나는 바빠.)'라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "That's okay. You can do it!",
+     "ko": "괜찮아. 너는 할 수 있어!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "제안하는 문장 읽고 쓰기 / 'r'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "제안하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /r/과 철자 'r'의 관계를 이해하며 'r'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'배운 표현을 활용하여 만화 완성하기'의 협력 과업으로 제안하는 문장을 읽고 쓰며, 제안하고 답하는 말과 유감을 표현하는 말을 할 수 있다."
+   ],
+   "pages": "교과서 44~45쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "운동 그림 카드로 짝과 대화하기, 유명한 축구 선수 사진 보며 제안하는 문장 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "그림을 보며 제안하는 문장 읽고, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read, Match and Say",
+     "desc": "그림에 어울리는 문장을 연결한 후 짝에게 운동 제안하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Listen, Match and Write",
+     "desc": "듣고 알맞은 그림을 연결한 후 단어 완성하기, 스스로 다지기(제안하고 싶은 운동 문장 쓰기)",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'r'로 끝나는 단어(soccer, four, door) 소리 내어 읽고 끝소리 /r/ 확인하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "짝과 운동 종목을 정해 말풍선에 제안하는 문장을 쓰고 만화를 완성해 역할극 하기 (짝 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "제안하는 문장 읽고 쓰며 복습, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Let's play badminton.",
+    "Let's play baseball.",
+    "Let's play basketball.",
+    "Let's play soccer.",
+    "Let's play tennis."
+   ],
+   "tip": "Let's는 Let us를 줄인 말이에요. soccer, four, door처럼 'r'로 끝나는 단어는 혀를 살짝 말아 /r/ 소리를 내요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가 — 제안하는 문장을 읽고 쓸 수 있는가? 'r'로 끝나는 단어를 소리 내어 읽고 쓸 수 있는가? 짝과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Let's play soccer.",
+       "⚽"
+      ],
+      [
+       "Let's play tennis.",
+       "🎾"
+      ],
+      [
+       "Let's play baseball.",
+       "⚾"
+      ],
+      [
+       "Let's play basketball.",
+       "🏀"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "'r'로 끝나는 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "soccer",
+       "축구"
+      ],
+      [
+       "four",
+       "4, 넷"
+      ],
+      [
+       "door",
+       "문"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 /r/인 단어는?",
+     "emoji": "🚪",
+     "choices": [
+      "ball",
+      "door",
+      "hat",
+      "book"
+     ],
+     "answer": 1,
+     "explain": "door는 'r'로 끝나서 끝소리가 /r/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "four",
+     "choices": [
+      "8",
+      "4",
+      "2"
+     ],
+     "answer": 1,
+     "explain": "four는 숫자 4예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "soccer",
+     "choices": [
+      "l",
+      "r",
+      "s"
+     ],
+     "answer": 1,
+     "explain": "soccer의 마지막 글자는 r이에요. 끝소리가 /r/예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Let's play badminton.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "배드민턴을 좋아하니?",
+      "배드민턴 하자.",
+      "배드민턴을 못 해."
+     ],
+     "answer": 1,
+     "explain": "Let's play ~.는 '~하자.'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Let's play ___.",
+     "ko": "테니스 하자.",
+     "choices": [
+      "soccer",
+      "tennis",
+      "baseball"
+     ],
+     "answer": 1,
+     "explain": "'테니스'는 tennis예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "doo___",
+     "ko": "문",
+     "choices": [
+      "r",
+      "k",
+      "l"
+     ],
+     "answer": 0,
+     "explain": "문은 door예요. 끝소리 /r/는 r로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이가 배드민턴 라켓을 들고 있어요 🏸. 여자아이가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Sounds good."
+      }
+     ],
+     "choices": [
+      "Don't play badminton.",
+      "Let's play soccer.",
+      "Let's play badminton."
+     ],
+     "answer": 2,
+     "explain": "배드민턴 라켓을 들고 있으니 Let's play badminton.이라고 제안해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "야구하자.",
+     "answer": "Let's play baseball.",
+     "distractors": [
+      "tennis.",
+      "Don't"
+     ],
+     "explain": "'야구'는 baseball이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's play basketball.",
+     "answer": "Let's play basketball.",
+     "distractors": [
+      "baseball.",
+      "Sounds"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "soccer, four, door",
+     "ko": "축구, 넷, 문 (끝소리 /r/)"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 다른 하나는?",
+     "choices": [
+      "soccer",
+      "four",
+      "door",
+      "ball"
+     ],
+     "answer": 3,
+     "explain": "door, soccer, four는 'r'로 끝나고, ball은 'l'로 끝나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "car",
+     "choices": [
+      "cat",
+      "cap",
+      "car"
+     ],
+     "answer": 2,
+     "explain": "car(자동차)는 r로 끝나고 끝소리가 /r/예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "soc___er",
+     "ko": "축구",
+     "choices": [
+      "s",
+      "c",
+      "k"
+     ],
+     "answer": 1,
+     "explain": "축구는 soccer예요. c가 두 번 들어가요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "fou___",
+     "ko": "넷, 4",
+     "choices": [
+      "r",
+      "t",
+      "l"
+     ],
+     "answer": 0,
+     "explain": "넷은 four예요. 끝소리 /r/는 r로 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "철자가 바른 것은?",
+     "choices": [
+      "basketbal",
+      "basketball",
+      "baskitball"
+     ],
+     "answer": 1,
+     "explain": "농구는 b-a-s-k-e-t-b-a-l-l, basketball이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno has a ball. ⚽ He kicks it to Sam. \"Let's play soccer, Sam!\"",
+     "question": "Juno가 하자고 한 운동은 무엇인가요?",
+     "choices": [
+      "테니스",
+      "축구",
+      "야구"
+     ],
+     "answer": 1,
+     "explain": "'Let's play soccer'라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "농구하자. 좋아.",
+     "answer": "Let's play basketball. Sounds good.",
+     "distractors": [
+      "can't.",
+      "tennis."
+     ],
+     "explain": "Let's play basketball.에 Sounds good.으로 찬성해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Let's play badminton, Kate.",
+     "answer": "Let's play badminton, Kate.",
+     "distractors": [
+      "tennis,",
+      "Sounds"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이는 테니스를 좋아하고 몸도 건강해요. 여자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "Let's play tennis."
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, I can't. I'm sick.",
+      "Don't play tennis.",
+      "Sounds good! I like tennis."
+     ],
+     "answer": 2,
+     "explain": "테니스를 좋아하니 Sounds good!이라고 찬성해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play soccer. Let's play tennis.",
+     "ko": "축구하자. 테니스 하자."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "배드민턴",
+     "answers": [
+      "badminton"
+     ],
+     "hint": "b a d m _ _ t o n"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "농구",
+     "answers": [
+      "basketball"
+     ],
+     "hint": "b a s k e t _ _ _ _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "문 (끝소리 /r/)",
+     "answers": [
+      "door"
+     ],
+     "hint": "d o o _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축구하자.",
+     "answers": [
+      "Let's play soccer.",
+      "Let us play soccer."
+     ],
+     "hint": "Let's play s _ _ _ _ r."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "테니스 하자.",
+     "answers": [
+      "Let's play tennis.",
+      "Let us play tennis."
+     ],
+     "hint": "Let's play t _ _ _ _ s."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "축구하자. 나는 축구가 정말 좋아.",
+     "answer": "Let's play soccer. I love soccer.",
+     "distractors": [
+      "tennis.",
+      "Don't"
+     ],
+     "explain": "Let's play soccer.로 제안하고 I love soccer.로 좋아하는 마음을 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Four friends play sports.\nHoa: badminton 🏸\nSam: baseball ⚾\nKate: tennis 🎾\nEric: soccer ⚽",
+     "question": "테니스를 하는 친구는 누구인가요?",
+     "choices": [
+      "Kate",
+      "Eric",
+      "Sam",
+      "Hoa"
+     ],
+     "answer": 0,
+     "explain": "Kate: tennis라고 쓰여 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Picture 1\nBora: Let's play basketball, Juno.\nJuno: Sorry, I can't. I'm tired.\nPicture 2\nBora: Let's play basketball, Momo.\nMomo: Sounds good!",
+     "question": "보라와 농구를 하는 친구는 누구인가요?",
+     "choices": [
+      "Bora",
+      "Juno",
+      "Momo"
+     ],
+     "answer": 2,
+     "explain": "Momo가 'Sounds good!'이라고 찬성했어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Open the door. Let's play soccer.",
+     "answer": "Open the door. Let's play soccer.",
+     "distractors": [
+      "four",
+      "tennis."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play basketball. Pass! Pass!",
+     "ko": "농구하자. 패스! 패스!"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '말괄량이 삐삐' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 46~47쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "제안하는 문장 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'말괄량이 삐삐' 이야기 추측하기, 만화 영화 보며 이해하기, HOW ABOUT YOU?, 모둠별 역할극 하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 대화 내용 확인하기, 운동 단어를 나만의 기준으로 나누어 쓰기 등 단원 정리",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study",
+     "desc": "단원 성취도 점검, 느낀 점과 복습 계획 쓰기, Special 2 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Let's play basketball.",
+    "Sorry, I can't. I'm tired.",
+    "That's too bad.",
+    "Wow, you're great!"
+   ],
+   "tip": "친구의 제안을 거절할 때는 'Sorry'를 먼저 말하고 이유를 함께 말하면 더 친절해요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? My Work 자기 평가 — 단원 학습 내용을 문제를 풀며 정리할 수 있는가? (단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tommy: Let's play basketball.\nAnnika: Sorry, I can't. I'm tired.\nTommy: That's too bad.",
+     "question": "Annika가 농구를 할 수 없는 이유는?",
+     "choices": [
+      "바빠서",
+      "아파서",
+      "피곤해서"
+     ],
+     "answer": 2,
+     "explain": "Annika가 'I'm tired.(나는 피곤해.)'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's a sunny morning. Pippi says, \"Nice! It's sunny.\" Tommy and Annika say, \"Good morning, Pippi.\"",
+     "question": "아이들이 만난 때는 언제인가요?",
+     "choices": [
+      "오후",
+      "아침",
+      "밤"
+     ],
+     "answer": 1,
+     "explain": "It's a sunny morning.이고 Good morning.으로 인사했어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Let's play basketball.",
+       "농구하자."
+      ],
+      [
+       "Sounds good.",
+       "좋아."
+      ],
+      [
+       "You're great!",
+       "너 정말 대단해!"
+      ],
+      [
+       "I'm busy.",
+       "나는 바빠."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Pippi, look!",
+     "choices": [
+      "삐삐, 저것 봐!",
+      "삐삐, 이리 와!",
+      "삐삐, 조심해!"
+     ],
+     "answer": 0,
+     "explain": "look은 '보다'예요. Look!은 '봐!'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Wow, you're great!",
+     "choices": [
+      "와, 너 정말 대단해!",
+      "와, 날씨가 좋다!",
+      "와, 안됐다!"
+     ],
+     "answer": 0,
+     "explain": "great는 '대단한, 훌륭한'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "삐삐는 농구를 하고 싶어요. 삐삐의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Tommy",
+       "text": "Pippi, let's play basketball."
+      },
+      {
+       "who": "Pippi",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good.",
+      "That's too bad.",
+      "Sorry, I can't."
+     ],
+     "answer": 0,
+     "explain": "하고 싶을 때는 Sounds good.이라고 찬성해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "도둑은 도망가고 싶어서 핑계를 대요. 도둑의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Pippi",
+       "text": "Hey, let's play basketball."
+      },
+      {
+       "who": "Thief",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good morning!",
+      "Sounds good!",
+      "Sorry, I can't. I'm busy."
+     ],
+     "answer": 2,
+     "explain": "하기 싫을 때는 Sorry, I can't.라고 거절하고 핑계를 대요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Nice! It's ___.",
+     "ko": "좋다! 날씨가 맑아.",
+     "choices": [
+      "sunny",
+      "busy",
+      "sick"
+     ],
+     "answer": 0,
+     "explain": "'맑은'은 sunny예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "삐삐가 멀리서 골을 넣었어요. 친구들이 할 말로 알맞은 것은?",
+     "emoji": "🏀",
+     "choices": [
+      "Don't touch, Pippi.",
+      "Wow, Pippi. You're great!",
+      "Sorry, I can't."
+     ],
+     "answer": 1,
+     "explain": "잘했을 때는 You're great!(너 정말 대단해!)라고 칭찬해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안, 못 해. 나는 피곤해.",
+     "answer": "Sorry, I can't. I'm tired.",
+     "distractors": [
+      "can",
+      "good."
+     ],
+     "explain": "거절할 때는 Sorry, I can't.라고 하고 이유를 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good morning, Pippi.",
+     "answer": "Good morning, Pippi.",
+     "distractors": [
+      "night,",
+      "Tommy."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hey, let's play basketball.",
+     "ko": "이봐, 농구하자."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Annika sees a thief at Pippi's window. \"Pippi, look!\" Pippi throws a basketball at him. \"Hey, let's play basketball!\" The thief says, \"Sorry, I can't. I'm busy.\" Then he runs away.",
+     "question": "삐삐가 도둑에게 던진 것은 무엇인가요?",
+     "choices": [
+      "농구공",
+      "테니스공",
+      "야구공"
+     ],
+     "answer": 0,
+     "explain": "'Pippi throws a basketball'이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tommy가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Tommy",
+       "text": "Let's play basketball."
+      },
+      {
+       "who": "Annika",
+       "text": "Sorry, I can't. I'm tired."
+      },
+      {
+       "who": "Tommy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "You're great!",
+      "Oh, that's too bad.",
+      "Sounds good."
+     ],
+     "answer": 1,
+     "explain": "친구가 피곤해서 못 한다고 하니 That's too bad.라고 유감을 표현해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "여자아이가 야구 방망이를 들고 와서 제안해요 ⚾. 여자아이가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Sounds good!"
+      }
+     ],
+     "choices": [
+      "That's too bad.",
+      "Let's play tennis.",
+      "Let's play baseball."
+     ],
+     "answer": 2,
+     "explain": "야구 방망이를 들고 왔으니 야구를 하자고 제안해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "와, 삐삐. 너 정말 대단해!",
+     "answer": "Wow, Pippi. You're great!",
+     "distractors": [
+      "busy!",
+      "Sorry,"
+     ],
+     "explain": "You're great!는 '너 정말 대단해!'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "좋다! 날씨가 맑아.",
+     "answer": "Nice! It's sunny.",
+     "distractors": [
+      "sick.",
+      "Good"
+     ],
+     "explain": "sunny는 '맑은'이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Pippi, let's play basketball.",
+     "answer": "Pippi, let's play basketball.",
+     "distractors": [
+      "baseball.",
+      "Sounds"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Sorry, I ___. I'm tired.",
+     "ko": "미안, 못 해. 나는 피곤해.",
+     "choices": [
+      "can't",
+      "can",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "'못 해'는 can't예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 제안한 운동을 고르세요.",
+     "audio": "Let's play tennis, Annika.",
+     "choices": [
+      "🏀",
+      "🎾",
+      "⚽"
+     ],
+     "answer": 1,
+     "explain": "tennis는 '테니스'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 제안을 받아들이는 말은?",
+     "choices": [
+      "Sorry, I can't.",
+      "That's too bad.",
+      "Sounds good."
+     ],
+     "answer": 2,
+     "explain": "Sounds good.(좋아.)은 제안을 받아들이는 말이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Tommy, let's play soccer. Sounds good!",
+     "ko": "Tommy, 축구하자. 좋아!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그것 참 안됐다.",
+     "answers": [
+      "That's too bad.",
+      "That is too bad."
+     ],
+     "hint": "That's too b _ d."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축구하자.",
+     "answers": [
+      "Let's play soccer.",
+      "Let us play soccer."
+     ],
+     "hint": "Let's play s _ _ _ _ r."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "미안, 못 해.",
+     "answers": [
+      "Sorry, I can't.",
+      "Sorry, I cannot.",
+      "Sorry, I can not."
+     ],
+     "hint": "Sorry, I c _ n ' t."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mina's sports: soccer ⚽, tennis 🎾, basketball 🏀, baseball ⚾, badminton 🏸. Mina says, \"I like tennis and badminton.\"",
+     "question": "Mina가 좋아하는 운동은 무엇인가요?",
+     "choices": [
+      "테니스와 배드민턴",
+      "축구와 야구",
+      "농구와 축구"
+     ],
+     "answer": 0,
+     "explain": "'I like tennis and badminton.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Girl: Let's play soccer.\nBoy: Sorry, I can't. I'm sick.\nGirl: Oh, that's too bad.",
+     "question": "남자아이가 제안을 거절한 이유는?",
+     "choices": [
+      "바빠서",
+      "피곤해서",
+      "아파서"
+     ],
+     "answer": 2,
+     "explain": "남자아이가 'I'm sick.(나는 아파.)'이라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Hoa의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Sam",
+       "text": "Let's play tennis, Hoa."
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "Great! Let's go."
+      }
+     ],
+     "choices": [
+      "That's too bad.",
+      "Sounds good. I love tennis!",
+      "Sorry, I can't. I'm sick."
+     ],
+     "answer": 1,
+     "explain": "Sam이 Great! Let's go.라고 했으니 Hoa는 제안을 받아들였어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "교실에서 축구를 하던 남자아이에게 선생님이 말해요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "Don't play soccer here. Be careful."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sounds good!",
+      "Let's play soccer.",
+      "Okay. I'm sorry."
+     ],
+     "answer": 2,
+     "explain": "하지 말라는 말에는 Okay.라고 답하고 사과해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "테니스 하자, Amy.",
+     "answer": "Let's play tennis, Amy.",
+     "distractors": [
+      "soccer,",
+      "Sounds"
+     ],
+     "explain": "Let's play tennis.에 친구 이름을 붙여 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Do you like baseball? Let's play baseball.",
+     "answer": "Do you like baseball? Let's play baseball.",
+     "distractors": [
+      "tennis?",
+      "can't"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Let's play basketball. Sounds good! Pass, pass!",
+     "ko": "농구하자. 좋아! 패스, 패스!"
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "학교 체육관에서 Eric이 Kate에게 배드민턴을 하자고 해요.",
+   "lines": [
+    {
+     "who": "Eric",
+     "text": "Let's play badminton."
+    },
+    {
+     "who": "Kate",
+     "text": "Sorry, I can't. I'm tired."
+    },
+    {
+     "who": "보라",
+     "text": "Hey, Eric! Let's play basketball."
+    },
+    {
+     "who": "Eric",
+     "text": "Sounds good!"
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "Sam이 친구들에게 야구를 하자고 하지만 보라는 몸이 아파요.",
+   "lines": [
+    {
+     "who": "Sam",
+     "text": "Bora! Hoa! Let's play baseball."
+    },
+    {
+     "who": "보라",
+     "text": "Sorry, I can't. I'm sick. Bye."
+    },
+    {
+     "who": "Sam",
+     "text": "Oh, that's too bad. Bye."
+    },
+    {
+     "who": "Hoa",
+     "text": "I can play."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 Alice에게 축구를 하자고 해요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "Let's play soccer."
+    },
+    {
+     "who": "Alice",
+     "text": "Sorry, I can't. I'm busy."
+    },
+    {
+     "who": "민우",
+     "text": "That's too bad."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "토미가 삐삐에게 농구를 하자고 해요.",
+   "lines": [
+    {
+     "who": "토미",
+     "text": "Pippi, let's play basketball."
+    },
+    {
+     "who": "삐삐",
+     "text": "Sounds good."
+    },
+    {
+     "who": "안니카",
+     "text": "Wow, Pippi. You're great!"
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 말괄량이 삐삐",
+  "passage": "Tommy wants to play basketball, but Annika is tired. On a sunny morning, they meet Pippi. \"Pippi, let's play basketball.\" \"Sounds good!\" Pippi throws the ball from far away, and it goes in. \"You're great!\" Then Annika sees a thief at Pippi's window. Pippi throws the ball at him: \"Let's play basketball!\" The thief falls and says, \"Sorry, I can't. I'm busy.\" He runs away.",
+  "summaryKo": "토미의 농구 제안을 받아들인 삐삐가 멀리서 골을 넣고, 창문에 매달린 도둑에게도 농구공을 던져 쫓아내요."
+ },
+ "writing": {
+  "frame": [
+   "Let's play ____.",
+   "Sounds good. / Sorry, I can't. I'm ____."
+  ],
+  "model": "Let's play soccer. Sorry, I can't. I'm busy. That's too bad."
+ },
+ "project": "Work Together: 짝과 함께 만화에 그릴 운동 종목과 내용을 정하고, 말풍선에 운동을 제안하는 문장을 써서 두 장면의 만화를 완성한 뒤 반 친구들 앞에서 역할극으로 발표한다.",
+ "special": {
+  "no": 2,
+  "kind": "CULTURE·PROJECT",
+  "title": "세계의 다양한 표지판을 알아봐요 / 모둠별 운동 만들어 제안하기",
+  "summaryKo": "CULTURE에서는 Momo의 설명을 들으며 그리스, 카자흐스탄, 호주, 핀란드, 브라질의 금지·주의 표지판을 알아보고, 우리 주변에 필요한 금지나 주의 표지판을 만들어 Don't ....와 Be careful.로 소개해요. PROJECT에서는 주변 물건으로 할 수 있는 새로운 운동을 모둠별로 만들어 다른 모둠 친구들에게 Let's play ....로 제안하며, Let's Try!·Let's Check!로 3, 4단원을 복습해요.",
+  "facts": [
+   "그리스에서는 유적을 보호하기 위해 유적지에 음식물을 가지고 들어갈 수 없어요. (Don't eat here! Don't drink here!)",
+   "카자흐스탄에서는 공항이나 공공 기관 주변에서 사진을 찍으면 안 돼요.",
+   "호주의 시외 도로에는 캥거루가 자주 나타나서 캥거루 주의 표지판이 있어요.",
+   "핀란드 탐페레 시에는 스마트폰을 보며 걷는 '스마트폰 좀비'를 조심하라는 표지판이 있어요.",
+   "브라질에서는 '길에서 축구하는 아이들이 많으니 조심히 운전하라'는 표지판을 볼 수 있어요.",
+   "태국이나 남아프리카공화국 도로변에는 야생 코끼리 주의 표지판이 있어요."
+  ],
+  "expressions": [
+   "Don't eat here! Don't drink here!",
+   "Don't do that!",
+   "Be careful!",
+   "Let's play badminton. - Sounds good."
+  ],
+  "exercises": []
+ }
+}

@@ -1,0 +1,3193 @@
+{
+ "id": "L01",
+ "no": 1,
+ "grade": 6,
+ "semester": 1,
+ "title": "What Grade Are You In?",
+ "emoji": "🏫",
+ "rationale": "새 학년 새 학기를 맞아 학생들은 학년이나 이름을 묻고 답하는 상황을 자주 접한다. 학년과 이름의 철자를 묻고 답하는 표현을 익혀 실생활에 활용하게 하고, 자기를 소개하는 글을 읽고 쓰며 자신을 탐색하고 타인과 잘 지내는 사회생활 능력을 기르고자 한다.",
+ "topics": "학교생활 관련(학교 활동, 교우 관계), 일반교양 관련(심미적 심성)",
+ "functions": [
+  {
+   "ko": "학년 묻고 답하기",
+   "examples": [
+    "What grade are you in?",
+    "I'm in the sixth grade."
+   ]
+  },
+  {
+   "ko": "이름의 철자 묻고 답하기",
+   "examples": [
+    "How do you spell your name?",
+    "L-I-N-H P-H-A-N."
+   ]
+  }
+ ],
+ "forms": [
+  "I'm in the sixth grade.",
+  "I play the guitar every day."
+ ],
+ "newWords": [
+  {
+   "en": "club",
+   "ko": "동아리"
+  },
+  {
+   "en": "drum",
+   "ko": "북, 드럼"
+  },
+  {
+   "en": "first",
+   "ko": "첫 번째의"
+  },
+  {
+   "en": "grade",
+   "ko": "학년"
+  },
+  {
+   "en": "guitar",
+   "ko": "기타"
+  },
+  {
+   "en": "hard",
+   "ko": "열심히"
+  },
+  {
+   "en": "luck",
+   "ko": "행운 (Good luck! 행운을 빌어!)"
+  },
+  {
+   "en": "second",
+   "ko": "두 번째의"
+  },
+  {
+   "en": "show",
+   "ko": "공연, 쇼"
+  },
+  {
+   "en": "ski",
+   "ko": "스키를 타다"
+  },
+  {
+   "en": "song",
+   "ko": "노래"
+  },
+  {
+   "en": "spell",
+   "ko": "철자를 말하다(쓰다)"
+  },
+  {
+   "en": "third",
+   "ko": "세 번째의"
+  },
+  {
+   "en": "wear",
+   "ko": "입다, 착용하다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "first",
+   "ko": "첫 번째의 (1학년)",
+   "emoji": "1️⃣"
+  },
+  {
+   "en": "second",
+   "ko": "두 번째의 (2학년)",
+   "emoji": "2️⃣"
+  },
+  {
+   "en": "third",
+   "ko": "세 번째의 (3학년)",
+   "emoji": "3️⃣"
+  },
+  {
+   "en": "fourth",
+   "ko": "네 번째의 (4학년)",
+   "emoji": "4️⃣"
+  },
+  {
+   "en": "fifth",
+   "ko": "다섯 번째의 (5학년)",
+   "emoji": "5️⃣"
+  },
+  {
+   "en": "sixth",
+   "ko": "여섯 번째의 (6학년)",
+   "emoji": "6️⃣"
+  }
+ ],
+ "characters": [
+  "Sally",
+  "하나",
+  "Jacob",
+  "Linh",
+  "우주",
+  "안내원",
+  "민우",
+  "Taylor",
+  "Jake",
+  "나리",
+  "Diego",
+  "Ms. Kim",
+  "Emily Harris",
+  "Chloe Jones",
+  "Kim Hana"
+ ],
+ "goals": {
+  "understand": [
+   "학년을 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "이름의 철자를 묻고 답하는 말을 듣고 이해할 수 있다.",
+   "자기를 소개하는 글을 읽고 이해할 수 있다.",
+   "자신의 학년과 이름의 철자를 묻고 답하는 대화를 흥미를 가지고 들을 수 있다.",
+   "자기를 소개하는 글을 포용적인 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "학년을 묻고 답하는 말을 할 수 있다.",
+   "이름의 철자를 묻고 답하는 말을 할 수 있다.",
+   "학년과 매일 하는 일을 나타내는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 자기를 소개하는 글을 쓸 수 있다.",
+   "학교생활에 도움이 되는 영어 의사소통 표현을 익혀 대화 예절을 지키며 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-04",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "학년 묻고 답하기",
+   "objectives": [
+    "학년을 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'을 하며 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 7~9쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "학교에서 학년을 묻고 답한 경험 이야기하기, 단원 목표 확인, 서수(first~sixth) 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "춤 동아리 첫날 Sally·하나·Jacob이 학년을 묻고 답하는 만화 영화 보고 Sally와 Jacob의 학년 쓰기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Match / Practice 1",
+     "desc": "대화를 듣고 친구들의 학년 팻말 연결하기, 1~6학년 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "교사가 그림 속 학생인 척하면 학년을 묻고, 미리 추측한 학년과 같으면 ○ 표시하기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "손가락 숫자를 보고 학년 말하기, 듣고 그림과 맞으면 ○·틀리면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What grade are you in?",
+    "I'm in the sixth grade.",
+    "I'm in the fourth grade."
+   ],
+   "tip": "학년은 순서를 나타내는 말(first, second, third ...)로 말해요. 6학년은 the sixth grade!",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 학년을 묻고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "순서를 나타내는 말과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "first",
+       "첫 번째의"
+      ],
+      [
+       "second",
+       "두 번째의"
+      ],
+      [
+       "third",
+       "세 번째의"
+      ],
+      [
+       "fourth",
+       "네 번째의"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "숫자 표시와 단어를 짝지어 보세요.",
+     "pairs": [
+      [
+       "1st",
+       "first"
+      ],
+      [
+       "4th",
+       "fourth"
+      ],
+      [
+       "5th",
+       "fifth"
+      ],
+      [
+       "6th",
+       "sixth"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'세 번째의'를 영어로 하면?",
+     "emoji": "3️⃣",
+     "choices": [
+      "fifth",
+      "third",
+      "three",
+      "first"
+     ],
+     "answer": 1,
+     "explain": "순서를 말할 때는 three가 아니라 third를 써요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'grade'의 뜻으로 알맞은 것은?",
+     "emoji": "🏫",
+     "choices": [
+      "학년",
+      "기타",
+      "동아리",
+      "공연"
+     ],
+     "answer": 0,
+     "explain": "grade는 '학년'이에요. What grade are you in? = 너는 몇 학년이니?"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I'm in the fifth grade.",
+     "choices": [
+      "나는 5학년이야.",
+      "나는 6학년이야.",
+      "나는 4학년이야."
+     ],
+     "answer": 0,
+     "explain": "fifth는 '다섯 번째의'예요. 그래서 5학년이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "What grade are you in?",
+     "choices": [
+      "너는 어디에서 왔니?",
+      "너는 몇 학년이니?",
+      "너는 몇 살이니?"
+     ],
+     "answer": 1,
+     "explain": "grade(학년)를 묻고 있어요. 학년을 묻는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sally는 6학년이에요. Sally의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "What grade are you in?"
+      },
+      {
+       "who": "Sally",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, it is.",
+      "I'm in the sixth grade.",
+      "I'm Sally."
+     ],
+     "answer": 1,
+     "explain": "학년을 물으면 'I'm in the ... grade.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 Sally의 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Sally",
+       "text": "?"
+      },
+      {
+       "who": "Jacob",
+       "text": "I'm in the fourth grade."
+      }
+     ],
+     "choices": [
+      "What grade are you in, Jacob?",
+      "What's your name?",
+      "Can I join the club?"
+     ],
+     "answer": 0,
+     "explain": "'I'm in the fourth grade.'는 학년을 묻는 말에 대한 대답이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm in the ___ grade.",
+     "ko": "나는 2학년이야.",
+     "choices": [
+      "twice",
+      "second",
+      "two"
+     ],
+     "answer": 1,
+     "explain": "학년은 순서를 나타내는 말로 말해요. 2학년은 the second grade예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 몇 학년이니?",
+     "answer": "What grade are you in?",
+     "distractors": [
+      "Where",
+      "is"
+     ],
+     "explain": "학년을 물을 때는 'What grade are you in?'이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the third grade.",
+     "answer": "I'm in the third grade.",
+     "distractors": [
+      "three",
+      "first"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What grade are you in?",
+     "ko": "너는 몇 학년이니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 순서대로 바르게 놓인 것은?",
+     "choices": [
+      "third - second - first",
+      "second - first - third",
+      "first - third - second",
+      "first - second - third"
+     ],
+     "answer": 3,
+     "explain": "1st first, 2nd second, 3rd third 순서예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'5학년'을 바르게 쓴 것은?",
+     "emoji": "5️⃣",
+     "choices": [
+      "the fiveth grade",
+      "the fifht grade",
+      "the fifth grade",
+      "the five grade"
+     ],
+     "answer": 2,
+     "explain": "five(5)의 순서 말은 fifth예요. 철자에 주의해요: f-i-f-t-h."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 몇 학년인지 고르세요.",
+     "audio": "What grade are you in? I'm in the first grade.",
+     "choices": [
+      "3학년",
+      "5학년",
+      "1학년"
+     ],
+     "answer": 2,
+     "explain": "first는 '첫 번째의'예요. 1학년이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm in the sixth grade, ___.",
+     "ko": "나도 6학년이야.",
+     "choices": [
+      "two",
+      "to",
+      "too"
+     ],
+     "answer": 2,
+     "explain": "'~도'는 문장 끝에 too를 써요. to, two와 소리는 같지만 뜻이 달라요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben은 5학년이에요. Ben의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mina",
+       "text": "Hi, I'm Mina. What grade are you in?"
+      },
+      {
+       "who": "Ben",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm from Canada.",
+      "Nice to meet you, too.",
+      "I'm in the fifth grade. How about you?"
+     ],
+     "answer": 2,
+     "explain": "학년을 물었으니 학년으로 답하고 'How about you?'로 되물어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ann도 6학년이에요. Ann의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ann",
+       "text": "What grade are you in?"
+      },
+      {
+       "who": "Tim",
+       "text": "I'm in the sixth grade."
+      },
+      {
+       "who": "Ann",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Great. I'm in the sixth grade, too.",
+      "It's a guitar.",
+      "I'm sorry."
+     ],
+     "answer": 0,
+     "explain": "같은 학년이면 'I'm in the sixth grade, too.'라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 Hana야. 너는 몇 학년이니?",
+     "answer": "I'm Hana. What grade are you in?",
+     "distractors": [
+      "Where",
+      "is"
+     ],
+     "explain": "자기 이름을 말한 뒤 학년을 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can I join the club? I'm in the fifth grade.",
+     "answer": "Can I join the club? I'm in the fifth grade.",
+     "distractors": [
+      "five",
+      "is"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi! I'm Tom. I'm in the second grade. This is my sister, Ann. She is in the fifth grade.",
+     "question": "Ann은 몇 학년인가요?",
+     "choices": [
+      "2학년",
+      "4학년",
+      "5학년"
+     ],
+     "answer": 2,
+     "explain": "'She is in the fifth grade.' — Ann은 5학년이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hello, I'm Sally. Can I join the club?",
+     "ko": "안녕, 나는 Sally야. 동아리에 가입해도 될까?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "다섯 번째의",
+     "answers": [
+      "fifth"
+     ],
+     "hint": "f _ _ _ h"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그녀는 6학년이야.",
+     "answers": [
+      "She's in the sixth grade.",
+      "She is in the sixth grade."
+     ],
+     "hint": "She is in the ____ grade."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 몇 학년이니, Sally?",
+     "answers": [
+      "What grade are you in, Sally?",
+      "Sally, what grade are you in?"
+     ],
+     "hint": "What ____ are you in, Sally?"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hello, I'm Sally. I'm in the sixth grade.",
+     "answer": "Hello, I'm Sally. I'm in the sixth grade.",
+     "distractors": [
+      "six",
+      "Hana."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 4학년이야. 너는 몇 학년이니?",
+     "answer": "I'm in the fourth grade. What grade are you in?",
+     "distractors": [
+      "four",
+      "Where"
+     ],
+     "explain": "학년을 말한 뒤 'What grade are you in?'으로 되물을 수 있어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "와, 너는 춤을 잘 추는구나.",
+     "answer": "Wow, you are a good dancer.",
+     "distractors": [
+      "dance",
+      "is"
+     ],
+     "explain": "'a good dancer'는 '춤을 잘 추는 사람'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Jun의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "Welcome to Happy Dance Club!"
+      },
+      {
+       "who": "Jun",
+       "text": "Hello. Can I join the club?"
+      },
+      {
+       "who": "Coach",
+       "text": "Sure. What grade are you in?"
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I can't dance.",
+      "I'm in the second grade. I like dancing.",
+      "Yes, it is."
+     ],
+     "answer": 1,
+     "explain": "학년을 물었으니 'I'm in the second grade.'처럼 학년으로 답해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Happy Dance Club has three new friends. Mia is in the first grade. Leo is in the fourth grade. Kate is in the sixth grade. Leo is a good dancer.",
+     "question": "춤을 잘 추는 친구는 몇 학년인가요?",
+     "choices": [
+      "4학년",
+      "1학년",
+      "6학년"
+     ],
+     "answer": 0,
+     "explain": "'Leo is a good dancer.' Leo는 4학년(the fourth grade)이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam: What grade are you in, Yuna?\nYuna: I'm in the second grade.\nSam: Really? My brother is in the second grade, too.",
+     "question": "글의 내용과 맞는 것은?",
+     "choices": [
+      "Yuna와 Sam의 동생은 같은 학년이다.",
+      "Yuna는 3학년이다.",
+      "Sam은 2학년이다."
+     ],
+     "answer": 0,
+     "explain": "Yuna도 2학년이고 Sam의 남동생도 2학년이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm in the fourth grade. How about you?",
+     "ko": "나는 4학년이야. 너는?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "학년 묻고 답하기 / 이름의 철자 묻고 답하기",
+   "objectives": [
+    "학년을 묻고 답하는 말을 할 수 있다.",
+    "이름의 철자를 묻고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 10~11쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "학년 팻말 그림으로 복습하기, 학생들 이름의 철자를 묻고 답하며 동기 유발",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Art and Fun Festival에서 Linh이 학년과 이름 철자를 말하고, 우주가 ice cream의 철자를 묻는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "민우·Taylor·Jake, 나리와 선생님의 동영상으로 표현 익히기, 짝과 학년과 이름 철자 묻고 답하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "두 팀이 칸을 골라 학년이나 이름 철자를 묻고 답하며 색칠하는 사목 놀이 (모둠)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "상황에 맞는 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What grade are you in?",
+    "I'm in the sixth grade.",
+    "How do you spell your name?",
+    "L-I-N-H P-H-A-N."
+   ],
+   "tip": "철자를 물을 때는 'How do you spell ...?'이라고 해요. 모르는 영어 단어의 철자를 물을 때도 쓸 수 있어요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 학년을 묻고 답하는 말을 할 수 있는가? 이름의 철자를 묻고 답하는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "spell",
+       "철자를 말하다"
+      ],
+      [
+       "name",
+       "이름"
+      ],
+      [
+       "wear",
+       "입다, 착용하다"
+      ],
+      [
+       "luck",
+       "행운"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'How do you spell your name?'의 뜻은?",
+     "choices": [
+      "너는 그림을 좋아하니?",
+      "네 이름은 무엇이니?",
+      "너는 몇 학년이니?",
+      "네 이름의 철자는 어떻게 되니?"
+     ],
+     "answer": 3,
+     "explain": "spell은 '철자를 말하다'예요. 이름의 철자를 묻는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 무엇을 묻는 말인지 고르세요.",
+     "audio": "How do you spell your name?",
+     "choices": [
+      "출신 국가를 묻는 말",
+      "학년을 묻는 말",
+      "이름의 철자를 묻는 말"
+     ],
+     "answer": 2,
+     "explain": "spell your name — 이름의 철자를 묻고 있어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 이름을 고르세요.",
+     "audio": "J-A-K-E",
+     "choices": [
+      "Kate",
+      "Jace",
+      "Jake"
+     ],
+     "answer": 2,
+     "explain": "J, A, K, E — Jake예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Linh의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "안내원",
+       "text": "How do you spell your name?"
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "L-I-N-H.",
+      "Thank you.",
+      "I'm in the sixth grade."
+     ],
+     "answer": 0,
+     "explain": "철자를 물으면 알파벳을 하나씩 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Mr. Brown",
+       "text": "?"
+      },
+      {
+       "who": "나리",
+       "text": "K-I-M N-A-R-I."
+      }
+     ],
+     "choices": [
+      "What grade are you in?",
+      "Who's he?",
+      "How do you spell your name?"
+     ],
+     "answer": 2,
+     "explain": "알파벳으로 대답했으니 철자를 묻는 질문이 와야 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "How do you ___ your name?",
+     "ko": "네 이름의 철자는 어떻게 되니?",
+     "choices": [
+      "play",
+      "draw",
+      "spell"
+     ],
+     "answer": 2,
+     "explain": "철자를 말하는 것은 spell이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Linh이 'L-I-N-H P-H-A-N.'이라고 했어요. Linh의 성(family name)은?",
+     "choices": [
+      "Phan",
+      "Linh",
+      "Pan",
+      "Phen"
+     ],
+     "answer": 0,
+     "explain": "L-I-N-H는 이름 Linh, P-H-A-N은 성 Phan이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "네 이름의 철자는 어떻게 되니?",
+     "answer": "How do you spell your name?",
+     "distractors": [
+      "What",
+      "grade"
+     ],
+     "explain": "이름의 철자를 물을 때는 'How do you spell your name?'이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the sixth grade.",
+     "answer": "I'm in the sixth grade.",
+     "distractors": [
+      "six",
+      "fifth"
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 Jake가 몇 학년인지 고르세요.",
+     "audio": "Hi, Jake. I'm Minu. What grade are you in? — I'm in the third grade.",
+     "choices": [
+      "6학년",
+      "3학년",
+      "1학년"
+     ],
+     "answer": 1,
+     "explain": "the third grade는 3학년이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How do you spell your name?",
+     "ko": "네 이름의 철자는 어떻게 되니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 이름을 고르세요.",
+     "audio": "S-O-P-H-I-A",
+     "choices": [
+      "Sofia",
+      "Sophia",
+      "Sopia"
+     ],
+     "answer": 1,
+     "explain": "S-O-P-H-I-A. 가운데 PH가 있어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Good luck!'은 언제 하는 말일까요?",
+     "choices": [
+      "친구의 학년을 물을 때",
+      "대회에 나가는 친구를 응원할 때",
+      "친구에게 사과할 때",
+      "밥을 먹을 때"
+     ],
+     "answer": 1,
+     "explain": "Good luck!은 '행운을 빌어!'라는 뜻이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ this, please.",
+     "ko": "이것을 착용하세요.",
+     "choices": [
+      "Join",
+      "Spell",
+      "Wear"
+     ],
+     "answer": 2,
+     "explain": "이름표 등을 몸에 다는 것도 wear로 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ted의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Jones",
+       "text": "What's your name?"
+      },
+      {
+       "who": "Ted",
+       "text": "My name is Ted Kim."
+      },
+      {
+       "who": "Ms. Jones",
+       "text": "How do you spell your name?"
+      },
+      {
+       "who": "Ted",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "T-E-D K-I-M.",
+      "T-E-D K-I-N.",
+      "I'm Ted Kim."
+     ],
+     "answer": 0,
+     "explain": "Ted Kim의 철자는 T-E-D K-I-M이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 들어갈 민우의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "Hi, Taylor. Who's he?"
+      },
+      {
+       "who": "Taylor",
+       "text": "He's my brother, Jake."
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      },
+      {
+       "who": "Jake",
+       "text": "I'm in the third grade."
+      }
+     ],
+     "choices": [
+      "Hi, Jake. What grade are you in?",
+      "What's that?",
+      "How do you spell your name?"
+     ],
+     "answer": 0,
+     "explain": "Jake가 학년을 답했으니 학년을 묻는 말이 알맞아요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Linh, 아이스크림의 철자는 어떻게 되니?",
+     "answer": "Linh, how do you spell ice cream?",
+     "distractors": [
+      "name",
+      "What"
+     ],
+     "explain": "모르는 단어의 철자도 'How do you spell ...?'으로 물을 수 있어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 5학년이야.",
+     "answer": "I'm in the fifth grade.",
+     "distractors": [
+      "five",
+      "is"
+     ],
+     "explain": "5학년은 the fifth grade예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "How do you spell your name? P-A-R-K J-I-N-A.",
+     "answer": "How do you spell your name? P-A-R-K J-I-N-A.",
+     "distractors": [
+      "What",
+      "grade"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'How do you spell window?'에 알맞은 대답은?",
+     "choices": [
+      "I'm in the window.",
+      "W-I-N-D-O-W.",
+      "It's a window."
+     ],
+     "answer": 1,
+     "explain": "철자를 물었으니 알파벳으로 하나씩 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Kim Nari. K-I-M N-A-R-I.",
+     "ko": "내 이름은 김나리야. K-I-M N-A-R-I."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "drum의 철자는 어떻게 되니?",
+     "answers": [
+      "How do you spell drum?"
+     ],
+     "hint": "How do you _____ drum?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "세 번째의",
+     "answers": [
+      "third"
+     ],
+     "hint": "t _ _ _ d"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What grade are you in? I'm in the second grade.",
+     "answer": "What grade are you in? I'm in the second grade.",
+     "distractors": [
+      "two",
+      "Where"
+     ]
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wear this, please. You can sit over there.",
+     "answer": "Wear this, please. You can sit over there.",
+     "distractors": [
+      "here",
+      "is"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 이름은 Jason Brown이야. J-A-S-O-N B-R-O-W-N.",
+     "answer": "My name is Jason Brown. J-A-S-O-N B-R-O-W-N.",
+     "distractors": [
+      "I'm",
+      "spell"
+     ],
+     "explain": "이름을 말한 뒤 철자를 알파벳으로 하나씩 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "안내원의 다음 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Guide",
+       "text": "Hello. Can I help you?"
+      },
+      {
+       "who": "Mina",
+       "text": "Can I join the art festival?"
+      },
+      {
+       "who": "Guide",
+       "text": "Sure. What grade are you in?"
+      },
+      {
+       "who": "Mina",
+       "text": "I'm in the fifth grade."
+      },
+      {
+       "who": "Guide",
+       "text": "What's your name?"
+      },
+      {
+       "who": "Mina",
+       "text": "My name is Han Mina."
+      },
+      {
+       "who": "Guide",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay. What grade are you in, Mina?",
+      "Okay. How do you spell your name, Mina?",
+      "Okay. Where are you from, Mina?"
+     ],
+     "answer": 1,
+     "explain": "이름을 들은 뒤 철자를 확인할 때 'How do you spell your name?'이라고 물어요. 학년은 이미 들었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Name: Emily Smith\nGrade: sixth grade\nClub: music club\n\nHi! I'm Emily. E-M-I-L-Y S-M-I-T-H. I play the drum in the music club.",
+     "question": "Emily에 대해 맞는 것은?",
+     "choices": [
+      "5학년이고 기타를 친다.",
+      "6학년이고 북(드럼)을 연주한다.",
+      "4학년이고 춤을 춘다."
+     ],
+     "answer": 1,
+     "explain": "sixth grade(6학년), I play the drum(북을 친다)."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ken: Uju, how do you spell drum?\nUju: D-R-U-M.\nKen: Thanks. I like drums.",
+     "question": "Ken이 철자를 물어본 단어는?",
+     "choices": [
+      "dream",
+      "draw",
+      "drum"
+     ],
+     "answer": 2,
+     "explain": "Uju가 D-R-U-M이라고 답했어요. drum이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Nari의 학년과 이름 철자를 바르게 말한 것은? (Nari: 3학년, NARI)",
+     "choices": [
+      "I'm in the three grade. N-A-R-I.",
+      "I'm in the third grade. N-A-R-I.",
+      "I'm in the third grade. N-A-L-I."
+     ],
+     "answer": 1,
+     "explain": "3학년은 the third grade, 이름은 N-A-R-I예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm in the sixth grade. My name is Linh Phan. L-I-N-H P-H-A-N.",
+     "ko": "나는 6학년이야. 내 이름은 Linh Phan이야. L-I-N-H P-H-A-N."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "pencil",
+   "studyPoint": "학년을 묻고 답하는 문장 읽고 쓰기",
+   "objectives": [
+    "학년을 묻고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 학년을 묻고 답하는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 12~13쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Practice 2 그림으로 짝과 대화하기, 초등학생 사진(Emily Smith)을 보고 'I'm in the sixth grade.' 따라 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "선생님과 학생들의 말풍선을 읽고 빈 말풍선에 알맞은 문장을 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 서수 단어를 골라 학년 문장 완성하기, 단어와 문장 읽고 쓰기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "서수를 채워 학년 계단을 완성하고, 가위바위보를 하며 학년이나 이름 철자를 답해 계단 오르기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 읽고 학년 고르기, 그림에 맞는 단어 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What grade are you in?",
+    "I'm in the fifth grade.",
+    "I'm in the third grade."
+   ],
+   "tip": "first, second, third는 모양이 달라요. fourth, fifth, sixth처럼 대부분은 끝에 th가 붙어요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 학년을 묻고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "I'm in the first grade.",
+       "나는 1학년이야."
+      ],
+      [
+       "I'm in the second grade.",
+       "나는 2학년이야."
+      ],
+      [
+       "I'm in the fifth grade.",
+       "나는 5학년이야."
+      ],
+      [
+       "I'm in the sixth grade.",
+       "나는 6학년이야."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 아이의 명찰에 '4학년'이라고 쓰여 있어요. 알맞은 문장은?",
+     "emoji": "4️⃣",
+     "choices": [
+      "I'm in the four grade.",
+      "I'm in the first grade.",
+      "I'm in the fourth grade.",
+      "I'm in the fifth grade."
+     ],
+     "answer": 2,
+     "explain": "4학년은 the fourth grade예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "secand",
+      "sekond",
+      "secend",
+      "second"
+     ],
+     "answer": 3,
+     "explain": "두 번째의 = s-e-c-o-n-d."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 철자가 바른 것은?",
+     "choices": [
+      "sicth",
+      "sixeth",
+      "sixht",
+      "sixth"
+     ],
+     "answer": 3,
+     "explain": "여섯 번째의 = s-i-x-t-h."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm in the ___ grade.",
+     "ko": "나는 1학년이야.",
+     "choices": [
+      "fast",
+      "one",
+      "first"
+     ],
+     "answer": 2,
+     "explain": "1학년은 the first grade예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What grade ___ you in?",
+     "ko": "너는 몇 학년이니?",
+     "choices": [
+      "are",
+      "is",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "you와 함께 are를 써요. What grade are you in?"
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 것을 고르세요.",
+     "audio": "I'm in the third grade.",
+     "choices": [
+      "🧒 6학년",
+      "🧒 2학년",
+      "🧒 3학년"
+     ],
+     "answer": 2,
+     "explain": "third는 세 번째, 3학년이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "두 번째 남자아이는 2학년이에요. 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "text": "What grade are you in?"
+      },
+      {
+       "who": "Boy 1",
+       "text": "I'm in the fifth grade."
+      },
+      {
+       "who": "Boy 2",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm in the second grade.",
+      "I'm second.",
+      "What grade are you in?"
+     ],
+     "answer": 0,
+     "explain": "질문에 'I'm in the ... grade.' 형태로 답해야 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 6학년이야.",
+     "answer": "I'm in the sixth grade.",
+     "distractors": [
+      "six",
+      "are"
+     ],
+     "explain": "6학년 = the sixth grade."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 몇 학년이니?",
+     "answer": "What grade are you in?",
+     "distractors": [
+      "is",
+      "How"
+     ],
+     "explain": "What grade are you in?을 순서대로 배열해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the fifth grade.",
+     "answer": "I'm in the fifth grade.",
+     "distractors": [
+      "five",
+      "fourth"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm in the first grade.",
+     "ko": "나는 1학년이야."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "He is in the ___ grade.",
+     "ko": "그는 3학년이야.",
+     "choices": [
+      "thrid",
+      "third",
+      "three"
+     ],
+     "answer": 1,
+     "explain": "3학년은 the third grade예요. 철자 t-h-i-r-d에 주의해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "She's ___ the sixth grade.",
+     "ko": "그녀는 6학년이야.",
+     "choices": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 2,
+     "explain": "'~학년이다'는 in the ... grade로 말해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "빈칸에 들어갈 단어가 바르게 짝지어진 것은? 'I'm in the ___ grade.' (1학년 / 5학년)",
+     "choices": [
+      "first / fifth",
+      "fist / fifth",
+      "first / fiveth",
+      "one / five"
+     ],
+     "answer": 0,
+     "explain": "1학년 first, 5학년 fifth예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: What grade are you in, Mike?\nB: I'm in the second grade.",
+     "question": "Mike는 몇 학년인가요?",
+     "choices": [
+      "6학년",
+      "1학년",
+      "2학년"
+     ],
+     "answer": 2,
+     "explain": "Mike는 'I'm in the second grade.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Name: Lee Mirae\nI'm in the sixth grade.",
+     "question": "이 학생의 이름과 학년은?",
+     "choices": [
+      "Lee Mirae, 5학년",
+      "Kim Mirae, 6학년",
+      "Lee Mirae, 6학년"
+     ],
+     "answer": 2,
+     "explain": "Name: Lee Mirae, the sixth grade예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Emily",
+       "text": "I'm in the fifth grade. What grade are you in?"
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      },
+      {
+       "who": "Emily",
+       "text": "Oh, we're in the same grade!"
+      }
+     ],
+     "choices": [
+      "How do you spell your name?",
+      "I'm in the first grade.",
+      "I'm in the fifth grade, too."
+     ],
+     "answer": 2,
+     "explain": "Emily가 '같은 학년이네!'라고 했으니 Jun도 5학년이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그는 4학년이야.",
+     "answer": "He is in the fourth grade.",
+     "distractors": [
+      "four",
+      "are"
+     ],
+     "explain": "'그는'은 He is로 시작해요. 4학년 = the fourth grade."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What grade are you in? I'm in the sixth grade.",
+     "answer": "What grade are you in? I'm in the sixth grade.",
+     "distractors": [
+      "six",
+      "Where"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "6학년인 Emily Smith가 할 말로 알맞은 것은?",
+     "choices": [
+      "I'm in the sixth grade. A-M-Y.",
+      "I'm in the fifth grade. E-M-I-L-Y.",
+      "I'm in the sixth grade. E-M-I-L-Y S-M-I-T-H."
+     ],
+     "answer": 2,
+     "explain": "6학년이고 이름 철자는 E-M-I-L-Y S-M-I-T-H예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm in the fourth grade. What grade are you in?",
+     "ko": "나는 4학년이야. 너는 몇 학년이니?"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "그는 2학년이야.",
+     "answers": [
+      "He's in the second grade.",
+      "He is in the second grade."
+     ],
+     "hint": "He is in the ______ grade."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 5학년이야.",
+     "answers": [
+      "We're in the fifth grade.",
+      "We are in the fifth grade."
+     ],
+     "hint": "We're in the f____ grade."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "네 번째의",
+     "answers": [
+      "fourth"
+     ],
+     "hint": "f _ _ _ t h"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "첫 번째의",
+     "answers": [
+      "first"
+     ],
+     "hint": "f _ _ s t"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 몇 학년이니, Mike?",
+     "answer": "What grade are you in, Mike?",
+     "distractors": [
+      "Where",
+      "is"
+     ],
+     "explain": "이름은 문장 끝에 쉼표(,)와 함께 붙여요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the third grade. What grade are you in?",
+     "answer": "I'm in the third grade. What grade are you in?",
+     "distractors": [
+      "three",
+      "is"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Stairs of Grades\nStep 1: I'm in the first grade.\nStep 2: I'm in the second grade.\nStep 3: I'm in the ___ grade.\nStep 4: I'm in the fourth grade.",
+     "question": "Step 3의 빈칸에 들어갈 단어는?",
+     "choices": [
+      "three",
+      "thirth",
+      "third"
+     ],
+     "answer": 2,
+     "explain": "1학년, 2학년 다음은 3학년이에요. 3학년 = the third grade."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sora의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "Hi, Sora. Is this your sister?"
+      },
+      {
+       "who": "Sora",
+       "text": "Yes. She is in the first grade."
+      },
+      {
+       "who": "Ben",
+       "text": "What grade are you in?"
+      },
+      {
+       "who": "Sora",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "She is in the first grade.",
+      "I'm in the fourth grade. How about you?",
+      "Yes, she is."
+     ],
+     "answer": 1,
+     "explain": "Ben이 Sora에게 학년을 물었어요. Sora 자신의 학년으로 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 바르게 쓴 문장은?",
+     "choices": [
+      "How do you spell your name.",
+      "how do you spell your name?",
+      "How do you spell your name?",
+      "How you do spell your name?"
+     ],
+     "answer": 2,
+     "explain": "문장의 첫 글자는 대문자로, 묻는 문장 끝에는 물음표(?)를 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Lee Mirae. I'm in the sixth grade.",
+     "ko": "내 이름은 이미래야. 나는 6학년이야."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "자기를 소개하는 글 읽고 이해하기",
+   "objectives": [
+    "자기를 소개하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 14~15쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장을 듣고 그림 가리키기, 자기소개할 때 말하는 것과 이메일을 써 본 경험 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "그림을 보고 play the guitar / read books / dance 연결하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "Diego가 공연에 참가하고 싶어 김 선생님께 보낸 자기소개 이메일을 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "Diego와 관련 있는 것 고르기, 이름·학년·매일 하는 것 쓰기, Emily의 글 읽고 문장 완성하기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "Jake의 글을 읽고 학년과 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "My name is Diego.",
+    "I'm in the sixth grade.",
+    "I play the guitar every day.",
+    "Can I play in your show?"
+   ],
+   "tip": "자기소개 글에서는 이름, 출신지, 학년, 매일 하는 일 같은 정보를 찾으며 읽어 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 자기를 소개하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "play the guitar",
+       "기타를 치다"
+      ],
+      [
+       "read books",
+       "책을 읽다"
+      ],
+      [
+       "dance",
+       "춤추다"
+      ],
+      [
+       "listen to music",
+       "음악을 듣다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "club",
+       "동아리"
+      ],
+      [
+       "show",
+       "공연"
+      ],
+      [
+       "song",
+       "노래"
+      ],
+      [
+       "hard",
+       "열심히"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에서 아이가 기타를 치고 있어요. 알맞은 어구는?",
+     "emoji": "🎸",
+     "choices": [
+      "dance",
+      "read books",
+      "play the guitar",
+      "play the drum"
+     ],
+     "answer": 2,
+     "explain": "기타를 치다 = play the guitar."
+    },
+    {
+     "type": "mc",
+     "prompt": "'every day'의 뜻은?",
+     "choices": [
+      "매일",
+      "주말에",
+      "오늘",
+      "가끔"
+     ],
+     "answer": 0,
+     "explain": "every day는 '매일'이에요. I play the guitar every day. = 나는 매일 기타를 쳐."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I play the guitar every day.",
+     "choices": [
+      "나는 가끔 기타를 쳐.",
+      "나는 매일 기타를 쳐.",
+      "나는 매일 노래를 불러."
+     ],
+     "answer": 1,
+     "explain": "every day = 매일, play the guitar = 기타를 치다."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello, Mr. Park.\nMy name is Lucas. I'm from Paris, France. I'm in the fifth grade. I play the drum every day. I'm the drummer in my school band. My favorite song is \"Sunny Day.\" Can I play in your show?\nThank you.\nLucas",
+     "question": "Lucas는 몇 학년인가요?",
+     "choices": [
+      "6학년",
+      "5학년",
+      "4학년"
+     ],
+     "answer": 1,
+     "explain": "'I'm in the fifth grade.' Lucas는 5학년이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello, Mr. Park.\nMy name is Lucas. I'm from Paris, France. I'm in the fifth grade. I play the drum every day. I'm the drummer in my school band. My favorite song is \"Sunny Day.\" Can I play in your show?\nThank you.\nLucas",
+     "question": "Lucas가 매일 하는 것은?",
+     "choices": [
+      "기타 치기",
+      "북(드럼) 치기",
+      "책 읽기"
+     ],
+     "answer": 1,
+     "explain": "'I play the drum every day.' 매일 북을 쳐요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi! My name is Yuna Kim. I'm from Seoul, Korea. I'm in the sixth grade. I read books every day. My favorite book is about animals.",
+     "question": "Yuna가 매일 하는 것은?",
+     "choices": [
+      "책 읽기",
+      "자전거 타기",
+      "춤추기"
+     ],
+     "answer": 0,
+     "explain": "'I read books every day.' 매일 책을 읽어요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I play the guitar every ___.",
+     "ko": "나는 매일 기타를 쳐.",
+     "choices": [
+      "week",
+      "day",
+      "grade"
+     ],
+     "answer": 1,
+     "explain": "매일 = every day."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 매일 책을 읽어.",
+     "answer": "I read books every day.",
+     "distractors": [
+      "play",
+      "is"
+     ],
+     "explain": "'매일'을 뜻하는 every day는 문장 끝에 와요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My name is Diego. I'm in the sixth grade.",
+     "answer": "My name is Diego. I'm in the sixth grade.",
+     "distractors": [
+      "five",
+      "am"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I play the guitar every day.",
+     "ko": "나는 매일 기타를 쳐."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello, Mr. Park.\nMy name is Lucas. I'm from Paris, France. I'm in the fifth grade. I play the drum every day. I'm the drummer in my school band. My favorite song is \"Sunny Day.\" Can I play in your show?\nThank you.\nLucas",
+     "question": "Lucas는 어디에서 왔나요?",
+     "choices": [
+      "캐나다",
+      "프랑스 파리",
+      "멕시코"
+     ],
+     "answer": 1,
+     "explain": "'I'm from Paris, France.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello, Mr. Park.\nMy name is Lucas. I'm from Paris, France. I'm in the fifth grade. I play the drum every day. I'm the drummer in my school band. My favorite song is \"Sunny Day.\" Can I play in your show?\nThank you.\nLucas",
+     "question": "Lucas가 Mr. Park에게 부탁한 것은?",
+     "choices": [
+      "음악을 가르쳐 달라는 것",
+      "공연에서 연주하게 해 달라는 것",
+      "북을 빌려 달라는 것"
+     ],
+     "answer": 1,
+     "explain": "'Can I play in your show?' 공연에서 연주해도 되는지 물었어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Jake Wilson. I'm in the third grade. I play the piano every day. My favorite song is \"Sunny.\"",
+     "question": "Jake에 대한 설명으로 맞는 것은?",
+     "choices": [
+      "3학년이고 매일 기타를 친다.",
+      "3학년이고 매일 피아노를 친다.",
+      "2학년이고 매일 피아노를 친다."
+     ],
+     "answer": 1,
+     "explain": "the third grade, play the piano every day예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Emily Harris. I'm in the fifth grade. I listen to music every day. My favorite song is \"Love.\"",
+     "question": "Emily가 매일 하는 것은?",
+     "choices": [
+      "그림 그리기",
+      "축구하기",
+      "음악 듣기"
+     ],
+     "answer": 2,
+     "explain": "'I listen to music every day.' 매일 음악을 들어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I practice hard with my friends.'의 뜻은?",
+     "choices": [
+      "나는 친구들과 열심히 연습해.",
+      "나는 친구들과 가끔 연습해.",
+      "나는 친구들과 힘들게 놀아."
+     ],
+     "answer": 0,
+     "explain": "practice는 '연습하다', hard는 '열심히'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm the ___ in my school music club.",
+     "ko": "나는 학교 음악 동아리의 기타리스트야.",
+     "choices": [
+      "dancer",
+      "guitar",
+      "guitarist"
+     ],
+     "answer": 2,
+     "explain": "기타를 치는 사람은 guitarist예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 매일 음악을 들어.",
+     "answer": "I listen to music every day.",
+     "distractors": [
+      "play",
+      "the"
+     ],
+     "explain": "listen to music = 음악을 듣다."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "제가 선생님의 공연에서 연주해도 될까요?",
+     "answer": "Can I play in your show?",
+     "distractors": [
+      "Do",
+      "song"
+     ],
+     "explain": "허락을 구할 때 'Can I ...?'로 물어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I can sing and dance very well.",
+     "answer": "I can sing and dance very well.",
+     "distractors": [
+      "good",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My favorite song is \"Happy.\"",
+     "ko": "내가 가장 좋아하는 노래는 'Happy'야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Ms. Lee,\nHi! My name is Ryan. I'm from Toronto, Canada. I'm in the fourth grade. I'm in the dance club at my school. I dance every day after school. I can dance very well. Can I join your dance show?\nThanks,\nRyan",
+     "question": "Ryan은 몇 학년인가요?",
+     "choices": [
+      "5학년",
+      "4학년",
+      "6학년"
+     ],
+     "answer": 1,
+     "explain": "'I'm in the fourth grade.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Ms. Lee,\nHi! My name is Ryan. I'm from Toronto, Canada. I'm in the fourth grade. I'm in the dance club at my school. I dance every day after school. I can dance very well. Can I join your dance show?\nThanks,\nRyan",
+     "question": "Ryan이 이메일을 쓴 목적은?",
+     "choices": [
+      "춤 동아리를 만들고 싶어서",
+      "캐나다에 대해 알려 주려고",
+      "춤 공연에 참여하고 싶어서"
+     ],
+     "answer": 2,
+     "explain": "'Can I join your dance show?' 공연에 참여하고 싶어 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Ms. Lee,\nHi! My name is Ryan. I'm from Toronto, Canada. I'm in the fourth grade. I'm in the dance club at my school. I dance every day after school. I can dance very well. Can I join your dance show?\nThanks,\nRyan",
+     "question": "글에서 알 수 없는 것은?",
+     "choices": [
+      "Ryan의 출신지",
+      "Ryan이 좋아하는 노래",
+      "Ryan이 매일 하는 것"
+     ],
+     "answer": 1,
+     "explain": "출신지(캐나다 토론토)와 매일 하는 것(춤추기)은 나오지만 좋아하는 노래는 나오지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Cindy Scott. I'm in the second grade. My favorite sport is soccer. I play soccer every day.",
+     "question": "Cindy가 매일 하는 운동은?",
+     "choices": [
+      "야구",
+      "축구",
+      "농구"
+     ],
+     "answer": 1,
+     "explain": "'I play soccer every day.'예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 매일 그림을 그려.",
+     "answers": [
+      "I draw pictures every day."
+     ],
+     "hint": "I ____ pictures every day."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 매일 북을 쳐.",
+     "answers": [
+      "I play the drum every day.",
+      "I play the drums every day."
+     ],
+     "hint": "I play the ____ every day."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 6학년이고, 매일 자전거를 타.",
+     "answer": "I'm in the sixth grade. I ride a bike every day.",
+     "distractors": [
+      "six",
+      "rides"
+     ],
+     "explain": "학년 문장과 매일 하는 일 문장을 차례로 만들어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the dance club at my school.",
+     "answer": "I'm in the dance club at my school.",
+     "distractors": [
+      "show",
+      "on"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Diego의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Kim",
+       "text": "Diego, can you play the guitar well?"
+      },
+      {
+       "who": "Diego",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm from Mexico.",
+      "No. I'm in the sixth grade.",
+      "Yes, I can. I practice hard every day."
+     ],
+     "answer": 2,
+     "explain": "기타를 잘 치는지 물었으니 'Yes, I can.'으로 답하고 매일 열심히 연습한다고 덧붙여요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hello, Ms. Kim. My name is Diego. I'm in the sixth grade.",
+     "ko": "안녕하세요, 김 선생님. 제 이름은 Diego예요. 저는 6학년이에요."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "자기를 소개하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 자기를 소개하는 글을 쓸 수 있다.",
+    "자기를 소개하는 글을 발표하며 배운 내용을 활용할 수 있다."
+   ],
+   "pages": "교과서 16~17쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Diego의 이메일을 모둠별로 번갈아 읽기, 초등학생 사진을 보고 학년과 매일 하는 일 문장 완성하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "그림을 보고 서수 철자 완성하기(Words), 학년과 매일 하는 일 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "자신의 이름·학년·출신지·매일 하는 것을 쓰고, Chloe Jones의 예시문을 참고하여 자기소개 글 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 글을 모둠 친구들에게 읽어 주기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Review / Check It / My Study",
+     "desc": "Kate Jones의 글 읽고 질문에 답하기, Cindy의 글 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "My name is Chloe Jones.",
+    "I'm from Canada.",
+    "I'm in the sixth grade.",
+    "I read books every day."
+   ],
+   "tip": "이름과 나라·도시 이름의 첫 글자는 대문자로 써요. 문장 끝에는 마침표(.)를 잊지 마세요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 자기를 소개하는 글을 쓸 수 있는가? 글을 모둠원과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "어구와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "draw pictures",
+       "그림을 그리다"
+      ],
+      [
+       "ride a bike",
+       "자전거를 타다"
+      ],
+      [
+       "play soccer",
+       "축구를 하다"
+      ],
+      [
+       "listen to music",
+       "음악을 듣다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 아이가 자전거를 타고 있어요. 알맞은 어구는?",
+     "emoji": "🚲",
+     "choices": [
+      "play soccer",
+      "draw pictures",
+      "read books",
+      "ride a bike"
+     ],
+     "answer": 3,
+     "explain": "자전거를 타다 = ride a bike."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림 속 아이가 축구를 하고 있어요. 알맞은 어구는?",
+     "emoji": "⚽",
+     "choices": [
+      "listen to music",
+      "play the guitar",
+      "play soccer",
+      "ride a bike"
+     ],
+     "answer": 2,
+     "explain": "축구를 하다 = play soccer."
+    },
+    {
+     "type": "mc",
+     "prompt": "'th _ _ d'의 빈칸에 들어갈 철자는? (3학년)",
+     "choices": [
+      "e, r",
+      "r, i",
+      "i, e",
+      "i, r"
+     ],
+     "answer": 3,
+     "explain": "third = t-h-i-r-d."
+    },
+    {
+     "type": "mc",
+     "prompt": "'f _ _ th'의 빈칸에 들어갈 철자는? (4학년)",
+     "choices": [
+      "i, f",
+      "o, r",
+      "o, u",
+      "u, o"
+     ],
+     "answer": 2,
+     "explain": "fourth = f-o-u-r-t-h."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My name ___ Chloe Jones.",
+     "ko": "내 이름은 Chloe Jones야.",
+     "choices": [
+      "are",
+      "is",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "My name is ...로 이름을 소개해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm ___ Canada.",
+     "ko": "나는 캐나다에서 왔어.",
+     "choices": [
+      "from",
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "explain": "출신은 I'm from ...으로 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ___ books every day.",
+     "ko": "나는 매일 책을 읽어.",
+     "choices": [
+      "play",
+      "read",
+      "ride"
+     ],
+     "answer": 1,
+     "explain": "책을 읽다 = read books."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "I draw pictures every day.",
+     "choices": [
+      "나는 매일 자전거를 타.",
+      "나는 매일 그림을 그려.",
+      "나는 매일 책을 읽어."
+     ],
+     "answer": 1,
+     "explain": "draw pictures = 그림을 그리다."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 매일 축구를 해.",
+     "answer": "I play soccer every day.",
+     "distractors": [
+      "ride",
+      "the"
+     ],
+     "explain": "play soccer every day."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm from Canada. I'm in the sixth grade.",
+     "answer": "I'm from Canada. I'm in the sixth grade.",
+     "distractors": [
+      "six",
+      "to"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Chloe Jones. I'm from Canada.",
+     "ko": "내 이름은 Chloe Jones야. 나는 캐나다에서 왔어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "자기소개 글의 순서로 알맞은 것은?",
+     "choices": [
+      "매일 하는 것 → 이름 → 학년",
+      "학년 → 매일 하는 것 → 이름",
+      "이름 → 출신지 → 학년 → 매일 하는 것"
+     ],
+     "answer": 2,
+     "explain": "보통 이름부터 말하고, 출신지·학년·매일 하는 일을 이어서 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Kim Hana.\nI'm from Korea.\nI'm in the sixth grade.\nI listen to music every day.",
+     "question": "Hana가 매일 하는 것은?",
+     "choices": [
+      "책 읽기",
+      "음악 듣기",
+      "기타 치기"
+     ],
+     "answer": 1,
+     "explain": "'I listen to music every day.'예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Cindy Scott. I'm in the ⓐ ___ grade. My favorite sport is soccer.",
+     "question": "Cindy는 2학년이에요. ⓐ에 알맞은 말은?",
+     "choices": [
+      "first",
+      "second",
+      "two"
+     ],
+     "answer": 1,
+     "explain": "2학년 = the second grade."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm in the ___ grade.",
+     "ko": "나는 6학년이야.",
+     "choices": [
+      "sixth",
+      "six",
+      "sixht"
+     ],
+     "answer": 0,
+     "explain": "6학년 = the sixth grade (s-i-x-t-h)."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I ride a ___ every day.",
+     "ko": "나는 매일 자전거를 타.",
+     "choices": [
+      "book",
+      "bike",
+      "ball"
+     ],
+     "answer": 1,
+     "explain": "자전거 = bike."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 매일 농구를 해요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Jane",
+       "text": "What do you do every day?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I'm in the fifth grade.",
+      "I play basketball every day.",
+      "T-O-M."
+     ],
+     "answer": 1,
+     "explain": "매일 하는 일은 'I ... every day.'로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 5학년이야. 나는 매일 자전거를 타.",
+     "answer": "I'm in the fifth grade. I ride a bike every day.",
+     "distractors": [
+      "five",
+      "rides"
+     ],
+     "explain": "학년 → 매일 하는 일 순서로 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 런던에서 왔어.",
+     "answer": "I'm from London.",
+     "distractors": [
+      "in",
+      "is"
+     ],
+     "explain": "출신지는 I'm from ...으로 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My name is Kate Jones. I draw pictures every day.",
+     "answer": "My name is Kate Jones. I draw pictures every day.",
+     "distractors": [
+      "draws",
+      "am"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "I'm in the sixth grade. I read books every day.",
+     "ko": "나는 6학년이야. 나는 매일 책을 읽어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 이름은 Leo야.",
+     "answers": [
+      "My name is Leo.",
+      "I'm Leo.",
+      "I am Leo."
+     ],
+     "hint": "My name is ____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 한국에서 왔어.",
+     "answers": [
+      "I'm from Korea.",
+      "I am from Korea."
+     ],
+     "hint": "I'm from _____."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 4학년이야.",
+     "answers": [
+      "I'm in the fourth grade.",
+      "I am in the fourth grade."
+     ],
+     "hint": "I'm in the ______ grade."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 매일 음악을 들어.",
+     "answers": [
+      "I listen to music every day."
+     ],
+     "hint": "I listen to ____ every day."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 이름은 Bruce Jones야. 나는 매일 축구를 해.",
+     "answer": "My name is Bruce Jones. I play soccer every day.",
+     "distractors": [
+      "am",
+      "plays"
+     ],
+     "explain": "이름 문장과 매일 하는 일 문장을 순서대로 만들어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My name is Chloe Jones.\nI'm from Canada.\nI'm in the sixth grade.\nI read books every day.",
+     "question": "글을 바르게 이해한 것은?",
+     "choices": [
+      "Chloe는 캐나다 출신 6학년이다.",
+      "Chloe는 5학년이다.",
+      "Chloe는 매일 그림을 그린다."
+     ],
+     "answer": 0,
+     "explain": "from Canada, the sixth grade, read books every day예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Name: Andy / Grade: 3rd / Every day: read books\nName: Kate / Grade: 4th / Every day: draw pictures\nName: David / Grade: 6th / Every day: ride a bike",
+     "question": "'I ride a bike every day.'를 쓴 사람은?",
+     "choices": [
+      "Andy",
+      "Kate",
+      "David"
+     ],
+     "answer": 2,
+     "explain": "매일 자전거를 타는 사람은 David예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 바르게 쓴 자기소개 문장은?",
+     "choices": [
+      "I'm from Seoul, Korea.",
+      "Im from Seoul Korea",
+      "I'm from Seoul, korea",
+      "i'm from seoul, korea."
+     ],
+     "answer": 0,
+     "explain": "문장 첫 글자, 도시와 나라 이름의 첫 글자는 대문자로 쓰고 끝에 마침표를 찍어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hello! My name is Emma Green. I play basketball every day.",
+     "answer": "Hello! My name is Emma Green. I play basketball every day.",
+     "distractors": [
+      "plays",
+      "soccer"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Emma Green. I'm in the fifth grade. I play basketball every day.",
+     "ko": "내 이름은 Emma Green이야. 나는 5학년이야. 나는 매일 농구를 해."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 18~19쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Chloe Jones의 예시문으로 질문에 답하고 공책에 글 옮겨 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "이름·철자·학년을 묻고 답하는 노래를 배우고 노랫말에 맞는 인물 찾기, 색깔로 표시된 노랫말을 바꿔 부르기 (개인·모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 이름과 학년 연결하기, 학년과 이름 철자 묻고 답하기, Emma Green의 글 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What's your name?",
+    "How do you spell your name?",
+    "A-M-Y J-O-N-E-S.",
+    "What grade are you in?",
+    "I'm in the sixth grade."
+   ],
+   "tip": "노랫말을 바꿔 부를 때 내 이름, 내 이름의 철자, 내 학년을 넣어 불러 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 노랫말을 바꿔 부를 수 있는가? 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 숫자 표시를 짝지어 보세요.",
+     "pairs": [
+      [
+       "first",
+       "1st"
+      ],
+      [
+       "second",
+       "2nd"
+      ],
+      [
+       "third",
+       "3rd"
+      ],
+      [
+       "fourth",
+       "4th"
+      ],
+      [
+       "fifth",
+       "5th"
+      ],
+      [
+       "sixth",
+       "6th"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "grade",
+       "학년"
+      ],
+      [
+       "spell",
+       "철자를 말하다"
+      ],
+      [
+       "club",
+       "동아리"
+      ],
+      [
+       "drum",
+       "북, 드럼"
+      ],
+      [
+       "ski",
+       "스키를 타다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'2학년'을 영어로 바르게 말한 것은?",
+     "emoji": "2️⃣",
+     "choices": [
+      "the two grade",
+      "the twoth grade",
+      "the secand grade",
+      "the second grade"
+     ],
+     "answer": 3,
+     "explain": "2학년 = the second grade."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 이름을 고르세요.",
+     "audio": "A-M-Y J-O-N-E-S",
+     "choices": [
+      "Amy James",
+      "Ami Jones",
+      "Amy Jones"
+     ],
+     "answer": 2,
+     "explain": "A-M-Y J-O-N-E-S — Amy Jones예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 몇 학년인지 고르세요.",
+     "audio": "What grade are you in? I'm in the fifth grade.",
+     "choices": [
+      "6학년",
+      "4학년",
+      "5학년"
+     ],
+     "answer": 2,
+     "explain": "the fifth grade는 5학년이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "How do you spell your name?"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "D-A-N-A.",
+      "My name is Dana.",
+      "I'm in the sixth grade."
+     ],
+     "answer": 0,
+     "explain": "철자를 물으면 알파벳으로 하나씩 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 질문을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "I'm in the sixth grade."
+      }
+     ],
+     "choices": [
+      "What grade are you in?",
+      "How do you spell your name?",
+      "What do you do every day?"
+     ],
+     "answer": 0,
+     "explain": "학년으로 답했으니 학년을 묻는 질문이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "How do you ___ your name?",
+     "ko": "네 이름의 철자는 어떻게 되니?",
+     "choices": [
+      "grade",
+      "spell",
+      "say"
+     ],
+     "answer": 1,
+     "explain": "철자를 말하다 = spell."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I play basketball every ___.",
+     "ko": "나는 매일 농구를 해.",
+     "choices": [
+      "day",
+      "name",
+      "grade"
+     ],
+     "answer": 0,
+     "explain": "매일 = every day."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 3학년이야.",
+     "answer": "I'm in the third grade.",
+     "distractors": [
+      "three",
+      "is"
+     ],
+     "explain": "3학년 = the third grade."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "What grade are you in? I'm in the first grade.",
+     "answer": "What grade are you in? I'm in the first grade.",
+     "distractors": [
+      "one",
+      "is"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "How do you spell your name? A-M-Y J-O-N-E-S.",
+     "ko": "네 이름의 철자는 어떻게 되니? A-M-Y J-O-N-E-S."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 이름과 학년을 고르세요.",
+     "audio": "Good morning. My name is Jason Scott. J-A-S-O-N S-C-O-T-T. I'm in the third grade.",
+     "choices": [
+      "Jason Smith, 3학년",
+      "Jason Scott, 5학년",
+      "Jason Scott, 3학년"
+     ],
+     "answer": 2,
+     "explain": "J-A-S-O-N S-C-O-T-T, the third grade."
+    },
+    {
+     "type": "mc",
+     "prompt": "Nils는 스키를 아주 잘 타요. Nils에게 할 말로 알맞은 것은?",
+     "choices": [
+      "How do you spell skiing?",
+      "What grade are you in?",
+      "Wow, you are good at skiing."
+     ],
+     "answer": 2,
+     "explain": "'be good at ~ing'는 '~을 잘하다'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "I'm in the ___ grade. (6학년)",
+     "ko": "나는 6학년이야.",
+     "choices": [
+      "sixth",
+      "six",
+      "sixty"
+     ],
+     "answer": 0,
+     "explain": "6학년 = the sixth grade."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hello! My name is Emma Green. I'm in the ⓐ ___ grade. My favorite sport is basketball. I play basketball every day.",
+     "question": "Emma는 5학년이에요. ⓐ에 알맞은 단어는?",
+     "choices": [
+      "fifth",
+      "five",
+      "fourth"
+     ],
+     "answer": 0,
+     "explain": "5학년 = fifth."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tony의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Hi, I'm Amy Jones."
+      },
+      {
+       "who": "Tony",
+       "text": "Hi, Amy. I'm Tony Gray."
+      },
+      {
+       "who": "Amy",
+       "text": "How do you spell your name?"
+      },
+      {
+       "who": "Tony",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "T-O-N-Y G-R-A-Y.",
+      "I'm in the second grade.",
+      "A-M-Y J-O-N-E-S."
+     ],
+     "answer": 0,
+     "explain": "Tony의 이름 철자를 말해야 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주가 Linh을 응원하는 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Linh",
+       "text": "Uju, I'm in the art festival today."
+      },
+      {
+       "who": "Uju",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good luck, Linh!",
+      "Wear this, please.",
+      "I'm sorry."
+     ],
+     "answer": 0,
+     "explain": "대회에 나가는 친구에게 'Good luck!'이라고 응원해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너는 몇 학년이니, Tony?",
+     "answer": "What grade are you in, Tony?",
+     "distractors": [
+      "Where",
+      "is"
+     ],
+     "explain": "What grade are you in? 뒤에 이름을 붙여요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 매일 피아노를 쳐.",
+     "answer": "I play the piano every day.",
+     "distractors": [
+      "read",
+      "plays"
+     ],
+     "explain": "play the piano = 피아노를 치다."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "I'm in the second grade. My name is Tony Gray.",
+     "answer": "I'm in the second grade. My name is Tony Gray.",
+     "distractors": [
+      "two",
+      "am"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Tony Gray. T-O-N-Y G-R-A-Y. I'm in the second grade.",
+     "ko": "내 이름은 Tony Gray야. T-O-N-Y G-R-A-Y. 나는 2학년이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "너는 몇 학년이니, Sora?",
+     "answers": [
+      "What grade are you in, Sora?",
+      "Sora, what grade are you in?"
+     ],
+     "hint": "What ____ are you in, Sora?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "Mike, 네 이름의 철자는 어떻게 되니?",
+     "answers": [
+      "Mike, how do you spell your name?",
+      "How do you spell your name, Mike?"
+     ],
+     "hint": "Mike, how do you _____ your name?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "나는 3학년이야. 나는 매일 그림을 그려.",
+     "answers": [
+      "I'm in the third grade. I draw pictures every day.",
+      "I am in the third grade. I draw pictures every day."
+     ],
+     "hint": "I'm in the ____ grade. I draw ____ every day."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hello, my name is Amy Jones. I'm in the fifth grade.",
+     "answer": "Hello, my name is Amy Jones. I'm in the fifth grade.",
+     "distractors": [
+      "five",
+      "Jane."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 노르웨이에서 왔어. 나는 7학년이야.",
+     "answer": "I'm from Norway. I'm in the seventh grade.",
+     "distractors": [
+      "seven",
+      "to"
+     ],
+     "explain": "7학년은 the seventh grade예요. 노르웨이 초등학교는 7학년까지 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, everyone! My name is Ana. A-N-A. I'm from Mexico. I'm in the sixth grade. I'm in the music club. I play the drum every day. My favorite song is \"Happy.\"",
+     "question": "Ana에 대해 알 수 없는 것은?",
+     "choices": [
+      "Ana의 학년",
+      "Ana가 매일 하는 것",
+      "Ana의 친구 이름"
+     ],
+     "answer": 2,
+     "explain": "학년(6학년)과 매일 하는 것(북 치기)은 나오지만 친구 이름은 나오지 않아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mia: What grade are you in?\nJin: I'm in the fourth grade. How about you?\nMia: I'm in the sixth grade. How do you spell your name?\nJin: J-I-N.",
+     "question": "대화의 내용과 맞는 것은?",
+     "choices": [
+      "Mia와 Jin은 같은 학년이다.",
+      "Jin은 4학년이고 Mia는 6학년이다.",
+      "Jin의 이름 철자는 G-I-N이다."
+     ],
+     "answer": 1,
+     "explain": "Jin은 the fourth grade, Mia는 the sixth grade예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 코치의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Coach",
+       "text": "Welcome to the ski club. What's your name?"
+      },
+      {
+       "who": "Girl",
+       "text": "My name is Sora."
+      },
+      {
+       "who": "Coach",
+       "text": "?"
+      },
+      {
+       "who": "Girl",
+       "text": "S-O-R-A."
+      }
+     ],
+     "choices": [
+      "What grade are you in, please?",
+      "Do you like skiing?",
+      "How do you spell your name, please?"
+     ],
+     "answer": 2,
+     "explain": "Sora가 알파벳으로 답했으니 철자를 묻는 질문이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 대화에서 어색한 것은?",
+     "choices": [
+      "A: What grade are you in? B: S-A-M.",
+      "A: How do you spell your name? B: S-A-M.",
+      "A: What grade are you in? B: I'm in the first grade.",
+      "A: What's your name? B: My name is Sam."
+     ],
+     "answer": 0,
+     "explain": "학년을 물었는데 이름 철자로 답하면 어색해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hello, my name is Kim Hana. K-I-M H-A-N-A. I'm in the sixth grade.",
+     "ko": "안녕, 내 이름은 김하나야. K-I-M H-A-N-A. 나는 6학년이야."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "춤 동아리 모임 첫날, Sally가 동아리에 가입하며 하나, Jacob과 학년을 묻고 답해요.",
+   "lines": [
+    {
+     "who": "Sally",
+     "text": "Hello, I'm Sally. Can I join the club?"
+    },
+    {
+     "who": "하나",
+     "text": "Sure. I'm Hana. What grade are you in?"
+    },
+    {
+     "who": "Sally",
+     "text": "I'm in the sixth grade."
+    },
+    {
+     "who": "하나",
+     "text": "Great. I'm in the sixth grade, too."
+    },
+    {
+     "who": "Sally",
+     "text": "What grade are you in, Jacob?"
+    },
+    {
+     "who": "Jacob",
+     "text": "I'm in the fourth grade."
+    },
+    {
+     "who": "Sally",
+     "text": "Really? You are a good dancer."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "Art and Fun Festival에서 Linh이 안내원에게 학년과 이름의 철자를 알려 주고, 우주는 Linh에게 ice cream의 철자를 물어요.",
+   "lines": [
+    {
+     "who": "Linh",
+     "text": "Hello. Can I join the Art and Fun Festival now?"
+    },
+    {
+     "who": "안내원",
+     "text": "Sure. What grade are you in?"
+    },
+    {
+     "who": "Linh",
+     "text": "I'm in the sixth grade."
+    },
+    {
+     "who": "안내원",
+     "text": "How do you spell your name?"
+    },
+    {
+     "who": "Linh",
+     "text": "L-I-N-H P-H-A-N."
+    },
+    {
+     "who": "우주",
+     "text": "Linh, how do you spell ice cream?"
+    },
+    {
+     "who": "Linh",
+     "text": "I-C-E C-R-E-A-M."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 Taylor의 동생 Jake에게 학년을 묻고, 나리가 선생님께 이름의 철자를 알려 드려요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "Hi, Jake. I'm Minu. What grade are you in?"
+    },
+    {
+     "who": "Jake",
+     "text": "I'm in the third grade."
+    },
+    {
+     "who": "나리",
+     "text": "Good afternoon. My name is Kim Nari."
+    },
+    {
+     "who": "선생님",
+     "text": "How do you spell your name?"
+    },
+    {
+     "who": "나리",
+     "text": "K-I-M N-A-R-I."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Diego의 자기소개 이메일",
+  "passage": "Diego sends an email to Ms. Kim. He says hello and asks how she is. Diego is from Mexico City in Mexico, and he is in the sixth grade. He plays the guitar every day, and he is the guitarist in his school music club. He sings and dances well, too. He practices hard with his friends. At the end, he asks if he can play in Ms. Kim's show.",
+  "summaryKo": "멕시코시티에서 온 6학년 Diego가 매일 기타를 치는 자신을 소개하며 김 선생님의 공연에 출연하고 싶다는 이메일을 보내요."
+ },
+ "writing": {
+  "frame": [
+   "My name is ____.",
+   "I'm from ____.",
+   "I'm in the ____ grade.",
+   "I ____ every day."
+  ],
+  "model": "My name is Leo Park. I'm from Busan, Korea. I'm in the sixth grade. I ride a bike every day."
+ },
+ "project": "'A Lover's Concerto'를 개사한 노래로 이름·이름의 철자·학년을 묻고 답하는 노랫말을 익히고 알맞은 인물을 찾은 뒤, 색깔로 표시된 부분(이름, 철자, 학년)을 자신의 것으로 바꿔 부르며 발표한다(음악 교과 연계).",
+ "special": {
+  "no": 1,
+  "kind": "Into the World",
+  "title": "세계 여러 나라 초등학교의 최고 학년은 몇 학년일까?",
+  "summaryKo": "보보와 코코가 독일, 프랑스, 케냐, 노르웨이의 초등학생들을 만나 인사하고 학년을 묻고 답해요. 나라마다 초등학교의 가장 높은 학년이 달라서, 아이들은 모두 자기 학교의 최고 학년이에요.",
+  "facts": [
+   "독일(Anna)은 초등학교가 4학년까지 있어요. 러시아, 우즈베키스탄도 4학년이 최고 학년이에요.",
+   "프랑스(Pierre)는 5학년까지 있어요. 몽골, 베트남, 인도도 5학년이 최고 학년이에요.",
+   "케냐(Aisha)는 8학년까지 있어요. 네팔도 8학년이 최고 학년이에요.",
+   "노르웨이(Nils)는 7학년까지 있어요. 노르웨이 친구 Nils는 스키를 아주 잘 타요.",
+   "한국, 일본, 중국, 이집트는 6학년이 초등학교의 최고 학년이에요."
+  ],
+  "expressions": [
+   "Guten Morgen. / Bonjour. / God morgen. (독일어·프랑스어·노르웨이어 아침 인사)",
+   "What grade are you in? — I'm in the eighth grade.",
+   "Wow, you are good at skiing."
+  ],
+  "exercises": []
+ }
+}

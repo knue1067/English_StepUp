@@ -1,0 +1,3195 @@
+{
+  "id": "L03",
+  "no": 3,
+  "semester": 1,
+  "title": "Can I Take Pictures?",
+  "emoji": "📷",
+  "rationale": "상대방에게 공손한 태도와 말투로 허락을 요청하는 것은 중요한 예절이다. 허락을 요청하고 답하는 말과 감사를 표현하고 답하는 말을 배워 실생활에서 활용하게 하고, 공공장소에서 허락을 요청하고 답하는 글을 읽고 문장을 쓰며 공동체 역량을 기르고자 한다.",
+  "topics": "학교생활 관련(교우 관계), 민주시민 관련(공중도덕, 예절), 생태전환 관련(일상생활에서의 생태전환 참여와 실천)",
+  "functions": [
+    {
+      "ko": "허락 요청하고 답하기",
+      "examples": [
+        "Can I take pictures?",
+        "Yes, you can.",
+        "No, you can't."
+      ]
+    },
+    {
+      "ko": "감사 표현하고 답하기",
+      "examples": [
+        "Thank you.",
+        "No problem."
+      ]
+    }
+  ],
+  "forms": [
+    "Can I borrow a bike?",
+    "You can't bring animals."
+  ],
+  "newWords": [
+    {
+      "en": "along",
+      "ko": "~을 따라"
+    },
+    {
+      "en": "animal",
+      "ko": "동물"
+    },
+    {
+      "en": "borrow",
+      "ko": "빌리다"
+    },
+    {
+      "en": "bring",
+      "ko": "가져오다, 데려오다"
+    },
+    {
+      "en": "energy",
+      "ko": "에너지"
+    },
+    {
+      "en": "grow",
+      "ko": "기르다, 자라다"
+    },
+    {
+      "en": "just",
+      "ko": "그냥, 단지"
+    },
+    {
+      "en": "lake",
+      "ko": "호수"
+    },
+    {
+      "en": "piano",
+      "ko": "피아노"
+    },
+    {
+      "en": "problem",
+      "ko": "문제"
+    },
+    {
+      "en": "see",
+      "ko": "보다"
+    },
+    {
+      "en": "star",
+      "ko": "별"
+    },
+    {
+      "en": "vegetable",
+      "ko": "채소"
+    },
+    {
+      "en": "walk",
+      "ko": "걷다"
+    }
+  ],
+  "keyWords": [
+    {
+      "en": "ride a bike",
+      "ko": "자전거를 타다",
+      "emoji": "🚲"
+    },
+    {
+      "en": "borrow a pen",
+      "ko": "펜을 빌리다",
+      "emoji": "🖊️"
+    },
+    {
+      "en": "eat here",
+      "ko": "여기서 먹다",
+      "emoji": "🍽️"
+    },
+    {
+      "en": "sit here",
+      "ko": "여기에 앉다",
+      "emoji": "🪑"
+    },
+    {
+      "en": "take pictures",
+      "ko": "사진을 찍다",
+      "emoji": "📷"
+    },
+    {
+      "en": "bring animals",
+      "ko": "동물을 데려오다",
+      "emoji": "🐶"
+    }
+  ],
+  "characters": [
+    "Ms. Green",
+    "Tom",
+    "우주",
+    "Amy",
+    "Linh",
+    "하나",
+    "Mohan",
+    "Jesse",
+    "Olivia",
+    "민우",
+    "보보",
+    "코코"
+  ],
+  "goals": {
+    "understand": [
+      "허락을 요청하고 답하는 말을 듣고 이해할 수 있다.",
+      "감사를 표현하고 답하는 말을 듣고 이해할 수 있다.",
+      "허락을 요청하고 답하는 글을 읽고 이해할 수 있다.",
+      "허락을 요청하고 답하며 감사를 표현하고 답하는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+      "허락을 요청하고 답하는 글을 포용하는 태도로 읽을 수 있다."
+    ],
+    "express": [
+      "허락을 요청하고 답하는 말을 할 수 있다.",
+      "감사를 표현하고 답하는 말을 할 수 있다.",
+      "허락을 요청하고 답하는 문장을 쓸 수 있다.",
+      "예시문을 참고하여 허락을 요청하고 답하는 글을 쓸 수 있다.",
+      "의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+    ]
+  },
+  "achievement": [
+    "6영01-01",
+    "6영01-02",
+    "6영01-03",
+    "6영01-04",
+    "6영01-05",
+    "6영01-07",
+    "6영01-08",
+    "6영01-09",
+    "6영01-10",
+    "6영02-01",
+    "6영02-02",
+    "6영02-03",
+    "6영02-07",
+    "6영02-08",
+    "6영02-09",
+    "6영02-10"
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "title": "Fun Talk 1",
+      "studyPoint": "허락 요청하고 답하기",
+      "objectives": [
+        "허락을 요청하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 1’으로 배운 표현을 듣고 이해하며 말할 수 있다."
+      ],
+      "pages": "교과서 35~37쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Get Ready / Words",
+          "desc": "교실이나 공공장소에서 허락을 요청한 경험 이야기하기, 단원 목표 확인, 동작 어구 붙임딱지 붙이고 Word Chant 하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 1",
+          "desc": "Green 선생님과 아이들이 우주 센터 별자리 쇼에서 허락을 요청하고 답하는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Listen and Number / Practice 1",
+          "desc": "궁에서 할 수 있는 일과 할 수 없는 일에 관한 대화를 듣고 순서대로 번호 쓰기, 주요 표현 따라 말하기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 1",
+          "desc": "모둠별로 허락할 동작에 1, 허락하지 않을 동작에 0을 쓰고 선생님의 질문에 답하며 비밀번호 맞히기 (모둠)",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "대화를 듣고 알맞은 그림 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I take pictures?",
+        "Yes, you can.",
+        "No, you can't."
+      ],
+      "tip": "‘Can I ...?’는 ‘~해도 되나요?’라고 허락을 구하는 말이에요. 허락할 때는 ‘Yes, you can.’, 안 될 때는 ‘No, you can't.’라고 해요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 1 자기·상호·관찰 평가 — 허락을 요청하고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "어구와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "ride a bike",
+              "자전거를 타다"
+            ],
+            [
+              "borrow a pen",
+              "펜을 빌리다"
+            ],
+            [
+              "eat here",
+              "여기서 먹다"
+            ],
+            [
+              "sit here",
+              "여기에 앉다"
+            ]
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "take pictures",
+              "사진을 찍다"
+            ],
+            [
+              "bring animals",
+              "동물을 데려오다"
+            ],
+            [
+              "star",
+              "별"
+            ],
+            [
+              "see",
+              "보다"
+            ]
+          ]
+        },
+        {
+          "type": "mc",
+          "prompt": "그림에 알맞은 어구는?",
+          "emoji": "📷",
+          "choices": [
+            "take pictures",
+            "ride a bike",
+            "sit here",
+            "eat here"
+          ],
+          "answer": 0,
+          "explain": "사진을 찍는 것은 take pictures예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘bring animals’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "동물을 만지다",
+            "동물을 그리다",
+            "동물에게 먹이를 주다",
+            "동물을 데려오다"
+          ],
+          "answer": 3,
+          "explain": "bring은 ‘가져오다, 데려오다’예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "Can I ride a bike?",
+          "choices": [
+            "🚲",
+            "🖊️",
+            "📷",
+            "🪑"
+          ],
+          "answer": 0,
+          "explain": "ride a bike는 ‘자전거를 타다’예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "No, you can't.",
+          "choices": [
+            "응, 해도 돼.",
+            "아니, 안 돼.",
+            "천만에."
+          ],
+          "answer": 1,
+          "explain": "‘No, you can't.’는 허락하지 않는 말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "별자리 쇼에서는 사진을 찍을 수 없어요. Green 선생님의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "Great! Can I take pictures?"
+            },
+            {
+              "who": "Ms. Green",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, you can.",
+            "Thank you.",
+            "No, you can't."
+          ],
+          "answer": 2,
+          "explain": "별자리 쇼에서는 사진을 찍을 수 없어서 ‘No, you can't.’라고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "우주는 Amy에게 앉아도 된다고 했어요. 우주의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "Can I sit here?"
+            },
+            {
+              "who": "우주",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No, you can't.",
+            "Okay, Ms. Green.",
+            "Yes, you can."
+          ],
+          "answer": 2,
+          "explain": "허락할 때는 ‘Yes, you can.’이라고 해요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ here?",
+          "ko": "여기서 먹어도 되나요?",
+          "choices": [
+            "eat",
+            "sit",
+            "ride"
+          ],
+          "answer": 0,
+          "explain": "‘먹다’는 eat이에요. Can I eat here?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "사진을 찍어도 되나요?",
+          "answer": "Can I take pictures?",
+          "distractors": [
+            "you",
+            "bring"
+          ],
+          "explain": "허락을 구할 때는 ‘Can I + 행동?’ 순서로 말해요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I borrow a pen?",
+          "answer": "Can I borrow a pen?",
+          "distractors": [
+            "bike?",
+            "ride"
+          ]
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I sit here?",
+          "ko": "여기에 앉아도 되나요?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "궁 안에서는 자전거를 탈 수 없어요. Green 선생님의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "Can I ride a bike?"
+            },
+            {
+              "who": "Ms. Green",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Thank you.",
+            "Yes, you can.",
+            "No, you can't."
+          ],
+          "answer": 2,
+          "explain": "궁 안에서는 자전거를 탈 수 없으니 ‘No, you can't.’예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Tom은 펜을 빌리고 싶어요. Tom의 질문을 고르세요.",
+          "lines": [
+            {
+              "who": "Tom",
+              "text": "?"
+            },
+            {
+              "who": "Ms. Green",
+              "text": "Yes, you can."
+            }
+          ],
+          "choices": [
+            "Can I bring animals?",
+            "Can I borrow a pen?",
+            "Can I eat here?"
+          ],
+          "answer": 1,
+          "explain": "펜을 빌리고 싶을 때는 ‘Can I borrow a pen?’이라고 물어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 먹어도 되나요?",
+          "answer": "Can I eat here?",
+          "distractors": [
+            "sit",
+            "you"
+          ],
+          "explain": "‘여기서 먹다’는 eat here예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "아니요, 안 돼요. 그냥 별을 보세요.",
+          "answer": "No, you can't. Just watch the stars.",
+          "distractors": [
+            "can.",
+            "take"
+          ],
+          "explain": "just는 ‘그냥’, watch the stars는 ‘별을 보다’예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Let's watch the stars, everyone.",
+          "answer": "Let's watch the stars, everyone.",
+          "distractors": [
+            "eat",
+            "star"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ pictures?",
+          "ko": "사진을 찍어도 되나요?",
+          "choices": [
+            "ride",
+            "take",
+            "eat"
+          ],
+          "answer": 1,
+          "explain": "‘사진을 찍다’는 take pictures예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Yes, you ___.",
+          "ko": "응, 해도 돼.",
+          "choices": [
+            "can",
+            "can't",
+            "are"
+          ],
+          "answer": 0,
+          "explain": "허락할 때는 ‘Yes, you can.’이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "Can I eat here?",
+              "여기서 먹어도 되나요?"
+            ],
+            [
+              "Yes, you can.",
+              "네, 돼요."
+            ],
+            [
+              "No, you can't.",
+              "아니요, 안 돼요."
+            ],
+            [
+              "Look at the stars.",
+              "별을 봐."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "Look at the stars. I love stars.",
+          "choices": [
+            "하늘을 봐. 나는 달이 정말 좋아.",
+            "별을 봐. 나는 별을 그리고 싶어.",
+            "별을 봐. 나는 별이 정말 좋아."
+          ],
+          "answer": 2,
+          "explain": "stars는 ‘별들’, love는 ‘정말 좋아하다’예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I take pictures? No, you can't.",
+          "ko": "사진을 찍어도 되나요? 아니요, 안 돼요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 개를 데려가도 되나요?",
+          "answers": [
+            "Can I bring my dog?"
+          ],
+          "hint": "Can I ____ my ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Green 선생님, 여기서 먹어도 되나요?",
+          "answers": [
+            "Ms. Green, can I eat here?",
+            "Can I eat here, Ms. Green?"
+          ],
+          "hint": "Ms. Green, can I ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기 앉아도 되나요? — 네, 돼요.",
+          "answers": [
+            "Can I sit here? Yes, you can."
+          ],
+          "hint": "Can I ____ ____? Yes, you ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Oops! Can I eat here?",
+          "answer": "Oops! Can I eat here?",
+          "distractors": [
+            "sit",
+            "you"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Just watch the stars, please.",
+          "answer": "Just watch the stars, please.",
+          "distractors": [
+            "eat",
+            "take"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "펜을 빌려도 되나요? — 네, 돼요.",
+          "answer": "Can I borrow a pen? Yes, you can.",
+          "distractors": [
+            "bike?",
+            "can't."
+          ],
+          "explain": "Can I borrow a pen?에 Yes, you can.으로 허락해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "동물을 데려가도 되나요? — 아니요, 안 돼요.",
+          "answer": "Can I bring animals? No, you can't.",
+          "distractors": [
+            "take",
+            "can."
+          ],
+          "explain": "Can I bring animals?에 No, you can't.로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "이곳에서는 음식을 먹을 수 없어요. Linh의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Amy",
+              "text": "Can I sit here?"
+            },
+            {
+              "who": "우주",
+              "text": "Yes, you can."
+            },
+            {
+              "who": "우주",
+              "text": "Oops! Can I eat here?"
+            },
+            {
+              "who": "Linh",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Okay, Ms. Green.",
+            "Yes, you can. Thank you.",
+            "No, you can't. You can't eat here."
+          ],
+          "answer": 2,
+          "explain": "이곳에서는 음식을 먹을 수 없어서 Linh이 안 된다고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "At the palace, a guide answers questions.\nCan I ride a bike? — No, you can't.\nCan I take pictures? — Yes, you can.\nCan I bring animals? — No, you can't.\nCan I borrow a pen? — Yes, you can.",
+          "question": "궁에서 할 수 없는 일을 모두 고른 것은?",
+          "choices": [
+            "사진 찍기, 펜 빌리기",
+            "자전거 타기, 동물 데려가기",
+            "자전거 타기, 사진 찍기"
+          ],
+          "answer": 1,
+          "explain": "‘No, you can't.’라고 답한 것은 자전거 타기와 동물 데려가기예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I ride a bike? Yes, you can.",
+          "ko": "자전거를 타도 되나요? 네, 돼요."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fun Talk 2",
+      "studyPoint": "허락 요청하고 답하기 / 감사 표현하고 답하기",
+      "objectives": [
+        "허락을 요청하고 답하는 말을 할 수 있다.",
+        "감사를 표현하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+        "‘Play 2’를 하며 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 38~39쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "선생님의 동작을 보고 ‘Can I ...?’로 묻고 답하기, 선생님이 펜을 빌리며 ‘Thank you.’ 하는 말 듣기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Fun Talk 2",
+          "desc": "생태 교실 실내 텃밭과 자전거 발전기로 솜사탕을 만드는 만화 영화 보기",
+          "min": 8
+        },
+        {
+          "phase": "전개",
+          "step": "Talk Like This / Practice 2 / My Turn",
+          "desc": "Jesse와 엄마(개 데려가기), Olivia와 민우(펜 빌리기) 동영상을 보며 표현 익히고 짝과 연습하기",
+          "min": 7
+        },
+        {
+          "phase": "전개",
+          "step": "Play 2",
+          "desc": "가위바위보를 하며 허락을 요청하고 답한 뒤, 서명을 받고 ‘Thank you. / No problem.’ 주고받기 (전체)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "그림에 알맞은 대화 짝과 하기, 자기 평가와 복습 계획 세우기",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I ride a bike?",
+        "Yes, you can.",
+        "Thank you.",
+        "No problem."
+      ],
+      "tip": "‘Thank you.’에는 ‘You're welcome.’뿐 아니라 ‘No problem.’(천만에.)으로도 답할 수 있어요.",
+      "competencies": [
+        "협",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 허락을 요청하고 답하는 말을 할 수 있는가? 감사를 표현하고 답하는 말을 듣고 이해하며 말할 수 있는가?",
+      "exercises": [
+        {
+          "type": "dialog",
+          "prompt": "생태 교실의 자전거 발전기로 에너지를 만들 수 있어요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Mohan",
+              "text": "Ms. Green, can I ride a bike?"
+            },
+            {
+              "who": "Ms. Green",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No, you can't.",
+            "Yes, you can. You can make energy.",
+            "No problem."
+          ],
+          "answer": 1,
+          "explain": "Green 선생님은 자전거를 타도 된다고 허락하며 에너지를 만들 수 있다고 했어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "하나, Mohan",
+              "text": "Here you are. This is for you."
+            },
+            {
+              "who": "우주",
+              "text": "Thank you."
+            },
+            {
+              "who": "하나, Mohan",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No problem.",
+            "Yes, you can.",
+            "Here you are."
+          ],
+          "answer": 0,
+          "explain": "‘Thank you.’에는 ‘No problem.’으로 답할 수 있어요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Olivia",
+              "text": "Can I borrow a pen?"
+            },
+            {
+              "who": "민우",
+              "text": "Yes, you can. Here."
+            },
+            {
+              "who": "Olivia",
+              "text": "Thank you."
+            },
+            {
+              "who": "민우",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Can I borrow a pen?",
+            "No, you can't.",
+            "No problem."
+          ],
+          "answer": 2,
+          "explain": "고맙다는 말에는 ‘No problem.’이라고 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "천만에. (고맙다는 말에 답할 때)",
+          "answer": "No problem.",
+          "distractors": [
+            "Yes,",
+            "can."
+          ],
+          "explain": "감사에 답할 때 ‘No problem.’이라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "내 개를 데려가도 되나요?",
+          "answer": "Can I bring my dog?",
+          "distractors": [
+            "animals?",
+            "you"
+          ],
+          "explain": "‘데려가다’는 bring, ‘내 개’는 my dog예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "We grow vegetables here.",
+          "choices": [
+            "우리는 여기에서 채소를 길러요.",
+            "우리는 여기에서 꽃을 사요.",
+            "우리는 여기에서 자전거를 타요."
+          ],
+          "answer": 0,
+          "explain": "grow는 ‘기르다’, vegetables는 ‘채소’예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "You can make energy.",
+          "choices": [
+            "너는 솜사탕을 먹을 수 있어.",
+            "너는 자전거를 빌릴 수 있어.",
+            "너는 에너지를 만들 수 있어."
+          ],
+          "answer": 2,
+          "explain": "energy는 ‘에너지’예요. 자전거 발전기로 에너지를 만들어요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Ms. Green, can I ride a bike?",
+          "answer": "Ms. Green, can I ride a bike?",
+          "distractors": [
+            "sit",
+            "you"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Thank you. — No ___.",
+          "ko": "고마워. — 천만에.",
+          "choices": [
+            "problem",
+            "can",
+            "thanks"
+          ],
+          "answer": 0,
+          "explain": "‘천만에’는 ‘No problem.’이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "No problem.",
+          "ko": "천만에."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I ride a bike?",
+          "ko": "자전거를 타도 되나요?"
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "우주",
+              "text": "Wow, cool! What are those?"
+            },
+            {
+              "who": "Ms. Green",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Those are tomatoes.",
+            "Yes, you can.",
+            "No problem."
+          ],
+          "answer": 0,
+          "explain": "무엇인지 물었으니 ‘Those are tomatoes.’로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "엄마는 개를 데려가면 안 된다고 했어요. 엄마의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "Jesse 엄마",
+              "text": "Let's go to the park."
+            },
+            {
+              "who": "Jesse",
+              "text": "Can I bring my dog?"
+            },
+            {
+              "who": "Jesse 엄마",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No, you can't.",
+            "Yes, you can.",
+            "No problem."
+          ],
+          "answer": 0,
+          "explain": "엄마는 개를 데려가면 안 된다고 했으니 ‘No, you can't.’예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "고마워. — 천만에.",
+          "answer": "Thank you. No problem.",
+          "distractors": [
+            "Yes,",
+            "can."
+          ],
+          "explain": "감사(Thank you.)에는 No problem.으로 답해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "와, 정말 크다!",
+          "answer": "Wow, it's very big!",
+          "distractors": [
+            "are",
+            "small"
+          ],
+          "explain": "‘아주 크다’는 very big이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Are you ready, Mohan?",
+          "answer": "Are you ready, Mohan?",
+          "distractors": [
+            "Is",
+            "Hana?"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "We ___ vegetables here.",
+          "ko": "우리는 여기서 채소를 길러요.",
+          "choices": [
+            "ride",
+            "eat",
+            "grow"
+          ],
+          "answer": 2,
+          "explain": "‘기르다’는 grow예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Here you ___.",
+          "ko": "여기 있어.",
+          "choices": [
+            "is",
+            "are",
+            "can"
+          ],
+          "answer": 1,
+          "explain": "물건을 건넬 때는 ‘Here you are.’라고 해요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "Thank you.",
+              "고마워."
+            ],
+            [
+              "No problem.",
+              "천만에."
+            ],
+            [
+              "Here you are.",
+              "여기 있어."
+            ],
+            [
+              "This is for you.",
+              "이건 너를 위한 거야."
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+          "audio": "Can I borrow a pen? Yes, you can. Here.",
+          "choices": [
+            "펜을 빌려도 되는지 묻고, 안 된다고 했다.",
+            "펜을 빌려도 되는지 묻고, 빌려주었다.",
+            "자전거를 빌려도 되는지 물었다."
+          ],
+          "answer": 1,
+          "explain": "borrow a pen은 ‘펜을 빌리다’, Yes, you can.은 허락하는 말이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Here you are. This is for you.",
+          "ko": "여기 있어. 이건 너를 위한 거야."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "Green 선생님, 펜을 빌려도 되나요?",
+          "answers": [
+            "Ms. Green, can I borrow a pen?",
+            "Can I borrow a pen, Ms. Green?"
+          ],
+          "hint": "Ms. Green, can I ____ a ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "엄마, 내 개를 데려가도 돼요?",
+          "answers": [
+            "Mom, can I bring my dog?",
+            "Can I bring my dog, Mom?"
+          ],
+          "hint": "Mom, can I ____ my ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "응, 돼. 너는 에너지를 만들 수 있어.",
+          "answers": [
+            "Yes, you can. You can make energy."
+          ],
+          "hint": "Yes, you can. You can make ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I sit here? Yes, you can. Thank you.",
+          "answer": "Can I sit here? Yes, you can. Thank you.",
+          "distractors": [
+            "eat",
+            "can't."
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Hana, ride this one. Mohan, ride that one, please.",
+          "answer": "Hana, ride this one. Mohan, ride that one, please.",
+          "distractors": [
+            "bike.",
+            "these"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "펜을 빌려도 되나요? — 네, 돼요. 여기 있어요.",
+          "answer": "Can I borrow a pen? Yes, you can. Here you are.",
+          "distractors": [
+            "can't.",
+            "bike?"
+          ],
+          "explain": "허락한 뒤 물건을 건넬 때 Here you are.라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "저것들은 토마토야. 우리는 여기서 채소를 길러.",
+          "answer": "Those are tomatoes. We grow vegetables here.",
+          "distractors": [
+            "These",
+            "eat"
+          ],
+          "explain": "grow는 ‘기르다’, vegetables는 ‘채소’예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "Olivia",
+              "text": "Can I borrow a pen?"
+            },
+            {
+              "who": "민우",
+              "text": "?"
+            },
+            {
+              "who": "Olivia",
+              "text": "Thank you."
+            },
+            {
+              "who": "민우",
+              "text": "No problem."
+            }
+          ],
+          "choices": [
+            "Yes, you can. Here.",
+            "No, you can't.",
+            "No problem."
+          ],
+          "answer": 0,
+          "explain": "Olivia가 고맙다고 했으니 펜을 빌려준 거예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "In the eco classroom, Ms. Green grows vegetables. Mohan asks, \"Can I ride a bike?\" Ms. Green says, \"Yes, you can.\" Hana and Mohan make energy and give Uju some cotton candy. Uju says, \"Thank you.\"",
+          "question": "우주의 말에 하나와 Mohan이 할 말로 알맞은 것은?",
+          "choices": [
+            "Can I ride a bike?",
+            "No, you can't.",
+            "No problem."
+          ],
+          "answer": 2,
+          "explain": "‘Thank you.’에는 ‘No problem.’으로 답해요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I borrow a pen? Thank you!",
+          "ko": "펜을 빌려도 되나요? 고마워요!"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Read and Write",
+      "studyPoint": "허락 요청하고 답하는 문장 읽고 쓰기",
+      "objectives": [
+        "허락을 요청하고 답하는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+        "‘Play 3’로 허락을 요청하고 답하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+      ],
+      "pages": "교과서 40~41쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Practice 2 그림으로 짝과 대화하며 복습하기, ‘eat here’에 Can I와 물음표를 붙여 ‘Can I eat here?’ 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Talk",
+          "desc": "박물관에서 허락을 요청하고 답하는 말풍선을 읽고 알맞은 문장을 골라 대화하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Read and Write / 스스로 다지기",
+          "desc": "그림을 보고 알맞은 어구를 골라 대화 완성하기, 어구와 문장 읽고 쓰기",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Play 3",
+          "desc": "어구와 그림을 연결하고 문장을 완성한 뒤, 동전을 던져 허락을 요청하고 답하며 나무 집 오르기 (짝)",
+          "min": 15
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study",
+          "desc": "문장에 맞는 그림·어구 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I bring animals?",
+        "No, you can't.",
+        "Can I take pictures?",
+        "Yes, you can."
+      ],
+      "tip": "can't는 cannot을 줄인 말이에요. 아포스트로피(')를 빠뜨리지 말고 써요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 허락을 요청하고 답하는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ a bike?",
+          "ko": "자전거를 타도 되나요?",
+          "choices": [
+            "ride",
+            "sit",
+            "eat"
+          ],
+          "answer": 0,
+          "explain": "자전거를 ‘타다’는 ride예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ animals?",
+          "ko": "동물을 데려가도 되나요?",
+          "choices": [
+            "take",
+            "borrow",
+            "bring"
+          ],
+          "answer": 2,
+          "explain": "‘데려가다’는 bring이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "No, you ___.",
+          "ko": "아니, 안 돼.",
+          "choices": [
+            "can",
+            "can't",
+            "are"
+          ],
+          "answer": 1,
+          "explain": "허락하지 않을 때는 ‘No, you can't.’라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "펜을 빌려도 되나요?",
+          "answer": "Can I borrow a pen?",
+          "distractors": [
+            "you",
+            "bike?"
+          ],
+          "explain": "‘빌리다’는 borrow예요. Can I borrow a pen?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "응, 해도 돼.",
+          "answer": "Yes, you can.",
+          "distractors": [
+            "can't.",
+            "I"
+          ],
+          "explain": "허락할 때는 ‘Yes, you can.’이라고 해요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기에 앉아도 되나요?",
+          "answers": [
+            "Can I sit here?"
+          ],
+          "hint": "Can I ____ here?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "사진을 찍어도 되나요?",
+          "answers": [
+            "Can I take pictures?"
+          ],
+          "hint": "Can I ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "아니, 안 돼.",
+          "answers": [
+            "No, you can't.",
+            "No, you cannot.",
+            "No you can't."
+          ],
+          "hint": "No, you ____."
+        },
+        {
+          "type": "mc",
+          "prompt": "바르게 쓴 문장을 고르세요.",
+          "choices": [
+            "Can I eat here?",
+            "can I eat here?",
+            "Can I eat here.",
+            "Can i eat here?"
+          ],
+          "answer": 0,
+          "explain": "문장 첫 글자와 I는 대문자로 쓰고, 묻는 문장 끝에는 물음표를 써요."
+        },
+        {
+          "type": "mc",
+          "prompt": "박물관 안내원이 ‘No, you can't.’라고 답했어요. 무슨 뜻인가요?",
+          "choices": [
+            "해도 돼요.",
+            "천만에요.",
+            "하면 안 돼요."
+          ],
+          "answer": 2,
+          "explain": "‘No, you can't.’는 ‘안 돼요.’라는 뜻이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I bring animals?",
+          "answer": "Can I bring animals?",
+          "distractors": [
+            "take",
+            "my"
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "At the museum\nMina: Can I eat here?\nGuide: No, you can't.\nMina: Can I take pictures?\nGuide: Yes, you can.",
+          "question": "Mina가 박물관에서 할 수 있는 일은?",
+          "choices": [
+            "음식 먹기",
+            "사진 찍기",
+            "동물 데려가기"
+          ],
+          "answer": 1,
+          "explain": "‘Can I take pictures?’에 ‘Yes, you can.’이라고 답했어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ a pen?",
+          "ko": "펜을 빌려도 되나요?",
+          "choices": [
+            "sit",
+            "bring",
+            "borrow"
+          ],
+          "answer": 2,
+          "explain": "‘빌리다’는 borrow예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I sit ___?",
+          "ko": "여기에 앉아도 되나요?",
+          "choices": [
+            "pictures",
+            "here",
+            "bike"
+          ],
+          "answer": 1,
+          "explain": "‘여기에’는 here예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "___ I take pictures?",
+          "ko": "사진을 찍어도 되나요?",
+          "choices": [
+            "Can",
+            "Are",
+            "Is"
+          ],
+          "answer": 0,
+          "explain": "허락을 구할 때는 Can I ...?로 물어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "자전거를 타도 되나요?",
+          "answers": [
+            "Can I ride a bike?"
+          ],
+          "hint": "Can I ____ a ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "내 고양이를 데려가도 되나요?",
+          "answers": [
+            "Can I bring my cat?"
+          ],
+          "hint": "Can I ____ my ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기서 놀아도 되나요?",
+          "answers": [
+            "Can I play here?"
+          ],
+          "hint": "Can I ____ here?"
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "사진을 찍어도 되나요? — 네, 돼요.",
+          "answer": "Can I take pictures? Yes, you can.",
+          "distractors": [
+            "can't.",
+            "eat"
+          ],
+          "explain": "Can I take pictures?에 허락하는 말 Yes, you can.이 이어져요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 먹어도 되나요? — 아니요, 안 돼요.",
+          "answer": "Can I eat here? No, you can't.",
+          "distractors": [
+            "sit",
+            "can."
+          ],
+          "explain": "허락하지 않을 때는 No, you can't.예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "문장 끝에 물음표(?)를 써야 하는 것은?",
+          "choices": [
+            "No, you can't",
+            "Can I sit here",
+            "Yes, you can",
+            "Thank you"
+          ],
+          "answer": 1,
+          "explain": "허락을 묻는 문장 Can I ...? 끝에는 물음표를 써요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I ride a bike? No, you can't.",
+          "answer": "Can I ride a bike? No, you can't.",
+          "distractors": [
+            "can.",
+            "sit"
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기 앉아도 되나요? — 아니요, 안 돼요.",
+          "answers": [
+            "Can I sit here? No, you can't.",
+            "Can I sit here? No, you cannot."
+          ],
+          "hint": "Can I ____ ____? No, you ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "동물을 데려가도 되나요? — 아니요, 안 돼요.",
+          "answers": [
+            "Can I bring animals? No, you can't.",
+            "Can I bring animals? No, you cannot."
+          ],
+          "hint": "Can I ____ ____? No, you ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "자전거를 타도 되나요? — 네, 돼요.",
+          "answers": [
+            "Can I ride a bike? Yes, you can."
+          ],
+          "hint": "Can I ____ a ____? Yes, you ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I take pictures here?",
+          "answer": "Can I take pictures here?",
+          "distractors": [
+            "eat",
+            "you"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I borrow a pen? No, you can't.",
+          "answer": "Can I borrow a pen? No, you can't.",
+          "distractors": [
+            "bike?",
+            "can."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 먹어도 되나요? — 네, 돼요.",
+          "answer": "Can I eat here? Yes, you can.",
+          "distractors": [
+            "sit",
+            "can't."
+          ],
+          "explain": "Can I eat here?에 Yes, you can.으로 허락해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "펜을 빌려도 되나요? 고마워요.",
+          "answer": "Can I borrow a pen? Thank you.",
+          "distractors": [
+            "bike?",
+            "problem."
+          ],
+          "explain": "허락을 구하고 감사 인사를 해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "박물관 입구에 동물 금지 표지판이 있어요. 안내원의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "Can I bring animals?"
+            },
+            {
+              "who": "안내원",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Thank you.",
+            "Yes, you can.",
+            "No, you can't."
+          ],
+          "answer": 2,
+          "explain": "동물 금지 표지판이 있으니 ‘No, you can't.’예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Jiho and Sora play a game. Jiho asks, \"Can I ride a bike?\" The coin says yes, so Sora says, \"Yes, you can.\" Jiho says, \"Thank you.\" Sora says, \"No problem.\"",
+          "question": "Jiho가 ‘Thank you.’라고 말한 까닭은 무엇인가요?",
+          "choices": [
+            "허락을 받지 못해서",
+            "허락을 받아서",
+            "펜을 잃어버려서"
+          ],
+          "answer": 1,
+          "explain": "Sora가 ‘Yes, you can.’이라고 허락해 주었어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I take pictures? Yes, you can. Thank you.",
+          "ko": "사진을 찍어도 되나요? 네, 돼요. 고마워요."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Let's Read",
+      "studyPoint": "허락 요청하고 답하는 글 읽고 이해하기",
+      "objectives": [
+        "허락을 요청하고 답하는 글을 읽고 이해할 수 있다."
+      ],
+      "pages": "교과서 42~43쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Read and Talk 문장을 듣고 그림 찾기, 공원에 가 본 경험과 웹사이트 묻고 답하기 게시판 이야기하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Before You Read",
+          "desc": "사진 속 공원에서 할 수 있는 일(자전거 타기, 동물 데려가기) 알아보기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Read",
+          "desc": "Green Tree Park 웹사이트의 공원 이용 안내 글과 Q&A를 듣고 따라 읽고, 짝과 번갈아 소리 내어 읽기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "After You Read / 스스로 다지기",
+          "desc": "글의 내용에 맞게 그림을 그려 공원 표지판 완성하기, 글 읽고 알맞은 표지판 고르기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "Check It / My Study / Self Study",
+          "desc": "대화를 읽고 할 수 있는 일과 알맞은 표지판 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I borrow a bike?",
+        "Yes, you can. You can borrow a bike.",
+        "No, you can't. You can't bring animals to the park."
+      ],
+      "tip": "‘You can ....’은 할 수 있는 일, ‘You can't ....’은 할 수 없는 일이에요. 표지판을 떠올리며 읽어 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 허락을 요청하고 답하는 글을 읽고 이해할 수 있는가?",
+      "exercises": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Green Tree Park is a big, green park. Visitors can see lots of trees and flowers there. They can also take a walk along the lake.",
+          "question": "글에서 Green Tree Park에서 할 수 있다고 한 일이 아닌 것은?",
+          "choices": [
+            "나무와 꽃 보기",
+            "호수를 따라 걷기",
+            "호수에서 수영하기"
+          ],
+          "answer": 2,
+          "explain": "글에는 나무와 꽃, 호수를 따라 걷기만 나와요. 수영은 나오지 않아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Q: Can I borrow a bike?\nA: Yes, you can. Bikes are ready for you.\nQ: Can I bring my dog?\nA: No, you can't. Animals can't come into the park.",
+          "question": "공원에서 자전거를 빌릴 수 있나요?",
+          "choices": [
+            "네, 빌릴 수 있어요.",
+            "아니요, 빌릴 수 없어요.",
+            "글에 나오지 않아요."
+          ],
+          "answer": 0,
+          "explain": "‘Can I borrow a bike?’에 ‘Yes, you can.’이라고 답했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Q: Can I borrow a bike?\nA: Yes, you can. Bikes are ready for you.\nQ: Can I bring my dog?\nA: No, you can't. Animals can't come into the park.",
+          "question": "공원에 개를 데려갈 수 있나요?",
+          "choices": [
+            "아니요, 데려갈 수 없어요.",
+            "네, 데려갈 수 있어요.",
+            "글에 나오지 않아요."
+          ],
+          "answer": 0,
+          "explain": "‘No, you can't.’ — 동물은 공원에 들어올 수 없어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Welcome to Sun Library. You can borrow books here. You can sit and read. But you can't eat here.",
+          "question": "Sun Library에서 할 수 없는 일은?",
+          "choices": [
+            "책 빌리기",
+            "앉아서 책 읽기",
+            "음식 먹기"
+          ],
+          "answer": 2,
+          "explain": "‘you can't eat here’ — 도서관에서는 음식을 먹을 수 없어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Blue Sky Zoo\nQ: Can I take pictures?\nA: Yes, you can.\nQ: Can I eat here?\nA: No, you can't. You can't eat here.",
+          "question": "Blue Sky Zoo에 대한 설명으로 맞는 것은?",
+          "choices": [
+            "사진을 찍을 수 있다.",
+            "음식을 먹을 수 있다.",
+            "사진을 찍을 수 없다."
+          ],
+          "answer": 0,
+          "explain": "‘Can I take pictures?’에 ‘Yes, you can.’이라고 답했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Green Tree Park is a big, green park. Visitors can see lots of trees and flowers there. They can also take a walk along the lake.\nQ: Can I borrow a bike?\nA: Yes, you can. Bikes are ready for you.\nQ: Can I bring my dog?\nA: No, you can't. Animals can't come into the park.",
+          "question": "이 글은 어떤 글인가요?",
+          "choices": [
+            "친구에게 쓴 편지",
+            "공원 이용 안내 글",
+            "그림일기"
+          ],
+          "answer": 1,
+          "explain": "공원 소개와 Q&A로 이용 방법을 알려 주는 안내 글이에요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘lake’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "산",
+            "나무",
+            "바다",
+            "호수"
+          ],
+          "answer": 3,
+          "explain": "lake는 ‘호수’예요. walk along the lake(호수를 따라 걷다)"
+        },
+        {
+          "type": "mc",
+          "prompt": "‘walk along the lake’에서 ‘along’의 뜻은?",
+          "choices": [
+            "~ 안에",
+            "~ 위에",
+            "~을 따라",
+            "~ 뒤에"
+          ],
+          "answer": 2,
+          "explain": "along은 ‘~을 따라’예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "‘borrow’의 뜻으로 알맞은 것은?",
+          "choices": [
+            "빌리다",
+            "가져오다",
+            "걷다",
+            "기르다"
+          ],
+          "answer": 0,
+          "explain": "borrow는 ‘빌리다’예요. Can I borrow a bike?"
+        },
+        {
+          "type": "match",
+          "prompt": "새 단어와 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "vegetable",
+              "채소"
+            ],
+            [
+              "grow",
+              "기르다"
+            ],
+            [
+              "energy",
+              "에너지"
+            ],
+            [
+              "star",
+              "별"
+            ],
+            [
+              "walk",
+              "걷다"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "You can walk along the lake.",
+          "choices": [
+            "호수에서 수영할 수 있어요.",
+            "자전거를 빌릴 수 있어요.",
+            "호수를 따라 걸을 수 있어요."
+          ],
+          "answer": 2,
+          "explain": "walk along the lake는 ‘호수를 따라 걷다’예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You can't ___ animals to the park.",
+          "ko": "공원에 동물을 데려올 수 없어요.",
+          "choices": [
+            "see",
+            "bring",
+            "borrow"
+          ],
+          "answer": 1,
+          "explain": "‘데려오다’는 bring이에요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "River Park\nQ: Can I take pictures?\nA: Yes, you can.\nQ: Can I ride a bike?\nA: No, you can't.",
+          "question": "River Park에서 할 수 없는 일은?",
+          "choices": [
+            "사진 찍기",
+            "자전거 타기",
+            "둘 다 할 수 있다."
+          ],
+          "answer": 1,
+          "explain": "‘Can I ride a bike?’에 ‘No, you can't.’라고 답했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Welcome to Star Museum. You can see many stars. You can't eat here. You can't bring animals.",
+          "question": "Star Museum에서 할 수 있는 일은?",
+          "choices": [
+            "별 보기",
+            "음식 먹기",
+            "동물 데려가기"
+          ],
+          "answer": 0,
+          "explain": "‘You can see many stars.’ — 별을 볼 수 있어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Q: Can I walk along the lake?\nA: Yes, you can. You can walk along the lake.\nQ: Can I swim in the lake?\nA: No, you can't.",
+          "question": "호수에서 할 수 있는 일은?",
+          "choices": [
+            "둘 다 할 수 없다.",
+            "호수에서 수영하기",
+            "호수를 따라 걷기"
+          ],
+          "answer": 2,
+          "explain": "호수를 따라 걷는 것은 되지만 수영은 안 돼요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "A boy writes on the Green Tree Park Q&A board: \"Can I bring my cat?\" The park answers: \"No, you can't. You can't bring animals.\"",
+          "question": "공원의 대답은 무엇인가요?",
+          "choices": [
+            "자전거를 빌릴 수 있다.",
+            "고양이를 데려와도 된다.",
+            "고양이를 데려올 수 없다."
+          ],
+          "answer": 2,
+          "explain": "‘You can't bring animals.’ — 동물은 데려올 수 없어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Happy School Library\nYou can borrow books.\nYou can't eat here.\nYou can't take pictures.",
+          "question": "도서관에서 할 수 있는 일은?",
+          "choices": [
+            "음식 먹기",
+            "책 빌리기",
+            "사진 찍기"
+          ],
+          "answer": 1,
+          "explain": "‘You can borrow books.’ — 책을 빌릴 수 있어요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 그림을 고르세요.",
+          "audio": "lake",
+          "choices": [
+            "🏞️",
+            "🚲",
+            "📷"
+          ],
+          "answer": 0,
+          "explain": "lake는 ‘호수’예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "animals",
+          "choices": [
+            "동물들",
+            "별들",
+            "채소들"
+          ],
+          "answer": 0,
+          "explain": "animal은 ‘동물’이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You can ___ a bike.",
+          "ko": "자전거를 빌릴 수 있어요.",
+          "choices": [
+            "walk",
+            "bring",
+            "borrow"
+          ],
+          "answer": 2,
+          "explain": "‘빌리다’는 borrow예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+          "audio": "You can see many trees and flowers.",
+          "choices": [
+            "나무와 꽃을 가져갈 수 없어요.",
+            "많은 나무와 꽃을 볼 수 있어요.",
+            "호수를 따라 걸을 수 있어요."
+          ],
+          "answer": 1,
+          "explain": "see는 ‘보다’, trees and flowers는 ‘나무와 꽃’이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "lake",
+              "호수"
+            ],
+            [
+              "park",
+              "공원"
+            ],
+            [
+              "flower",
+              "꽃"
+            ],
+            [
+              "tree",
+              "나무"
+            ],
+            [
+              "along",
+              "~을 따라"
+            ]
+          ]
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Blue River Park\nYou can walk along the river. You can see many birds.\nQ: Can I borrow a bike?\nA: No, you can't.\nQ: Can I take pictures?\nA: Yes, you can.",
+          "question": "Blue River Park에 대한 설명으로 맞는 것은?",
+          "choices": [
+            "자전거를 빌릴 수 있다.",
+            "사진을 찍을 수 있다.",
+            "새를 볼 수 없다."
+          ],
+          "answer": 1,
+          "explain": "‘Can I take pictures?’에 ‘Yes, you can.’이라고 했어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Q: Can I bring my dog to the park?\nA: No, you can't. ⓐ ___",
+          "question": "빈칸 ⓐ에 들어갈 말로 알맞은 것은?",
+          "choices": [
+            "You can't bring animals.",
+            "You can bring animals.",
+            "You can borrow a bike."
+          ],
+          "answer": 0,
+          "explain": "안 된다고 했으니 ‘You can't bring animals.’가 이어져요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Park signs\n🚲 OK\n🐶 NO\n📷 OK",
+          "question": "표지판에 맞는 문장은?",
+          "choices": [
+            "You can't take pictures.",
+            "You can't ride a bike.",
+            "You can't bring animals."
+          ],
+          "answer": 2,
+          "explain": "개(동물) 표지판에 NO가 있으니 동물은 데려올 수 없어요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Tom: Can I eat here?\nMs. Green: No, you can't. But you can eat over there.\nTom: Okay. Thank you.\nMs. Green: No problem.",
+          "question": "Tom이 음식을 먹을 수 있는 곳은?",
+          "choices": [
+            "여기",
+            "어디에도 없다",
+            "저기"
+          ],
+          "answer": 2,
+          "explain": "‘you can eat over there’ — 저기에서는 먹을 수 있어요."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "많은 새를 볼 수 있어요.",
+          "answers": [
+            "You can see many birds."
+          ],
+          "hint": "You can ____ many ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "책을 빌릴 수 있어요.",
+          "answers": [
+            "You can borrow books."
+          ],
+          "hint": "You can ____ ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Welcome to Green Tree Park.",
+          "answer": "Welcome to Green Tree Park.",
+          "distractors": [
+            "Lake.",
+            "is"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "자전거를 타도 되나요? — 네. 자전거를 탈 수 있어요.",
+          "answer": "Can I ride a bike? Yes, you can. You can ride a bike.",
+          "distractors": [
+            "can't",
+            "borrow"
+          ],
+          "explain": "허락한 뒤 You can ride a bike.로 한 번 더 알려 줘요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "Green Tree Park에는 동물을 데려올 수 없어요. 알맞은 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "방문자",
+              "text": "Can I bring my dog?"
+            },
+            {
+              "who": "공원",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Yes, you can. You can borrow a bike.",
+            "No, you can't. You can't bring animals.",
+            "No problem."
+          ],
+          "answer": 1,
+          "explain": "Green Tree Park에는 동물을 데려올 수 없어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Welcome to the park. You can walk along the lake.",
+          "ko": "공원에 오신 것을 환영해요. 호수를 따라 걸을 수 있어요."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Let's Write",
+      "studyPoint": "허락 요청하고 답하는 글 쓰기",
+      "objectives": [
+        "예시문을 참고하여 허락을 요청하고 답하는 글을 쓸 수 있다.",
+        "허락을 요청하고 답하는 글을 발표하며 배운 내용을 활용할 수 있다."
+      ],
+      "pages": "교과서 44~45쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review / Motivation",
+          "desc": "Let's Read의 질문과 대답을 모둠별로 나누어 읽기, 교실에서 할 수 있는 일과 할 수 없는 일을 ‘You can / You can't’ 문장으로 쓰기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Ready to Write",
+          "desc": "박물관 표지판 그림을 보고 어구 완성하기(Words), 표지판에 맞게 대화 완성하기(Sentences)",
+          "min": 10
+        },
+        {
+          "phase": "전개",
+          "step": "Let's Write",
+          "desc": "이번 주말에 가고 싶은 장소와 할 수 있는 일·없는 일을 쓰고, 예시문(놀이공원)을 참고해 허락을 요청하고 답하는 대화 쓰기",
+          "min": 15
+        },
+        {
+          "phase": "전개",
+          "step": "Share It",
+          "desc": "내가 쓴 글을 친구들에게 읽어 주기, 자기·상호 평가",
+          "min": 5
+        },
+        {
+          "phase": "정리",
+          "step": "Review / Check It / My Study",
+          "desc": "대화를 짝과 읽고 질문에 답하기, 대화의 빈칸 고르기, 자기 평가",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I take pictures?",
+        "Yes, you can. You can take pictures.",
+        "Can I bring animals?",
+        "No, you can't. You can't bring animals."
+      ],
+      "tip": "대답 뒤에 ‘You can ....’ 또는 ‘You can't ....’을 한 번 더 써 주면 더 친절한 안내가 돼요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 허락을 요청하고 답하는 글을 쓸 수 있는가? 친구들과 공유하는 활동에 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "책을 빌려도 되나요?",
+          "answers": [
+            "Can I borrow books?"
+          ],
+          "hint": "Can I ____ ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "네, 돼요. 책을 빌릴 수 있어요.",
+          "answers": [
+            "Yes, you can. You can borrow books."
+          ],
+          "hint": "Yes, you can. You can ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기서 먹어도 되나요?",
+          "answers": [
+            "Can I eat here?"
+          ],
+          "hint": "Can I ____ here?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "아니요, 안 돼요. 여기서 먹을 수 없어요.",
+          "answers": [
+            "No, you can't. You can't eat here.",
+            "No, you cannot. You cannot eat here."
+          ],
+          "hint": "No, you can't. You can't ____ here."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "사진을 찍을 수 있어요.",
+          "answer": "You can take pictures.",
+          "distractors": [
+            "can't",
+            "Can"
+          ],
+          "explain": "할 수 있는 일은 ‘You can + 행동.’으로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "동물을 데려올 수 없어요.",
+          "answer": "You can't bring animals.",
+          "distractors": [
+            "can",
+            "pictures."
+          ],
+          "explain": "할 수 없는 일은 ‘You can't + 행동.’으로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기에 앉아도 되나요?",
+          "answer": "Can I sit here?",
+          "distractors": [
+            "eat",
+            "you"
+          ],
+          "explain": "‘앉다’는 sit이에요. Can I sit here?"
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You ___ ride a bike here.",
+          "ko": "여기서 자전거를 탈 수 없어요.",
+          "choices": [
+            "can't",
+            "can",
+            "are"
+          ],
+          "answer": 0,
+          "explain": "‘~할 수 없어요’는 can't를 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ a pen?",
+          "ko": "펜을 빌려도 되나요?",
+          "choices": [
+            "bring",
+            "take",
+            "borrow"
+          ],
+          "answer": 2,
+          "explain": "‘빌리다’는 borrow예요."
+        },
+        {
+          "type": "mc",
+          "prompt": "A: Can I take pictures?  B: No, you can't. 다음에 B가 이어서 쓸 문장으로 알맞은 것은?",
+          "choices": [
+            "You can take pictures.",
+            "You can't take pictures.",
+            "You can eat here."
+          ],
+          "answer": 1,
+          "explain": "허락하지 않았으니 ‘You can't take pictures.’가 이어져요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Boy: Can I ride a bike?\nMan: Yes, you can. You can ride a bike.\nGirl: Can I bring my cat?\nWoman: No, you can't. You can't bring animals.",
+          "question": "이곳에서 할 수 없는 일은?",
+          "choices": [
+            "자전거 타기",
+            "둘 다 할 수 있다.",
+            "고양이 데려가기"
+          ],
+          "answer": 2,
+          "explain": "‘You can't bring animals.’ — 고양이(동물)는 데려갈 수 없어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "You can't eat here.",
+          "ko": "여기서 먹을 수 없어요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "자전거를 타도 되나요?",
+          "answers": [
+            "Can I ride a bike?"
+          ],
+          "hint": "Can I ____ a ____?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "네, 돼요. 자전거를 탈 수 있어요.",
+          "answers": [
+            "Yes, you can. You can ride a bike."
+          ],
+          "hint": "Yes, you can. You can ____ a ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "아니요, 안 돼요. 사진을 찍을 수 없어요.",
+          "answers": [
+            "No, you can't. You can't take pictures.",
+            "No, you cannot. You cannot take pictures."
+          ],
+          "hint": "No, you can't. You can't ____ ____."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 먹을 수 있어요.",
+          "answer": "You can eat here.",
+          "distractors": [
+            "can't",
+            "Can"
+          ],
+          "explain": "할 수 있는 일은 You can ....으로 써요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기 앉을 수 없어요.",
+          "answer": "You can't sit here.",
+          "distractors": [
+            "can",
+            "Can"
+          ],
+          "explain": "할 수 없는 일은 You can't ....으로 써요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "You can ___ books.",
+          "ko": "책을 빌릴 수 있어요.",
+          "choices": [
+            "borrow",
+            "bring",
+            "sit"
+          ],
+          "answer": 0,
+          "explain": "‘빌리다’는 borrow예요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "No, you can't. You can't ___ here.",
+          "ko": "아니요, 안 돼요. 여기서 먹을 수 없어요.",
+          "choices": [
+            "eat",
+            "sit",
+            "see"
+          ],
+          "answer": 0,
+          "explain": "‘먹다’는 eat이에요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I bring animals? No, you can't.",
+          "answer": "Can I bring animals? No, you can't.",
+          "distractors": [
+            "take",
+            "can."
+          ]
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "장소: 놀이공원\n할 수 있는 일: take pictures\n할 수 없는 일: bring animals",
+          "question": "이 메모를 보고 쓴 문장으로 알맞은 것은?",
+          "choices": [
+            "You can bring animals.",
+            "You can't take pictures.",
+            "You can take pictures."
+          ],
+          "answer": 2,
+          "explain": "놀이공원에서 사진은 찍을 수 있어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I sit here? Yes, you can. You can sit here.",
+          "ko": "여기 앉아도 되나요? 네. 여기 앉을 수 있어요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "책을 빌려도 되나요? — 네, 돼요.",
+          "answers": [
+            "Can I borrow books? Yes, you can."
+          ],
+          "hint": "Can I ____ ____? Yes, you ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "동물을 데려가도 되나요? — 아니요, 안 돼요. 동물을 데려올 수 없어요.",
+          "answers": [
+            "Can I bring animals? No, you can't. You can't bring animals.",
+            "Can I bring animals? No, you cannot. You cannot bring animals."
+          ],
+          "hint": "Can I ____ ____? No, you can't. You can't ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "펜을 빌릴 수 있어요.",
+          "answers": [
+            "You can borrow a pen."
+          ],
+          "hint": "You can ____ a ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I take pictures? Yes, you can. You can take pictures.",
+          "answer": "Can I take pictures? Yes, you can. You can take pictures.",
+          "distractors": [
+            "can't.",
+            "eat"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I sit here? No, you can't. You can't sit here.",
+          "answer": "Can I sit here? No, you can't. You can't sit here.",
+          "distractors": [
+            "can.",
+            "eat"
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 먹어도 되나요? — 네, 돼요. 여기서 먹을 수 있어요.",
+          "answer": "Can I eat here? Yes, you can. You can eat here.",
+          "distractors": [
+            "can't.",
+            "sit"
+          ],
+          "explain": "허락(Yes, you can.) 뒤에 You can eat here.로 한 번 더 알려 줘요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "자전거를 타도 되나요? — 아니요, 안 돼요.",
+          "answer": "Can I ride a bike? No, you can't.",
+          "distractors": [
+            "can.",
+            "bring"
+          ],
+          "explain": "허락하지 않을 때는 No, you can't.예요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "도서관에서는 책을 빌릴 수 있어요. 사서의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "Can I borrow books?"
+            },
+            {
+              "who": "사서",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No, you can't. You can't borrow books.",
+            "Yes, you can. You can borrow books.",
+            "No problem."
+          ],
+          "answer": 1,
+          "explain": "도서관에서는 책을 빌릴 수 있으니 허락하는 말이 알맞아요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Place: Zoo\nQ: Can I take pictures?\nA: Yes, you can. You can take pictures.\nQ: Can I ⓐ ___?\nA: No, you can't. You can't eat here.",
+          "question": "빈칸 ⓐ에 알맞은 말은?",
+          "choices": [
+            "take pictures",
+            "eat here",
+            "sit here"
+          ],
+          "answer": 1,
+          "explain": "대답이 ‘You can't eat here.’이니 질문은 Can I eat here?예요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I borrow books? Yes, you can. You can borrow books.",
+          "ko": "책을 빌려도 되나요? 네. 책을 빌릴 수 있어요."
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Project & My Work",
+      "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+      "objectives": [
+        "‘Project’를 하며 단원에서 배운 표현을 활용할 수 있다.",
+        "‘My Work’로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+      ],
+      "pages": "교과서 46~47쪽",
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Review",
+          "desc": "Let's Write 예시문의 질문과 대답을 나누어 읽기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "Project",
+          "desc": "노래 ‘Can I Sit Here?’를 배우고, 교실에서 할 수 있는 일을 그림으로 그린 뒤 노랫말을 바꿔 부르기 (모둠)",
+          "min": 20
+        },
+        {
+          "phase": "전개",
+          "step": "My Work",
+          "desc": "듣고 순서대로 번호 쓰기, 허락을 요청하고 감사를 표현하는 대화하기, 글 읽고 표지판 고르기·문장 배열하기",
+          "min": 10
+        },
+        {
+          "phase": "정리",
+          "step": "My Study / Self Study",
+          "desc": "단원 학습 점검하고 ‘정리해요’ 쓰기, 단원 마무리 게임",
+          "min": 5
+        }
+      ],
+      "keyExpressions": [
+        "Can I sit here?",
+        "Yes, you can.",
+        "Thank you.",
+        "No problem."
+      ],
+      "tip": "노랫말을 바꿀 때는 ‘Can I ____ here?’의 빈칸에 교실에서 할 수 있는 일을 넣어 봐요.",
+      "competencies": [
+        "협",
+        "지",
+        "창",
+        "자",
+        "공",
+        "심"
+      ],
+      "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+      "exercises": [
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+          "audio": "Can I bring my dog? No, you can't.",
+          "choices": [
+            "개를 데려가도 된다.",
+            "개를 데려가면 안 된다.",
+            "개에게 먹이를 줘도 된다."
+          ],
+          "answer": 1,
+          "explain": "‘No, you can't.’는 안 된다는 말이에요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "Can I borrow a pen?"
+            },
+            {
+              "who": "남자아이",
+              "text": "Yes, you can."
+            },
+            {
+              "who": "여자아이",
+              "text": "Thank you."
+            },
+            {
+              "who": "남자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No problem.",
+            "No, you can't.",
+            "Can I sit here?"
+          ],
+          "answer": 0,
+          "explain": "‘Thank you.’에는 ‘No problem.’으로 답해요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Happy Lake Park\nQ: Can I ride a bike?\nA: Yes, you can.\nQ: Can I bring my cat?\nA: No, you can't. You can't bring animals.",
+          "question": "이 공원에 세울 표지판으로 알맞은 것은?",
+          "choices": [
+            "동물 금지",
+            "자전거 금지",
+            "사진 금지"
+          ],
+          "answer": 0,
+          "explain": "자전거는 탈 수 있지만 동물은 데려올 수 없어요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 놀아도 되나요?",
+          "answer": "Can I play here?",
+          "distractors": [
+            "eat",
+            "you"
+          ],
+          "explain": "‘놀다’는 play예요. Can I play here?"
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "You can play here every day.",
+          "answer": "You can play here every day.",
+          "distractors": [
+            "can't",
+            "sing"
+          ]
+        },
+        {
+          "type": "match",
+          "prompt": "문장과 뜻을 짝지어 보세요.",
+          "pairs": [
+            [
+              "Can I take pictures?",
+              "사진을 찍어도 되나요?"
+            ],
+            [
+              "Can I eat here?",
+              "여기서 먹어도 되나요?"
+            ],
+            [
+              "Thank you.",
+              "고마워요."
+            ],
+            [
+              "No problem.",
+              "천만에요."
+            ],
+            [
+              "No, you can't.",
+              "아니요, 안 돼요."
+            ]
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ here?",
+          "ko": "여기에 앉아도 되나요?",
+          "choices": [
+            "sit",
+            "ride",
+            "bring"
+          ],
+          "answer": 0,
+          "explain": "‘앉다’는 sit이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I borrow a pen?",
+          "ko": "펜을 빌려도 되나요?"
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "동물을 데려올 수 없어요.",
+          "answers": [
+            "You can't bring animals.",
+            "You cannot bring animals."
+          ],
+          "hint": "You can't ____ ____."
+        },
+        {
+          "type": "mc",
+          "prompt": "A: Can I play here? 다음에 이어질 대화의 순서로 알맞은 것은?",
+          "choices": [
+            "Thank you. → Yes, you can. → No problem.",
+            "No problem. → Thank you. → Yes, you can.",
+            "Yes, you can. → Thank you. → No problem."
+          ],
+          "answer": 2,
+          "explain": "허락(Yes, you can.) → 감사(Thank you.) → 감사에 답하기(No problem.) 순서예요."
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+          "audio": "Can I sit here? Yes, you can. Thank you. No problem.",
+          "choices": [
+            "자리에 앉아도 되는지 묻고 고맙다고 했다.",
+            "펜을 빌려도 되는지 물었다.",
+            "사진을 찍어도 되는지 물었다."
+          ],
+          "answer": 0,
+          "explain": "sit here는 ‘여기에 앉다’예요."
+        }
+      ],
+      "exercises2": [
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "남자아이",
+              "text": "Can I sit here?"
+            },
+            {
+              "who": "여자아이",
+              "text": "Yes, you can."
+            },
+            {
+              "who": "남자아이",
+              "text": "Thank you."
+            },
+            {
+              "who": "여자아이",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "No problem.",
+            "No, you can't.",
+            "Can I sit here?"
+          ],
+          "answer": 0,
+          "explain": "‘Thank you.’에는 ‘No problem.’으로 답해요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "이 공원에서는 자전거를 타도 돼요. 아저씨의 대답을 고르세요.",
+          "lines": [
+            {
+              "who": "여자아이",
+              "text": "Can I ride a bike?"
+            },
+            {
+              "who": "아저씨",
+              "text": "?"
+            }
+          ],
+          "choices": [
+            "Thank you.",
+            "No, you can't.",
+            "Yes, you can."
+          ],
+          "answer": 2,
+          "explain": "공원에서 자전거를 타도 되니 ‘Yes, you can.’이에요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기 와도 되나요?",
+          "answer": "Can I come here?",
+          "distractors": [
+            "you",
+            "eat"
+          ],
+          "explain": "‘여기 오다’는 come here예요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "사진을 찍어도 되나요? — 아니요, 안 돼요.",
+          "answer": "Can I take pictures? No, you can't.",
+          "distractors": [
+            "can.",
+            "eat"
+          ],
+          "explain": "허락하지 않을 때는 No, you can't.예요."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I play here? Yes, you can.",
+          "answer": "Can I play here? Yes, you can.",
+          "distractors": [
+            "can't.",
+            "sit"
+          ]
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "Can I ___ here?",
+          "ko": "여기서 노래해도 되나요?",
+          "choices": [
+            "ride",
+            "sit",
+            "sing"
+          ],
+          "answer": 2,
+          "explain": "‘노래하다’는 sing이에요."
+        },
+        {
+          "type": "fill",
+          "prompt": "빈칸에 알맞은 말을 고르세요.",
+          "sentence": "No, you can't. You can't ___ animals.",
+          "ko": "아니요. 동물을 데려올 수 없어요.",
+          "choices": [
+            "borrow",
+            "bring",
+            "take"
+          ],
+          "answer": 1,
+          "explain": "‘데려오다’는 bring이에요."
+        },
+        {
+          "type": "match",
+          "prompt": "짝을 맞추세요.",
+          "pairs": [
+            [
+              "come here",
+              "여기 오다"
+            ],
+            [
+              "play here",
+              "여기서 놀다"
+            ],
+            [
+              "sing here",
+              "여기서 노래하다"
+            ],
+            [
+              "sit here",
+              "여기에 앉다"
+            ]
+          ]
+        },
+        {
+          "type": "listen_mc",
+          "prompt": "잘 듣고 대화 내용으로 알맞은 것을 고르세요.",
+          "audio": "Can I eat here? Yes, you can.",
+          "choices": [
+            "여기서 먹어도 된다.",
+            "여기서 먹으면 안 된다.",
+            "여기 앉아도 된다."
+          ],
+          "answer": 0,
+          "explain": "eat here는 ‘여기서 먹다’, Yes, you can.은 허락하는 말이에요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I come here? Yes, you can.",
+          "ko": "여기 와도 되나요? 네, 돼요."
+        }
+      ],
+      "exercises3": [
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "여기 와도 되나요? — 네, 돼요. — 고마워요. — 천만에요.",
+          "answers": [
+            "Can I come here? Yes, you can. Thank you. No problem."
+          ],
+          "hint": "Can I ____ ____? Yes, you can. Thank you. No ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "사진을 찍을 수 없어요.",
+          "answers": [
+            "You can't take pictures.",
+            "You cannot take pictures."
+          ],
+          "hint": "You can't ____ ____."
+        },
+        {
+          "type": "type",
+          "prompt": "영어로 써 보세요.",
+          "ko": "자전거를 탈 수 있어요.",
+          "answers": [
+            "You can ride a bike."
+          ],
+          "hint": "You can ____ a ____."
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I borrow a bike? Yes, you can. You can borrow a bike.",
+          "answer": "Can I borrow a bike? Yes, you can. You can borrow a bike.",
+          "distractors": [
+            "can't.",
+            "bring"
+          ]
+        },
+        {
+          "type": "listen_build",
+          "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+          "audio": "Can I eat here? No, you can't. You can't eat here.",
+          "answer": "Can I eat here? No, you can't. You can't eat here.",
+          "distractors": [
+            "sit",
+            "can."
+          ]
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "여기서 노래해도 되나요? — 네, 돼요. — 고마워요.",
+          "answer": "Can I sing here? Yes, you can. Thank you.",
+          "distractors": [
+            "can't.",
+            "play"
+          ],
+          "explain": "허락(Yes, you can.)을 받으면 Thank you.라고 해요."
+        },
+        {
+          "type": "build",
+          "prompt": "영어 문장을 만들어 보세요.",
+          "ko": "동물을 데려올 수 없어요. 사진은 찍을 수 있어요.",
+          "answer": "You can't bring animals. You can take pictures.",
+          "distractors": [
+            "borrow",
+            "eat"
+          ],
+          "explain": "할 수 없는 일은 You can't, 할 수 있는 일은 You can으로 써요."
+        },
+        {
+          "type": "dialog",
+          "prompt": "알맞은 말을 고르세요.",
+          "lines": [
+            {
+              "who": "A",
+              "text": "Can I play here?"
+            },
+            {
+              "who": "B",
+              "text": "Yes, you can. You can play here every day."
+            },
+            {
+              "who": "A",
+              "text": "?"
+            },
+            {
+              "who": "B",
+              "text": "No problem."
+            }
+          ],
+          "choices": [
+            "Thank you.",
+            "No, you can't.",
+            "Can I sing here?"
+          ],
+          "answer": 0,
+          "explain": "B가 ‘No problem.’으로 답했으니 그 앞은 ‘Thank you.’예요."
+        },
+        {
+          "type": "read",
+          "prompt": "글을 읽고 답하세요.",
+          "passage": "Sky Park\nQ: Can I sit here?\nA: Yes, you can.\nQ: Can I ride a bike?\nA: No, you can't. You can't ride a bike.",
+          "question": "Sky Park에 세울 표지판으로 알맞은 것은?",
+          "choices": [
+            "사진 금지",
+            "앉기 금지",
+            "자전거 금지"
+          ],
+          "answer": 2,
+          "explain": "자전거는 탈 수 없다고 했어요."
+        },
+        {
+          "type": "speak",
+          "prompt": "소리 내어 말해 보세요.",
+          "text": "Can I borrow a pen? Yes, you can. Thank you.",
+          "ko": "펜을 빌려도 되나요? 네, 돼요. 고마워요."
+        }
+      ]
+    }
+  ],
+  "dialogs": [
+    {
+      "name": "Fun Talk 1",
+      "period": 1,
+      "situation": "Green 선생님과 아이들이 우주 센터에서 별자리 쇼를 보며 허락을 요청하고 답해요.",
+      "lines": [
+        {
+          "who": "Ms. Green",
+          "text": "Let's watch the stars, everyone."
+        },
+        {
+          "who": "Tom",
+          "text": "Great! Can I take pictures?"
+        },
+        {
+          "who": "Ms. Green",
+          "text": "No, you can't. Just watch the stars, please."
+        },
+        {
+          "who": "Amy",
+          "text": "Can I sit here?"
+        },
+        {
+          "who": "우주",
+          "text": "Yes, you can."
+        },
+        {
+          "who": "우주",
+          "text": "Oops! Can I eat here?"
+        },
+        {
+          "who": "Linh",
+          "text": "No, you can't. You can't eat here."
+        }
+      ]
+    },
+    {
+      "name": "Fun Talk 2",
+      "period": 2,
+      "situation": "생태 교실에서 Mohan과 하나가 자전거 발전기로 에너지를 만들어 솜사탕을 선물해요.",
+      "lines": [
+        {
+          "who": "Ms. Green",
+          "text": "We grow vegetables here."
+        },
+        {
+          "who": "하나",
+          "text": "Look! Those are bikes."
+        },
+        {
+          "who": "Mohan",
+          "text": "Ms. Green, can I ride a bike?"
+        },
+        {
+          "who": "Ms. Green",
+          "text": "Yes, you can. You can make energy."
+        },
+        {
+          "who": "하나, Mohan",
+          "text": "Here you are. This is for you."
+        },
+        {
+          "who": "우주",
+          "text": "Thank you."
+        },
+        {
+          "who": "하나, Mohan",
+          "text": "No problem."
+        }
+      ]
+    },
+    {
+      "name": "Talk Like This",
+      "period": 2,
+      "situation": "Jesse는 엄마에게 개를 데려가도 되는지 묻고, Olivia는 민우에게 펜을 빌려요.",
+      "lines": [
+        {
+          "who": "Jesse 엄마",
+          "text": "Let's go to the park."
+        },
+        {
+          "who": "Jesse",
+          "text": "Can I bring my dog?"
+        },
+        {
+          "who": "Jesse 엄마",
+          "text": "No, you can't."
+        },
+        {
+          "who": "Olivia",
+          "text": "Can I borrow a pen?"
+        },
+        {
+          "who": "민우",
+          "text": "Yes, you can. Here."
+        },
+        {
+          "who": "Olivia",
+          "text": "Thank you."
+        },
+        {
+          "who": "민우",
+          "text": "No problem."
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "title": "공원 이용 안내 글 (Green Tree Park)",
+    "passage": "This is the Green Tree Park website. The park has lots of trees and flowers, and people can take a walk along the lake. Visitors ask questions here. One visitor asks, \"Can I borrow a bike?\" The answer is \"Yes, you can.\" Another visitor asks, \"Can I bring my dog?\" The answer is \"No, you can't. Animals can't come into the park.\"",
+    "summaryKo": "Green Tree Park에서는 나무와 꽃을 보고 호수를 따라 걸을 수 있으며, 자전거는 빌릴 수 있지만 동물은 데려올 수 없어요."
+  },
+  "writing": {
+    "frame": [
+      "Can I ____?",
+      "Yes, you can. You can ____.",
+      "Can I ____?",
+      "No, you can't. You can't ____."
+    ],
+    "model": "Boy: Can I take pictures? / Woman: Yes, you can. You can take pictures. / Girl: Can I ride a bike? / Man: No, you can't. You can't ride a bike."
+  },
+  "project": "노래 ‘Can I Sit Here?’를 듣고 따라 부르며 노랫말 순서대로 그림에 번호를 쓴 뒤, 모둠별로 교실에서 할 수 있는 일을 이야기하고 그림으로 그려 노랫말의 색깔 부분을 바꿔 부른다.",
+  "special": {
+    "no": 3,
+    "kind": "Into the World",
+    "title": "세계 유명 장소에서 할 수 있는 일과 할 수 없는 일은 무엇일까요",
+    "summaryKo": "보보와 코코가 세계 여러 유명 장소를 여행해요. 기린 센터, 지하철, 거리의 피아노, 항공 우주 박물관에서 ‘Can I ...?’로 허락을 구하고, 할 수 있는 일과 할 수 없는 일을 알아봐요.",
+    "facts": [
+      "케냐 나이로비의 기린 센터에서는 기린에게 먹이를 주고 만져 볼 수 있어요.",
+      "싱가포르의 지하철에서는 음식을 먹을 수 없고, 두리안도 가지고 탈 수 없어요.",
+      "영국 런던 거리에는 ‘Play Me. I'm Yours.’라고 쓰인 피아노가 있어 누구나 연주할 수 있어요.",
+      "미국 워싱턴의 스미스소니언 항공 우주 박물관에서는 우주 비행 시뮬레이터를 체험할 수 있어요."
+    ],
+    "expressions": [
+      "Can I touch the animals? — Yes, you can.",
+      "Can I eat here? — No, you can't. Look.",
+      "Can I play the piano? — Yes, you can. / Thank you. — No problem."
+    ],
+    "exercises": [
+      {
+        "type": "mc",
+        "prompt": "케냐 나이로비의 기린 센터에서 할 수 있는 일은?",
+        "emoji": "🦒",
+        "choices": [
+          "기린에게 먹이를 주고 만져 보기",
+          "기린을 타고 달리기",
+          "기린을 집에 데려가기"
+        ],
+        "answer": 0,
+        "explain": "기린 센터에서는 기린에게 먹이를 주고 만져 볼 수 있어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "싱가포르 지하철에서 할 수 없는 일은?",
+        "emoji": "🚇",
+        "choices": [
+          "자리에 앉기",
+          "음식 먹기",
+          "역 이름 확인하기"
+        ],
+        "answer": 1,
+        "explain": "싱가포르 지하철에서는 음식을 먹을 수 없어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "싱가포르 지하철에 가지고 탈 수 없는 과일은?",
+        "choices": [
+          "바나나",
+          "사과",
+          "망고",
+          "두리안"
+        ],
+        "answer": 3,
+        "explain": "냄새가 강한 두리안은 싱가포르 지하철에 가지고 탈 수 없어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "영국 런던 거리의 피아노에 쓰여 있는 말은?",
+        "emoji": "🎹",
+        "choices": [
+          "Don't touch.",
+          "No music.",
+          "Play Me. I'm Yours."
+        ],
+        "answer": 2,
+        "explain": "‘Play Me. I'm Yours.’라고 쓰여 있어 누구나 연주할 수 있어요."
+      },
+      {
+        "type": "mc",
+        "prompt": "미국 스미스소니언 항공 우주 박물관에서 해 볼 수 있는 체험은?",
+        "emoji": "🚀",
+        "choices": [
+          "기린 먹이 주기",
+          "길거리 피아노 연주",
+          "우주 비행 시뮬레이터"
+        ],
+        "answer": 2,
+        "explain": "항공 우주 박물관에서는 우주 비행 시뮬레이터를 체험할 수 있어요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "싱가포르 지하철 안이에요. 알맞은 대답을 고르세요.",
+        "lines": [
+          {
+            "who": "A",
+            "text": "Can I eat here?"
+          },
+          {
+            "who": "B",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "Yes, you can.",
+          "No, you can't. Look.",
+          "No problem."
+        ],
+        "answer": 1,
+        "explain": "싱가포르 지하철에서는 음식을 먹을 수 없으니 ‘No, you can't.’라고 답해요."
+      },
+      {
+        "type": "dialog",
+        "prompt": "알맞은 말을 고르세요.",
+        "lines": [
+          {
+            "who": "A",
+            "text": "Great. Can I play the piano?"
+          },
+          {
+            "who": "B",
+            "text": "Yes, you can."
+          },
+          {
+            "who": "A",
+            "text": "?"
+          }
+        ],
+        "choices": [
+          "Thank you.",
+          "No, you can't.",
+          "Say cheese."
+        ],
+        "answer": 0,
+        "explain": "허락을 받았으니 ‘Thank you.’라고 감사를 표현해요."
+      },
+      {
+        "type": "listen_mc",
+        "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+        "audio": "Can I try this?",
+        "choices": [
+          "이거 먹어도 되나요?",
+          "이거 빌려도 되나요?",
+          "이거 해 봐도 되나요?"
+        ],
+        "answer": 2,
+        "explain": "try는 ‘해 보다’예요. 박물관에서 시뮬레이터를 해 봐도 되는지 물었어요."
+      }
+    ]
+  }
+}

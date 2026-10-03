@@ -1,0 +1,2230 @@
+{
+ "id": "L03",
+ "no": 3,
+ "grade": 4,
+ "semester": 1,
+ "title": "Don't Sit Here",
+ "emoji": "🚫",
+ "rationale": "공공장소에서 타인에게 피해를 주는 행동을 하지 않는 것은 우리가 지켜야 할 공중도덕 예절이며 사회생활의 필수 덕목이다. 부적절한 행동을 금지하는 말과 위험한 상황을 경고하는 말을 익혀 실생활에서 활용하고, 공공장소에서 지켜야 할 기본 질서와 규칙을 알고 타인을 배려하는 습관을 길러 행복하고 안전한 공동체 생활을 하도록 한다.",
+ "topics": "민주시민 관련(공중도덕, 예절), 일반교양 관련(생활 안전)",
+ "functions": [
+  {
+   "ko": "금지 표현 말하고 답하기",
+   "examples": [
+    "Don't sit here.",
+    "Okay."
+   ]
+  },
+  {
+   "ko": "경고하기",
+   "examples": [
+    "Be careful."
+   ]
+  }
+ ],
+ "forms": [
+  "Don't sit here.",
+  "Don't drink [eat / enter / push / talk / touch]."
+ ],
+ "phonics": {
+  "focus": "k /k/ (끝소리)",
+  "words": [
+   "drink",
+   "talk",
+   "book"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "careful",
+   "ko": "조심하는"
+  },
+  {
+   "en": "drink",
+   "ko": "마시다"
+  },
+  {
+   "en": "eat",
+   "ko": "먹다"
+  },
+  {
+   "en": "enter",
+   "ko": "들어가다"
+  },
+  {
+   "en": "house",
+   "ko": "집"
+  },
+  {
+   "en": "kick",
+   "ko": "(발로) 차다"
+  },
+  {
+   "en": "line",
+   "ko": "줄 (line up: 줄을 서다)"
+  },
+  {
+   "en": "love",
+   "ko": "정말 좋아하다, 사랑하다"
+  },
+  {
+   "en": "over",
+   "ko": "저쪽에 (over there)"
+  },
+  {
+   "en": "push",
+   "ko": "밀다"
+  },
+  {
+   "en": "talk",
+   "ko": "말하다"
+  },
+  {
+   "en": "welcome",
+   "ko": "환영하다 (You're welcome: 천만에)"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "drink",
+   "ko": "마시다",
+   "emoji": "🥤"
+  },
+  {
+   "en": "eat",
+   "ko": "먹다",
+   "emoji": "🍔"
+  },
+  {
+   "en": "enter",
+   "ko": "들어가다",
+   "emoji": "🚪"
+  },
+  {
+   "en": "push",
+   "ko": "밀다",
+   "emoji": "🫸"
+  },
+  {
+   "en": "talk",
+   "ko": "말하다",
+   "emoji": "🗣️"
+  },
+  {
+   "en": "touch",
+   "ko": "만지다",
+   "emoji": "✋"
+  },
+  {
+   "en": "sit",
+   "ko": "앉다",
+   "emoji": "🪑"
+  },
+  {
+   "en": "kick",
+   "ko": "차다",
+   "emoji": "⚽"
+  }
+ ],
+ "characters": [
+  "준오(Juno)",
+  "Kate",
+  "보라(Bora)",
+  "Eric",
+  "Sam",
+  "Momo",
+  "안내원",
+  "사서",
+  "Ms. Evans",
+  "Danny",
+  "하나",
+  "민우",
+  "Alice",
+  "청개구리",
+  "누나 개구리",
+  "엄마 개구리",
+  "아빠 개구리"
+ ],
+ "goals": {
+  "understand": [
+   "금지 표현과 그에 답하는 말, 경고하는 말을 듣고 이해할 수 있다.",
+   "금지하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /k/와 철자 'k'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "금지 표현과 경고하는 말을 들으며 공중도덕을 지키고 타인을 배려하는 태도를 기를 수 있다."
+  ],
+  "express": [
+   "금지 표현과 그에 답하는 말, 경고하는 말을 할 수 있다.",
+   "금지하는 문장을 보고 쓸 수 있다.",
+   "소리 /k/와 철자 'k'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "공동체 생활의 기초인 의사소통 표현을 익혀 타인을 배려하고 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-06",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "금지 표현 말하고 답하기",
+   "objectives": [
+    "금지 표현과 그에 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '금지 표현 이어 말하기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 32~33쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready",
+     "desc": "위험한 행동을 하는 친구에게 어떻게 말할지 이야기하기, 단원 학습 목표 확인, My Study 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "애니메이션 박물관 체험학습에서 Kate가 준오에게 앉지 말라고 하는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "금지 찬트를 하며 들은 순서대로 표지판에 ×표 하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "금지 표현 이어 말하기 — 금지 그림 카드에 맞게 Don't ....라고 말하고 Okay.로 답하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "듣고 알맞은 그림 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Don't sit here.",
+    "Okay.",
+    "Don't push.",
+    "Line up here, please.",
+    "Welcome, everyone."
+   ],
+   "tip": "'~하지 마'는 동작을 나타내는 말 앞에 Don't를 붙여요. 대답은 'Okay.'예요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 금지 표현과 그에 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "eat",
+       "먹다"
+      ],
+      [
+       "drink",
+       "마시다"
+      ],
+      [
+       "push",
+       "밀다"
+      ],
+      [
+       "touch",
+       "만지다"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "enter",
+       "들어가다"
+      ],
+      [
+       "kick",
+       "차다"
+      ],
+      [
+       "talk",
+       "말하다"
+      ],
+      [
+       "sit",
+       "앉다"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "의자에 앉지 말라는 표지판이에요. 알맞은 말은?",
+     "emoji": "🚫🪑",
+     "choices": [
+      "Don't sit.",
+      "Don't talk.",
+      "Don't kick.",
+      "Don't eat."
+     ],
+     "answer": 0,
+     "explain": "sit은 '앉다'예요. 하지 말라고 할 때는 Don't를 앞에 붙여요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Don't push.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "먹지 마세요.",
+      "만지지 마세요.",
+      "밀지 마세요."
+     ],
+     "answer": 2,
+     "explain": "push는 '밀다'예요. Don't push.는 '밀지 마.'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't eat here.",
+     "choices": [
+      "여기에서 먹지 마세요.",
+      "여기에 앉지 마세요.",
+      "여기에서 마시지 마세요."
+     ],
+     "answer": 0,
+     "explain": "eat은 '먹다', here는 '여기에서'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 표지판을 고르세요.",
+     "audio": "Don't kick.",
+     "choices": [
+      "🚫🪑",
+      "🚫🍔",
+      "🚫⚽"
+     ],
+     "answer": 2,
+     "explain": "kick은 '(발로) 차다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Juno의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Don't sit here, Juno."
+      },
+      {
+       "who": "Juno",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay.",
+      "Yes, I am.",
+      "Nice to meet you."
+     ],
+     "answer": 0,
+     "explain": "하지 말라는 말에는 'Okay.(알겠어.)'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric이 앞에 선 Juno를 밀어요. Juno가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "?"
+      },
+      {
+       "who": "Eric",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Good morning, Eric.",
+      "Eric, don't push.",
+      "Eric, don't drink."
+     ],
+     "answer": 1,
+     "explain": "미는 친구에게는 Don't push.(밀지 마.)라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___ here.",
+     "ko": "여기에서 떠들지 마세요.",
+     "choices": [
+      "drink",
+      "talk",
+      "kick"
+     ],
+     "answer": 1,
+     "explain": "talk는 '말하다, 떠들다'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여기에 앉지 마세요.",
+     "answer": "Don't sit here.",
+     "distractors": [
+      "eat",
+      "Okay."
+     ],
+     "explain": "'~하지 마'는 Don't로 시작해요. Don't sit here."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't touch.",
+     "answer": "Don't touch.",
+     "distractors": [
+      "push.",
+      "Okay."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't push. Okay.",
+     "ko": "밀지 마. 알겠어."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "안내원이 아이들을 환영하며 줄을 서라고 해요. 안내원이 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Guide",
+       "text": "?"
+      },
+      {
+       "who": "Kids",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Welcome, everyone. Line up here, please.",
+      "Don't sit here, please.",
+      "Are you happy?"
+     ],
+     "answer": 0,
+     "explain": "Welcome은 '환영해요', Line up here는 '여기에 줄을 서세요'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Welcome, everyone.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "여러분, 안녕히 주무세요.",
+      "여러분, 줄을 서세요.",
+      "여러분, 환영해요."
+     ],
+     "answer": 2,
+     "explain": "welcome은 '환영하다'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Sit over there, please.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "여기에 줄을 서세요.",
+      "여기에 앉지 마세요.",
+      "저쪽에 앉으세요."
+     ],
+     "answer": 2,
+     "explain": "over there는 '저쪽에'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마가 Tom에게 이것을 마시지 말라고 해요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom",
+       "text": "Don't drink this, Tom."
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am.",
+      "Good afternoon.",
+      "Okay, Mom."
+     ],
+     "answer": 2,
+     "explain": "하지 말라는 말에는 Okay.로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여기에서 마시지 마세요.",
+     "answer": "Don't drink here.",
+     "distractors": [
+      "eat",
+      "Okay."
+     ],
+     "explain": "drink는 '마시다'예요. Don't drink here."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Bora, 만지지 마.",
+     "answer": "Bora, don't touch.",
+     "distractors": [
+      "push.",
+      "Okay."
+     ],
+     "explain": "touch는 '만지다'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't enter, please.",
+     "answer": "Don't enter, please.",
+     "distractors": [
+      "sit,",
+      "Okay."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "___ talk here.",
+     "ko": "여기에서 떠들지 마세요.",
+     "choices": [
+      "Don't",
+      "Not",
+      "No"
+     ],
+     "answer": 0,
+     "explain": "'~하지 마'는 Don't로 시작해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Line up here, please.",
+     "choices": [
+      "여기에서 먹지 마세요.",
+      "여기에 줄을 서 주세요.",
+      "여기에 앉아 주세요."
+     ],
+     "answer": 1,
+     "explain": "line up은 '줄을 서다'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't kick, please.",
+     "ko": "차지 마세요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "먹다",
+     "answers": [
+      "eat"
+     ],
+     "hint": "e _ t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "밀다",
+     "answers": [
+      "push"
+     ],
+     "hint": "p _ s h"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "들어가다",
+     "answers": [
+      "enter"
+     ],
+     "hint": "e n _ _ r"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Juno, 여기에 앉지 마. 저쪽에 앉아.",
+     "answer": "Don't sit here, Juno. Sit over there.",
+     "distractors": [
+      "eat",
+      "Okay."
+     ],
+     "explain": "Don't sit here.로 금지하고, Sit over there.로 앉을 곳을 알려 줘요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Look at the robot. Don't touch, please.",
+     "answer": "Look at the robot. Don't touch, please.",
+     "distractors": [
+      "push,",
+      "Okay."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "영화관에서 남자아이가 떠들고 있어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Usher",
+       "text": "Don't talk here, please."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay. I'm sorry.",
+      "Nice to meet you.",
+      "Yes, I am."
+     ],
+     "answer": 0,
+     "explain": "하지 말라는 말에 Okay.라고 답하고 사과해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "도서관에서 남자아이가 음료수를 마시려고 해요. 여자아이가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Don't sit here, please.",
+      "Don't drink here, please.",
+      "Are you thirsty?"
+     ],
+     "answer": 1,
+     "explain": "마시지 말라고 할 때는 Don't drink here.라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the museum:\nDon't touch.\nDon't eat.\nDon't push.\nDon't talk here.",
+     "question": "박물관에서 할 수 있는 행동은 무엇인가요?",
+     "choices": [
+      "작품 만지기",
+      "친구 밀기",
+      "과자 먹기",
+      "조용히 작품 보기"
+     ],
+     "answer": 3,
+     "explain": "만지기, 먹기, 밀기, 떠들기는 하지 말라고 했어요. 조용히 보는 것은 괜찮아요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Juno is tired. He sits on a chair. Kate says, \"Don't sit here, Juno. Look at the sign.\" Juno says, \"Okay.\"",
+     "question": "Kate가 Juno에게 하지 말라고 한 행동은?",
+     "choices": [
+      "여기에 앉기",
+      "여기에서 먹기",
+      "로봇 만지기"
+     ],
+     "answer": 0,
+     "explain": "Kate가 'Don't sit here.'라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't talk here. Okay.",
+     "ko": "여기에서 떠들지 마. 알겠어."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "금지 표현 말하고 답하기 / 경고하기",
+   "objectives": [
+    "금지 표현과 그에 답하는 말을 할 수 있다.",
+    "경고하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Don't Sit Here' 노래와 '금지·경고 표현 윷놀이'에서 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 34~35쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "금지 그림 카드로 복습, '도서관 이용 안내' 동영상 보며 지켜야 할 규칙 말하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "지역 도서관에서 과자 집을 만지려는 보라와 사다리에 오르는 Sam에게 경고하는 만화 영화 보기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상 보며 표현 익히기, 짝과 표지판을 보며 금지 표현을 말하고 답하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'Don't Sit Here' 노래를 역할을 나누어 대화하듯 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "금지·경고 표현 윷놀이 — 말이 도착한 칸의 그림에 맞게 금지하거나 경고하는 말 하기 (모둠 활동)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "상황에 알맞은 대화 짝과 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Be careful.",
+    "Don't touch.",
+    "Don't eat here, please.",
+    "I'm sorry.",
+    "You're welcome."
+   ],
+   "tip": "위험한 상황을 보면 'Be careful.(조심해.)'이라고 친구에게 알려 줘요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 금지 표현과 그에 답하는 말을 할 수 있는가? 경고하는 말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Be careful.",
+       "조심해."
+      ],
+      [
+       "Don't touch.",
+       "만지지 마."
+      ],
+      [
+       "I'm sorry.",
+       "미안해요."
+      ],
+      [
+       "You're welcome.",
+       "천만에요."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "위험한 상황에서 하는 말은?",
+     "emoji": "⚠️",
+     "choices": [
+      "Nice to meet you.",
+      "Good morning.",
+      "Be careful.",
+      "I'm happy."
+     ],
+     "answer": 2,
+     "explain": "Be careful.은 '조심해.'라는 뜻이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'I love this house.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "나는 이 집이 정말 좋아.",
+      "나는 이 집에 살아.",
+      "나는 이 집을 만들어."
+     ],
+     "answer": 0,
+     "explain": "love는 '정말 좋아하다', house는 '집'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Be careful, Sam.",
+     "choices": [
+      "Sam, 미안해.",
+      "Sam, 조심해.",
+      "Sam, 천만에."
+     ],
+     "answer": 1,
+     "explain": "careful은 '조심하는'이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't drink here, please.",
+     "choices": [
+      "여기에서 마시지 마세요.",
+      "여기에 들어가지 마세요.",
+      "여기에서 먹지 마세요."
+     ],
+     "answer": 0,
+     "explain": "drink는 '마시다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Sam이 고맙다고 해요. 사서 선생님의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Librarian",
+       "text": "Be careful."
+      },
+      {
+       "who": "Sam",
+       "text": "Okay. Thank you."
+      },
+      {
+       "who": "Librarian",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Don't eat here.",
+      "I'm sorry.",
+      "You're welcome."
+     ],
+     "answer": 2,
+     "explain": "고맙다는 말에는 You're welcome.(천만에.)이라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric이 도서관에서 과자를 먹으려 했어요. Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Librarian",
+       "text": "Don't eat here, please."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Be careful.",
+      "I'm sorry.",
+      "You're welcome."
+     ],
+     "answer": 1,
+     "explain": "잘못한 일을 알았을 때는 I'm sorry.라고 사과해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Be ___.",
+     "ko": "조심해.",
+     "choices": [
+      "happy",
+      "careful",
+      "sorry"
+     ],
+     "answer": 1,
+     "explain": "'조심하는'은 careful이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___.",
+     "ko": "만지지 마.",
+     "choices": [
+      "talk",
+      "touch",
+      "push"
+     ],
+     "answer": 1,
+     "explain": "'만지다'는 touch예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "나는 이 집이 정말 좋아.",
+     "answer": "I love this house.",
+     "distractors": [
+      "sit",
+      "my"
+     ],
+     "explain": "love는 '정말 좋아하다', house는 '집'이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Be careful. Don't touch.",
+     "answer": "Be careful. Don't touch.",
+     "distractors": [
+      "push.",
+      "sorry."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Be careful, please.",
+     "ko": "조심하세요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "과자 집을 만지려는 보라에게 Kate가 말해요. 보라의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Be careful. Don't touch. Look at this."
+      },
+      {
+       "who": "Bora",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "You're welcome.",
+      "Yes, I am.",
+      "Okay."
+     ],
+     "answer": 2,
+     "explain": "하지 말라는 말에는 Okay.라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Minu가 Alice에게 경고해요. Minu가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Minu",
+       "text": "Don't drink, Alice. Look!"
+      },
+      {
+       "who": "Alice",
+       "text": "Oh, okay."
+      },
+      {
+       "who": "Minu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night, Alice.",
+      "You're welcome, Alice.",
+      "Be careful, Alice."
+     ],
+     "answer": 2,
+     "explain": "위험한 것을 알려 줄 때 Be careful.이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Danny의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Evans",
+       "text": "Hana, Danny, don't enter there, please."
+      },
+      {
+       "who": "Danny",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "You're welcome.",
+      "Be careful.",
+      "Okay. I'm sorry."
+     ],
+     "answer": 2,
+     "explain": "하지 말라는 말에 Okay.라고 답하고 미안하다고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "뜨거운 냄비를 만지려는 친구에게 할 말로 알맞은 것은?",
+     "emoji": "🔥",
+     "choices": [
+      "I love this house.",
+      "Welcome, everyone.",
+      "Be careful. Don't touch."
+     ],
+     "answer": 2,
+     "explain": "위험할 때는 Be careful.(조심해.)과 Don't touch.(만지지 마.)라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "조심해. 여기에 앉지 마.",
+     "answer": "Be careful. Don't sit here.",
+     "distractors": [
+      "sorry.",
+      "eat"
+     ],
+     "explain": "Be careful.로 경고하고 Don't sit here.로 금지해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그곳에 들어가지 마세요.",
+     "answer": "Don't enter there, please.",
+     "distractors": [
+      "here,",
+      "sit"
+     ],
+     "explain": "enter는 '들어가다', there는 '그곳에'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Oh, okay. Thanks.",
+     "answer": "Oh, okay. Thanks.",
+     "distractors": [
+      "sorry.",
+      "welcome."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You're ___.",
+     "ko": "천만에요.",
+     "choices": [
+      "welcome",
+      "careful",
+      "sorry"
+     ],
+     "answer": 0,
+     "explain": "고맙다는 말에는 You're welcome.이라고 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Look at this. It's pretty.",
+     "choices": [
+      "이것 좀 봐. 예쁘다.",
+      "이것을 만지지 마.",
+      "이것은 내 집이야."
+     ],
+     "answer": 0,
+     "explain": "Look at this.는 '이것 좀 봐.', pretty는 '예쁜'이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't eat here, please.",
+     "ko": "여기에서 먹지 마세요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "조심해.",
+     "answers": [
+      "Be careful."
+     ],
+     "hint": "Be c a r _ f u l."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만지다",
+     "answers": [
+      "touch"
+     ],
+     "hint": "t o u _ h"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "마시다",
+     "answers": [
+      "drink"
+     ],
+     "hint": "d r _ n k"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "조심해! 그 집을 만지지 마.",
+     "answer": "Be careful! Don't touch the house.",
+     "distractors": [
+      "push",
+      "sorry."
+     ],
+     "explain": "Be careful!로 경고하고 Don't touch ~.로 금지해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, it's great. I love this house.",
+     "answer": "Wow, it's great. I love this house.",
+     "distractors": [
+      "like",
+      "sit"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "수영장 안전 요원이 남자아이에게 말해요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Lifeguard",
+       "text": "Be careful. Don't swim here, please."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Oh, okay. Thank you.",
+      "Yes, I am.",
+      "You're welcome."
+     ],
+     "answer": 0,
+     "explain": "조심하라는 말에 Okay.로 답하고 고맙다고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ben이 젖은 바닥 위를 뛰어가요. Mia가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mia",
+       "text": "?"
+      },
+      {
+       "who": "Ben",
+       "text": "Oh, thanks."
+      }
+     ],
+     "choices": [
+      "Welcome, Ben!",
+      "Be careful, Ben!",
+      "Good night, Ben!"
+     ],
+     "answer": 1,
+     "explain": "위험한 상황에서는 Be careful!이라고 경고해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the library, Eric takes out some cookies. The librarian says, \"Don't eat here, please.\" Eric says, \"I'm sorry.\"",
+     "question": "사서 선생님이 하지 말라고 한 것은 무엇인가요?",
+     "choices": [
+      "도서관에서 과자 먹기",
+      "도서관에서 책 읽기",
+      "사다리 올라가기"
+     ],
+     "answer": 0,
+     "explain": "'Don't eat here, please.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam goes up a ladder. \"Be careful,\" says Ms. Lee. \"Okay. Thank you,\" says Sam. \"You're welcome.\"",
+     "question": "Ms. Lee가 Sam에게 한 말 'Be careful.'의 뜻은?",
+     "choices": [
+      "천만에.",
+      "미안해.",
+      "조심해."
+     ],
+     "answer": 2,
+     "explain": "Be careful.은 '조심해.'라는 뜻이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Be careful. Don't touch. Look at this.",
+     "ko": "조심해. 만지지 마. 이것 좀 봐."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "금지하는 문장 읽고 쓰기 / 'k'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "금지하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /k/와 철자 'k'의 관계를 이해하며 'k'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'학교 규칙 표지판을 만들어 캠페인 활동하기'의 협력 과업으로 금지하는 문장을 읽고 쓰며, 금지·경고 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 36~37쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "주의 표지판 보고 경고하는 말 하기, '미술관 로봇 안내원' 사진 보며 로봇이 할 말 추측하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "미술관 로봇의 말풍선 문장을 읽고 빈칸에 알맞은 금지 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Number",
+     "desc": "안전 요원이 되어 금지 문장을 읽고 알맞은 그림 번호 쓰기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Follow and Write",
+     "desc": "그림에 맞는 단어 철자를 연결해 문장 완성하기, 스스로 다지기(자주 쓰는 금지 표현 쓰기)",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'k'로 끝나는 단어(drink, talk, book) 소리 내어 읽고 끝소리 /k/ 확인하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "캠페인 장소를 골라 학교 규칙 표지판을 만들고 금지 문장을 써서 캠페인 활동하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "금지 문장 읽고 쓰며 복습, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Don't drink.",
+    "Don't eat.",
+    "Don't enter.",
+    "Don't push.",
+    "Don't talk.",
+    "Don't touch."
+   ],
+   "tip": "Don't는 Do not을 줄인 말이에요. o 자리에 어퍼스트로피(')를 꼭 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가 — 금지하는 문장을 읽고 쓸 수 있는가? 'k'로 끝나는 단어를 소리 내어 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "문장과 알맞은 표지판을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Don't eat.",
+       "🚫🍔"
+      ],
+      [
+       "Don't drink.",
+       "🚫🥤"
+      ],
+      [
+       "Don't touch.",
+       "🚫✋"
+      ],
+      [
+       "Don't enter.",
+       "🚫🚪"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "'k'로 끝나는 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "drink",
+       "마시다"
+      ],
+      [
+       "talk",
+       "말하다"
+      ],
+      [
+       "book",
+       "책"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 /k/인 단어는?",
+     "emoji": "📖",
+     "choices": [
+      "push",
+      "book",
+      "sit",
+      "eat"
+     ],
+     "answer": 1,
+     "explain": "book은 'k'로 끝나서 끝소리가 /k/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "milk",
+     "choices": [
+      "m",
+      "k",
+      "l"
+     ],
+     "answer": 1,
+     "explain": "milk(우유)의 마지막 글자는 k예요. 끝소리가 /k/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't push, please.",
+     "choices": [
+      "들어가지 마세요.",
+      "먹지 마세요.",
+      "밀지 마세요."
+     ],
+     "answer": 2,
+     "explain": "push는 '밀다'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Don't enter.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "만지지 마세요.",
+      "마시지 마세요.",
+      "들어가지 마세요."
+     ],
+     "answer": 2,
+     "explain": "enter는 '들어가다'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___.",
+     "ko": "마시지 마세요.",
+     "choices": [
+      "eat",
+      "talk",
+      "drink"
+     ],
+     "answer": 2,
+     "explain": "'마시다'는 drink예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "boo___",
+     "ko": "책",
+     "choices": [
+      "p",
+      "k",
+      "t"
+     ],
+     "answer": 1,
+     "explain": "책은 book이에요. 끝소리 /k/는 k로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "미술관 로봇이 그림을 만지려는 남자아이에게 말해요. 로봇이 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Robot",
+       "text": "?"
+      },
+      {
+       "who": "Boy",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "Don't touch, please.",
+      "Don't sit, please."
+     ],
+     "answer": 1,
+     "explain": "그림을 만지려 할 때는 Don't touch.(만지지 마세요.)라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "먹지 마세요.",
+     "answer": "Don't eat.",
+     "distractors": [
+      "drink.",
+      "Okay."
+     ],
+     "explain": "'먹다'는 eat이에요. Don't eat."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't talk.",
+     "answer": "Don't talk.",
+     "distractors": [
+      "eat.",
+      "Okay."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "drink, talk, book",
+     "ko": "마시다, 말하다, 책 (끝소리 /k/)"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 다른 하나는?",
+     "choices": [
+      "talk",
+      "book",
+      "drink",
+      "eat"
+     ],
+     "answer": 3,
+     "explain": "talk, drink, book은 끝소리가 /k/이고, eat은 /t/로 끝나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "drink",
+     "choices": [
+      "drink",
+      "dog",
+      "duck"
+     ],
+     "answer": 0,
+     "explain": "drink는 '마시다'이고 끝소리가 /k/예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "tal___",
+     "ko": "말하다",
+     "choices": [
+      "t",
+      "k",
+      "l"
+     ],
+     "answer": 1,
+     "explain": "말하다는 talk이에요. 끝소리 /k/는 k로 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___.",
+     "ko": "들어가지 마세요.",
+     "choices": [
+      "enter",
+      "touch",
+      "push"
+     ],
+     "answer": 0,
+     "explain": "'들어가다'는 enter예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "At the art museum, the robot says:\n\"Don't touch.\"\n\"Don't eat here.\"\n\"Don't drink here.\"",
+     "question": "미술관에서 하면 안 되는 행동은 무엇인가요?",
+     "choices": [
+      "음료수 마시기",
+      "조용히 걷기",
+      "그림 보기"
+     ],
+     "answer": 0,
+     "explain": "로봇이 'Don't drink here.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "도서관에서 Sam이 큰 소리로 말해요. Sam의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Don't talk here, please."
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay.",
+      "Yes, I am.",
+      "Good morning."
+     ],
+     "answer": 0,
+     "explain": "하지 말라는 말에는 Okay.로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "밀지 마세요.",
+     "answer": "Don't push.",
+     "distractors": [
+      "talk.",
+      "Okay."
+     ],
+     "explain": "'밀다'는 push예요. Don't push."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't drink.",
+     "answer": "Don't drink.",
+     "distractors": [
+      "touch.",
+      "Okay."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "어퍼스트로피(')를 바르게 쓴 것은?",
+     "choices": [
+      "Dont",
+      "Do'nt",
+      "Don't"
+     ],
+     "answer": 2,
+     "explain": "Do not을 줄여서 Don't로 쓰고, o 자리에 '를 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't touch. Don't enter.",
+     "ko": "만지지 마세요. 들어가지 마세요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "말하다 (끝소리 /k/)",
+     "answers": [
+      "talk"
+     ],
+     "hint": "t a l _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책 (끝소리 /k/)",
+     "answers": [
+      "book"
+     ],
+     "hint": "b o o _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만지지 마세요.",
+     "answers": [
+      "Don't touch.",
+      "Do not touch."
+     ],
+     "hint": "Don't t _ _ _ h."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "들어가지 마세요.",
+     "answers": [
+      "Don't enter.",
+      "Do not enter."
+     ],
+     "hint": "Don't e _ _ e r."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여기에서 마시지 마. 여기에서 먹지 마.",
+     "answer": "Don't drink here. Don't eat here.",
+     "distractors": [
+      "talk",
+      "Okay."
+     ],
+     "explain": "Don't drink here.와 Don't eat here.를 이어서 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't push. Be careful.",
+     "answer": "Don't push. Be careful.",
+     "distractors": [
+      "talk.",
+      "sorry."
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our class signs:\nClassroom: Don't push.\nLibrary: Don't talk.\nScience room: Don't touch.\nMusic room: Don't eat.",
+     "question": "과학실(Science room) 표지판에 쓴 문장은 무엇인가요?",
+     "choices": [
+      "Don't touch.",
+      "Don't talk.",
+      "Don't eat.",
+      "Don't push."
+     ],
+     "answer": 0,
+     "explain": "Science room: Don't touch.라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "'들어가지 마시오' 표지판이 있어요. 여자아이가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Look! I can go in there."
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am.",
+      "No! Don't enter.",
+      "I love this house."
+     ],
+     "answer": 1,
+     "explain": "들어가지 말라고 할 때는 Don't enter.라고 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dad: Don't drink my juice, Tom.\nTom: Okay, Dad.",
+     "question": "아빠가 Tom에게 하지 말라고 한 것은?",
+     "choices": [
+      "케이크 먹기",
+      "주스 마시기",
+      "주스 만들기"
+     ],
+     "answer": 1,
+     "explain": "'Don't drink my juice.'라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't push, please. Don't talk, please.",
+     "ko": "밀지 마세요. 떠들지 마세요."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '청개구리' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 38~39쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "금지 문장 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'청개구리' 이야기 추측하기, 만화 영화 보며 이해하기, HOW ABOUT YOU?, 모둠별 역할극 하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 번호 쓰기, 우리 집에 필요한 금지 표지판 그리고 문장 완성하기 등 단원 정리",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study",
+     "desc": "단원 성취도 점검, 느낀 점과 복습 계획 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Don't eat this.",
+    "Be careful. Don't touch, please.",
+    "Don't swim here.",
+    "Oh, no!"
+   ],
+   "tip": "규칙을 알려 주는 말을 들으면 'Okay.'라고 대답하고 꼭 지켜요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? My Work 자기 평가 — 단원 학습 내용을 문제를 풀며 정리할 수 있는가? (단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Big sister frog makes a cake. She says, \"Don't eat this. This is for Dad.\" Little green frog says, \"Okay.\"",
+     "question": "누나 개구리가 하지 말라고 한 것은 무엇인가요?",
+     "choices": [
+      "케이크 만들기",
+      "케이크 만지기",
+      "케이크 먹기"
+     ],
+     "answer": 2,
+     "explain": "'Don't eat this.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mom frog says, \"Don't swim here.\" Little frog sees a big crocodile 🐊 in the water. \"Oh, no! I can't swim here!\"",
+     "question": "아기 개구리가 여기에서 수영할 수 없다고 한 이유는?",
+     "choices": [
+      "너무 피곤해서",
+      "물이 차가워서",
+      "물속에 큰 악어가 있어서"
+     ],
+     "answer": 2,
+     "explain": "물속에 큰 악어(🐊)를 보았어요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Don't swim here.",
+       "여기에서 수영하지 마."
+      ],
+      [
+       "Don't do that!",
+       "그러지 마!"
+      ],
+      [
+       "Oh, no!",
+       "오, 안 돼!"
+      ],
+      [
+       "Wow, nice!",
+       "와, 멋지다!"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Don't do that!",
+     "choices": [
+      "그러지 마!",
+      "이리 와!",
+      "조심해!"
+     ],
+     "answer": 0,
+     "explain": "Don't do that!은 '그러지 마!'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "This is for Dad.",
+     "choices": [
+      "이건 아빠를 위한 거야.",
+      "이건 아빠의 집이야.",
+      "아빠, 이리 오세요."
+     ],
+     "answer": 0,
+     "explain": "for Dad는 '아빠를 위한'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "진흙이 묻은 아기 개구리에게 아빠가 말해요. 아기 개구리의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad frog",
+       "text": "Be careful. Don't touch, please."
+      },
+      {
+       "who": "Little frog",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "Okay.",
+      "Wow, nice!"
+     ],
+     "answer": 1,
+     "explain": "하지 말라는 말에는 Okay.라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "엄마 개구리가 위험한 강에서 수영하지 말라고 해요. 엄마가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mom frog",
+       "text": "?"
+      },
+      {
+       "who": "Little frog",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Come here.",
+      "Don't swim here.",
+      "Don't eat this."
+     ],
+     "answer": 1,
+     "explain": "수영하지 말라고 할 때는 Don't swim here.라고 해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Don't ___ here.",
+     "ko": "여기에서 수영하지 마.",
+     "choices": [
+      "swim",
+      "talk",
+      "sit"
+     ],
+     "answer": 0,
+     "explain": "'수영하다'는 swim이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Oh, no!'는 언제 하는 말일까요?",
+     "choices": [
+      "깜짝 놀라거나 속상할 때",
+      "처음 만나 인사할 때",
+      "고마울 때"
+     ],
+     "answer": 0,
+     "explain": "Oh, no!는 '오, 안 돼!'라는 뜻이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이것을 먹지 마.",
+     "answer": "Don't eat this.",
+     "distractors": [
+      "here.",
+      "drink"
+     ],
+     "explain": "this는 '이것'이에요. Don't eat this."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Be careful. Don't touch, please.",
+     "answer": "Be careful. Don't touch, please.",
+     "distractors": [
+      "push,",
+      "sorry."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Oh, no! Don't do that!",
+     "ko": "오, 안 돼! 그러지 마!"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Little frog has mud on his hands. Dad says, \"Don't touch, please.\" Little frog says, \"Okay.\" But he touches Dad's shirt! \"Oh, no!\"",
+     "question": "아기 개구리가 만진 것은 무엇인가요?",
+     "choices": [
+      "표지판",
+      "케이크",
+      "아빠의 셔츠"
+     ],
+     "answer": 2,
+     "explain": "'he touches Dad's shirt'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "누나가 아빠를 위해 만든 케이크를 먹지 말라고 해요. 누나가 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Sister",
+       "text": "?"
+      },
+      {
+       "who": "Little frog",
+       "text": "Okay."
+      }
+     ],
+     "choices": [
+      "Are you happy?",
+      "Don't eat this. This is for Dad.",
+      "Be careful. Come here."
+     ],
+     "answer": 1,
+     "explain": "먹지 말라고 할 때 Don't eat this.라고 하고, 아빠를 위한 것이라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "그러지 마! 조심해.",
+     "answer": "Don't do that! Be careful.",
+     "distractors": [
+      "touch",
+      "sorry."
+     ],
+     "explain": "Don't do that!은 '그러지 마!', Be careful.은 '조심해.'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "오, 안 돼! 나는 여기에서 수영할 수 없어.",
+     "answer": "Oh, no! I can't swim here.",
+     "distractors": [
+      "can",
+      "eat"
+     ],
+     "explain": "can't는 '~할 수 없다'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Wow, nice! Thank you.",
+     "answer": "Wow, nice! Thank you.",
+     "distractors": [
+      "sorry.",
+      "no!"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "This is ___ Dad.",
+     "ko": "이건 아빠를 위한 거야.",
+     "choices": [
+      "at",
+      "for",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "'~를 위한'은 for예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 표지판을 고르세요.",
+     "audio": "Don't eat the cake.",
+     "choices": [
+      "🚫🍰",
+      "🚫✋",
+      "🚫🏊"
+     ],
+     "answer": 0,
+     "explain": "eat은 '먹다', cake는 '케이크'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "아기 개구리가 악어가 있는 강에 표지판을 만들었어요. 표지판에 쓸 문장으로 알맞은 것은?",
+     "emoji": "🐊",
+     "choices": [
+      "Don't sit here.",
+      "Don't eat here.",
+      "Don't swim here."
+     ],
+     "answer": 2,
+     "explain": "악어가 있는 강에서는 수영하면 위험해요. Don't swim here."
+    },
+    {
+     "type": "dialog",
+     "prompt": "할아버지가 Mina에게 개를 만지지 말라고 해요. Mina의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Grandpa",
+       "text": "Don't touch the dog, Mina."
+      },
+      {
+       "who": "Mina",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night, Grandpa.",
+      "Okay, Grandpa.",
+      "You're welcome, Grandpa."
+     ],
+     "answer": 1,
+     "explain": "하지 말라는 말에는 Okay.로 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't eat this. This is for Dad.",
+     "ko": "이것을 먹지 마. 이건 아빠를 위한 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "여기에서 먹지 마.",
+     "answers": [
+      "Don't eat here.",
+      "Do not eat here."
+     ],
+     "hint": "Don't e _ t here."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "조심해.",
+     "answers": [
+      "Be careful."
+     ],
+     "hint": "Be c _ _ _ f u l."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "밀지 마.",
+     "answers": [
+      "Don't push.",
+      "Do not push."
+     ],
+     "hint": "Don't p _ s h."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "This is my room. My baby sister is sleeping. 🚫 Don't talk here. Don't enter.",
+     "question": "이 표지판을 붙인 이유는 무엇인가요?",
+     "choices": [
+      "방이 더러워서",
+      "아기 동생이 자고 있어서",
+      "강아지가 있어서"
+     ],
+     "answer": 1,
+     "explain": "'My baby sister is sleeping.'이라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Mr. Kim: Don't push, please.\nBoy: Okay. I'm sorry.\nMr. Kim: Be careful.",
+     "question": "Mr. Kim이 하지 말라고 한 것은?",
+     "choices": [
+      "들어가기",
+      "밀기",
+      "떠들기"
+     ],
+     "answer": 1,
+     "explain": "'Don't push, please.'라고 했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "벌이 있어요. 여자아이가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Look! A bee! 🐝"
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Welcome!",
+      "Be careful!",
+      "Good afternoon!"
+     ],
+     "answer": 1,
+     "explain": "위험한 벌이 있으니 Be careful!이라고 경고해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "도서관에서 남자아이가 떠들었어요. 남자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Librarian",
+       "text": "Don't talk here, please."
+      },
+      {
+       "who": "Boy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Yes, I am.",
+      "Okay. I'm sorry.",
+      "You're welcome."
+     ],
+     "answer": 1,
+     "explain": "하지 말라는 말에 Okay.라고 답하고 사과해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "여기에 앉지 마. 조심해.",
+     "answer": "Don't sit here. Be careful.",
+     "distractors": [
+      "eat",
+      "sorry."
+     ],
+     "explain": "Don't sit here.로 금지하고 Be careful.로 경고해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Don't kick the ball here.",
+     "answer": "Don't kick the ball here.",
+     "distractors": [
+      "push",
+      "Okay."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Don't enter, please. Be careful.",
+     "ko": "들어가지 마세요. 조심하세요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "애니메이션 박물관에서 피곤한 준오가 전시 구역에 앉으려 해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Don't sit here, Juno."
+    },
+    {
+     "who": "준오",
+     "text": "Okay."
+    },
+    {
+     "who": "안내원",
+     "text": "Sit over there, please."
+    },
+    {
+     "who": "준오",
+     "text": "Thank you."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "도서관에서 보라가 과자 집 작품을 만지려 해요.",
+   "lines": [
+    {
+     "who": "Kate",
+     "text": "Be careful. Don't touch."
+    },
+    {
+     "who": "보라",
+     "text": "Okay."
+    },
+    {
+     "who": "사서",
+     "text": "Don't eat here, please."
+    },
+    {
+     "who": "Eric",
+     "text": "I'm sorry."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "민우가 Alice에게 마시지 말라고 경고해요.",
+   "lines": [
+    {
+     "who": "민우",
+     "text": "Don't drink, Alice. Look!"
+    },
+    {
+     "who": "Alice",
+     "text": "Oh, okay."
+    },
+    {
+     "who": "민우",
+     "text": "Be careful."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "엄마와 누나가 만든 케이크를 두고 누나 개구리가 청개구리에게 말해요.",
+   "lines": [
+    {
+     "who": "누나 개구리",
+     "text": "Don't eat this. This is for Dad."
+    },
+    {
+     "who": "청개구리",
+     "text": "Okay."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 청개구리",
+  "passage": "Little green frog always does the opposite. His sister says, \"Don't eat this cake.\" He says, \"Okay,\" but he eats it all. Dad says, \"Don't touch, please,\" but he touches the clean clothes with muddy hands. Mom says, \"Don't swim here.\" Then he sees a crocodile in the water. \"Oh, no! I can't swim here!\" He makes a \"No swimming\" sign. \"Wow, nice!\" says Mom.",
+  "summaryKo": "늘 반대로 하던 청개구리가 악어를 보고 놀란 뒤, 스스로 '수영 금지' 표지판을 만들어요."
+ },
+ "writing": {
+  "frame": [
+   "Don't ____.",
+   "Don't ____ here."
+  ],
+  "model": "Don't push. Don't talk here. Be careful."
+ },
+ "project": "Work Together: 네 명씩 모둠을 만들어 캠페인 장소를 고르고 그곳에서 하지 말아야 할 행동을 상의한 뒤, 도화지에 금지 동작을 그리고 금지 문장을 써서 표지판을 만들어 금지하고 답하는 대화를 하며 교내 캠페인 활동을 한다."
+}

@@ -1,0 +1,3294 @@
+{
+ "id": "L07",
+ "no": 7,
+ "grade": 6,
+ "semester": 2,
+ "title": "Can You Come to the Movie Festival?",
+ "emoji": "💌",
+ "rationale": "학생들은 생일잔치나 학교의 여러 행사에 친구나 가족을 초대하며 대인 관계를 맺고 사회성을 기른다. 특별한 행사에 초대하고 답하는 말, 약속 장소와 시간을 알리는 말을 배우고, 초대장을 읽고 쓰는 활동으로 실생활에 적용하여 사회생활 능력을 기르고자 한다.",
+ "topics": "문화 관련(예술, 대중문화), 개인생활 관련(취미, 관심사), 학교생활 관련(교우 관계)",
+ "functions": [
+  {
+   "ko": "초대하고 답하기",
+   "examples": [
+    "Can you come to the movie festival?",
+    "Of course.",
+    "Sorry, but I can't."
+   ]
+  },
+  {
+   "ko": "약속 장소와 시간 알리기",
+   "examples": [
+    "Come to the sports park at 10."
+   ]
+  }
+ ],
+ "forms": [
+  "Can you come to the Star Night Party?",
+  "We will have sandwiches and soft drinks."
+ ],
+ "newWords": [
+  {
+   "en": "after",
+   "ko": "~ 후에"
+  },
+  {
+   "en": "biscuit",
+   "ko": "비스킷"
+  },
+  {
+   "en": "course",
+   "ko": "과정 (of course: 물론)"
+  },
+  {
+   "en": "laser",
+   "ko": "레이저"
+  },
+  {
+   "en": "light",
+   "ko": "빛"
+  },
+  {
+   "en": "number",
+   "ko": "번호, 수"
+  },
+  {
+   "en": "soft",
+   "ko": "부드러운 (soft drink: 탄산음료)"
+  },
+  {
+   "en": "tell",
+   "ko": "말하다, 이야기하다"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "book festival",
+   "ko": "책 축제",
+   "emoji": "📚"
+  },
+  {
+   "en": "movie festival",
+   "ko": "영화 축제",
+   "emoji": "🎬"
+  },
+  {
+   "en": "laser show",
+   "ko": "레이저 쇼",
+   "emoji": "✨"
+  },
+  {
+   "en": "taekwondo show",
+   "ko": "태권도 공연",
+   "emoji": "🥋"
+  },
+  {
+   "en": "birthday party",
+   "ko": "생일잔치",
+   "emoji": "🎂"
+  },
+  {
+   "en": "cooking class party",
+   "ko": "요리 교실 잔치",
+   "emoji": "🍳"
+  }
+ ],
+ "characters": [
+  "Tom",
+  "우주",
+  "Amy",
+  "하나",
+  "Linh",
+  "나리",
+  "Noah",
+  "민우",
+  "Taylor",
+  "유나",
+  "Sally",
+  "José"
+ ],
+ "goals": {
+  "understand": [
+   "초대하고 답하는 말을 듣고 이해할 수 있다.",
+   "약속 장소와 시간을 알리는 말을 듣고 이해할 수 있다.",
+   "초대하는 글을 읽고 이해할 수 있다.",
+   "초대하고 답하며 약속 장소와 시간을 알리는 대화를 흥미와 자신감을 가지고 들을 수 있다.",
+   "초대하는 글을 포용하는 태도로 읽을 수 있다."
+  ],
+  "express": [
+   "초대하고 답하는 말을 할 수 있다.",
+   "약속 장소와 시간을 알리는 말을 할 수 있다.",
+   "초대하고 답하는 문장, 약속 장소와 시간을 알리는 문장을 쓸 수 있다.",
+   "예시문을 참고하여 초대하는 글을 쓸 수 있다.",
+   "영어 의사소통 표현을 익혀 의사소통 활동에 흥미와 자신감을 가지고 협력적으로 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "6영01-01",
+  "6영01-02",
+  "6영01-03",
+  "6영01-04",
+  "6영01-05",
+  "6영01-07",
+  "6영01-08",
+  "6영01-09",
+  "6영01-10",
+  "6영02-01",
+  "6영02-02",
+  "6영02-03",
+  "6영02-07",
+  "6영02-08",
+  "6영02-09",
+  "6영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "초대하고 답하기",
+   "objectives": [
+    "초대하고 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 1'으로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 93~95쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Get Ready / Words",
+     "desc": "영화 축제 사진을 보며 이야기하기, 최근에 참여한 행사 이야기하기, 단원 목표 확인, 행사 붙임딱지 붙이고 Word Chant 하기",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "하나와 Amy가 만든 영화가 나오는 영화 축제에 친구들을 초대하는 만화 영화 보고 초대한 행사 찾기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Number / Practice 1",
+     "desc": "대화를 듣고 들은 순서대로 행사 그림(태권도 공연, 책 축제, 레이저 쇼, 요리 교실 잔치)에 번호 쓰기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "고른 행사 카드 번호와 교사의 초대가 맞으면 'Of course.', 다르면 'Sorry, but I can't.'로 답하며 점수 올리기 (전체)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화를 듣고 그림과 맞으면 ○, 틀리면 ╳ 하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to the movie festival?",
+    "Of course.",
+    "Sorry, but I can't."
+   ],
+   "tip": "초대를 거절할 때는 'Sorry, but I can't.' 다음에 까닭을 덧붙이면 더 예의 바르게 들려요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 초대하고 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "행사 이름과 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "book festival",
+       "책 축제"
+      ],
+      [
+       "movie festival",
+       "영화 축제"
+      ],
+      [
+       "laser show",
+       "레이저 쇼"
+      ],
+      [
+       "taekwondo show",
+       "태권도 공연"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "birthday party",
+       "생일잔치"
+      ],
+      [
+       "cooking class party",
+       "요리 교실 잔치"
+      ],
+      [
+       "Of course.",
+       "물론이지."
+      ],
+      [
+       "Sorry, but I can't.",
+       "미안하지만 갈 수 없어."
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 행사는?",
+     "emoji": "🎬",
+     "choices": [
+      "movie festival",
+      "book festival",
+      "laser show",
+      "birthday party"
+     ],
+     "answer": 0,
+     "explain": "🎬는 영화 축제(movie festival)를 나타내요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 행사는?",
+     "emoji": "🥋",
+     "choices": [
+      "cooking class party",
+      "book festival",
+      "movie festival",
+      "taekwondo show"
+     ],
+     "answer": 3,
+     "explain": "🥋는 태권도 공연(taekwondo show)이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Can you come to my birthday party?",
+     "choices": [
+      "내 생일은 언제니?",
+      "내 생일잔치에 올 수 있니?",
+      "생일 축하해!"
+     ],
+     "answer": 1,
+     "explain": "Can you come to ...?는 '~에 올 수 있니?'라고 초대하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Sorry, but I can't.",
+     "choices": [
+      "미안하지만 갈 수 없어.",
+      "물론이지.",
+      "괜찮아."
+     ],
+     "answer": 0,
+     "explain": "초대를 거절할 때 'Sorry, but I can't.'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주는 영화 축제에 갈 수 있어요. 우주의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "하나",
+       "text": "Can you come to the movie festival? It's on August 27th."
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Of course.",
+      "Sorry, but I can't.",
+      "I'm in the sixth grade."
+     ],
+     "answer": 0,
+     "explain": "갈 수 있으니 'Of course.'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Tom은 야구 경기가 있어서 갈 수 없어요. Tom의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Can you come to the festival, Tom?"
+      },
+      {
+       "who": "Tom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't. I have a baseball game.",
+      "Of course. I love movies.",
+      "That's okay. Good luck."
+     ],
+     "answer": 0,
+     "explain": "갈 수 없을 때는 'Sorry, but I can't.'라고 하고 까닭을 말해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you ___ to the book festival?",
+     "ko": "책 축제에 올 수 있니?",
+     "choices": [
+      "look",
+      "make",
+      "come"
+     ],
+     "answer": 2,
+     "explain": "'~에 오다'는 come to예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "책 축제에 올 수 있니?",
+     "answer": "Can you come to the book festival?",
+     "distractors": [
+      "Do",
+      "at"
+     ],
+     "explain": "초대할 때는 'Can you come to the 행사?'라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "초대에 응할 때 하는 말로 알맞은 것은?",
+     "choices": [
+      "Sorry, but I can't.",
+      "Good luck.",
+      "Of course."
+     ],
+     "answer": 2,
+     "explain": "Of course.는 '물론이지.'라는 뜻으로 초대에 응하는 말이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the movie festival?",
+     "ko": "영화 축제에 올 수 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Sorry, ___ I can't.",
+     "ko": "미안하지만 갈 수 없어.",
+     "choices": [
+      "and",
+      "but",
+      "so"
+     ],
+     "answer": 1,
+     "explain": "'미안하지만'은 Sorry, but ...이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you come to the ___ show?",
+     "ko": "태권도 공연에 올 수 있니?",
+     "choices": [
+      "cooking",
+      "book",
+      "taekwondo"
+     ],
+     "answer": 2,
+     "explain": "태권도 공연은 taekwondo show예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 행사와 날짜를 고르세요.",
+     "audio": "Can you come to the cooking class party? It's on September 10th.",
+     "choices": [
+      "요리 교실 잔치, 10월 9일",
+      "요리 교실 잔치, 9월 10일",
+      "책 축제, 9월 10일"
+     ],
+     "answer": 1,
+     "explain": "cooking class party(요리 교실 잔치), September 10th(9월 10일)를 잘 들어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "The laser show is on October 4th.",
+     "choices": [
+      "레이저 쇼는 4월 10일이에요.",
+      "레이저 쇼는 10월 4일이에요.",
+      "태권도 공연은 10월 4일이에요."
+     ],
+     "answer": 1,
+     "explain": "October는 10월, 4th는 4일이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "태권도 공연은 8월 30일이에요. G의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you come to the taekwondo show?"
+      },
+      {
+       "who": "B",
+       "text": "When is the show?"
+      },
+      {
+       "who": "G",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Of course."
+      }
+     ],
+     "choices": [
+      "It's on August 30th.",
+      "It's on August 13th.",
+      "Come to the park."
+     ],
+     "answer": 0,
+     "explain": "공연 날짜를 물었으니 'It's on 8월 30일.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Amy",
+       "text": "Can you come to the festival?"
+      },
+      {
+       "who": "Tom",
+       "text": "Sorry, but I can't. I have a baseball game."
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Of course. I can't wait!",
+      "That's okay. Good luck.",
+      "Turn left at the bank."
+     ],
+     "answer": 1,
+     "explain": "못 온다는 친구에게 '괜찮아. 행운을 빌어.'라고 말해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "레이저 쇼에 올 수 있니?",
+     "answer": "Can you come to the laser show?",
+     "distractors": [
+      "Do",
+      "at"
+     ],
+     "explain": "Can you come to the laser show? — 레이저 쇼에 초대하는 말이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Sorry, but I can't. I have a soccer game.",
+     "answer": "Sorry, but I can't. I have a soccer game.",
+     "distractors": [
+      "can",
+      "baseball"
+     ]
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "What is your movie about?",
+       "너희 영화는 무엇에 관한 거니?"
+      ],
+      [
+       "It's about friendship.",
+       "우정에 관한 거야."
+      ],
+      [
+       "It'll be fun.",
+       "재미있을 거야."
+      ],
+      [
+       "Good luck.",
+       "행운을 빌어."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Of course. See you there!",
+     "ko": "물론이지. 거기서 만나!"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "물론이지.",
+     "answers": [
+      "Of course."
+     ],
+     "hint": "O _  c _ _ _ _ _."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "피자 잔치에 올 수 있니?",
+     "answers": [
+      "Can you come to the pizza party?"
+     ],
+     "hint": "Can you ____ to the pizza party?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안하지만 갈 수 없어. 나는 농구 경기가 있어.",
+     "answer": "Sorry, but I can't. I have a basketball game.",
+     "distractors": [
+      "can",
+      "soccer"
+     ],
+     "explain": "거절하는 말 다음에 까닭(I have a basketball game.)을 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hana: Can you come to the movie festival? It's on August 27th.\nUju: Of course.\nTom: Sorry, but I can't. I have a baseball game.",
+     "question": "영화 축제에 가는 사람은?",
+     "choices": [
+      "Tom",
+      "우주",
+      "아무도 가지 않는다"
+     ],
+     "answer": 1,
+     "explain": "우주는 'Of course.', Tom은 'Sorry, but I can't.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "My Invitations\n1. book festival — August 12th — Of course.\n2. cooking class party — September 10th — Sorry, but I can't.\n3. laser show — October 4th — Sorry, but I can't.",
+     "question": "초대에 응한 행사는?",
+     "choices": [
+      "책 축제",
+      "요리 교실 잔치",
+      "레이저 쇼"
+     ],
+     "answer": 0,
+     "explain": "책 축제에만 'Of course.'라고 답했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Leo는 내일 할머니 댁에 가야 해서 갈 수 없어요. Leo의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mia",
+       "text": "Can you come to my birthday party? It's tomorrow."
+      },
+      {
+       "who": "Leo",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Of course. See you tomorrow.",
+      "Happy birthday! Here's a gift.",
+      "Sorry, but I can't. I visit my grandma tomorrow."
+     ],
+     "answer": 2,
+     "explain": "갈 수 없으니 거절하고 까닭을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you come to the school music festival? It's on July 10th.",
+     "answer": "Can you come to the school music festival? It's on July 10th.",
+     "distractors": [
+      "at",
+      "Do"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "우주가 할 말로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "What is your movie about?"
+      },
+      {
+       "who": "하나",
+       "text": "It's about friendship. It'll be fun."
+      },
+      {
+       "who": "우주",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't.",
+      "I can't wait!",
+      "Turn right at the bank."
+     ],
+     "answer": 1,
+     "explain": "재미있을 거라는 말에 '너무 기대돼!'라고 답하면 자연스러워요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 초대하는 말이 아닌 것은?",
+     "choices": [
+      "Can you come to the laser show?",
+      "Can you come to my house?",
+      "Where is the bus stop?"
+     ],
+     "answer": 2,
+     "explain": "Where is ...?는 길을 묻는 말이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the science show? It's on October 4th.",
+     "ko": "과학 쇼에 올 수 있니? 10월 4일이야."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "초대하고 답하기 / 약속 장소와 시간 알리기",
+   "objectives": [
+    "초대하고 답하는 말을 할 수 있다.",
+    "약속 장소와 시간을 알리는 말을 듣고 이해하며 말할 수 있다.",
+    "'Play 2'를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 96~97쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "행사 그림 카드를 보며 초대하고 답하기 복습, 간식 잔치 사진을 보며 'Come to the English classroom at 3.' 듣기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "Tom과 하나가 우주와 Linh을 태권도 공연에 초대하고 약속 장소와 시간을 알려 주는 만화 영화 보기",
+     "min": 8
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / Practice 2 / My Turn",
+     "desc": "레이저 쇼에 초대하는 나리, 요리 교실 잔치에 초대하는 민우의 동영상 보기, 짝과 초대하고 장소·시간 알리기 연습",
+     "min": 7
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "행사명·장소·시간을 정해 교실을 돌아다니며 친구를 초대하고 참석자 네 명 모으기 (전체)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "그림에 알맞은 대화를 짝과 하기, 자기 평가와 복습 계획 세우기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to our taekwondo show?",
+    "Of course.",
+    "Come to the sports park at 10.",
+    "Okay, I will."
+   ],
+   "tip": "약속 시간은 'at + 숫자'로 말해요. (at 10 = 10시에)",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가(수행평가) — 초대하고 답하는 말을 할 수 있는가? 약속 장소와 시간을 알리는 말을 듣고 이해하며 말할 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "장소와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "sports park",
+       "스포츠 공원"
+      ],
+      [
+       "school kitchen",
+       "학교 조리실"
+      ],
+      [
+       "school library",
+       "학교 도서관"
+      ],
+      [
+       "my house",
+       "우리 집"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'Come to the sports park at 10.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "2시에 스포츠 공원으로 와.",
+      "10시에 학교로 와.",
+      "10시에 스포츠 공원으로 와."
+     ],
+     "answer": 2,
+     "explain": "Come to + 장소 + at + 시각. — ~시에 ~로 와."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 단어는?",
+     "emoji": "🍪",
+     "choices": [
+      "biscuit",
+      "laser",
+      "light",
+      "number"
+     ],
+     "answer": 0,
+     "explain": "🍪는 비스킷(biscuit)이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come to the school library at 2.",
+     "choices": [
+      "2시에 학교 도서관으로 와.",
+      "12시에 학교 도서관으로 와.",
+      "2시에 학교 조리실로 와."
+     ],
+     "answer": 0,
+     "explain": "school library(학교 도서관), at 2(2시에)를 들어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Okay, I will.",
+     "choices": [
+      "미안하지만 못 가.",
+      "그건 이번 주 토요일이야.",
+      "알겠어, 그럴게."
+     ],
+     "answer": 2,
+     "explain": "Okay, I will.은 '알겠어, 그럴게.'라는 뜻이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Linh의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Tom",
+       "text": "Come to the sports park at 10."
+      },
+      {
+       "who": "Linh",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's this Saturday.",
+      "When is the show?",
+      "Okay, I will."
+     ],
+     "answer": 2,
+     "explain": "만날 장소와 시간을 알려 주면 'Okay, I will.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "When is the show?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Come to the park.",
+      "Of course.",
+      "It's this Saturday."
+     ],
+     "answer": 2,
+     "explain": "언제인지 물었으니 날짜로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Come to the school kitchen ___ 11.",
+     "ko": "11시에 학교 조리실로 와.",
+     "choices": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 2,
+     "explain": "시각 앞에는 at을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Come ___ the park at 7.",
+     "ko": "7시에 공원으로 와.",
+     "choices": [
+      "at",
+      "to",
+      "on"
+     ],
+     "answer": 1,
+     "explain": "'~로 오다'는 come to예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "3시에 우리 집으로 와.",
+     "answer": "Come to my house at 3.",
+     "distractors": [
+      "on",
+      "in"
+     ],
+     "explain": "Come to + 장소 + at + 시각. 순서예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "우주",
+       "text": "Can I bring my cousin to the show?"
+      },
+      {
+       "who": "하나",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, I'm hungry.",
+      "It's on your right.",
+      "Of course. Come with your cousin."
+     ],
+     "answer": 2,
+     "explain": "사촌을 데려와도 되냐는 말에 '물론이지.'라고 답해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Come to the sports park at 10.",
+     "ko": "10시에 스포츠 공원으로 와."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We'll ___ boards.",
+     "ko": "우리는 송판을 깰 거야.",
+     "choices": [
+      "bake",
+      "draw",
+      "break"
+     ],
+     "answer": 2,
+     "explain": "'깨다'는 break예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We'll bake chocolate ___.",
+     "ko": "우리는 초콜릿 비스킷을 구울 거야.",
+     "choices": [
+      "boards",
+      "lights",
+      "biscuits"
+     ],
+     "answer": 2,
+     "explain": "비스킷은 biscuit, 여러 개는 biscuits예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We'll draw pictures with laser lights.",
+     "choices": [
+      "우리는 레이저 빛으로 그림을 그릴 거야.",
+      "우리는 레이저 쇼를 볼 거야.",
+      "우리는 빛에 관한 책을 읽을 거야."
+     ],
+     "answer": 0,
+     "explain": "laser light는 '레이저 빛', draw pictures는 '그림을 그리다'예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Sorry, but I can't. I visit my cousin every Saturday.",
+     "choices": [
+      "물론이지. 나는 토요일마다 사촌을 방문해.",
+      "미안하지만 못 가. 나는 토요일마다 사촌을 방문해.",
+      "미안하지만 못 가. 나는 사촌과 야구를 해."
+     ],
+     "answer": 1,
+     "explain": "every Saturday는 '토요일마다'예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "잔치는 11시에 학교 조리실에서 열려요. 민우의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "민우",
+       "text": "Can you come to the cooking class party? It's this Saturday."
+      },
+      {
+       "who": "Taylor",
+       "text": "Of course."
+      },
+      {
+       "who": "민우",
+       "text": "?"
+      },
+      {
+       "who": "Taylor",
+       "text": "Okay, I will."
+      }
+     ],
+     "choices": [
+      "Come to the school library at 11.",
+      "Come to the school kitchen at 11.",
+      "Come to the school kitchen at 7."
+     ],
+     "answer": 1,
+     "explain": "학교 조리실(school kitchen), 11시(at 11)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "레이저 쇼는 9월 15일이에요. 나리의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "나리",
+       "text": "Can you come to the laser show?"
+      },
+      {
+       "who": "Noah",
+       "text": "Good. When is the show?"
+      },
+      {
+       "who": "나리",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on September 15th.",
+      "It's on September 5th.",
+      "Come to the park at 5."
+     ],
+     "answer": 0,
+     "explain": "날짜를 물었으니 9월 15일(September 15th)이라고 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "4시에 학교 도서관으로 와.",
+     "answer": "Come to the school library at 4.",
+     "distractors": [
+      "on",
+      "go"
+     ],
+     "explain": "Come to the school library + at 4."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We'll have a pizza party after the show.",
+     "answer": "We'll have a pizza party after the show.",
+     "distractors": [
+      "before",
+      "pizzas"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tom: Can you come to our taekwondo show?\nLinh: Of course. I love taekwondo.\nTom: Great. Come to the sports park at 10.",
+     "question": "Linh은 몇 시에 어디로 가야 하나요?",
+     "choices": [
+      "10시, 학교",
+      "10시, 스포츠 공원",
+      "2시, 스포츠 공원"
+     ],
+     "answer": 1,
+     "explain": "'Come to the sports park at 10.'"
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Okay, I will. See you at 10.",
+     "ko": "알겠어, 그럴게. 10시에 만나."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "공연은 언제니?",
+     "answers": [
+      "When is the show?"
+     ],
+     "hint": "W _ _ _ is the show?"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "5시에 공원으로 와.",
+     "answers": [
+      "Come to the park at 5."
+     ],
+     "hint": "Come to the ____ at 5."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "요리 교실 잔치에 올 수 있니? 1시에 학교 조리실로 와.",
+     "answer": "Can you come to the cooking class party? Come to the school kitchen at 1.",
+     "distractors": [
+      "on",
+      "go"
+     ],
+     "explain": "초대하는 말 다음에 약속 장소와 시간을 알려 줘요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Snack Party!\nWhen: Friday, 3:00\nWhere: the English classroom\nWe will eat snacks and play games.",
+     "question": "간식 잔치는 어디에서 열리나요?",
+     "choices": [
+      "학교 도서관",
+      "영어 교실",
+      "스포츠 공원"
+     ],
+     "answer": 1,
+     "explain": "'Where: the English classroom' — 영어 교실이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Snack Party!\nWhen: Friday, 3:00\nWhere: the English classroom\nWe will eat snacks and play games.",
+     "question": "안내문에 맞게 약속 장소와 시간을 알리는 말은?",
+     "choices": [
+      "Come to the English classroom at 5.",
+      "Come to the English classroom at 3.",
+      "Come to the school kitchen at 3."
+     ],
+     "answer": 1,
+     "explain": "장소는 영어 교실, 시간은 3시예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "영화 축제는 7시에 공원에서 열려요. Jun의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Jun",
+       "text": "Can you come to the movie festival?"
+      },
+      {
+       "who": "Sora",
+       "text": "Of course. Where is it?"
+      },
+      {
+       "who": "Jun",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Come to the park at 11.",
+      "Come to the park at 7.",
+      "It's on your left."
+     ],
+     "answer": 1,
+     "explain": "공원(park)에서 7시(at 7)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 그날 농구 경기가 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you come to the laser show? It's on September 15th."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Of course. I have a basketball game.",
+      "Okay, I will. Good luck.",
+      "Sorry, but I can't. I have a basketball game."
+     ],
+     "answer": 2,
+     "explain": "농구 경기가 있으니 거절하고 까닭을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hana and I will break boards.",
+     "answer": "Hana and I will break boards.",
+     "distractors": [
+      "bake",
+      "we"
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "약속 장소와 시간을 알리는 말로 알맞은 것은?",
+     "choices": [
+      "Come to my house at 4.",
+      "Can you come to my house?",
+      "I visit my cousin."
+     ],
+     "answer": 0,
+     "explain": "Come to + 장소 + at + 시각.으로 알려 줘요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to our taekwondo show? Come to the sports park at 11.",
+     "ko": "우리 태권도 공연에 올 수 있니? 11시에 스포츠 공원으로 와."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Write",
+   "kind": "문장 읽고 쓰기",
+   "icon": "read",
+   "studyPoint": "초대하고 답하는 문장, 약속 장소와 시간을 알리는 문장 읽고 쓰기",
+   "objectives": [
+    "초대하고 답하는 문장, 약속 장소와 시간을 알리는 문장을 소리 내어 읽고 이해하며 쓸 수 있다.",
+    "'Play 3'를 하며 초대하고 답하는 문장, 약속 장소와 시간을 알리는 문장을 읽고 쓰고, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 98~99쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "태권도 공연 그림으로 짝과 초대 대화 복습하기, 'birthday party' 앞뒤에 말을 붙여 초대 문장 읽기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "초대장을 들고 있는 사람들의 말풍선을 읽고 빈 말풍선에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Write / 스스로 다지기",
+     "desc": "그림을 보고 알맞은 어구를 골라 대화 완성하기, 스스로 다지기(어구와 문장 읽고 쓰기)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Play 3",
+     "desc": "행사 어구를 완성하고, 주사위 말판 놀이로 행사·장소·시간 칸에 표시하며 초대 문장과 약속 문장 쓰기 (짝)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "그림의 행사에 초대하는 글의 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to the book festival?",
+    "Of course.",
+    "Come to my house at 4."
+   ],
+   "tip": "Can you come to ...?로 묻는 문장 끝에는 물음표, Come to ... at ...으로 알리는 문장 끝에는 마침표를 써요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 3 자기·상호·관찰 평가, 읽기·쓰기 워크시트 포트폴리오 평가 — 초대하고 답하는 문장, 약속 장소와 시간을 알리는 문장을 읽고 그 의미를 이해하며 쓸 수 있는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "그림과 행사를 짝지어 보세요.",
+     "pairs": [
+      [
+       "🎂",
+       "birthday party"
+      ],
+      [
+       "📚",
+       "book festival"
+      ],
+      [
+       "🎬",
+       "movie festival"
+      ],
+      [
+       "🥋",
+       "taekwondo show"
+      ],
+      [
+       "🍳",
+       "cooking class party"
+      ],
+      [
+       "✨",
+       "laser show"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "문장을 바르게 쓴 것은?",
+     "choices": [
+      "Can you come to the science show?",
+      "can you come to the science show?",
+      "Can you come to the science show."
+     ],
+     "answer": 0,
+     "explain": "문장 첫 글자는 대문자, 묻는 문장 끝에는 물음표(?)를 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Can you come to the laser show?",
+     "choices": [
+      "레이저 쇼는 언제니?",
+      "레이저 쇼에 같이 가자.",
+      "레이저 쇼에 올 수 있니?"
+     ],
+     "answer": 2,
+     "explain": "Can you come to ...?는 초대하는 말이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come to my house at 4.",
+     "choices": [
+      "2시에 우리 집으로 와.",
+      "4시에 학교로 와.",
+      "4시에 우리 집으로 와."
+     ],
+     "answer": 2,
+     "explain": "my house(우리 집), at 4(4시에)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you come to my birthday ___?",
+     "ko": "내 생일잔치에 올 수 있니?",
+     "choices": [
+      "show",
+      "party",
+      "festival"
+     ],
+     "answer": 1,
+     "explain": "생일잔치는 birthday party예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Sorry, but I ___. I have a baseball game.",
+     "ko": "미안하지만 갈 수 없어. 나는 야구 경기가 있어.",
+     "choices": [
+      "can't",
+      "can",
+      "will"
+     ],
+     "answer": 0,
+     "explain": "갈 수 없을 때는 can't를 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "W는 책 축제에 갈 수 있어요. W의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "M",
+       "text": "Can you come to the book festival?"
+      },
+      {
+       "who": "W",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Of course.",
+      "Sorry, but I can't.",
+      "I have a baseball game."
+     ],
+     "answer": 0,
+     "explain": "갈 수 있으니 'Of course.'로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "생일잔치는 4시에 G의 집에서 해요. G의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you come to my birthday party?"
+      },
+      {
+       "who": "B",
+       "text": "Of course."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Okay, I will."
+      }
+     ],
+     "choices": [
+      "Come to my house at 2.",
+      "Come to the school at 4.",
+      "Come to my house at 4."
+     ],
+     "answer": 2,
+     "explain": "G의 집(my house), 4시(at 4)예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "영화 축제에 올 수 있니?",
+     "answer": "Can you come to the movie festival?",
+     "distractors": [
+      "Do",
+      "at"
+     ],
+     "explain": "Can you come to the movie festival? 순서로 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Where: the school library\nWhen: 3:00",
+     "question": "메모에 맞게 약속 장소와 시간을 알리는 문장은?",
+     "choices": [
+      "Come to the school library at 3.",
+      "Come to the school kitchen at 3.",
+      "Come to the school library at 2."
+     ],
+     "answer": 0,
+     "explain": "학교 도서관(school library), 3시(at 3)예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Of course.'와 반대로 초대를 거절하는 말은?",
+     "choices": [
+      "Okay, I will.",
+      "Good luck.",
+      "Sorry, but I can't."
+     ],
+     "answer": 2,
+     "explain": "거절할 때는 'Sorry, but I can't.'라고 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the cooking class party?",
+     "ko": "요리 교실 잔치에 올 수 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you ___ to the taekwondo show?",
+     "ko": "태권도 공연에 올 수 있니?",
+     "choices": [
+      "make",
+      "come",
+      "have"
+     ],
+     "answer": 1,
+     "explain": "'~에 오다'는 come to예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Come to the park ___ 6.",
+     "ko": "6시에 공원으로 와.",
+     "choices": [
+      "on",
+      "at",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "시각 앞에는 at을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안하지만 갈 수 없어. 나는 야구 경기가 있어.",
+     "answer": "Sorry, but I can't. I have a baseball game.",
+     "distractors": [
+      "can",
+      "soccer"
+     ],
+     "explain": "Sorry, but I can't. 다음에 까닭을 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Come to the sports park at 5.",
+     "answer": "Come to the sports park at 5.",
+     "distractors": [
+      "on",
+      "in"
+     ]
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "A: Can you come to the movie festival?\nB: Sorry, but I can't. I have a baseball game.",
+     "question": "B가 영화 축제에 갈 수 없는 까닭은?",
+     "choices": [
+      "야구 경기가 있어서",
+      "숙제가 있어서",
+      "축제가 끝나서"
+     ],
+     "answer": 0,
+     "explain": "'I have a baseball game.' — 야구 경기가 있어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Event Card\nName: cooking class party\nPlace: the school kitchen\nTime: 2:00",
+     "question": "카드에 맞게 약속 장소와 시간을 알리는 문장은?",
+     "choices": [
+      "Come to the school library at 2.",
+      "Come to the school kitchen at 12.",
+      "Come to the school kitchen at 2."
+     ],
+     "answer": 2,
+     "explain": "학교 조리실(school kitchen), 2시(at 2)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come to the school at 3.",
+     "choices": [
+      "3시에 학교 도서관으로 와.",
+      "13일에 학교로 와.",
+      "3시에 학교로 와."
+     ],
+     "answer": 2,
+     "explain": "the school(학교), at 3(3시에)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 B의 말을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you come to my birthday party?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      },
+      {
+       "who": "A",
+       "text": "Come to my house at 1."
+      },
+      {
+       "who": "B",
+       "text": "Okay, I will."
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't.",
+      "Good job!",
+      "Of course."
+     ],
+     "answer": 2,
+     "explain": "A가 시간과 장소를 알려 주고 B가 'Okay, I will.'이라고 했으니 초대에 응했어요."
+    },
+    {
+     "type": "mc",
+     "prompt": "(come / you / Can / to / the book festival?)를 바르게 배열한 문장은?",
+     "choices": [
+      "You can come to the book festival?",
+      "Can come you to the book festival?",
+      "Can you come to the book festival?"
+     ],
+     "answer": 2,
+     "explain": "Can you come to ...? 순서예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Sorry, but I can't. I have a soccer game.",
+     "ko": "미안하지만 갈 수 없어. 나는 축구 경기가 있어."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "생일잔치",
+     "answers": [
+      "birthday party"
+     ],
+     "hint": "b _ r t h d a y  p _ r t y"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "책 축제",
+     "answers": [
+      "book festival"
+     ],
+     "hint": "b o o k  f e s t _ v a l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "2시에 학교 도서관으로 와.",
+     "answers": [
+      "Come to the school library at 2."
+     ],
+     "hint": "Come to the school ______ at 2."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "태권도 공연에 올 수 있니?",
+     "answers": [
+      "Can you come to the taekwondo show?"
+     ],
+     "hint": "Can you come to the ______ show?"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "피자 잔치에 올 수 있니? 6시에 우리 집으로 와.",
+     "answer": "Can you come to the pizza party? Come to my house at 6.",
+     "distractors": [
+      "on",
+      "go"
+     ],
+     "explain": "초대하는 문장 다음에 장소와 시간을 알리는 문장을 써요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Board Game\n1: the movie festival\n2: the sports park at 7\n3: Sorry, but I can't.\n4: my birthday party",
+     "question": "말이 2번 칸에 도착했을 때 할 말로 알맞은 것은?",
+     "choices": [
+      "Can you come to the sports park?",
+      "Come to the movie festival at 2.",
+      "Come to the sports park at 7."
+     ],
+     "answer": 2,
+     "explain": "2번 칸은 장소와 시간이니 'Come to the sports park at 7.'이라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "레이저 쇼는 10월 4일이에요. A의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you come to the laser show?"
+      },
+      {
+       "who": "B",
+       "text": "Of course. When is it?"
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on October 4th.",
+      "Come to the park.",
+      "I have a baseball game."
+     ],
+     "answer": 0,
+     "explain": "언제인지 물었으니 날짜로 답해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Okay, I will. See you at the park.",
+     "answer": "Okay, I will. See you at the park.",
+     "distractors": [
+      "can't",
+      "school."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 그날 사촌을 방문해요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you come to the book festival?"
+      },
+      {
+       "who": "B",
+       "text": "Sorry, but I can't."
+      },
+      {
+       "who": "A",
+       "text": "Why?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "I love books very much.",
+      "Come to the library at 2.",
+      "I visit my cousin that day."
+     ],
+     "answer": 2,
+     "explain": "갈 수 없는 까닭을 말해야 해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the taekwondo show? Come to the sports park at 1.",
+     "ko": "태권도 공연에 올 수 있니? 1시에 스포츠 공원으로 와."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Let's Read",
+   "kind": "글 읽기",
+   "icon": "book",
+   "studyPoint": "초대하는 글 읽고 이해하기",
+   "objectives": [
+    "초대하는 글을 읽고 이해할 수 있다."
+   ],
+   "pages": "교과서 100~101쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "Read and Talk 문장을 읽고 그림 짚기, 친구를 행사에 초대해 본 경험 이야기하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Before You Read",
+     "desc": "그림과 관련 있는 어구(break boards, read many books, watch the stars) 고르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Read",
+     "desc": "유나가 Sally를 별밤 파티에 초대하는 글을 듣고 따라 읽기, 짝과 번갈아 읽기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "After You Read / 스스로 다지기",
+     "desc": "글의 내용에 맞게 표(행사명, 날짜, 장소와 시간, 할 일) 완성하기, 스스로 다지기(태권도 공연 초대 글)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study / Self Study",
+     "desc": "요리 교실 잔치 초대 글을 읽고 문제 풀기, 자기 평가와 복습 계획",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to the Star Night Party?",
+    "Please come to my house at 5.",
+    "We will have sandwiches and soft drinks."
+   ],
+   "tip": "초대장을 읽을 때는 '무슨 행사, 언제, 어디서, 무엇을'을 찾아 표시해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Read 자기·상호·관찰 평가(수행평가, 포트폴리오 평가) — 초대하는 글을 읽고 이해할 수 있는가?",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Sally,\nI'm having a Star Night Party on September 29th. Can you come? My dad loves stars. He will tell us stories about the stars. The party starts at 5 at my house. There will be sandwiches and soft drinks. We will play some games, too. Please bring this card for the lucky number game. Your number is 5!\nLove, Yuna",
+     "question": "파티 이름은?",
+     "choices": [
+      "Pizza Party",
+      "Star Night Party",
+      "Movie Night Party"
+     ],
+     "answer": 1,
+     "explain": "'I'm having a Star Night Party' — 별밤 파티예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Sally,\nI'm having a Star Night Party on September 29th. Can you come? My dad loves stars. He will tell us stories about the stars. The party starts at 5 at my house. There will be sandwiches and soft drinks. We will play some games, too. Please bring this card for the lucky number game. Your number is 5!\nLove, Yuna",
+     "question": "파티는 언제인가요?",
+     "choices": [
+      "9월 29일",
+      "9월 5일",
+      "8월 29일"
+     ],
+     "answer": 0,
+     "explain": "'on September 29th' — 9월 29일이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Sally,\nI'm having a Star Night Party on September 29th. Can you come? My dad loves stars. He will tell us stories about the stars. The party starts at 5 at my house. There will be sandwiches and soft drinks. We will play some games, too. Please bring this card for the lucky number game. Your number is 5!\nLove, Yuna",
+     "question": "파티는 몇 시에 어디에서 시작하나요?",
+     "choices": [
+      "5시, 공원",
+      "9시, 유나의 집",
+      "5시, 유나의 집"
+     ],
+     "answer": 2,
+     "explain": "'The party starts at 5 at my house.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Dear Sally,\nI'm having a Star Night Party on September 29th. Can you come? My dad loves stars. He will tell us stories about the stars. The party starts at 5 at my house. There will be sandwiches and soft drinks. We will play some games, too. Please bring this card for the lucky number game. Your number is 5!\nLove, Yuna",
+     "question": "유나의 아빠가 파티에서 할 일은?",
+     "choices": [
+      "샌드위치를 만든다.",
+      "별에 관한 이야기를 들려준다.",
+      "행운의 번호를 뽑는다."
+     ],
+     "answer": 1,
+     "explain": "'He will tell us stories about the stars.'"
+    },
+    {
+     "type": "mc",
+     "prompt": "'soft drink'의 뜻으로 알맞은 것은?",
+     "emoji": "🥤",
+     "choices": [
+      "부드러운 빵",
+      "우유",
+      "탄산음료",
+      "물"
+     ],
+     "answer": 2,
+     "explain": "soft drink는 탄산음료예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'He will tell stories.'에서 'tell'의 뜻은?",
+     "choices": [
+      "듣다",
+      "쓰다",
+      "말하다, 이야기하다",
+      "읽다"
+     ],
+     "answer": 2,
+     "explain": "tell은 '말하다, 이야기해 주다'예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "watch the stars",
+       "별을 보다"
+      ],
+      [
+       "break boards",
+       "송판을 깨다"
+      ],
+      [
+       "read many books",
+       "책을 많이 읽다"
+      ],
+      [
+       "draw lucky numbers",
+       "행운의 번호를 뽑다"
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Your lucky number is 5.",
+     "choices": [
+      "네 생일은 5일이야.",
+      "5시에 와.",
+      "네 행운의 번호는 5야."
+     ],
+     "answer": 2,
+     "explain": "lucky number는 '행운의 번호'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We will have sandwiches and soft ___.",
+     "ko": "우리는 샌드위치와 탄산음료를 먹을 거야.",
+     "choices": [
+      "drinks",
+      "games",
+      "stars"
+     ],
+     "answer": 0,
+     "explain": "탄산음료는 soft drinks예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sally",
+       "text": "What will we eat at the party?"
+      },
+      {
+       "who": "Yuna",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "We will have sandwiches and soft drinks.",
+      "We will play some games.",
+      "My dad studies the stars."
+     ],
+     "answer": 0,
+     "explain": "무엇을 먹을지 물었으니 먹을 것으로 답해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Please bring this card.",
+     "choices": [
+      "이 카드를 읽어 줘.",
+      "이 카드를 만들어 줘.",
+      "이 카드를 가지고 와."
+     ],
+     "answer": 2,
+     "explain": "bring은 '가지고 오다'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the Star Night Party?",
+     "ko": "별밤 파티에 올 수 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Jinu.\nCan you come to the taekwondo show? It's on October 29th. I will break boards. Come to the sports park at 11.\nSumi",
+     "question": "수미가 진우를 초대한 행사는?",
+     "choices": [
+      "요리 교실 잔치",
+      "책 축제",
+      "태권도 공연"
+     ],
+     "answer": 2,
+     "explain": "'Can you come to the taekwondo show?'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Jinu.\nCan you come to the taekwondo show? It's on October 29th. I will break boards. Come to the sports park at 11.\nSumi",
+     "question": "수미가 공연에서 할 일은?",
+     "choices": [
+      "쿠키 만들기",
+      "별 보기",
+      "송판 깨기"
+     ],
+     "answer": 2,
+     "explain": "'I will break boards.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Minsu.\nCan you come to the cooking class party? It's on October 2nd. We will make delicious cookies. Come to the school kitchen at 2.\nLove, Tom",
+     "question": "Tom과 민수가 잔치에서 할 일은?",
+     "choices": [
+      "쿠키 만들기",
+      "책 읽기",
+      "레이저로 그림 그리기"
+     ],
+     "answer": 0,
+     "explain": "'We will make delicious cookies.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Minsu.\nCan you come to the cooking class party? It's on October 2nd. We will make delicious cookies. Come to the school kitchen at 2.\nLove, Tom",
+     "question": "잔치에 관한 내용으로 알맞은 것은?",
+     "choices": [
+      "10월 2일 2시, 학교 조리실",
+      "10월 2일 2시, 학교 도서관",
+      "2월 10일 2시, 학교 조리실"
+     ],
+     "answer": 0,
+     "explain": "October 2nd(10월 2일), the school kitchen at 2(2시 학교 조리실)예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Please ___ this card.",
+     "ko": "이 카드를 가지고 와.",
+     "choices": [
+      "break",
+      "tell",
+      "bring"
+     ],
+     "answer": 2,
+     "explain": "'가지고 오다'는 bring이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 재미있는 게임을 할 거야.",
+     "answer": "We will play fun games.",
+     "distractors": [
+      "plays",
+      "are"
+     ],
+     "explain": "We will + 할 일. — 우리는 ~할 거야."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We will draw lucky numbers.",
+     "answer": "We will draw lucky numbers.",
+     "distractors": [
+      "draws",
+      "games."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "파티는 5시에 유나의 집에서 해요. Sally의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Sally",
+       "text": "Can you come to the Star Night Party?"
+      },
+      {
+       "who": "Mina",
+       "text": "Of course. What time?"
+      },
+      {
+       "who": "Sally",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on September 29th.",
+      "We will play some games.",
+      "Come to Yuna's house at 5."
+     ],
+     "answer": 2,
+     "explain": "몇 시인지 물었으니 시간과 장소를 알려 줘요."
+    },
+    {
+     "type": "mc",
+     "prompt": "초대장에 꼭 들어가야 할 내용이 아닌 것은?",
+     "choices": [
+      "행사 이름",
+      "날짜와 시간",
+      "초대하는 사람의 키",
+      "장소"
+     ],
+     "answer": 2,
+     "explain": "초대장에는 행사 이름, 날짜, 시간, 장소를 꼭 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My dad will tell stories about the stars.",
+     "ko": "우리 아빠가 별에 관한 이야기를 해 주실 거야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Ben.\nCan you come to my Science Night? It's on November 3rd. My mom is a scientist. She will show us cool things with laser lights. Please come to the school at 6. We will have pizza and juice. Bring your camera!\nLove, Jisu",
+     "question": "Science Night은 언제인가요?",
+     "choices": [
+      "3월 11일",
+      "11월 3일",
+      "11월 6일"
+     ],
+     "answer": 1,
+     "explain": "'It's on November 3rd.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Ben.\nCan you come to my Science Night? It's on November 3rd. My mom is a scientist. She will show us cool things with laser lights. Please come to the school at 6. We will have pizza and juice. Bring your camera!\nLove, Jisu",
+     "question": "지수의 엄마가 할 일은?",
+     "choices": [
+      "피자를 만든다.",
+      "사진을 찍어 준다.",
+      "레이저 빛으로 멋진 것을 보여 준다."
+     ],
+     "answer": 2,
+     "explain": "'She will show us cool things with laser lights.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Ben.\nCan you come to my Science Night? It's on November 3rd. My mom is a scientist. She will show us cool things with laser lights. Please come to the school at 6. We will have pizza and juice. Bring your camera!\nLove, Jisu",
+     "question": "Ben이 가지고 가야 할 것은?",
+     "choices": [
+      "카메라",
+      "피자",
+      "주스"
+     ],
+     "answer": 0,
+     "explain": "'Bring your camera!'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Jake.\nCan you come to my ___? It's this Saturday. We will have a cake. We will sing the birthday song for me!\nPlease come to my house at 4.\nLove, Shawn",
+     "question": "빈칸에 알맞은 말은?",
+     "choices": [
+      "taekwondo show",
+      "birthday party",
+      "book festival"
+     ],
+     "answer": 1,
+     "explain": "케이크와 생일 노래가 나오니 생일잔치(birthday party)예요."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "탄산음료",
+     "answers": [
+      "soft drink",
+      "soft drinks"
+     ],
+     "hint": "s _ f t  d r _ n k"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 피자와 주스를 먹을 거야.",
+     "answers": [
+      "We will have pizza and juice.",
+      "We'll have pizza and juice."
+     ],
+     "hint": "We will ____ pizza and juice."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "이 카드를 가지고 와. 네 행운의 번호는 7이야.",
+     "answer": "Bring this card. Your lucky number is 7.",
+     "distractors": [
+      "break",
+      "numbers"
+     ],
+     "explain": "bring(가지고 오다), lucky number(행운의 번호)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "지수는 Ben의 동생도 와도 된다고 해요. 지수의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Ben",
+       "text": "Can I bring my sister to your Science Night?"
+      },
+      {
+       "who": "Jisu",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, I have a camera.",
+      "Of course. Come with your sister.",
+      "It's on November 3rd."
+     ],
+     "answer": 1,
+     "explain": "동생을 데려와도 되냐는 물음에 '물론이지.'라고 답해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "He will tell stories about the stars.",
+     "answer": "He will tell stories about the stars.",
+     "distractors": [
+      "tells",
+      "us"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "We will play some fun games, too. Please come to my house at 5.",
+     "ko": "우리는 재미있는 게임도 할 거야. 5시에 우리 집으로 와."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Let's Write",
+   "kind": "글쓰기",
+   "icon": "pencil",
+   "studyPoint": "초대하는 글 쓰기",
+   "objectives": [
+    "예시문을 참고하여 초대하는 글을 쓸 수 있다.",
+    "초대하는 글을 발표하여 배운 표현을 활용할 수 있다."
+   ],
+   "pages": "교과서 102~103쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "별밤 파티 글을 모둠별로 번갈아 읽기, 붙임쪽지의 단어를 배열해 'Can you come to the cooking class party?' 만들기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Ready to Write",
+     "desc": "행사 안내도를 보고 행사 어구 완성하기(Words), 초대하는 문장 완성하기(Sentences)",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Let's Write",
+     "desc": "친구를 초대하고 싶은 행사의 이름·날짜·장소와 시간·할 일을 정하고 예시문(생일잔치)을 참고하여 초대장 쓰기",
+     "min": 15
+    },
+    {
+     "phase": "전개",
+     "step": "Share It",
+     "desc": "완성한 초대장을 짝과 바꿔 읽기, 자기·상호 평가",
+     "min": 5
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "친구의 초대장을 함께 읽고 질문에 답하기, 그림에 맞게 빈칸 고르기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to my birthday party?",
+    "My birthday party is on October 21st.",
+    "We will play fun games.",
+    "Please come to my house at 3."
+   ],
+   "tip": "초대장은 '초대하기 → 날짜 → 할 일 → 장소와 시간' 순서로 쓰면 읽는 사람이 이해하기 쉬워요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Let's Write 자기·상호·관찰 평가(포트폴리오 평가) — 초대하는 글을 쓸 수 있는가? 초대하는 글을 짝과 공유하는 활동에 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "mc",
+     "prompt": "철자가 바른 것은?",
+     "emoji": "🎉",
+     "choices": [
+      "festibal",
+      "festival",
+      "festivel",
+      "pestival"
+     ],
+     "answer": 1,
+     "explain": "축제는 f-e-s-t-i-v-a-l이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 행사는?",
+     "emoji": "🍳",
+     "choices": [
+      "laser show",
+      "cooking class party",
+      "book festival",
+      "taekwondo show"
+     ],
+     "answer": 1,
+     "explain": "🍳 요리를 하는 잔치는 cooking class party예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "book",
+       "책"
+      ],
+      [
+       "movie",
+       "영화"
+      ],
+      [
+       "show",
+       "공연, 쇼"
+      ],
+      [
+       "festival",
+       "축제"
+      ],
+      [
+       "party",
+       "잔치, 파티"
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "The pizza party is ___ October 1st.",
+     "ko": "피자 잔치는 10월 1일이야.",
+     "choices": [
+      "at",
+      "to",
+      "on"
+     ],
+     "answer": 2,
+     "explain": "날짜 앞에는 on을 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We will ___ delicious pizza.",
+     "ko": "우리는 맛있는 피자를 만들 거야.",
+     "choices": [
+      "make",
+      "break",
+      "tell"
+     ],
+     "answer": 0,
+     "explain": "'만들다'는 make예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Please come to the library at 4.",
+     "choices": [
+      "14일에 도서관으로 와 줘.",
+      "4시에 공원으로 와 줘.",
+      "4시에 도서관으로 와 줘."
+     ],
+     "answer": 2,
+     "explain": "library(도서관), at 4(4시에)예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Can you come to my pizza party? It's on October 1st. We will make pizza. Please come to my house at 5.",
+     "question": "잔치에서 할 일은?",
+     "choices": [
+      "게임 하기",
+      "책 읽기",
+      "피자 만들기"
+     ],
+     "answer": 2,
+     "explain": "'We will make pizza.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Can you come to my pizza party? It's on October 1st. We will make pizza. Please come to my house at 5.",
+     "question": "잔치는 몇 시에 시작하나요?",
+     "choices": [
+      "5시",
+      "1시",
+      "10시"
+     ],
+     "answer": 0,
+     "explain": "'Please come to my house at 5.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "When is your birthday party?"
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on October 21st.",
+      "We will play fun games.",
+      "Come to my house."
+     ],
+     "answer": 0,
+     "explain": "언제인지 물었으니 날짜로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 생일잔치는 10월 21일이야.",
+     "answer": "My birthday party is on October 21st.",
+     "distractors": [
+      "at",
+      "in"
+     ],
+     "explain": "날짜 앞에는 on을 써요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 행사를 고르세요.",
+     "audio": "Can you come to the laser show?",
+     "choices": [
+      "✨",
+      "🎂",
+      "🥋"
+     ],
+     "answer": 0,
+     "explain": "laser show는 레이저 쇼예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Please come to the park at 2.",
+     "ko": "2시에 공원으로 와 줘."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "초대하는 글을 쓰는 순서로 알맞은 것은?",
+     "choices": [
+      "초대하기 → 날짜 → 할 일 → 장소와 시간",
+      "할 일 → 초대하기 → 장소와 시간 → 날짜",
+      "장소와 시간 → 날짜 → 할 일 → 초대하기"
+     ],
+     "answer": 0,
+     "explain": "Can you come to ...? → It's on .... → We will .... → Please come to ... at .... 순서로 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Please come ___ the sports park at 2.",
+     "ko": "2시에 스포츠 공원으로 와 줘.",
+     "choices": [
+      "on",
+      "in",
+      "to"
+     ],
+     "answer": 2,
+     "explain": "come to + 장소예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 많은 책을 읽을 거야.",
+     "answer": "We will read many books.",
+     "distractors": [
+      "reads",
+      "much"
+     ],
+     "explain": "We will + 할 일. 순서예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Can you come to the book festival?\nWe will read many books.\nCome to the library at 11.",
+     "question": "글에서 알 수 있는 것은?",
+     "choices": [
+      "11일에 공원으로 가야 한다.",
+      "11시에 도서관으로 가야 한다.",
+      "책을 사야 한다."
+     ],
+     "answer": 1,
+     "explain": "'Come to the library at 11.'"
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Can you come to the cooking class party? It's on October 5th.",
+     "answer": "Can you come to the cooking class party? It's on October 5th.",
+     "distractors": [
+      "at",
+      "Do"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "피자 잔치는 10월 1일 5시에 우리 집에서 해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Me",
+       "text": "Can you come to my pizza party?"
+      },
+      {
+       "who": "Friend",
+       "text": "Of course. When is it?"
+      },
+      {
+       "who": "Me",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "It's on October 5th. Please come to my house at 1.",
+      "Sorry, but I can't.",
+      "It's on October 1st. Please come to my house at 5."
+     ],
+     "answer": 2,
+     "explain": "날짜는 10월 1일, 시간은 5시예요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "We will play fun games.",
+       "우리는 재미있는 게임을 할 거야."
+      ],
+      [
+       "We will make pizza.",
+       "우리는 피자를 만들 거야."
+      ],
+      [
+       "We will read many books.",
+       "우리는 책을 많이 읽을 거야."
+      ],
+      [
+       "We will break boards.",
+       "우리는 송판을 깰 거야."
+      ]
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you come to the ___ show? We will break boards.",
+     "ko": "태권도 공연에 올 수 있니? 우리는 송판을 깰 거야.",
+     "choices": [
+      "laser",
+      "cooking",
+      "taekwondo"
+     ],
+     "answer": 2,
+     "explain": "송판을 깨는 공연은 태권도 공연이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "We will play fun games. Please come to my house at 3.",
+     "choices": [
+      "우리는 재미있는 게임을 할 거야. 3일에 학교로 와 줘.",
+      "우리는 재미있는 노래를 부를 거야. 3시에 우리 집으로 와 줘.",
+      "우리는 재미있는 게임을 할 거야. 3시에 우리 집으로 와 줘."
+     ],
+     "answer": 2,
+     "explain": "fun games(재미있는 게임), my house at 3(3시 우리 집)이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to my birthday party? It's on November 2nd.",
+     "ko": "내 생일잔치에 올 수 있니? 11월 2일이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "축제",
+     "answers": [
+      "festival"
+     ],
+     "hint": "f e s t _ v _ l"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "레이저 쇼",
+     "answers": [
+      "laser show"
+     ],
+     "hint": "l _ s e r  s h _ w"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "우리는 비스킷을 구울 거야.",
+     "answers": [
+      "We will bake biscuits.",
+      "We'll bake biscuits."
+     ],
+     "hint": "We will ____ biscuits."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "영화 축제에 올 수 있니? 그것은 8월 27일이야.",
+     "answer": "Can you come to the movie festival? It's on August 27th.",
+     "distractors": [
+      "at",
+      "Do"
+     ],
+     "explain": "초대하는 말 다음에 날짜를 알려 줘요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "메모\n행사: 책 축제\n날짜: 10월 9일\n할 일: 책 읽기\n장소/시간: 도서관, 1시",
+     "question": "메모를 보고 쓴 초대장으로 알맞은 것은?",
+     "choices": [
+      "Can you come to the book festival? It's on September 10th. We will read books. Please come to the library at 1.",
+      "Can you come to the book festival? It's on October 9th. We will make pizza. Please come to the park at 1.",
+      "Can you come to the book festival? It's on October 9th. We will read books. Please come to the library at 1."
+     ],
+     "answer": 2,
+     "explain": "날짜(October 9th), 할 일(read books), 장소와 시간(the library at 1)을 모두 확인해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Sora.\nCan you come to the laser show? It's on December 5th. ___ Please come to the park at 7.\nLove, Jun",
+     "question": "빈칸에 들어갈 문장으로 알맞은 것은?",
+     "choices": [
+      "We will bake chocolate biscuits.",
+      "We will draw pictures with laser lights.",
+      "We will break boards."
+     ],
+     "answer": 1,
+     "explain": "레이저 쇼에서 할 일은 레이저 빛으로 그림 그리기예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "A",
+       "text": "Can you come to the cooking class party?"
+      },
+      {
+       "who": "B",
+       "text": "Of course. What will we do there?"
+      },
+      {
+       "who": "A",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "We will read many books.",
+      "We will bake chocolate biscuits.",
+      "We will watch the stars."
+     ],
+     "answer": 1,
+     "explain": "요리 교실 잔치에서는 비스킷을 구워요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "The pizza party is on October 1st. We will make delicious pizza.",
+     "answer": "The pizza party is on October 1st. We will make delicious pizza.",
+     "distractors": [
+      "at",
+      "makes"
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리는 노래를 부를 거야. 2시에 음악실로 와 줘.",
+     "answer": "We will sing songs. Please come to the music room at 2.",
+     "distractors": [
+      "sings",
+      "on"
+     ],
+     "explain": "할 일(We will ...) 다음에 장소와 시간을 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the taekwondo show? Come to the sports park at 9.",
+     "ko": "태권도 공연에 올 수 있니? 9시에 스포츠 공원으로 와."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Project & My Work",
+   "kind": "단원 마무리",
+   "icon": "trophy",
+   "studyPoint": "단원에서 배운 내용 활용하여 정리하기",
+   "objectives": [
+    "'Project'를 하며 단원에서 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 104~105쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "Let's Write 예시 초대장을 소리 내어 읽고 공책에 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Project",
+     "desc": "마을 행사 초대장(무료 음료 잔치)을 읽고, 모둠별로 우리 마을 행사를 기획해 초대장을 만들어 발표·전시하고 참여하고 싶은 행사에 이름 붙이기 (모둠)",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 행사와 날짜를 연결해 참석 여부 표시하기, 초대하고 답하는 대화하기, 초대 글 읽고 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study / Self Study",
+     "desc": "단원 학습 점검하고 '정리해요' 쓰기, 단원 마무리 게임",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Can you come to the school music festival?",
+    "Of course.",
+    "Please come to my house at 4."
+   ],
+   "tip": "행사를 기획할 때는 우리 마을에 어울리는 행사 이름, 날짜, 장소, 할 일을 모둠원과 함께 정해 봐요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Project 자기·상호·관찰 평가(수행평가), My Work 자기 평가, 단원평가(지필평가) — 배운 표현을 활용하여 Project를 잘할 수 있는가? 모둠원과 협력하고 적극 참여하는가?",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단원의 새 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "after",
+       "~ 후에"
+      ],
+      [
+       "light",
+       "빛"
+      ],
+      [
+       "number",
+       "번호, 수"
+      ],
+      [
+       "tell",
+       "말하다"
+      ],
+      [
+       "soft",
+       "부드러운"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "그림에 알맞은 행사는?",
+     "emoji": "🎂",
+     "choices": [
+      "movie festival",
+      "laser show",
+      "book festival",
+      "birthday party"
+     ],
+     "answer": 3,
+     "explain": "🎂 생일 케이크는 생일잔치(birthday party)예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Can you come to the cooking class party? We'll make biscuits.",
+     "choices": [
+      "요리 교실 잔치에서 피자를 만들어요.",
+      "책 축제에서 비스킷을 먹어요.",
+      "요리 교실 잔치에서 비스킷을 만들어요."
+     ],
+     "answer": 2,
+     "explain": "cooking class party, make biscuits를 잘 들어요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come to the river park at 6.",
+     "choices": [
+      "6시에 스포츠 공원으로 와.",
+      "6시에 강변 공원으로 와.",
+      "16일에 강변 공원으로 와."
+     ],
+     "answer": 1,
+     "explain": "river park(강변 공원), at 6(6시에)예요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "B는 그날 야구 경기가 있어요. B의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you come to the laser show? It's on October 2nd."
+      },
+      {
+       "who": "B",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Okay, I will.",
+      "Sorry, but I can't. I have a baseball game.",
+      "It's on October 2nd."
+     ],
+     "answer": 1,
+     "explain": "야구 경기가 있으니 거절해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "G",
+       "text": "Can you come to the movie festival? It's on September 21st."
+      },
+      {
+       "who": "B",
+       "text": "Of course."
+      },
+      {
+       "who": "G",
+       "text": "?"
+      },
+      {
+       "who": "B",
+       "text": "Okay, I will."
+      }
+     ],
+     "choices": [
+      "Come to the river park at 6.",
+      "Sorry, but I can't.",
+      "When is the festival?"
+     ],
+     "answer": 0,
+     "explain": "장소와 시간을 알려 주는 말이 알맞아요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "We will make many soft ___.",
+     "ko": "우리는 탄산음료를 많이 만들 거예요.",
+     "choices": [
+      "stars",
+      "boards",
+      "drinks"
+     ],
+     "answer": 2,
+     "explain": "탄산음료는 soft drinks예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "You can have free drinks. Come to the sports park ___ 3.",
+     "ko": "3시에 스포츠 공원으로 오세요.",
+     "choices": [
+      "on",
+      "at",
+      "in"
+     ],
+     "answer": 1,
+     "explain": "시각 앞에는 at이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Free Drinks Party\nCan you come to the Free Drinks Party? We will make many soft drinks. You can have free drinks. Come to the sports park at 3.\nWhen: September 24th, 3:00\nWhere: sports park",
+     "question": "이 잔치에서 할 수 있는 것은?",
+     "choices": [
+      "무료 음료 마시기",
+      "태권도 보기",
+      "책 읽기"
+     ],
+     "answer": 0,
+     "explain": "'You can have free drinks.'"
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "학교 음악 축제에 올 수 있니?",
+     "answer": "Can you come to the school music festival?",
+     "distractors": [
+      "Do",
+      "at"
+     ],
+     "explain": "Can you come to the 행사? 순서예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "초대에 응할 때와 거절할 때의 말이 바르게 짝지어진 것은?",
+     "choices": [
+      "Of course. / Sorry, but I can't.",
+      "Okay, I will. / Of course.",
+      "Sorry, but I can't. / Good luck."
+     ],
+     "answer": 0,
+     "explain": "응할 때는 Of course., 거절할 때는 Sorry, but I can't.예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the Free Drinks Party?",
+     "ko": "무료 음료 잔치에 올 수 있니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Jake.\nCan you come to my birthday party? It's this Saturday. We will have pizza. We will play fun games, too. ___\nLove, Shawn\n(Where: my house / When: this Saturday, 4:00)",
+     "question": "Jake가 초대받은 행사는?",
+     "choices": [
+      "태권도 공연",
+      "생일잔치",
+      "책 축제"
+     ],
+     "answer": 1,
+     "explain": "'Can you come to my birthday party?'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Hi, Jake.\nCan you come to my birthday party? It's this Saturday. We will have pizza. We will play fun games, too. ___\nLove, Shawn\n(Where: my house / When: this Saturday, 4:00)",
+     "question": "빈칸에 알맞은 문장은?",
+     "choices": [
+      "Please come to my house at 2.",
+      "Please come to the park at 4.",
+      "Please come to my house at 4."
+     ],
+     "answer": 2,
+     "explain": "장소는 우리 집, 시간은 4시예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Free Drinks Party\nCan you come to the Free Drinks Party? We will make many soft drinks. You can have free drinks. Come to the sports park at 3.\nWhen: September 24th, 3:00\nWhere: sports park",
+     "question": "글의 내용과 일치하는 것은?",
+     "choices": [
+      "음료를 사야 한다.",
+      "학교에서 열린다.",
+      "9월 24일 3시에 열린다."
+     ],
+     "answer": 2,
+     "explain": "'When: September 24th, 3:00'"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Can you come to the book festival? It's ___ September 20th.",
+     "ko": "9월 20일이야.",
+     "choices": [
+      "at",
+      "on",
+      "to"
+     ],
+     "answer": 1,
+     "explain": "날짜 앞에는 on을 써요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "미안하지만 갈 수 없어. 나는 사촌을 방문해.",
+     "answer": "Sorry, but I can't. I visit my cousin.",
+     "distractors": [
+      "can",
+      "visits"
+     ],
+     "explain": "거절하는 말 다음에 까닭을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good. Come to the sports park at 3.",
+     "answer": "Good. Come to the sports park at 3.",
+     "distractors": [
+      "on",
+      "in"
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "S1, S2",
+       "text": "Can you come to the school music festival?"
+      },
+      {
+       "who": "S3, S4",
+       "text": "?"
+      },
+      {
+       "who": "S1, S2",
+       "text": "Come to the school at 2."
+      }
+     ],
+     "choices": [
+      "Of course.",
+      "Sorry, but I can't.",
+      "I have a basketball game."
+     ],
+     "answer": 0,
+     "explain": "다음에 장소와 시간을 알려 주므로 초대에 응한 거예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "(my house / to / at 4 / come)를 바르게 배열한 문장은?",
+     "choices": [
+      "At 4 come to my house.",
+      "Come to my house at 4.",
+      "Come my house to at 4."
+     ],
+     "answer": 1,
+     "explain": "Come to + 장소 + at + 시각."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Can you come?",
+       "올 수 있니?"
+      ],
+      [
+       "Okay, I will.",
+       "알겠어, 그럴게."
+      ],
+      [
+       "That's okay.",
+       "괜찮아."
+      ],
+      [
+       "Thank you for coming.",
+       "와 줘서 고마워."
+      ]
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the book festival? It's on September 20th.",
+     "ko": "책 축제에 올 수 있니? 9월 20일이야."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "레이저",
+     "answers": [
+      "laser"
+     ],
+     "hint": "l _ s _ r"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "10시에 스포츠 공원으로 와.",
+     "answers": [
+      "Come to the sports park at 10."
+     ],
+     "hint": "Come to the ______ park at 10."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "괜찮아. 행운을 빌어.",
+     "answers": [
+      "That's okay. Good luck.",
+      "That is okay. Good luck."
+     ],
+     "hint": "That's o _ _ _. Good l _ _ _."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "과학 축제에 올 수 있니? 9월 9일이야. 1시에 학교로 와.",
+     "answer": "Can you come to the science festival? It's on September 9th. Come to the school at 1.",
+     "distractors": [
+      "in",
+      "Do"
+     ],
+     "explain": "초대 → 날짜 → 장소와 시간 순서로 말해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Town Event\nCan you come to the Book Swap Day? It's on May 5th. We will bring old books and share them. Come to the library at 10.\nWhen: May 5th, 10:00\nWhere: library",
+     "question": "이 행사에서 할 일은?",
+     "choices": [
+      "헌 책을 가져와 나누기",
+      "새 책 사기",
+      "책 만들기"
+     ],
+     "answer": 0,
+     "explain": "'We will bring old books and share them.'"
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Our Town Event\nCan you come to the Book Swap Day? It's on May 5th. We will bring old books and share them. Come to the library at 10.\nWhen: May 5th, 10:00\nWhere: library",
+     "question": "행사에 가려면 언제, 어디로 가야 하나요?",
+     "choices": [
+      "5월 5일 10시, 도서관",
+      "5월 10일 5시, 도서관",
+      "5월 5일 10시, 공원"
+     ],
+     "answer": 0,
+     "explain": "When과 Where를 확인해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "알맞은 말을 고르세요.",
+     "lines": [
+      {
+       "who": "José",
+       "text": "I'll have a birthday party. Come to the park at 3."
+      },
+      {
+       "who": "Friend",
+       "text": "?"
+      },
+      {
+       "who": "José",
+       "text": "We'll play fun games."
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't.",
+      "Happy New Year!",
+      "Okay, I will. What will we do?"
+     ],
+     "answer": 2,
+     "explain": "José가 할 일을 알려 주니 무엇을 할지 물어본 말이 알맞아요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "친구의 대답으로 알맞은 것을 고르세요.",
+     "lines": [
+      {
+       "who": "Girl",
+       "text": "Can you come to my birthday party?"
+      },
+      {
+       "who": "Friend",
+       "text": "Of course."
+      },
+      {
+       "who": "Girl",
+       "text": "Come to my house at 5. You can sleep at my house."
+      },
+      {
+       "who": "Friend",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Sorry, but I can't.",
+      "It's on your left.",
+      "Sounds great. See you at 5."
+     ],
+     "answer": 2,
+     "explain": "응하는 말에 이어 '좋아. 5시에 봐.'라고 하면 자연스러워요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "We will have pizza. We will play fun games, too.",
+     "answer": "We will have pizza. We will play fun games, too.",
+     "distractors": [
+      "has",
+      "game"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Can you come to the Book Swap Day? Come to the library at 10.",
+     "ko": "책 바꾸기의 날에 올 수 있니? 10시에 도서관으로 와."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "학교 복도에서 하나와 Amy가 자기들이 만든 영화가 나오는 영화 축제에 우주와 Tom을 초대해요.",
+   "lines": [
+    {
+     "who": "Amy",
+     "text": "Hana and I made a movie for the festival."
+    },
+    {
+     "who": "하나",
+     "text": "Can you come to the movie festival? It's on August 27th."
+    },
+    {
+     "who": "우주",
+     "text": "Of course."
+    },
+    {
+     "who": "Amy",
+     "text": "How about you, Tom? Can you come to the festival?"
+    },
+    {
+     "who": "Tom",
+     "text": "Sorry, but I can't. I have a baseball game."
+    },
+    {
+     "who": "Amy",
+     "text": "That's okay. Good luck."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "Tom과 하나가 태권도 공연에 친구들을 초대하고, 우주는 거절하지만 Linh은 초대에 응해요.",
+   "lines": [
+    {
+     "who": "Tom",
+     "text": "Can you come to our taekwondo show?"
+    },
+    {
+     "who": "우주",
+     "text": "When is the show?"
+    },
+    {
+     "who": "하나",
+     "text": "It's this Saturday."
+    },
+    {
+     "who": "우주",
+     "text": "Sorry, but I can't. I visit my cousin every Saturday."
+    },
+    {
+     "who": "Linh",
+     "text": "Of course. I love taekwondo."
+    },
+    {
+     "who": "Tom",
+     "text": "That's great. Come to the sports park at 10."
+    },
+    {
+     "who": "Linh",
+     "text": "Okay, I will."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "나리가 Noah를 레이저 쇼에, 민우가 Taylor를 요리 교실 잔치에 초대해요.",
+   "lines": [
+    {
+     "who": "나리",
+     "text": "Can you come to the laser show?"
+    },
+    {
+     "who": "Noah",
+     "text": "Sorry, but I can't. I have a basketball game."
+    },
+    {
+     "who": "민우",
+     "text": "Can you come to the cooking class party? It's this Saturday."
+    },
+    {
+     "who": "Taylor",
+     "text": "Of course."
+    },
+    {
+     "who": "민우",
+     "text": "Come to the school kitchen at 11."
+    },
+    {
+     "who": "Taylor",
+     "text": "Okay, I will."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "유나가 Sally를 초대하는 글 (Star Night Party)",
+  "passage": "Yuna writes a card to Sally. She is having a Star Night Party on September 29th, and she asks Sally to come. Yuna's dad knows a lot about stars, so he will tell star stories. The party is at Yuna's house at 5. The friends will eat sandwiches, drink soda and play games. Sally must bring the card because they will draw lucky numbers. Her number is 5.",
+  "summaryKo": "유나가 9월 29일 5시에 집에서 여는 별밤 파티에 Sally를 초대하며, 별 이야기·샌드위치와 탄산음료·게임·행운 번호 뽑기를 소개해요."
+ },
+ "writing": {
+  "frame": [
+   "Can you come to ____?",
+   "____ is on ____.",
+   "We will ____.",
+   "Please come to ____ at ____."
+  ],
+  "model": "Can you come to the book festival? The book festival is on October 9th. We will read many books. Please come to the library at 1."
+ },
+ "project": "마을 행사 초대장(무료 음료 잔치)을 읽은 뒤, 모둠별로 우리 마을 행사의 이름·할 일·장소·날짜와 시간을 정해 도화지에 초대장을 만들고, 반 친구들을 초대하는 대화를 발표한 후 게시판에 전시한다. 친구들은 가고 싶은 행사 초대장 아래에 이름을 쓴 붙임쪽지를 붙인다.",
+ "special": {
+  "no": 7,
+  "kind": "Into the World",
+  "title": "미국과 멕시코의 생일잔치 문화",
+  "summaryKo": "미국 여자아이는 친구를 생일잔치에 초대해 집에서 함께 축하하고, 이야기를 나누다 함께 잠을 자요. 멕시코의 José는 친구들을 공원 생일잔치에 초대해 게임을 하고, 피냐타를 막대기로 쳐서 깨뜨려요.",
+  "facts": [
+   "미국에서는 친구들이 함께 잠옷을 입고 밤새 이야기하며 자는 '슬럼버 파티'로 생일잔치를 하는 경우가 많아요.",
+   "멕시코 사람들은 생일에 '피냐타'를 터뜨리며 놀아요. 피냐타는 사탕, 과자, 초콜릿 등을 채운 종이(판지) 인형이에요.",
+   "생일인 사람이 눈을 가리고 높이 매단 피냐타를 막대기로 두드려 깨요. '나쁜 것을 부순다'는 뜻이 담겨 있어요.",
+   "전통적인 피냐타는 뿔이 일곱 개인 별 모양이지만, 요즘은 만화 캐릭터 등 다양한 모양으로 만들어요."
+  ],
+  "expressions": [
+   "Can you come to my birthday party? — Of course.",
+   "Come to my house at 5. You can sleep at my house.",
+   "I'll have a birthday party. Come to the park at 3. — Okay, I will.",
+   "We'll play fun games."
+  ],
+  "exercises": []
+ }
+}

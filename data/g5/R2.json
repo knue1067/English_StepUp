@@ -1,0 +1,672 @@
+{
+  "id": "R2",
+  "title": "Review 2",
+  "semester": 2,
+  "covers": [
+    "L07",
+    "L08",
+    "L09",
+    "L10",
+    "L11",
+    "L12"
+  ],
+  "summaryKo": "2학기에 배운 7~12단원의 표현을 놀이로 복습해요. 음식점·옷 가게·서점이 있는 거리 그림을 보며 상황에 맞는 대화를 하고, 윷놀이와 땅따먹기 놀이로 방학·주문·가격·일과·과목·장래 희망 표현을 다시 연습해요.",
+  "periods": [
+    {
+      "n": 1,
+      "objectives": [
+        "‘Review 2’를 하며 7단원부터 12단원까지 배운 내용을 복습할 수 있다.",
+        "규칙을 지키고 친구들을 배려하며 놀이에 참여할 수 있다."
+      ],
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Greetings / Objectives",
+          "desc": "인사하고 Review 2로 7~12단원 내용을 복습한다고 안내하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "A. Do the Task / Talk Together · B. 윷놀이",
+          "desc": "거리 그림(음식점, 옷 가게, 서점, 집)에 알맞은 단어·어구 번호 쓰기, 말풍선 상황에 맞는 대화 만들어 발표하기, 팀별로 놀이판을 완성해 단어·어구를 읽으며 윷놀이하기",
+          "min": 30
+        },
+        {
+          "phase": "정리",
+          "step": "Closing",
+          "desc": "놀이 결과 확인, 칭찬 도장, 다음 차시 안내",
+          "min": 5
+        }
+      ],
+      "activities": [
+        "그림에 알맞은 단어나 어구(math, shoes, pants, beef steak, science, soccer player, study English, go to bed 등) 골라 번호 쓰기",
+        "말풍선 상황 대화: What would you like? — I'd like a beef steak. / How much are the pants? — They're ten thousand won. / What's your favorite subject? — My favorite subject is math. / What time do you go to bed? — I go to bed at nine. / What did you do this summer? — I visited my grandma.",
+        "놀이판 빈칸을 채워 완성한 뒤 윷을 던져 말이 도착한 칸의 단어·어구를 바르게 읽으면 말을 두는 윷놀이 (2인 1팀, 모둠)"
+      ]
+    },
+    {
+      "n": 2,
+      "objectives": [
+        "‘Review 2’를 하며 7단원부터 12단원까지 배운 내용을 복습할 수 있다.",
+        "규칙을 지키고 친구들을 배려하며 놀이에 참여할 수 있다."
+      ],
+      "flow": [
+        {
+          "phase": "도입",
+          "step": "Greetings / Objectives",
+          "desc": "인사하고 땅따먹기 놀이로 7~12단원 내용을 복습한다고 안내하기",
+          "min": 5
+        },
+        {
+          "phase": "전개",
+          "step": "C. 땅따먹기 놀이",
+          "desc": "놀이판(북극 동물 그림)의 12개 과제 알아보기 → 짝과 빈칸 채우기·그림 고르기·대화하기 → 예시 대화 따라 말하기 → 팀별로 칸을 골라 과제를 해결하며 땅따먹기",
+          "min": 30
+        },
+        {
+          "phase": "정리",
+          "step": "Closing",
+          "desc": "놀이 결과 확인, 칭찬 도장, 방학 인사",
+          "min": 5
+        }
+      ],
+      "activities": [
+        "그림에 맞게 대화하기: What do you want to be? — I want to be a soccer player.",
+        "빈칸 채우고 대화하기: How much are the glasses? — They're thirty thousand won. / I went to a festival. / I want red, please.",
+        "알맞은 그림·어구·단어 고르고 대화하기: My favorite subject is music. / I'd like carrot cake. / I eat breakfast at 7:50. / My favorite subject is science.",
+        "그림에 맞게 대화하기: Do you want some more? — Yes, please. / What did you do this summer? — I picked watermelons. / What time do you study English? — I study English at three.",
+        "팀별로 원하는 칸을 골라 과제를 바르게 하면 ○ 표시, 못 하면 상대 팀에게 기회가 넘어가는 땅따먹기 놀이 (2인 1팀, 모둠)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Linh",
+          "text": "Mohan, what did you do this summer?"
+        },
+        {
+          "who": "Mohan",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'd like a fruit salad.",
+        "I want red, please.",
+        "I swam in the sea."
+      ],
+      "answer": 2,
+      "explain": "여름에 한 일을 물었으니 지난 일(swam)로 답해요. (Lesson 7)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "하나",
+          "text": "Hi, Amy. How was your weekend?"
+        },
+        {
+          "who": "Amy",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "It was great.",
+        "They're ten thousand won.",
+        "I get up at 8."
+      ],
+      "answer": 0,
+      "explain": "주말이 어땠는지 물으면 'It was great(good).'로 답해요. (Lesson 7)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Clerk",
+          "text": "Hi, what would you like?"
+        },
+        {
+          "who": "Linh",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I visited my grandpa.",
+        "I'd like a fruit salad.",
+        "My favorite subject is math."
+      ],
+      "answer": 1,
+      "explain": "무엇을 원하는지 물으면 'I'd like ~.'로 답해요. (Lesson 8)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Brother",
+          "text": "Do you want some more?"
+        },
+        {
+          "who": "Amy",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "It was good.",
+        "Yes, please.",
+        "I want to be a designer."
+      ],
+      "answer": 1,
+      "explain": "음식을 더 권할 때는 'Yes, please.'나 'No, thanks.'로 답해요. (Lesson 8)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Amy's mom",
+          "text": "How much are the pants?"
+        },
+        {
+          "who": "Clerk",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I want red, please.",
+        "They're twenty thousand won.",
+        "I go to bed at 10."
+      ],
+      "answer": 1,
+      "explain": "가격을 물었으니 'They're ~ won.'으로 답해요. (Lesson 9)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+      "audio": "What color do you want?",
+      "choices": [
+        "그것은 얼마예요?",
+        "무엇을 먹고 싶니?",
+        "무슨 색을 원하니?"
+      ],
+      "answer": 2,
+      "explain": "color는 색깔이에요. (Lesson 9)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "I want ___, please.",
+      "ko": "빨간색으로 주세요.",
+      "choices": [
+        "red",
+        "blue",
+        "black"
+      ],
+      "answer": 0,
+      "explain": "원하는 색을 말할 때 'I want + 색깔, please.'라고 해요. (Lesson 9)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+      "audio": "I go to bed at nine.",
+      "choices": [
+        "나는 9시에 일어나.",
+        "나는 9시에 잠자리에 들어.",
+        "나는 9시에 영어를 공부해."
+      ],
+      "answer": 1,
+      "explain": "'go to bed'는 '잠자리에 들다'예요. (Lesson 10)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "너는 몇 시에 아침 식사를 하니?",
+      "answer": "What time do you eat breakfast?",
+      "distractors": [
+        "did",
+        "would"
+      ],
+      "explain": "몇 시인지 물을 때는 'What time do you ...?'예요. (Lesson 10)"
+    },
+    {
+      "type": "match",
+      "prompt": "질문과 알맞은 대답을 짝지어 보세요.",
+      "pairs": [
+        [
+          "What did you do this summer?",
+          "I picked watermelons."
+        ],
+        [
+          "What would you like?",
+          "I'd like carrot cake."
+        ],
+        [
+          "How much are the glasses?",
+          "They're thirty thousand won."
+        ],
+        [
+          "What's your favorite subject?",
+          "My favorite subject is science."
+        ],
+        [
+          "What do you want to be?",
+          "I want to be a pianist."
+        ]
+      ]
+    },
+    {
+      "type": "mc",
+      "prompt": "'I'm good at drawing pictures.'의 뜻은?",
+      "choices": [
+        "나는 그림을 좋아해요.",
+        "나는 화가가 되고 싶어요.",
+        "나는 그림을 잘 그려요.",
+        "나는 그림을 샀어요."
+      ],
+      "answer": 2,
+      "explain": "'I'm good at ~.'은 '나는 ~을 잘해요.'라는 뜻이에요. (Lesson 11)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "My favorite ___ is music.",
+      "ko": "내가 가장 좋아하는 과목은 음악이에요.",
+      "choices": [
+        "color",
+        "subject",
+        "food"
+      ],
+      "answer": 1,
+      "explain": "'과목'은 subject예요. (Lesson 11)"
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "나는 축구 선수가 되고 싶어요.",
+      "answers": [
+        "I want to be a soccer player."
+      ],
+      "hint": "I want to be a ____ ____."
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "I like doing science projects.",
+      "answer": "I like doing science projects.",
+      "distractors": [
+        "want",
+        "did"
+      ]
+    },
+    {
+      "type": "read",
+      "prompt": "글을 읽고 답하세요.",
+      "passage": "Hi, I'm Minsu. This summer, I visited my grandpa. I get up at 7 every day. My favorite subject is science, and I'm good at making robots. I want to be a scientist.",
+      "question": "민수의 장래 희망은 무엇인가요?",
+      "choices": [
+        "과학자",
+        "배우",
+        "피아니스트"
+      ],
+      "answer": 0,
+      "explain": "'I want to be a scientist.'라고 했어요. (Lesson 12)"
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "What did you do last weekend? I went to a festival.",
+      "ko": "지난 주말에 뭐 했니? 나는 축제에 갔어."
+    }
+  ],
+  "exercises2": [
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "하나",
+          "text": "Tom, what did you do last weekend?"
+        },
+        {
+          "who": "Tom",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'd like a beef steak, please.",
+        "I played basketball with my dad.",
+        "They're one thousand won."
+      ],
+      "answer": 1,
+      "explain": "지난 주말에 한 일을 물었으니 played처럼 지난 일로 답해요. (Lesson 7)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Clerk",
+          "text": "Hello, what would you like?"
+        },
+        {
+          "who": "Tom",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'd like a beef steak, please.",
+        "I played basketball.",
+        "I want black, please."
+      ],
+      "answer": 0,
+      "explain": "무엇을 원하는지 물으면 'I'd like ~.'로 답해요. (Lesson 8)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Tom",
+          "text": "How much are the socks?"
+        },
+        {
+          "who": "Seller",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "I'd like an orange juice.",
+        "They're one thousand won.",
+        "I get up at 7."
+      ],
+      "answer": 1,
+      "explain": "가격을 물었으니 'They're ~ won.'으로 답해요. (Lesson 9)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Girl",
+          "text": "What time do you go to school?"
+        },
+        {
+          "who": "Boy",
+          "text": "I go to school at 7:20."
+        },
+        {
+          "who": "Girl",
+          "text": "?"
+        }
+      ],
+      "choices": [
+        "Really?",
+        "Yes, please.",
+        "It was good."
+      ],
+      "answer": 0,
+      "explain": "7시 20분은 아주 이른 등교 시각이라 놀람을 표현해요. (Lesson 10)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+      "audio": "I visited my grandpa.",
+      "choices": [
+        "나는 할머니 댁을 방문했어.",
+        "나는 할아버지를 도와드렸어.",
+        "나는 할아버지 댁을 방문했어."
+      ],
+      "answer": 2,
+      "explain": "visited는 '방문했다', grandpa는 할아버지예요. (Lesson 7)"
+    },
+    {
+      "type": "listen_mc",
+      "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+      "audio": "Do you want some more?",
+      "choices": [
+        "더 사고 싶니?",
+        "더 먹을래?",
+        "무엇을 먹고 싶니?"
+      ],
+      "answer": 1,
+      "explain": "음식을 더 권할 때 쓰는 말이에요. (Lesson 8)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "How much ___ the shoes?",
+      "ko": "그 신발은 얼마예요?",
+      "choices": [
+        "is",
+        "do",
+        "are"
+      ],
+      "answer": 2,
+      "explain": "shoes처럼 여러 개(짝)인 물건은 are를 써요. (Lesson 9)"
+    },
+    {
+      "type": "fill",
+      "prompt": "빈칸에 알맞은 말을 고르세요.",
+      "sentence": "I'm good ___ speaking English.",
+      "ko": "나는 영어로 말하는 것을 잘해요.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": 0,
+      "explain": "'~을 잘하다'는 'be good at'이에요. (Lesson 11)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "너는 무엇이 되고 싶니?",
+      "answer": "What do you want to be?",
+      "distractors": [
+        "did",
+        "would"
+      ],
+      "explain": "장래 희망은 'What do you want to be?'로 물어요. (Lesson 12)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "무엇을 드시겠어요?",
+      "answer": "What would you like?",
+      "distractors": [
+        "did",
+        "want"
+      ],
+      "explain": "주문을 받을 때는 'What would you like?'라고 해요. (Lesson 8)"
+    },
+    {
+      "type": "match",
+      "prompt": "지난 일을 나타내는 말과 뜻을 짝지어 보세요.",
+      "pairs": [
+        [
+          "swam",
+          "수영했다"
+        ],
+        [
+          "visited",
+          "방문했다"
+        ],
+        [
+          "picked",
+          "땄다"
+        ],
+        [
+          "played",
+          "(운동을) 했다"
+        ],
+        [
+          "made",
+          "만들었다"
+        ]
+      ]
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "How was your weekend? It was good.",
+      "ko": "주말 어땠어? 좋았어."
+    }
+  ],
+  "exercises3": [
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "나는 이번 여름에 할머니 댁을 방문했어.",
+      "answers": [
+        "I visited my grandma this summer.",
+        "This summer, I visited my grandma.",
+        "This summer I visited my grandma."
+      ],
+      "hint": "I ____ my grandma this summer."
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "오렌지 주스로 할게요.",
+      "answers": [
+        "I'd like an orange juice.",
+        "I would like an orange juice."
+      ],
+      "hint": "I'd ____ an orange juice."
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "그 장갑은 얼마예요?",
+      "answers": [
+        "How much are the gloves?"
+      ],
+      "hint": "How ____ are the ____?"
+    },
+    {
+      "type": "type",
+      "prompt": "영어로 써 보세요.",
+      "ko": "내가 가장 좋아하는 과목은 영어예요.",
+      "answers": [
+        "My favorite subject is English."
+      ],
+      "hint": "My favorite ____ is ____."
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "What time do you come home? I come home at 4:30.",
+      "answer": "What time do you come home? I come home at 4:30.",
+      "distractors": [
+        "did",
+        "would"
+      ]
+    },
+    {
+      "type": "listen_build",
+      "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+      "audio": "I want to be an actor. I like watching videos.",
+      "answer": "I want to be an actor. I like watching videos.",
+      "distractors": [
+        "a",
+        "did"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "너는 지난 주말에 무엇을 했니? 나는 쿠키를 만들었어.",
+      "answer": "What did you do last weekend? I made cookies.",
+      "distractors": [
+        "make",
+        "would"
+      ],
+      "explain": "지난 일을 물을 때는 did, 대답할 때는 made처럼 지난 일을 나타내는 말을 써요. (Lesson 7)"
+    },
+    {
+      "type": "build",
+      "prompt": "영어 문장을 만들어 보세요.",
+      "ko": "검은색으로 주세요.",
+      "answer": "I want black, please.",
+      "distractors": [
+        "red,",
+        "would"
+      ],
+      "explain": "원하는 색은 'I want + 색깔, please.'로 말해요. (Lesson 9)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Dad",
+          "text": "Do you want some more cake?"
+        },
+        {
+          "who": "Amy",
+          "text": "?"
+        },
+        {
+          "who": "Dad",
+          "text": "Okay. I'll eat it then."
+        }
+      ],
+      "choices": [
+        "Yes, please.",
+        "No, thanks.",
+        "I'd like a beef steak."
+      ],
+      "answer": 1,
+      "explain": "아빠가 '그럼 내가 먹을게.'라고 했으니 Amy는 사양한 거예요. (Lesson 8)"
+    },
+    {
+      "type": "dialog",
+      "prompt": "알맞은 말을 고르세요.",
+      "lines": [
+        {
+          "who": "Girl",
+          "text": "What's your favorite subject?"
+        },
+        {
+          "who": "Boy",
+          "text": "?"
+        },
+        {
+          "who": "Girl",
+          "text": "Me, too! I love sports."
+        }
+      ],
+      "choices": [
+        "My favorite subject is math.",
+        "My favorite subject is P.E.",
+        "My favorite subject is music."
+      ],
+      "answer": 1,
+      "explain": "'나도! 나는 운동을 좋아해.'라고 했으니 체육이에요. (Lesson 11)"
+    },
+    {
+      "type": "read",
+      "prompt": "글을 읽고 답하세요.",
+      "passage": "Hi, I'm Linh. This summer, I visited my grandpa. I get up at 7:30 every day. My favorite subject is art. I'm good at drawing pictures. I want to be a designer.",
+      "question": "Linh이 잘하는 것은?",
+      "choices": [
+        "수영하기",
+        "그림 그리기",
+        "요리하기"
+      ],
+      "answer": 1,
+      "explain": "'I'm good at drawing pictures.'라고 했어요. (Lesson 11)"
+    },
+    {
+      "type": "speak",
+      "prompt": "소리 내어 말해 보세요.",
+      "text": "What would you like? I'd like a fruit salad, please.",
+      "ko": "무엇을 드시겠어요? 과일샐러드로 주세요."
+    }
+  ]
+}

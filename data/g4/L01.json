@@ -1,0 +1,2210 @@
+{
+ "id": "L01",
+ "no": 1,
+ "grade": 4,
+ "semester": 1,
+ "title": "My Name Is Amy",
+ "emoji": "👋",
+ "rationale": "처음 만난 사람에게 인사하고 자신을 소개하는 일은 대인 관계에서 매우 중요하다. 이름을 묻고 답하는 말, 소개에 답하는 말, 때에 알맞은 인사말을 배워 실생활에 활용하고 영어 학습에 흥미와 자신감을 느끼게 하며, 원만한 인간관계를 형성하고 대화 예절을 지키도록 한다.",
+ "topics": "학교생활 관련(학교 활동, 교우 관계)",
+ "functions": [
+  {
+   "ko": "이름 묻고 답하기",
+   "examples": [
+    "What's your name?",
+    "My name is Amy."
+   ]
+  },
+  {
+   "ko": "소개에 답하기",
+   "examples": [
+    "Nice to meet you.",
+    "Nice to meet you, too."
+   ]
+  },
+  {
+   "ko": "때에 알맞은 인사말 하기",
+   "examples": [
+    "Good morning."
+   ]
+  }
+ ],
+ "forms": [
+  "My name is Amy.",
+  "Good morning [afternoon / evening / night]."
+ ],
+ "phonics": {
+  "focus": "t /t/ (끝소리)",
+  "words": [
+   "meet",
+   "hat",
+   "sit"
+  ]
+ },
+ "newWords": [
+  {
+   "en": "afternoon",
+   "ko": "오후"
+  },
+  {
+   "en": "bag",
+   "ko": "가방"
+  },
+  {
+   "en": "evening",
+   "ko": "저녁"
+  },
+  {
+   "en": "everyone",
+   "ko": "모두, 여러분"
+  },
+  {
+   "en": "friend",
+   "ko": "친구"
+  },
+  {
+   "en": "meet",
+   "ko": "만나다"
+  },
+  {
+   "en": "morning",
+   "ko": "아침, 오전"
+  },
+  {
+   "en": "name",
+   "ko": "이름"
+  },
+  {
+   "en": "new",
+   "ko": "새로운"
+  },
+  {
+   "en": "night",
+   "ko": "밤"
+  },
+  {
+   "en": "to",
+   "ko": "~하기 위해, ~에게"
+  },
+  {
+   "en": "we",
+   "ko": "우리"
+  }
+ ],
+ "keyWords": [
+  {
+   "en": "morning",
+   "ko": "아침",
+   "emoji": "🌅"
+  },
+  {
+   "en": "afternoon",
+   "ko": "오후",
+   "emoji": "☀️"
+  },
+  {
+   "en": "evening",
+   "ko": "저녁",
+   "emoji": "🌆"
+  },
+  {
+   "en": "night",
+   "ko": "밤",
+   "emoji": "🌙"
+  }
+ ],
+ "characters": [
+  "Amy",
+  "준오(Juno)",
+  "Kate",
+  "Momo",
+  "보라(Bora)",
+  "Eric",
+  "Hoa",
+  "Sam",
+  "Mr. Jones",
+  "Jane Green",
+  "하나",
+  "Alice",
+  "Ms. Evans",
+  "Danny",
+  "Paul",
+  "Lily",
+  "해리",
+  "론",
+  "헤르미온느"
+ ],
+ "goals": {
+  "understand": [
+   "이름을 묻고 답하는 말, 소개에 답하는 말, 때에 알맞은 인사말을 듣고 이해할 수 있다.",
+   "때에 알맞게 인사하는 문장을 소리 내어 읽고 그 의미를 이해할 수 있다.",
+   "소리 /t/와 철자 't'의 관계를 이해하며 단어를 소리 내어 읽을 수 있다.",
+   "이름을 소개하는 말과 인사말을 들으며 대인 관계 능력을 기르고 공동체 역량을 키울 수 있다."
+  ],
+  "express": [
+   "이름을 묻고 답하는 말, 소개에 답하는 말, 때에 알맞은 인사말을 할 수 있다.",
+   "때에 알맞게 인사하는 문장을 보고 쓸 수 있다.",
+   "소리 /t/와 철자 't'의 관계를 바탕으로 단어를 쓸 수 있다.",
+   "대인 관계의 기초인 의사소통 표현을 익혀 대화 예절을 지키며 영어로 의사소통 활동에 참여할 수 있다."
+  ]
+ },
+ "achievement": [
+  "4영01-01",
+  "4영01-03",
+  "4영01-04",
+  "4영01-05",
+  "4영01-06",
+  "4영01-07",
+  "4영01-08",
+  "4영01-09",
+  "4영01-10",
+  "4영02-01",
+  "4영02-03",
+  "4영02-04",
+  "4영02-05",
+  "4영02-08",
+  "4영02-09",
+  "4영02-10"
+ ],
+ "periods": [
+  {
+   "n": 1,
+   "title": "Fun Talk 1",
+   "kind": "듣고 말하기 1",
+   "icon": "chat",
+   "studyPoint": "이름 묻고 답하기 / 소개에 답하기",
+   "objectives": [
+    "이름을 묻고 답하는 말과 소개에 답하는 말을 듣고 이해하며 말할 수 있다.",
+    "찬트 하기와 '이름 묻고 답하며 친구 모으기' 놀이로 배운 표현을 듣고 이해하며 말할 수 있다."
+   ],
+   "pages": "교과서 14~15쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Greetings / Get Ready",
+     "desc": "새 친구 Amy 소개, 주변 친구들과 이름 묻고 답하기, 단원 학습 목표 확인, My Study 계획 세우기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 1",
+     "desc": "등교 첫날 준오·Kate·Amy·Momo가 인사하며 이름을 묻고 답하는 만화 영화 보기, 주요 표현 따라 말하기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Chant and Do",
+     "desc": "이름 찬트를 하며 들은 순서대로 친구 짚기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 1",
+     "desc": "이름 묻고 답하며 친구 모으기 (두 모둠이 마주 보고 가위바위보, 모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "대화 듣고 알맞은 그림 고르기, 짝과 이름 묻고 답하기, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What's your name?",
+    "My name is Amy.",
+    "Nice to meet you.",
+    "Nice to meet you, too."
+   ],
+   "tip": "처음 만난 친구에게는 'Nice to meet you.', 대답할 때는 끝에 too를 붙여 'Nice to meet you, too.'라고 해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 1 자기·상호·관찰 평가 — 이름을 묻고 답하는 말과 소개에 답하는 말을 듣고 이해하며 말할 수 있는가? 배운 표현을 말하며 활동에 적극 참여하는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "name",
+       "이름"
+      ],
+      [
+       "meet",
+       "만나다"
+      ],
+      [
+       "friend",
+       "친구"
+      ],
+      [
+       "bag",
+       "가방"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "'What's your name?'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "이것은 뭐니?",
+      "너는 몇 살이니?",
+      "너의 이름은 뭐니?",
+      "너는 어디에 있니?"
+     ],
+     "answer": 2,
+     "explain": "name은 '이름'이에요. What's your name?은 이름을 묻는 말이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "처음 만난 친구에게 이름을 물을 때 하는 말은?",
+     "emoji": "👋",
+     "choices": [
+      "What's your name?",
+      "Nice to meet you, too.",
+      "I like your bag.",
+      "Good night."
+     ],
+     "answer": 0,
+     "explain": "이름을 물을 때는 'What's your name?'이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "My name is Kate.",
+     "choices": [
+      "내 이름은 Kate야.",
+      "Kate, 만나서 반가워.",
+      "나는 Kate를 좋아해."
+     ],
+     "answer": 0,
+     "explain": "'My name is ~.'는 '내 이름은 ~야.'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Nice to meet you.",
+     "choices": [
+      "안녕, 내 이름은 Juno야.",
+      "잘 자.",
+      "만나서 반가워."
+     ],
+     "answer": 2,
+     "explain": "'Nice to meet you.'는 처음 만난 사람에게 '만나서 반가워.'라고 하는 말이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "What's your name?"
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "My name is Amy.",
+      "Nice to meet you, too.",
+      "I'm fine."
+     ],
+     "answer": 0,
+     "explain": "이름을 물었으니 'My name is Amy.'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Amy의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Juno",
+       "text": "Nice to meet you, Amy."
+      },
+      {
+       "who": "Amy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What's your name?",
+      "My name is Juno.",
+      "Nice to meet you, too."
+     ],
+     "answer": 2,
+     "explain": "'Nice to meet you.'에는 '나도 만나서 반가워.'라는 뜻의 'Nice to meet you, too.'로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "My ___ is Sam.",
+     "ko": "내 이름은 Sam이야.",
+     "choices": [
+      "bag",
+      "name",
+      "friend"
+     ],
+     "answer": 1,
+     "explain": "'이름'은 name이에요. My name is Sam."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Nice to ___ you.",
+     "ko": "만나서 반가워.",
+     "choices": [
+      "like",
+      "meet",
+      "name"
+     ],
+     "answer": 1,
+     "explain": "'만나다'는 meet이에요. Nice to meet you."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "너의 이름은 뭐니?",
+     "answer": "What's your name?",
+     "distractors": [
+      "is",
+      "my"
+     ],
+     "explain": "이름을 물을 때는 What's your name?이라고 해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My name is Bora.",
+     "answer": "My name is Bora.",
+     "distractors": [
+      "your",
+      "Sam."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "What's your name?",
+     "ko": "너의 이름은 뭐니?"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "Hoa의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Kate",
+       "text": "Hello, I'm Kate. What's your name?"
+      },
+      {
+       "who": "Hoa",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Nice to meet you, too.",
+      "My name is Hoa.",
+      "Bye, Kate."
+     ],
+     "answer": 1,
+     "explain": "Kate가 이름을 물었으니 Hoa는 'My name is Hoa.'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric이 한 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Eric",
+       "text": "?"
+      },
+      {
+       "who": "Sam",
+       "text": "My name is Sam."
+      }
+     ],
+     "choices": [
+      "Hi, I'm Eric. What's your name?",
+      "Hi, I'm Eric. Nice to meet you, too.",
+      "Hi, I'm Eric. I like your bag."
+     ],
+     "answer": 0,
+     "explain": "Sam이 자기 이름을 말했으니 Eric은 이름을 물었어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Eric의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Bora",
+       "text": "My name is Bora. Nice to meet you."
+      },
+      {
+       "who": "Eric",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "What's your name?",
+      "Nice to meet you, too, Bora.",
+      "My name is Bora."
+     ],
+     "answer": 1,
+     "explain": "'Nice to meet you.'에는 'Nice to meet you, too.'로 답해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "내 이름은 Momo야.",
+     "answer": "My name is Momo.",
+     "distractors": [
+      "your",
+      "Amy."
+     ],
+     "explain": "'내 이름은 ~야.'는 My name is ~.예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "만나서 반가워, Eric.",
+     "answer": "Nice to meet you, Eric.",
+     "distractors": [
+      "too.",
+      "name"
+     ],
+     "explain": "Nice to meet you 뒤에 친구 이름을 붙여 말할 수 있어요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Nice to meet you, too, Kate.",
+     "answer": "Nice to meet you, too, Kate.",
+     "distractors": [
+      "Hi,",
+      "name"
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "What's ___ name?",
+     "ko": "너의 이름은 뭐니?",
+     "choices": [
+      "you",
+      "your",
+      "my"
+     ],
+     "answer": 1,
+     "explain": "'너의'는 your예요. What's your name?"
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Nice to meet you, ___.",
+     "ko": "나도 만나서 반가워.",
+     "choices": [
+      "name",
+      "too",
+      "my"
+     ],
+     "answer": 1,
+     "explain": "'~도'는 too예요. Nice to meet you, too."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Hi, I'm Juno. What's your name?",
+     "choices": [
+      "안녕, 너는 Juno니?",
+      "안녕, 나는 Juno야. 만나서 반가워.",
+      "안녕, 나는 Juno야. 너의 이름은 뭐니?"
+     ],
+     "answer": 2,
+     "explain": "I'm Juno는 '나는 Juno야', What's your name?은 '너의 이름은 뭐니?'예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "My name is Amy. Nice to meet you.",
+     "ko": "내 이름은 Amy야. 만나서 반가워."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "이름",
+     "answers": [
+      "name"
+     ],
+     "hint": "n _ m e"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만나다",
+     "answers": [
+      "meet"
+     ],
+     "hint": "m _ _ t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 이름은 Mina야.",
+     "answers": [
+      "My name is Mina.",
+      "I'm Mina.",
+      "I am Mina."
+     ],
+     "hint": "My name is ____."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕, 나는 Juno야. 너의 이름은 뭐니?",
+     "answer": "Hello, I'm Juno. What's your name?",
+     "distractors": [
+      "my",
+      "is"
+     ],
+     "explain": "먼저 I'm Juno.로 자기를 소개하고 What's your name?으로 물어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "와, Momo! 나는 네 가방이 좋아.",
+     "answer": "Wow, Momo! I like your bag.",
+     "distractors": [
+      "name",
+      "my"
+     ],
+     "explain": "bag은 '가방', your bag은 '너의 가방'이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hello, Amy. My name is Momo.",
+     "answer": "Hello, Amy. My name is Momo.",
+     "distractors": [
+      "your",
+      "Kate."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "Danny의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mr. Jones",
+       "text": "What's your name?"
+      },
+      {
+       "who": "Danny",
+       "text": "My name is Danny."
+      },
+      {
+       "who": "Mr. Jones",
+       "text": "Nice to meet you, Danny."
+      },
+      {
+       "who": "Danny",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "My name is Danny.",
+      "Nice to meet you, too, Mr. Jones.",
+      "What's your name?"
+     ],
+     "answer": 1,
+     "explain": "선생님이 'Nice to meet you.'라고 했으니 'Nice to meet you, too.'로 답해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Sam: Hi, I'm Sam. What's your name?\nGirl: My name is Hoa.\nSam: Nice to meet you, Hoa.\nHoa: Nice to meet you, too. I like your bag, Sam.",
+     "question": "여자아이의 이름은 무엇인가요?",
+     "choices": [
+      "Kate",
+      "Sam",
+      "Hoa",
+      "Amy"
+     ],
+     "answer": 2,
+     "explain": "여자아이가 'My name is Hoa.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Momo has a new bag. It's a car bag! Amy says, \"Wow, Momo! I like your bag.\"",
+     "question": "Amy가 좋다고 한 것은 무엇인가요?",
+     "choices": [
+      "Momo의 가방",
+      "Momo의 자동차",
+      "Momo의 이름"
+     ],
+     "answer": 0,
+     "explain": "Amy가 'I like your bag.'이라고 했어요. bag은 '가방'이에요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hi, my name is Eric. Nice to meet you.",
+     "ko": "안녕, 내 이름은 Eric이야. 만나서 반가워."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Fun Talk 2",
+   "kind": "듣고 말하기 2",
+   "icon": "mic",
+   "studyPoint": "이름 묻고 답하기 / 소개에 답하기 / 때에 알맞은 인사말 하기",
+   "objectives": [
+    "이름을 묻고 답하는 말과 소개에 답하는 말을 할 수 있다.",
+    "때에 알맞은 인사말을 듣고 이해하며 말할 수 있다.",
+    "'Good Morning' 노래와 '말판 놀이를 하며 인사하고 소개하기' 놀이를 하며 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 16~17쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "공을 주고받으며 이름 묻고 답하기, 하루 중 때를 나타내는 그림 보며 인사말 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Fun Talk 2",
+     "desc": "국제 도서전에서 Sam이 작가 Jane Green을 만나 아침 인사를 하고 이름을 묻고 답하는 만화 영화 보기",
+     "min": 10
+    },
+    {
+     "phase": "전개",
+     "step": "Talk Like This / My Turn",
+     "desc": "실생활 동영상 보며 표현 익히기, 그림을 보며 짝과 때에 알맞은 인사하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Song",
+     "desc": "'Good Morning' 노래를 모둠별로 역할을 나누어 부르기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Play 2",
+     "desc": "말판 놀이를 하며 칸의 그림에 맞게 인사하고 소개하기 (모둠 활동)",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "상황에 알맞은 대화 짝과 하기, 자기 평가, 다음 차시 안내",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Good morning.",
+    "Good afternoon, everyone!",
+    "Good evening.",
+    "Good night.",
+    "We have a new friend."
+   ],
+   "tip": "아침엔 Good morning, 오후엔 Good afternoon, 저녁엔 Good evening, 잠자기 전엔 Good night이라고 인사해요.",
+   "competencies": [
+    "협",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Play 2 자기·상호·관찰 평가 — 이름을 묻고 답하는 말과 소개에 답하는 말을 할 수 있는가? 때에 알맞은 인사말을 듣고 이해하며 말할 수 있는가? (Check It·My Study 자기 평가)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "때를 나타내는 단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "morning",
+       "아침"
+      ],
+      [
+       "afternoon",
+       "오후"
+      ],
+      [
+       "evening",
+       "저녁"
+      ],
+      [
+       "night",
+       "밤"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "아침에 만났을 때 하는 인사는?",
+     "emoji": "🌅",
+     "choices": [
+      "Good afternoon.",
+      "Good night.",
+      "Good morning.",
+      "Good evening."
+     ],
+     "answer": 2,
+     "explain": "morning은 '아침'이에요. 아침 인사는 Good morning.이에요."
+    },
+    {
+     "type": "mc",
+     "prompt": "밤에 잠자리에 들기 전에 하는 인사는?",
+     "emoji": "🌙",
+     "choices": [
+      "Good afternoon.",
+      "Good morning.",
+      "Good night."
+     ],
+     "answer": 2,
+     "explain": "night는 '밤'이에요. 잠자기 전에는 Good night.이라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 언제 하는 인사인지 고르세요.",
+     "audio": "Good afternoon, Kate.",
+     "choices": [
+      "아침",
+      "밤",
+      "오후"
+     ],
+     "answer": 2,
+     "explain": "afternoon은 '오후'예요. 점심 무렵부터 오후에 하는 인사예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Good evening, everyone.",
+     "choices": [
+      "여러분, 좋은 아침이에요.",
+      "여러분, 안녕하세요.(저녁 인사)",
+      "여러분, 잘 자요."
+     ],
+     "answer": 1,
+     "explain": "evening은 '저녁', everyone은 '여러분'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "아침이에요. Sam의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Green",
+       "text": "Good morning!"
+      },
+      {
+       "who": "Sam",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good morning, Ms. Green!",
+      "Nice to meet you, too.",
+      "Good night, Ms. Green!"
+     ],
+     "answer": 0,
+     "explain": "아침 인사에는 똑같이 Good morning.으로 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "밤에 잠자기 전이에요. 하나의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Dad",
+       "text": "Good night, Hana."
+      },
+      {
+       "who": "Hana",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night, Dad.",
+      "My name is Hana.",
+      "Good afternoon, Dad."
+     ],
+     "answer": 0,
+     "explain": "밤 인사에는 Good night.으로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Good ___.",
+     "ko": "안녕하세요.(저녁 인사)",
+     "choices": [
+      "evening",
+      "morning",
+      "night"
+     ],
+     "answer": 0,
+     "explain": "저녁에 만났을 때는 Good evening.이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'everyone'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "모두, 여러분",
+      "친구",
+      "가방",
+      "선생님"
+     ],
+     "answer": 0,
+     "explain": "everyone은 '모두, 여러분'이라는 뜻이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕하세요(오후 인사), 여러분!",
+     "answer": "Good afternoon, everyone!",
+     "distractors": [
+      "morning,",
+      "name"
+     ],
+     "explain": "오후 인사는 Good afternoon이고, everyone은 '여러분'이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good morning, Mr. Jones.",
+     "answer": "Good morning, Mr. Jones.",
+     "distractors": [
+      "night,",
+      "your"
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good morning, everyone.",
+     "ko": "여러분, 좋은 아침이에요."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "dialog",
+     "prompt": "새로 온 친구 Lily가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ms. Evans",
+       "text": "Good morning, everyone."
+      },
+      {
+       "who": "Kids",
+       "text": "Good morning, Ms. Evans."
+      },
+      {
+       "who": "Ms. Evans",
+       "text": "We have a new friend."
+      },
+      {
+       "who": "Lily",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night, everyone.",
+      "Hello, my name is Lily.",
+      "Nice to meet you, too."
+     ],
+     "answer": 1,
+     "explain": "새로 온 친구는 자기 이름을 소개해요. 'Hello, my name is Lily.'"
+    },
+    {
+     "type": "dialog",
+     "prompt": "오후에 Mike가 Ms. Brown에게 인사해요. Ms. Brown의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mike",
+       "text": "Good afternoon, Ms. Brown."
+      },
+      {
+       "who": "Ms. Brown",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good afternoon, Mike.",
+      "Good night, Mike.",
+      "Good morning, Mike."
+     ],
+     "answer": 0,
+     "explain": "오후 인사에는 Good afternoon.으로 답해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 '우리'를 뜻하는 단어는?",
+     "choices": [
+      "to",
+      "new",
+      "friend",
+      "we"
+     ],
+     "answer": 3,
+     "explain": "we는 '우리'예요. new는 '새로운', friend는 '친구'예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'We have a new friend.'의 뜻으로 알맞은 것은?",
+     "choices": [
+      "우리는 친구를 만나요.",
+      "나는 새 가방이 있어요.",
+      "우리에게 새 친구가 있어요."
+     ],
+     "answer": 2,
+     "explain": "we는 '우리', new는 '새로운', friend는 '친구'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "우리에게 새 친구가 있어요.",
+     "answer": "We have a new friend.",
+     "distractors": [
+      "bag.",
+      "my"
+     ],
+     "explain": "We have a new friend. 새로운 친구를 소개할 때 써요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good evening, Mom.",
+     "answer": "Good evening, Mom.",
+     "distractors": [
+      "morning,",
+      "Dad."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Good ___, Sam.",
+     "ko": "Sam, 좋은 아침이야.",
+     "choices": [
+      "morning",
+      "night",
+      "evening"
+     ],
+     "answer": 0,
+     "explain": "'좋은 아침'은 Good morning이에요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Here you ___.",
+     "ko": "여기 있어요.",
+     "choices": [
+      "is",
+      "are",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "물건을 건넬 때 'Here you are.'라고 해요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 언제 하는 인사인지 고르세요.",
+     "audio": "Good night, Bora.",
+     "choices": [
+      "아침",
+      "밤",
+      "오후"
+     ],
+     "answer": 1,
+     "explain": "night는 '밤'이에요. 잠자리에 들기 전에 하는 인사예요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good afternoon, everyone! My name is Jane Green.",
+     "ko": "여러분, 안녕하세요! 제 이름은 Jane Green이에요."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "아침",
+     "answers": [
+      "morning"
+     ],
+     "hint": "m o r _ _ _ g"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "밤",
+     "answers": [
+      "night"
+     ],
+     "hint": "n _ g h t"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "안녕하세요.(오후 인사)",
+     "answers": [
+      "Good afternoon."
+     ],
+     "hint": "Good a f t _ _ n o o n."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕하세요(아침 인사), Green 선생님. 제 이름은 Sam이에요.",
+     "answer": "Good morning, Ms. Green. My name is Sam.",
+     "distractors": [
+      "night,",
+      "your"
+     ],
+     "explain": "아침 인사 Good morning 뒤에 My name is ~.로 이름을 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good afternoon, Hoa. Nice to meet you.",
+     "answer": "Good afternoon, Hoa. Nice to meet you.",
+     "distractors": [
+      "morning,",
+      "too."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "저녁에 처음 만난 Jiho의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Mina",
+       "text": "Good evening. My name is Mina. What's your name?"
+      },
+      {
+       "who": "Jiho",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good evening. My name is Jiho.",
+      "Good morning. I'm fine.",
+      "Good night, Mina."
+     ],
+     "answer": 0,
+     "explain": "저녁 인사에 Good evening.으로 답하고 이름을 말해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Danny가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Danny",
+       "text": "Hi, I'm Danny. What's your name?"
+      },
+      {
+       "who": "Alice",
+       "text": "My name is Alice."
+      },
+      {
+       "who": "Danny",
+       "text": "?"
+      },
+      {
+       "who": "Alice",
+       "text": "Nice to meet you, too."
+      }
+     ],
+     "choices": [
+      "What's your name?",
+      "Nice to meet you, Alice.",
+      "Good night, Alice."
+     ],
+     "answer": 1,
+     "explain": "Alice가 'Nice to meet you, too.'라고 답했으니 Danny는 'Nice to meet you.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Tom's day\nMorning: \"Good morning, Mom.\"\nAfternoon: \"Good afternoon, Mr. Jones.\"\nEvening: \"Good evening, Grandpa.\"\nNight: \"Good night, Dad.\"",
+     "question": "Tom이 오후에 인사한 사람은 누구인가요?",
+     "choices": [
+      "Grandpa",
+      "Mr. Jones",
+      "Dad",
+      "Mom"
+     ],
+     "answer": 1,
+     "explain": "Afternoon(오후)에 'Good afternoon, Mr. Jones.'라고 했어요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ms. Evans: Good morning, everyone. We have a new friend.\nBoy: Hello, my name is Ben. Nice to meet you.",
+     "question": "새로 온 친구의 이름은 무엇인가요?",
+     "choices": [
+      "Ms. Evans",
+      "Ben",
+      "Lily"
+     ],
+     "answer": 1,
+     "explain": "새 친구가 'My name is Ben.'이라고 했어요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good evening, everyone. Nice to meet you.",
+     "ko": "여러분, 안녕하세요(저녁 인사). 만나서 반가워요."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Read and Talk",
+   "kind": "파닉스·읽기",
+   "icon": "read",
+   "studyPoint": "때에 알맞게 인사하는 문장 읽고 쓰기 / 't'로 끝나는 단어 소리 내어 읽고 쓰기",
+   "objectives": [
+    "때에 알맞게 인사하는 문장을 소리 내어 읽고 이해하며 보고 쓸 수 있다.",
+    "소리 /t/와 철자 't'의 관계를 이해하며 't'로 끝나는 단어를 소리 내어 읽고 쓸 수 있다.",
+    "'우리 모둠만의 인사법을 만들어 인사하기'의 협력 과업으로 때에 알맞게 인사하는 문장을 읽고 쓰며, 배운 표현을 말할 수 있다."
+   ],
+   "pages": "교과서 18~19쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review / Motivation",
+     "desc": "그림 카드에 맞게 인사하기, 어린 왕자가 장미에게 인사하는 그림 보며 인사 문장 소개",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read and Talk",
+     "desc": "그림을 보며 말풍선의 인사 문장 읽고, 빈칸에 알맞은 문장 골라 대화하기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Read, Match and Say",
+     "desc": "인사말에 알맞은 그림을 찾아 연결하고 짝과 인사하기",
+     "min": 2
+    },
+    {
+     "phase": "전개",
+     "step": "Listen and Write",
+     "desc": "듣고 단어 퍼즐 완성하기, 스스로 다지기(단어·문장 쓰기, 하고 싶은 인사말 쓰기)",
+     "min": 3
+    },
+    {
+     "phase": "전개",
+     "step": "Phonics",
+     "desc": "'t'로 끝나는 단어(meet, hat, sit) 소리 내어 읽고 끝소리 /t/ 확인하기, 빈칸에 철자 쓰기",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Work Together",
+     "desc": "우리 모둠만의 인사법을 만들어 그림과 인사말로 표현하고 인사하기 (모둠 활동)",
+     "min": 15
+    },
+    {
+     "phase": "정리",
+     "step": "Check It / My Study",
+     "desc": "인사 문장 읽고 쓰며 복습, 자기 평가",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "Good morning.",
+    "Good afternoon.",
+    "Good evening.",
+    "Good night."
+   ],
+   "tip": "영어 문장의 첫 글자는 대문자로 써요. hat, meet, sit처럼 't'로 끝나는 단어는 끝소리가 /t/예요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Work Together 자기·상호·관찰 평가 — 때에 알맞게 인사하는 문장을 읽고 쓸 수 있는가? 't'로 끝나는 단어를 소리 내어 읽고 쓸 수 있는가? 모둠원과 협력하는가? (읽기·쓰기 워크시트)",
+   "exercises": [
+    {
+     "type": "match",
+     "prompt": "인사말과 알맞은 그림을 짝지어 보세요.",
+     "pairs": [
+      [
+       "Good morning.",
+       "🌅"
+      ],
+      [
+       "Good afternoon.",
+       "☀️"
+      ],
+      [
+       "Good evening.",
+       "🌆"
+      ],
+      [
+       "Good night.",
+       "🌙"
+      ]
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 /t/인 단어는?",
+     "emoji": "🎩",
+     "choices": [
+      "hand",
+      "name",
+      "bag",
+      "hat"
+     ],
+     "answer": 3,
+     "explain": "hat은 't'로 끝나서 끝소리가 /t/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 들은 단어를 고르세요.",
+     "audio": "sit",
+     "choices": [
+      "sit",
+      "six",
+      "sun"
+     ],
+     "answer": 0,
+     "explain": "sit은 '앉다'라는 뜻이고 끝소리가 /t/예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "meet",
+     "choices": [
+      "t",
+      "d",
+      "k"
+     ],
+     "answer": 0,
+     "explain": "meet은 끝소리 /t/, 마지막 글자는 t예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'hat'의 뜻으로 알맞은 것은?",
+     "emoji": "🎩",
+     "choices": [
+      "모자",
+      "고양이",
+      "가방"
+     ],
+     "answer": 0,
+     "explain": "hat은 '모자'예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Good ___.",
+     "ko": "안녕히 주무세요.(밤 인사)",
+     "choices": [
+      "morning",
+      "afternoon",
+      "night"
+     ],
+     "answer": 2,
+     "explain": "밤에 잠자기 전에는 Good night.이라고 해요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'Good evening.'은 언제 하는 인사일까요?",
+     "choices": [
+      "아침",
+      "밤에 잠자기 전",
+      "저녁"
+     ],
+     "answer": 2,
+     "explain": "evening은 '저녁'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "해가 뜨는 아침이에요. 여자아이의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Boy",
+       "text": "Good morning."
+      },
+      {
+       "who": "Girl",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good evening.",
+      "Good night.",
+      "Good morning."
+     ],
+     "answer": 2,
+     "explain": "아침 인사에는 Good morning.으로 답해요."
+    },
+    {
+     "type": "match",
+     "prompt": "단어와 뜻을 짝지어 보세요.",
+     "pairs": [
+      [
+       "meet",
+       "만나다"
+      ],
+      [
+       "hat",
+       "모자"
+      ],
+      [
+       "sit",
+       "앉다"
+      ]
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕하세요.(오후 인사)",
+     "answer": "Good afternoon.",
+     "distractors": [
+      "night.",
+      "evening."
+     ],
+     "explain": "오후 인사는 Good afternoon.이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good evening.",
+     "answer": "Good evening.",
+     "distractors": [
+      "morning.",
+      "night."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "meet, hat, sit",
+     "ko": "만나다, 모자, 앉다 (끝소리 /t/)"
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "mc",
+     "prompt": "다음 중 끝소리가 다른 하나는?",
+     "choices": [
+      "hand",
+      "meet",
+      "sit",
+      "hat"
+     ],
+     "answer": 0,
+     "explain": "hat, meet, sit은 끝소리가 /t/이고, hand는 /d/로 끝나요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 단어의 마지막 글자를 고르세요.",
+     "audio": "carrot",
+     "choices": [
+      "n",
+      "t",
+      "p"
+     ],
+     "answer": 1,
+     "explain": "carrot(당근)은 't'로 끝나요. 끝소리는 /t/예요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "ha___",
+     "ko": "모자",
+     "choices": [
+      "p",
+      "t",
+      "d"
+     ],
+     "answer": 1,
+     "explain": "모자는 hat이에요. 끝소리 /t/는 t로 써요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 글자를 고르세요.",
+     "sentence": "mee___",
+     "ko": "만나다",
+     "choices": [
+      "k",
+      "t",
+      "d"
+     ],
+     "answer": 1,
+     "explain": "만나다는 meet이에요. 끝소리 /t/는 t로 써요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "밤에 자러 가기 전이에요. 엄마의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Jiho",
+       "text": "Good night, Mom."
+      },
+      {
+       "who": "Mom",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night, Jiho.",
+      "Nice to meet you, Jiho.",
+      "Good afternoon, Jiho."
+     ],
+     "answer": 0,
+     "explain": "밤 인사 Good night.에는 Good night.으로 답해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's afternoon. Kate sees Mr. Jones at the park.",
+     "question": "Kate가 할 인사로 알맞은 것은?",
+     "choices": [
+      "Good morning, Mr. Jones.",
+      "Good night, Mr. Jones.",
+      "Good afternoon, Mr. Jones."
+     ],
+     "answer": 2,
+     "explain": "오후(afternoon)에는 Good afternoon.이라고 인사해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕하세요(저녁 인사), Kim 선생님.",
+     "answer": "Good evening, Mr. Kim.",
+     "distractors": [
+      "night,",
+      "Ms."
+     ],
+     "explain": "저녁 인사는 Good evening이에요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good night, Sam.",
+     "answer": "Good night, Sam.",
+     "distractors": [
+      "morning,",
+      "Hoa."
+     ]
+    },
+    {
+     "type": "mc",
+     "prompt": "영어 문장의 첫 글자를 바르게 쓴 것은?",
+     "choices": [
+      "gOOD morning.",
+      "Good morning.",
+      "good morning."
+     ],
+     "answer": 1,
+     "explain": "영어 문장의 첫 글자는 대문자로 써요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good afternoon. Good evening.",
+     "ko": "안녕하세요.(오후 인사) 안녕하세요.(저녁 인사)"
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "저녁",
+     "answers": [
+      "evening"
+     ],
+     "hint": "e v _ n _ n g"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "오후",
+     "answers": [
+      "afternoon"
+     ],
+     "hint": "a f t e r _ _ _ n"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "모자 (끝소리 /t/)",
+     "answers": [
+      "hat"
+     ],
+     "hint": "h a _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "고양이 (끝소리 /t/)",
+     "answers": [
+      "cat"
+     ],
+     "hint": "c a _"
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "안녕히 주무세요.(밤 인사)",
+     "answers": [
+      "Good night."
+     ],
+     "hint": "Good n _ _ _ t."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Look at the clock. It's 7 in the morning. Bora sees her friend Eric.",
+     "question": "Bora가 Eric에게 할 인사로 알맞은 것은?",
+     "choices": [
+      "Good evening, Eric.",
+      "Good night, Eric.",
+      "Good morning, Eric."
+     ],
+     "answer": 2,
+     "explain": "in the morning은 '아침에'예요. 아침 인사를 해요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "I'm Hoa. I have a red hat. Look! I sit here. Nice to meet you!",
+     "question": "Hoa에게 있는 것은 무엇인가요?",
+     "choices": [
+      "빨간 가방",
+      "고양이",
+      "빨간 모자"
+     ],
+     "answer": 2,
+     "explain": "'I have a red hat.'이라고 했어요. hat은 '모자'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Good night, Mom. Good night, Dad.",
+     "answer": "Good night, Mom. Good night, Dad.",
+     "distractors": [
+      "morning,",
+      "Sam."
+     ]
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕하세요(오후 인사), 여러분. 제 이름은 Kate예요.",
+     "answer": "Good afternoon, everyone. My name is Kate.",
+     "distractors": [
+      "morning,",
+      "your"
+     ],
+     "explain": "Good afternoon, everyone.으로 인사하고 My name is Kate.로 소개해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good morning. Good afternoon. Good evening. Good night.",
+     "ko": "아침, 오후, 저녁, 밤 인사"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Story Time",
+   "kind": "이야기·마무리",
+   "icon": "book",
+   "studyPoint": "역할극을 하며 배운 표현 활용하기",
+   "objectives": [
+    "'Story Time'에서 '해리 포터' 역할극을 하며 배운 표현을 활용할 수 있다.",
+    "'My Work'로 단원에서 배운 내용을 확인하고 정리할 수 있다."
+   ],
+   "pages": "교과서 20~21쪽",
+   "flow": [
+    {
+     "phase": "도입",
+     "step": "Review",
+     "desc": "인사 문장을 읽고 쓰며 복습, 학습 목표 확인",
+     "min": 5
+    },
+    {
+     "phase": "전개",
+     "step": "Story Time",
+     "desc": "'해리 포터' 이야기 추측하기, 만화 영화 보며 이해하기, HOW ABOUT YOU?, 모둠별 역할극 하기",
+     "min": 20
+    },
+    {
+     "phase": "전개",
+     "step": "My Work",
+     "desc": "듣고 번호 쓰기, 이름 묻고 답하기·때에 알맞은 인사하기 등 단원 정리 문제 풀기",
+     "min": 10
+    },
+    {
+     "phase": "정리",
+     "step": "My Study",
+     "desc": "단원 성취도 점검, 느낀 점과 복습 계획 쓰기",
+     "min": 5
+    }
+   ],
+   "keyExpressions": [
+    "What's your name?",
+    "Nice to meet you, too.",
+    "Oops, I'm sorry.",
+    "That's okay."
+   ],
+   "tip": "친구가 'I'm sorry.'라고 사과하면 'That's okay.(괜찮아.)'라고 답해 줘요.",
+   "competencies": [
+    "협",
+    "지",
+    "창",
+    "자",
+    "공",
+    "심"
+   ],
+   "assessment": "Story Time 자기·상호·관찰 평가 — 배운 표현을 활용하여 역할극을 잘할 수 있는가? My Work 자기 평가 — 단원 학습 내용을 문제를 풀며 정리할 수 있는가? (단원평가)",
+   "exercises": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Harry meets Ron at the station. Ron says, \"I'm Ron. What's your name?\" Harry says, \"My name is Harry.\"",
+     "question": "Ron이 Harry에게 물어본 것은 무엇인가요?",
+     "choices": [
+      "Harry의 친구",
+      "Harry의 이름",
+      "Harry의 가방"
+     ],
+     "answer": 1,
+     "explain": "'What's your name?'은 이름을 묻는 말이에요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Harry: Oops, I'm sorry.\nHermione: That's okay.",
+     "question": "Harry가 한 말의 뜻은 무엇인가요?",
+     "choices": [
+      "잘 자.",
+      "앗, 미안해.",
+      "만나서 반가워."
+     ],
+     "answer": 1,
+     "explain": "I'm sorry.는 '미안해.'라는 뜻이에요."
+    },
+    {
+     "type": "match",
+     "prompt": "짝을 맞추세요.",
+     "pairs": [
+      [
+       "Good morning.",
+       "좋은 아침이야."
+      ],
+      [
+       "Nice to meet you.",
+       "만나서 반가워."
+      ],
+      [
+       "I'm sorry.",
+       "미안해."
+      ],
+      [
+       "That's okay.",
+       "괜찮아."
+      ]
+     ]
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Come here.",
+     "choices": [
+      "여기 앉아.",
+      "잘 가.",
+      "이리 와."
+     ],
+     "answer": 2,
+     "explain": "Come here.는 '이리 와.'라는 뜻이에요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 알맞은 뜻을 고르세요.",
+     "audio": "Wow, great!",
+     "choices": [
+      "와, 멋지다!",
+      "안녕, 잘 자.",
+      "앗, 미안해."
+     ],
+     "answer": 0,
+     "explain": "great는 '멋진, 훌륭한'이에요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Harry가 부딪혀서 사과해요. 알맞은 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Harry",
+       "text": "Oops, I'm sorry."
+      },
+      {
+       "who": "Hermione",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Good night.",
+      "My name is Harry.",
+      "That's okay."
+     ],
+     "answer": 2,
+     "explain": "사과하는 말에는 'That's okay.(괜찮아.)'라고 답해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Harry의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Ron",
+       "text": "Nice to meet you, Harry."
+      },
+      {
+       "who": "Harry",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Nice to meet you, too.",
+      "Come here.",
+      "I'm sorry."
+     ],
+     "answer": 0,
+     "explain": "'Nice to meet you.'에는 'Nice to meet you, too.'로 답해요."
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "Oops, I'm ___.",
+     "ko": "앗, 미안해.",
+     "choices": [
+      "sorry",
+      "okay",
+      "great"
+     ],
+     "answer": 0,
+     "explain": "'미안해'는 I'm sorry.예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "'That's okay.'는 언제 하는 말일까요?",
+     "choices": [
+      "처음 만나 이름을 물을 때",
+      "밤에 잠자리에 들 때",
+      "친구가 사과할 때 괜찮다고 할 때"
+     ],
+     "answer": 2,
+     "explain": "That's okay.는 '괜찮아.'라는 뜻이에요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "Harry, 이리 와.",
+     "answer": "Harry, come here.",
+     "distractors": [
+      "sit",
+      "go"
+     ],
+     "explain": "'이리 와'는 come here예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "One, two, three.",
+     "answer": "One, two, three.",
+     "distractors": [
+      "four,",
+      "six."
+     ]
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Hi, I'm Ron. Nice to meet you.",
+     "ko": "안녕, 나는 Ron이야. 만나서 반가워."
+    }
+   ],
+   "exercises2": [
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "It's morning. Ron and Hermione say, \"Good morning.\" Harry says, \"Good morning,\" too.",
+     "question": "아이들이 만난 때는 언제인가요?",
+     "choices": [
+      "오후",
+      "아침",
+      "밤"
+     ],
+     "answer": 1,
+     "explain": "It's morning.이라고 했고 Good morning.으로 인사했어요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Ron이 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Ron",
+       "text": "I'm Ron. What's your name?"
+      },
+      {
+       "who": "Harry",
+       "text": "My name is Harry."
+      },
+      {
+       "who": "Ron",
+       "text": "?"
+      },
+      {
+       "who": "Harry",
+       "text": "Nice to meet you, too."
+      }
+     ],
+     "choices": [
+      "Oops, I'm sorry.",
+      "What's your name?",
+      "Nice to meet you, Harry."
+     ],
+     "answer": 2,
+     "explain": "Harry가 'Nice to meet you, too.'라고 답했으니 Ron은 'Nice to meet you.'라고 했어요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "앗, 미안해.",
+     "answer": "Oops, I'm sorry.",
+     "distractors": [
+      "okay.",
+      "Wow,"
+     ],
+     "explain": "Oops는 '앗', I'm sorry는 '미안해'예요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "괜찮아. 봐!",
+     "answer": "That's okay. Look!",
+     "distractors": [
+      "sorry.",
+      "Come"
+     ],
+     "explain": "That's okay.는 '괜찮아.', Look!은 '봐!'예요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "Hello, I'm Ron. What's your name?",
+     "answer": "Hello, I'm Ron. What's your name?",
+     "distractors": [
+      "my",
+      "Harry."
+     ]
+    },
+    {
+     "type": "fill",
+     "prompt": "빈칸에 알맞은 말을 고르세요.",
+     "sentence": "That's ___.",
+     "ko": "괜찮아.",
+     "choices": [
+      "okay",
+      "name",
+      "sorry"
+     ],
+     "answer": 0,
+     "explain": "'괜찮아'는 That's okay.예요."
+    },
+    {
+     "type": "listen_mc",
+     "prompt": "잘 듣고 언제 하는 인사인지 고르세요.",
+     "audio": "Good night, everyone.",
+     "choices": [
+      "오후",
+      "아침",
+      "밤"
+     ],
+     "answer": 2,
+     "explain": "Good night은 밤에 잠자기 전에 하는 인사예요."
+    },
+    {
+     "type": "mc",
+     "prompt": "Hermione가 마법으로 책을 깔끔하게 정리했어요. Harry가 할 말로 알맞은 것은?",
+     "emoji": "✨",
+     "choices": [
+      "Wow, great!",
+      "Good night.",
+      "Oops, I'm sorry."
+     ],
+     "answer": 0,
+     "explain": "놀랍고 멋질 때는 'Wow, great!'라고 해요."
+    },
+    {
+     "type": "dialog",
+     "prompt": "Harry의 대답을 고르세요.",
+     "lines": [
+      {
+       "who": "Hermione",
+       "text": "My name is Hermione. Nice to meet you."
+      },
+      {
+       "who": "Harry",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "Nice to meet you, too. I'm Harry.",
+      "Oops, I'm sorry.",
+      "Come here."
+     ],
+     "answer": 0,
+     "explain": "'Nice to meet you.'에 'Nice to meet you, too.'로 답하고 자기 이름을 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Oops, I'm sorry. That's okay.",
+     "ko": "앗, 미안해. 괜찮아."
+    }
+   ],
+   "exercises3": [
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "좋은 아침이에요.",
+     "answers": [
+      "Good morning."
+     ],
+     "hint": "Good m _ _ _ _ _ g."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "내 이름은 Harry야.",
+     "answers": [
+      "My name is Harry.",
+      "I'm Harry.",
+      "I am Harry."
+     ],
+     "hint": "My ____ is Harry."
+    },
+    {
+     "type": "type",
+     "prompt": "영어로 써 보세요.",
+     "ko": "만나서 반가워.",
+     "answers": [
+      "Nice to meet you."
+     ],
+     "hint": "Nice to m _ _ t you."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Cindy: Good night, Dad.\nDad: Good night, Cindy.",
+     "question": "언제 나눈 대화인가요?",
+     "choices": [
+      "아침",
+      "밤",
+      "오후"
+     ],
+     "answer": 1,
+     "explain": "Good night은 밤 인사예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "Ms. Jones: Good afternoon. What's your name?\nBoy: My name is Mike.\nMs. Jones: Nice to meet you, Mike.",
+     "question": "남자아이의 이름과 만난 때를 바르게 고른 것은?",
+     "choices": [
+      "Mike – 아침",
+      "Jones – 밤",
+      "Mike – 오후",
+      "Jones – 오후"
+     ],
+     "answer": 2,
+     "explain": "남자아이는 'My name is Mike.'라고 했고, Good afternoon은 오후 인사예요."
+    },
+    {
+     "type": "read",
+     "prompt": "글을 읽고 답하세요.",
+     "passage": "🌙⭐ It's night. Momo is in bed.",
+     "question": "Momo에게 할 인사로 알맞은 것은?",
+     "choices": [
+      "Good night, Momo.",
+      "Good morning, Momo.",
+      "Good afternoon, Momo."
+     ],
+     "answer": 0,
+     "explain": "밤에 잠자리에 든 친구에게는 Good night.이라고 해요."
+    },
+    {
+     "type": "build",
+     "prompt": "영어 문장을 만들어 보세요.",
+     "ko": "안녕(아침 인사). 나는 Ron이야. 너의 이름은 뭐니?",
+     "answer": "Good morning. I'm Ron. What's your name?",
+     "distractors": [
+      "night.",
+      "my"
+     ],
+     "explain": "아침 인사, 자기소개, 이름 묻기 순서로 말해요."
+    },
+    {
+     "type": "listen_build",
+     "prompt": "잘 듣고 들은 문장을 만들어 보세요.",
+     "audio": "My name is Andy. Nice to meet you.",
+     "answer": "My name is Andy. Nice to meet you.",
+     "distractors": [
+      "your",
+      "too."
+     ]
+    },
+    {
+     "type": "dialog",
+     "prompt": "새로 온 친구 Andy가 할 말을 고르세요.",
+     "lines": [
+      {
+       "who": "Mr. Jones",
+       "text": "Good morning, everyone. We have a new friend."
+      },
+      {
+       "who": "Andy",
+       "text": "?"
+      }
+     ],
+     "choices": [
+      "That's okay.",
+      "Hello. My name is Andy.",
+      "Good night, everyone."
+     ],
+     "answer": 1,
+     "explain": "새로 온 친구는 인사하고 자기 이름을 말해요."
+    },
+    {
+     "type": "speak",
+     "prompt": "소리 내어 말해 보세요.",
+     "text": "Good afternoon, Ms. Jones. My name is Mike.",
+     "ko": "Jones 선생님, 안녕하세요(오후 인사). 제 이름은 Mike예요."
+    }
+   ]
+  }
+ ],
+ "dialogs": [
+  {
+   "name": "Fun Talk 1",
+   "period": 1,
+   "situation": "등교 첫날, 준오가 처음 만난 Amy와 이름을 묻고 답해요.",
+   "lines": [
+    {
+     "who": "준오",
+     "text": "Hello, I'm Juno. What's your name?"
+    },
+    {
+     "who": "Amy",
+     "text": "Hi, Juno. My name is Amy."
+    },
+    {
+     "who": "준오",
+     "text": "Nice to meet you, Amy."
+    },
+    {
+     "who": "Amy",
+     "text": "Nice to meet you, too."
+    }
+   ]
+  },
+  {
+   "name": "Fun Talk 2",
+   "period": 2,
+   "situation": "국제 도서전에서 Sam이 작가 Jane Green에게 사인을 받으며 인사해요.",
+   "lines": [
+    {
+     "who": "Jane Green",
+     "text": "Good morning!"
+    },
+    {
+     "who": "Sam",
+     "text": "Good morning, Ms. Green!"
+    },
+    {
+     "who": "Jane Green",
+     "text": "What's your name?"
+    },
+    {
+     "who": "Sam",
+     "text": "My name is Sam."
+    }
+   ]
+  },
+  {
+   "name": "Talk Like This",
+   "period": 2,
+   "situation": "교실에서 Ms. Evans가 새로 온 친구 Lily를 소개해요.",
+   "lines": [
+    {
+     "who": "Ms. Evans",
+     "text": "Good morning, everyone."
+    },
+    {
+     "who": "Ms. Evans",
+     "text": "We have a new friend."
+    },
+    {
+     "who": "Lily",
+     "text": "Hello, my name is Lily."
+    }
+   ]
+  },
+  {
+   "name": "Story Time",
+   "period": 4,
+   "situation": "기차역에서 해리와 론이 처음 만나 인사해요.",
+   "lines": [
+    {
+     "who": "론",
+     "text": "I'm Ron. What's your name?"
+    },
+    {
+     "who": "해리",
+     "text": "My name is Harry."
+    },
+    {
+     "who": "론",
+     "text": "Nice to meet you, Harry."
+    }
+   ]
+  }
+ ],
+ "reading": {
+  "title": "Story Time: 해리 포터",
+  "passage": "Harry goes to the train station. He meets Ron and Hermione. They say, \"Good morning.\" Ron asks Harry's name, and they say, \"Nice to meet you.\" Then Harry bumps into Hermione, and her books fall. \"Oops, I'm sorry,\" says Harry. \"That's okay,\" says Hermione. She uses magic, and the books go back into her bag. \"Wow, great!\"",
+  "summaryKo": "기차역에서 만난 해리, 론, 헤르미온느가 아침 인사를 하고 이름을 묻고 답하며, 해리가 부딪친 헤르미온느에게 사과해요."
+ },
+ "writing": {
+  "frame": [
+   "Good ____.",
+   "My name is ____."
+  ],
+  "model": "Good morning. My name is Jiho. Nice to meet you."
+ },
+ "project": "Work Together: 네 명씩 모둠을 만들어 때에 알맞은 인사말 네 문장을 쓰고 모둠만의 인사 동작을 그림으로 표현한 뒤, 그 인사법으로 인사하고 이름을 소개하며 학급 대표 인사법을 투표로 정한다."
+}
